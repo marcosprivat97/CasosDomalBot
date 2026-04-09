@@ -13,6 +13,13 @@ const rawGeminiKey = (process.env.GEMINI_API_KEY || "").trim();
 const genAI = rawGeminiKey ? new GoogleGenerativeAI(rawGeminiKey) : null;
 const siliconKey = (process.env.SILICONFLOW_API_KEY || "").trim();
 
+if (!siliconKey) {
+    logger.error("🛑 [ALERTA] SILICONFLOW_API_KEY não encontrada no ambiente!");
+} else {
+    logger.info("✅ [INFO] SILICONFLOW_API_KEY carregada com sucesso.");
+}
+
+
 
 /**
  * Helper para chamadas Groq com Retry e Backoff Exponencial
@@ -156,7 +163,11 @@ async function geminiRequest(options) {
  * Cota gratuita generosa e alta performance.
  */
 async function siliconFlowRequest(options) {
-    if (!siliconKey) return null;
+    if (!siliconKey) {
+        logger.error("❌ SiliconFlow ignorado: Variável SILICONFLOW_API_KEY está vazia.");
+        return null;
+    }
+
 
     try {
         logger.warn(`🚀 [PLANO ÔMEGA+](SILICON) Acionando DeepSeek-V3 via SiliconFlow...`);
