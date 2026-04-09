@@ -3,15 +3,12 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 const { Groq } = require("groq-sdk");
-const { HfInference } = require('@huggingface/inference');
-const { GoogleGenerativeAI } = require("@google/generative-ai");
+
 const logger = require("../logger");
 
 const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
-const hf = new HfInference(process.env.HF_TOKEN);
-const rawGeminiKey = (process.env.GEMINI_API_KEY || "").trim();
-const genAI = rawGeminiKey ? new GoogleGenerativeAI(rawGeminiKey) : null;
 const siliconKey = (process.env.SILICONFLOW_API_KEY || "").trim();
+
 
 if (!siliconKey) {
     logger.error("🛑 [ALERTA] SILICONFLOW_API_KEY não encontrada no ambiente!");
@@ -120,43 +117,7 @@ async function novaApiRequest(options, retries = 3) {
     return null;
 }
 
-/**
- * Plano Gamma: Gemini (Cérebro Google)
- */
-async function geminiRequest(options) {
-    if (!genAI) return null;
-    
-    try {
-        logger.warn(`🚀 [PLANO GAMMA] Acionando Cérebro Gemini 2.0...`);
-        
-        const modelName = "gemini-2.0-flash"; 
-        const model = genAI.getGenerativeModel({ model: modelName });
 
-        const systemPrompt = options.messages.find(m => m.role === 'system')?.content || "";
-        const userPrompt = options.messages.filter(m => m.role !== 'system').map(m => m.content).join("\n");
-        const finalPrompt = systemPrompt ? `INSTRUÇÕES DO SISTEMA: ${systemPrompt}\n\nREQUISIÇÃO: ${userPrompt}` : userPrompt;
-
-        const result = await model.generateContent(finalPrompt);
-        const text = result.response.text();
-
-        if (!text) throw new Error("Resposta do Gemini 2.0 vazia.");
-
-        return { choices: [{ message: { content: text } }] };
-    } catch (e) {
-        logger.error(`❌ Falha no Cérebro Gemini 2.0: ${e.message}`);
-        
-        try {
-            logger.warn(`🔄 Tentando Fallback para Gemini 2.0 Flash-Lite...`);
-            const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-lite" });
-            const result = await model.generateContent(options.messages.map(m => m.content).join("\n"));
-            const text = result.response.text();
-            return { choices: [{ message: { content: text } }] };
-        } catch (e2) {
-            logger.error(`❌ Falha Total no Gemini Nova Geração: ${e2.message}`);
-            return null;
-        }
-    }
-}
 
 /**
  * Super Backup: SiliconFlow (DeepSeek-V3 / Llama 3.3)
@@ -247,36 +208,15 @@ async function groqRequest(options, retries = 5, delay = 3000) {
                 i--; continue;
             }
 
-            // Exauriu Groq -> Tenta Gemini (NOVO CÉREBRO RESERVA)
+            // Exauriu Groq -> Tenta SiliconFlow (NOVO CÉREBRO PRINCIPAL DE BACKUP)
             if (isRateLimit && currentSharedIndex === models.length - 1) {
-                const geminiResponse = await geminiRequest(options);
-                if (geminiResponse) return geminiResponse;
-
-                const novaResponse = await novaApiRequest(options);
-                if (novaResponse) return novaResponse;
-
                 const siliconResponse = await siliconFlowRequest(options);
                 if (siliconResponse) return siliconResponse;
 
-                
-                // Exauriu SambaNova -> Tenta Hugging Face (Plano Z)
-                if (process.env.HF_TOKEN) {
-                    logger.warn(`🚨 [PLANO Z] Groq e Ciclone esgotados. Acionando Hugging Face (SDK Chat)...`);
-                    try {
-                        const response = await hf.chatCompletion({
-                            model: 'Qwen/Qwen2.5-72B-Instruct', 
-                            messages: options.messages,
-                            max_tokens: 1200,
-                            temperature: 0.7
-                        });
-                        
-                        const content = response.choices[0].message.content;
-                        if (content) return { choices: [{ message: { content: content.trim() } }] };
-                    } catch (hfError) {
-                        logger.error(`❌ Falha no Plano Z (Hugging Face SDK): ${hfError.message}`);
-                    }
-                }
+                const novaResponse = await novaApiRequest(options);
+                if (novaResponse) return novaResponse;
             }
+
             
             if (isRateLimit && i < retries - 1) {
                 const waitTime = delay * Math.pow(2, i);
@@ -495,9 +435,9 @@ module.exports = {
     safeFetch, 
     parseGroqResponse, 
     novaApiRequest,
-    geminiRequest,
     siliconFlowRequest,
     searchImages,
     generateImageViaAI
 };
+
 
