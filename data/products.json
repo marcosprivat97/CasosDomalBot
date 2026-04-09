@@ -1,0 +1,26 @@
+[
+  {
+    "niche": "Mistério",
+    "name": "Lanterna Tática Ultra-Potente (Investigação)",
+    "link": "SEU_LINK_AQUI",
+    "cta": "Quer investigar seus próprios mistérios? Essa lanterna é a mesma usada por profissionais. Confira:"
+  },
+  {
+    "niche": "Mistério",
+    "name": "Livro: Arquivos Secretos do FBI",
+    "link": "SEU_LINK_AQUI",
+    "cta": "Gostou desse caso? Tem muito mais aqui nesse arquivo desclassificado:"
+  },
+  {
+    "niche": "Tecnologia",
+    "name": "Gadget Curioso 2026",
+    "link": "SEU_LINK_AQUI",
+    "cta": "O futuro chegou e custa menos do que você imagina. Olha isso:"
+  },
+  {
+    "niche": "História",
+    "name": "Réplica de Moeda Antiga",
+    "link": "SEU_LINK_AQUI",
+    "cta": "Um pedaço da história na sua mão. Garanta a sua réplica:"
+  }
+]

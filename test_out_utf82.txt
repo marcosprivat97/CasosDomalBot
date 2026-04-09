@@ -1,0 +1,191 @@
+﻿Ôùç injecting env (4) from .env // tip: Ôîÿ override existing { override: true }
+[05/04/2026 13:06:51] [32minfo[39m: ­ƒº¬ [TESTE V9.0] INICIANDO VALIDA├ç├âO DA PIPELINE COMPLETA
+[05/04/2026 13:06:51] [32minfo[39m: ­ƒô░ Buscando temas reais de futebol...
+[05/04/2026 13:06:51] [32minfo[39m: ­ƒô░ [Football Scraper] Iniciando varredura estrat├®gica de not├¡cias...
+[05/04/2026 13:06:51] [32minfo[39m: ­ƒôí Acessando feed: GE - Geral...
+[05/04/2026 13:06:51] [32minfo[39m: ­ƒôí Acessando feed: GE - Futebol...
+[05/04/2026 13:06:51] [32minfo[39m: ­ƒôí Acessando feed: GE - Mercado...
+[05/04/2026 13:06:51] [32minfo[39m: ­ƒôí Acessando feed: ESPN Brasil...
+[05/04/2026 13:06:52] [32minfo[39m: ­ƒôí Acessando feed: UOL Esporte...
+[05/04/2026 13:06:52] [32minfo[39m: ­ƒôí Acessando feed: CNN Esportes...
+[05/04/2026 13:06:52] [33mwarn[39m: ÔÜá´©Å Falha ao ler CNN Esportes: Request failed with status code 404
+[05/04/2026 13:06:52] [32minfo[39m: ­ƒôí Acessando feed: Gazeta Esportiva...
+[05/04/2026 13:06:52] [32minfo[39m: Ô£à Varredura finalizada. 98 not├¡cias de futebol filtradas.
+[05/04/2026 13:06:52] [32minfo[39m: ­ƒöì Tema Escolhido: "Vasco sofre gols em todos os jogos no Campeonato Brasileiro"
+[05/04/2026 13:06:52] [32minfo[39m: ­ƒÜÇ [FASE 1: INTELIG├èNCIA] Iniciando ciclo para: Vasco sofre gols em todos os jogos no Campeonato Brasileiro
+[05/04/2026 13:06:53] [32minfo[39m: [FASE 2: PRODU├ç├âO] Tentativa 1...
+[05/04/2026 13:06:55] [33mwarn[39m: ÔÅ│ Groq Rate Limit (Tentativa 1/5). Aguardando 3s...
+[05/04/2026 13:06:58] [33mwarn[39m: ÔÅ│ Groq Rate Limit (Tentativa 2/5). Aguardando 6s...
+[05/04/2026 13:07:04] [33mwarn[39m: ÔÅ│ Groq Rate Limit (Tentativa 3/5). Aguardando 12s...
+[05/04/2026 13:07:16] [33mwarn[39m: ÔÅ│ Groq Rate Limit (Tentativa 4/5). Aguardando 24s...
+[05/04/2026 13:07:40] [31merror[39m: ÔØî Erro Fatal no Groq: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kn9pckwnez8r90yb4pnn7rjt` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99805, Requested 1069. Please try again in 12m35.136s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[05/04/2026 13:07:40] [31merror[39m: ÔØî Erro Cr├¡tico na Fase de Produ├º├úo (Tentativa 1): Error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kn9pckwnez8r90yb4pnn7rjt` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99805, Requested 1069. Please try again in 12m35.136s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+    at APIError.generate (C:\Users\seven beatx\Desktop\FACEBOOK PAGINA BOOT\node_modules\groq-sdk\core\error.js:58:20)
+    at Groq.makeStatusError (C:\Users\seven beatx\Desktop\FACEBOOK PAGINA BOOT\node_modules\groq-sdk\client.js:127:32)
+    at Groq.makeRequest (C:\Users\seven beatx\Desktop\FACEBOOK PAGINA BOOT\node_modules\groq-sdk\client.js:269:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async groqRequest (C:\Users\seven beatx\Desktop\FACEBOOK PAGINA BOOT\src\agents\utils.js:15:30)
+    at async runWriter (C:\Users\seven beatx\Desktop\FACEBOOK PAGINA BOOT\src\agents\writer.js:12:20)
+    at async Orchestrator.produceContent (C:\Users\seven beatx\Desktop\FACEBOOK PAGINA BOOT\src\agents\orchestrator.js:76:26)
+    at async testV9 (C:\Users\seven beatx\Desktop\FACEBOOK PAGINA BOOT\test_v9_full.js:25:28)
+[05/04/2026 13:07:40] [31merror[39m: ­ƒÆÑ FALHA NO TESTE V9.0:
+node : RateLimitError: 
+429 {"error":{"message":"
+Rate limit reached for 
+model `llama-3.3-70b-vers
+atile` in organization `o
+rg_01kn9pckwnez8r90yb4pnn
+7rjt` service tier 
+`on_demand` on tokens 
+per day (TPD): Limit 
+100000, Used 99805, 
+Requested 1069. Please 
+try again in 12m35.136s. 
+Need more tokens? 
+Upgrade to Dev Tier 
+today at https://console.
+groq.com/settings/billing
+","type":"tokens","code":
+"rate_limit_exceeded"}}
+No linha:1 caractere:1
++ node test_v9_full.js > 
+test_out.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+    + CategoryInfo       
+       : NotSpecified:   
+  (RateLimitError:...m   
+ it_exceeded"}}:Strin    
+g) [], RemoteExcepti    
+on
+    + FullyQualifiedErro 
+   rId : NativeCommandE  
+  rror
+ 
+    at APIError.generate 
+(C:\Users\seven 
+beatx\Desktop\FACEBOOK 
+PAGINA BOOT\node_modules\
+groq-sdk\core\error.js:58
+:20)
+    at 
+Groq.makeStatusError 
+(C:\Users\seven 
+beatx\Desktop\FACEBOOK 
+PAGINA BOOT\node_modules\
+groq-sdk\client.js:127:32
+)
+    at Groq.makeRequest 
+(C:\Users\seven 
+beatx\Desktop\FACEBOOK 
+PAGINA BOOT\node_modules\
+groq-sdk\client.js:269:30
+)
+    at process.processTic
+ksAndRejections (node:int
+ernal/process/task_queues
+:103:5)
+    at async groqRequest 
+(C:\Users\seven 
+beatx\Desktop\FACEBOOK 
+PAGINA BOOT\src\agents\ut
+ils.js:15:30)
+    at async runWriter 
+(C:\Users\seven 
+beatx\Desktop\FACEBOOK 
+PAGINA BOOT\src\agents\wr
+iter.js:12:20)
+    at async Orchestrator
+.produceContent 
+(C:\Users\seven 
+beatx\Desktop\FACEBOOK 
+PAGINA BOOT\src\agents\or
+chestrator.js:76:26)
+    at async testV9 
+(C:\Users\seven 
+beatx\Desktop\FACEBOOK 
+PAGINA BOOT\test_v9_full.
+js:25:28) {
+  status: 429,
+  headers: Headers {
+    date: 'Sun, 05 Apr 
+2026 16:07:41 GMT',
+    'content-type': 
+'application/json',
+    'content-length': 
+'386',
+    connection: 
+'keep-alive',
+    'cache-control': 
+'private, max-age=0, 
+no-store, no-cache, 
+must-revalidate',
+    'retry-after': '756',
+    server: 'cloudflare',
+    vary: 'Origin',
+    'x-groq-region': 
+'bra',
+    'x-ratelimit-limit-re
+quests': '1000',
+    'x-ratelimit-limit-to
+kens': '12000',
+    'x-ratelimit-remainin
+g-requests': '999',
+    'x-ratelimit-remainin
+g-tokens': '12000',
+    'x-ratelimit-reset-re
+quests': '1m26.4s',
+    'x-ratelimit-reset-to
+kens': '1ms',
+    'x-request-id': 'req_
+01knf6cs35fjprxf6hjwx0f2s
+8',
+    'x-should-retry': 
+'false',
+    via: '1.1 google',
+    'cf-cache-status': 
+'DYNAMIC',
+    'set-cookie': '__cf_b
+m=v1n0_QdXCyiVE_fyDaD2AqS
+qYbK3mVvNVsiyLCimkFI-1775
+405261.914048-1.0.1.1-S0J
+5eSkPfXyaSO0pzSNo._pZpXFP
+7VCggCaBsCycx._az3NfV.lGV
+ngOrXqsXxROFXKZnC0Ft7.qSN
+YIXS21tw80vLNBNQ1Gfp145UI
+3mPLSA4yiyn2lDmE6wyF_pcR.
+; HttpOnly; Secure; 
+Path=/; Domain=groq.com; 
+Expires=Sun, 05 Apr 2026 
+16:37:41 GMT',
+    'strict-transport-sec
+urity': 
+'max-age=15552000',
+    'cf-ray': 
+'9e79cea6ff7cbdfb-GIG',
+    'alt-svc': 
+'h3=":443"; ma=86400'
+  },
+  error: {
+    error: {
+      message: 'Rate 
+limit reached for model `
+llama-3.3-70b-versatile` 
+in organization `org_01kn
+9pckwnez8r90yb4pnn7rjt` 
+service tier `on_demand` 
+on tokens per day (TPD): 
+Limit 100000, Used 
+99805, Requested 1069. 
+Please try again in 
+12m35.136s. Need more 
+tokens? Upgrade to Dev 
+Tier today at https://con
+sole.groq.com/settings/bi
+lling',
+      type: 'tokens',
+      code: 
+'rate_limit_exceeded'
+    }
+  }
+}

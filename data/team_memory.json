@@ -1,0 +1,21 @@
+{
+  "ceo_orders": {
+    "estrategia_semana": "Desenvolver uma série de posts sobre mistérios não resolvidos e descobertas arqueológicas estranhas para manter o engajamento do público",
+    "ordens_cacador": [
+      "Priorizar mistérios não resolvidos, descobertas bizarras e fatos desconhecidos reais.",
+      "Buscar polêmicas científicas ou bizarrices da natureza.",
+      "Identificar histórias inspiradoras de superação real e fatos históricos ocultos."
+    ],
+    "ordens_redator": [
+      "Usar tom sarcástico, investigativo e profundamente envolvente.",
+      "Caprichar em manchetes longas e descritivas que gerem curiosidade imediata.",
+      "Garantir que a notícia seja 100% real mas conte uma história de tirar o fôlego."
+    ],
+    "ordens_diretor_visual": [
+      "Usar o layout 'Casos Domal Elite v9.6' com suporte para 1 ou 2 fotos.",
+      "Focar em estética cinematográfica, misteriosa ou chocante.",
+      "Garantir que o título na imagem seja polêmico e instigante."
+    ],
+    "nivel_urgencia": "EVOLUÇÃO AUTÔNOMA APLICADA"
+  }
+}

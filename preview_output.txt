@@ -1,0 +1,29 @@
+﻿Ôùç injecting env (4) from .env // tip: Ôîÿ suppress logs { quiet: true }
+Ôùç injecting env (0) from .env // tip: Ôùê secrets for agents [www.dotenvx.com]
+­ƒöì [MODO PREVIEW ELITE] Buscando impacto real nos portais...
+[32minfo[39m: ­ƒô░ [Elite Scraper] Iniciando varredura em busca de fotos reais... {"service":"facebook-boot","timestamp":"2026-04-03 18:37:44"}
+[32minfo[39m: ­ƒôí Verificando: G1 Brasil... {"service":"facebook-boot","timestamp":"2026-04-03 18:37:44"}
+[32minfo[39m: ­ƒôí Verificando: UOL Not├¡cias... {"service":"facebook-boot","timestamp":"2026-04-03 18:37:44"}
+[32minfo[39m: ­ƒôí Verificando: R7 Policial... {"service":"facebook-boot","timestamp":"2026-04-03 18:37:44"}
+[32minfo[39m: ­ƒôí Verificando: Terra News... {"service":"facebook-boot","timestamp":"2026-04-03 18:37:45"}
+[32minfo[39m: ­ƒôí Verificando: IG Not├¡cias... {"service":"facebook-boot","timestamp":"2026-04-03 18:37:45"}
+[32minfo[39m: ­ƒôí Verificando: BBC Brasil... {"service":"facebook-boot","timestamp":"2026-04-03 18:37:55"}
+[32minfo[39m: ­ƒôí Verificando: CNN Brasil... {"service":"facebook-boot","timestamp":"2026-04-03 18:37:55"}
+[32minfo[39m: ­ƒôí Verificando: Daily Mail Crime... {"service":"facebook-boot","timestamp":"2026-04-03 18:37:55"}
+[32minfo[39m: Ô£à Varredura finalizada. 39 casos de crime com fotos reais poss├¡veis. {"service":"facebook-boot","timestamp":"2026-04-03 18:37:55"}
+­ƒôí Analisando: Acusado do assassinato de duas crian├ºas em Vi├ºosa ...
+[32minfo[39m: ­ƒô© Tentando imagem nativa do RSS: https://s2-g1.glbimg.com/yUS_tWxiaEUipy4bhrNC7fWZc... {"service":"facebook-boot","timestamp":"2026-04-03 18:37:55"}
+Ô£à SUCESSO! Foto real capturada para este caso.
+[03/04/2026 18:37:56] [32minfo[39m: Ô£ì´©Å [Elite Storytelling v5.6] Iniciando Reda├º├úo Tabloide: NOTICIA REAL: Acusado do assassinato de duas crian...
+
+--- LEGENDA GERADA (5 ETAPAS) ---
+­ƒÜ¿ Um caso chocante que abalou a comunidade de Vi├ºosa do Cear├í, no Cear├í, chegou ao seu desfecho com a condena├º├úo do acusado a 50 anos de pris├úo. ­ƒôì O crime ocorreu na cidade de Vi├ºosa do Cear├í, onde o acusado cometeu o assassinato de duas crian├ºas, um crime que deixou a popula├º├úo local em choque. ÔÅ▒´©Å A investiga├º├úo foi r├ípida e eficaz, levando ├á captura e julgamento do respons├ível. ÔÜû´©Å O julgamento foi realizado com base nas provas apresentadas, e o acusado foi considerado culpado pelo assassinato das duas v├¡timas. Agora, a comunidade de Vi├ºosa do Cear├í busca se recuperar desse tr├ígico evento. Qual ├® o seu pensamento sobre a condena├º├úo e como a justi├ºa pode ser feita em casos t├úo graves?
+
+#CasosDomal #Investiga├º├úo #CrimeReal #Noticias
+-------------------------------
+
+[03/04/2026 18:37:57] [32minfo[39m: ­ƒÄ¿ Iniciando Layout News Card Elite v5.4...
+[03/04/2026 18:37:58] [32minfo[39m: Ô£à News Card v5.4 Criado!
+Ô£à PREVIEW REAL GERADO! Caminho: C:\Users\seven beatx\Desktop\FACEBOOK PAGINA BOOT\preview_post_v5_3.jpg
+
+CASO: Acusado do assassinato de duas crian├ºas em Vi├ºosa do Cear├í ├® condenado a 50 anos de pris├úo

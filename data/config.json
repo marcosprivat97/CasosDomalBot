@@ -1,0 +1,15 @@
+{
+  "growthMode": true,
+  "intervalMinutes": 15,
+  "postsPerHour": 0.5,
+  "postsPerDay": 5,
+  "isActive": true,
+  "autoApprove": true,
+  "categories": [
+    "misterio_global",
+    "fatos_desconhecidos",
+    "ciencia_bizarra",
+    "arqueologia_proibida",
+    "casos_reais_chocantes"
+  ]
+}

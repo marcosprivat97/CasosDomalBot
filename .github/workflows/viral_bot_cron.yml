@@ -1,0 +1,52 @@
+name: CASOS DOMAL - Viral Bot 24/7
+
+on:
+  schedule:
+    # Roda a cada 60 minutos (Ajuste conforme necessidade)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    # Permite rodar manualmente clicando no botão "Run workflow" no GitHub
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Necessário para o commit de volta
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Viral Bot Cycle
+        env:
+          # Injeção dos Secrets do GitHub no Ambiente do Robô
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_ACCESS_TOKEN: ${{ secrets.FB_ACCESS_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          SERP_API_KEY: ${{ secrets.SERP_API_KEY }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NODE_ENV: production
+        run: node src/actions_run.js
+
+      - name: Persist Memory (Auto-Commit Results)
+        run: |
+          git config --global user.name "Domal Cloud Bot"
+          git config --global user.email "bot@casosdomal.com"
+          git add data/*.json
+          # Só comita se houver mudanças no histórico/memória
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Memória: Ciclo finalizado e histórico atualizado" && git push)
