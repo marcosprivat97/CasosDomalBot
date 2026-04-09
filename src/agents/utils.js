@@ -11,6 +11,8 @@ const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 const hf = new HfInference(process.env.HF_TOKEN);
 const rawGeminiKey = (process.env.GEMINI_API_KEY || "").trim();
 const genAI = rawGeminiKey ? new GoogleGenerativeAI(rawGeminiKey) : null;
+const siliconKey = (process.env.SILICONFLOW_API_KEY || "").trim();
+
 
 /**
  * Helper para chamadas Groq com Retry e Backoff Exponencial
@@ -149,6 +151,64 @@ async function geminiRequest(options) {
     }
 }
 
+/**
+ * Super Backup: SiliconFlow (DeepSeek-V3 / Llama 3.3)
+ * Cota gratuita generosa e alta performance.
+ */
+async function siliconFlowRequest(options) {
+    if (!siliconKey) return null;
+
+    try {
+        logger.warn(`🚀 [PLANO ÔMEGA+](SILICON) Acionando DeepSeek-V3 via SiliconFlow...`);
+        const response = await axios.post(
+            "https://api.siliconflow.cn/v1/chat/completions",
+            {
+                model: "deepseek-ai/DeepSeek-V3", 
+                messages: options.messages,
+                temperature: options.temperature || 0.7,
+                max_tokens: options.max_tokens || 1000,
+                stream: false
+            },
+            {
+                headers: {
+                    "Authorization": `Bearer ${siliconKey}`,
+                    "Content-Type": "application/json"
+                },
+                timeout: 45000
+            }
+        );
+
+        if (response.data && response.data.choices) {
+            return { choices: [{ message: { content: response.data.choices[0].message.content } }] };
+        }
+        return null;
+    } catch (e) {
+        logger.error(`❌ Falha no SiliconFlow: ${e.response?.data?.error?.message || e.message}`);
+        
+        // Fallback rápido para Llama caso o DeepSeek falhe no SiliconFlow
+        try {
+            logger.warn(`🔄 Tentando Fallback Interno SiliconFlow (Llama 3.3)...`);
+            const response = await axios.post(
+                "https://api.siliconflow.cn/v1/chat/completions",
+                {
+                    model: "meta-llama/Llama-3.3-70B-Instruct",
+                    messages: options.messages,
+                    max_tokens: 1000
+                },
+                {
+                    headers: { "Authorization": `Bearer ${siliconKey}`, "Content-Type": "application/json" },
+                    timeout: 45000
+                }
+            );
+            return { choices: [{ message: { content: response.data.choices[0].message.content } }] };
+        } catch (e2) {
+            logger.error(`❌ Falha Total no SiliconFlow: ${e2.message}`);
+            return null;
+        }
+    }
+}
+
+
 async function groqRequest(options, retries = 5, delay = 3000) {
     let status = getSharedStatus();
     let currentSharedIndex = status.index || 0;
@@ -183,6 +243,10 @@ async function groqRequest(options, retries = 5, delay = 3000) {
 
                 const novaResponse = await novaApiRequest(options);
                 if (novaResponse) return novaResponse;
+
+                const siliconResponse = await siliconFlowRequest(options);
+                if (siliconResponse) return siliconResponse;
+
                 
                 // Exauriu SambaNova -> Tenta Hugging Face (Plano Z)
                 if (process.env.HF_TOKEN) {
@@ -421,6 +485,8 @@ module.exports = {
     parseGroqResponse, 
     novaApiRequest,
     geminiRequest,
+    siliconFlowRequest,
     searchImages,
     generateImageViaAI
 };
+

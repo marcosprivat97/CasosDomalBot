@@ -46,6 +46,7 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
           NODE_ENV: production
         run: node src/actions_run.js
 
