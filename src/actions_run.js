@@ -7,8 +7,13 @@ const logger = require('./logger');
 const fs = require('fs');
 const path = require('path');
 
+// CARIMBO DE VERSÃO - PARA GARANTIR QUE O CÓDIGO NOVO ESTÁ RODANDO
+console.log("\n=======================================================");
+console.log("🚀 CASOS DOMAL VIRAL BOT - v12.0 [SILICON ONLY MODE]");
+console.log("=======================================================\n");
+
 async function runCloudCycle() {
-    logger.important("☁️ INICIANDO CICLO DE NUVEM (GITHUB ACTIONS) - v4.0 BRASIL");
+    logger.important("☁️ INICIANDO CICLO DE NUVEM (GITHUB ACTIONS) - v12.0 - SILICON ONLY");
     
     try {
         // 1. Forçar Configuração de Auto-Approve (Necessário para nuvem 24/7)
