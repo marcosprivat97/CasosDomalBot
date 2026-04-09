@@ -1,14 +1,14 @@
-const { HfInference } = require('@huggingface/inference');
 const axios = require('axios');
+
 const fs = require('fs');
 const path = require('path');
 const logger = require('../logger');
 
 class ImageGeneratorModule {
     constructor() {
-        this.hf = new HfInference(process.env.HF_TOKEN);
-        // Pode ser expandido para SiliconFlow, DeepInfra, etc.
+        // Inicialização limpa
     }
+
 
     /**
      * Ciclo Mestre de Geração: Web Search (Prioridade) -> IA Generation (Fallback)
@@ -71,21 +71,13 @@ class ImageGeneratorModule {
         logger.warn(`🚨 [IA FALLBACK] Nenhuma foto real encontrada. Gerando via IA...`);
         const enhancedPrompt = this._enrichPrompt(prompt);
         
-        if (process.env.HF_TOKEN) {
-            try {
-                const buffer = await this._tryHuggingFace(enhancedPrompt);
-                if (buffer) return buffer;
-            } catch (e) {
-                logger.warn(`⚠️ [IMAGE IA] Hugging Face falhou.`);
-            }
-        }
-
         try {
             const buffer = await this._tryPollinations(enhancedPrompt);
             if (buffer) return buffer;
         } catch (e) {
             logger.warn(`⚠️ [IMAGE IA] Pollinations falhou.`);
         }
+
 
         return null;
     }
@@ -138,20 +130,7 @@ class ImageGeneratorModule {
         return `RAW photo of ${prompt}, documentary style, fujifilm photography, realistic textures, no text, no logo, no watermark, sharp focus, 8k`;
     }
 
-    async _tryHuggingFace(prompt) {
-        logger.info(`📸 [IMAGE IA] Tentando FLUX.1-schnell...`);
-        const response = await this.hf.textToImage({
-            model: 'black-forest-labs/FLUX.1-schnell',
-            inputs: prompt,
-            parameters: { width: 1024, height: 1024 }
-        });
 
-        if (response && response instanceof Blob) {
-            const arrayBuffer = await response.arrayBuffer();
-            return Buffer.from(arrayBuffer);
-        }
-        return null;
-    }
 
     async _tryPollinations(prompt) {
         logger.info(`🌪️ [IMAGE IA] Tentando Reserva (Pollinations)...`);
