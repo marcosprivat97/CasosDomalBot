@@ -13,8 +13,10 @@ const siliconKey = (process.env.SILICONFLOW_API_KEY || "").trim();
 if (!siliconKey) {
     logger.error("🛑 [ALERTA] SILICONFLOW_API_KEY não encontrada no ambiente!");
 } else {
-    logger.info("✅ [INFO] SILICONFLOW_API_KEY carregada com sucesso.");
+    const maskedKey = siliconKey.substring(0, 5) + "..." + siliconKey.substring(siliconKey.length - 4);
+    logger.info(`✅ [INFO] SILICONFLOW_API_KEY carregada: ${maskedKey} (Tam: ${siliconKey.length})`);
 }
+
 
 
 
