@@ -434,7 +434,6 @@ module.exports = {
     safeFetch, 
     parseGroqResponse, 
     novaApiRequest,
-    siliconFlowRequest,
     masterBrainRequest,
     searchImages,
     generateImageViaAI
