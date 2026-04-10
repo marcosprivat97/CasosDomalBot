@@ -56,18 +56,18 @@ jobs:
           git config --global user.name "Domal Cloud Bot"
           git config --global user.email "bot@casosdomal.com"
           
-          # 1. Tenta baixar mudanças remotas antes de mais nada
-          git fetch origin ${{ github.ref_name }}
-          
-          # 2. Adiciona mudanças da memória
+          # 1. Adiciona mudanças da memória
           git add data/*.json || echo "NADA NOVO"
           
-          # 3. Só tenta commitar se houver mudanças reais
+          # 2. Só tenta commitar se houver mudanças reais
           if ! git diff --quiet --staged; then
             git commit -m "🤖 Memória: Ciclo finalizado e histórico atualizado"
             
-            # Tenta sincronizar usando estratégia de 'preferir o nosso' em caso de conflito nos JSONs
-            # Isso evita que o robô pare por causa de arquivos de status
+            # 🔥 LIMPEZA TOTAL: Remove imagens temporárias e descarta mudanças fora de /data
+            git clean -fd
+            git checkout . 
+            
+            # Sincroniza e sobe
             git pull --rebase -X ours origin ${{ github.ref_name }}
             git push origin ${{ github.ref_name }}
           else
