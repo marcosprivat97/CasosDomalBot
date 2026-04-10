@@ -48,6 +48,18 @@ REGRAS DE OURO:
 - Não repita estratégias que falharam nos últimos 3 ciclos.
 - Seja o "Dono" da página: mande, cobre e ajuste a rota.
 
+FORMATO DE RESPOSTA OBRIGATÓRIO (JSON):
+{
+  "estrategia_atual": "Nome da estratégia (ex: Reaquecimento / Expansão)",
+  "diagnostico_causa_raiz": "Por que o alcance está assim?",
+  "ordens_cacador": ["Ordem 1", "Ordem 2"],
+  "ordens_redator": ["Ordem 1", "Ordem 2"],
+  "ordens_diretor_visual": ["Ordem 1", "Ordem 2"],
+  "estrategia_semana": "Foco principal da semana",
+  "nivel_urgencia": "baixo/medio/alto",
+  "msg_para_equipe": "Frase de motivação/foco"
+}
+
 Retorne SOMENTE JSON válido.`
       },
       {
