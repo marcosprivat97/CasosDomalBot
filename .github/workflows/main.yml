@@ -56,19 +56,19 @@ jobs:
           git config --global user.name "Domal Cloud Bot"
           git config --global user.email "bot@casosdomal.com"
           
-          # 1. Garante que os arquivos JSON existam e sejam adicionados
-          mkdir -p data
-          git add data/*.json || echo "Nenhum arquivo JSON novo."
+          # 1. Tenta baixar mudanças remotas antes de mais nada
+          git fetch origin ${{ github.ref_name }}
           
-          # 2. Só tenta commitar e subir se houver mudanças reais
+          # 2. Adiciona mudanças da memória
+          git add data/*.json || echo "NADA NOVO"
+          
+          # 3. Só tenta commitar se houver mudanças reais
           if ! git diff --quiet --staged; then
             git commit -m "🤖 Memória: Ciclo finalizado e histórico atualizado"
             
-            # Limpa qualquer lixo temporário antes do pull
-            git reset --hard HEAD
-            
-            # Pull com rebase forçando a branch atual
-            git pull --rebase origin ${{ github.ref_name }}
+            # Tenta sincronizar usando estratégia de 'preferir o nosso' em caso de conflito nos JSONs
+            # Isso evita que o robô pare por causa de arquivos de status
+            git pull --rebase -X ours origin ${{ github.ref_name }}
             git push origin ${{ github.ref_name }}
           else
             echo "Nenhuma mudança na memória detectada."
