@@ -1,48 +1,63 @@
 const axios = require('axios');
+const fs = require('fs');
+const FormData = require('form-data');
 const logger = require('../logger');
 
-class FacebookModule {
-    /**
-     * Publishes a photo to the Facebook Page with a detailed caption.
-     * @param {string} imagePath - Local path to the image file.
-     * @param {string} message - Caption/story text for the post.
-     * @returns {Promise<string>} - ID of the published post.
-     */
-    async publishPost(imagePath, message) {
-        logger.info('Tentando publicar post real no Facebook Graph API...');
+/**
+ * Publica uma imagem com texto na Página do Facebook.
+ * @param {string} message - O texto do post.
+ * @param {string} imagePath - O caminho local da imagem.
+ */
+async function postToFacebook(message, imagePath) {
+    const pageId = process.env.FB_PAGE_ID;
+    const accessToken = process.env.FB_ACCESS_TOKEN;
 
-        const pageId = process.env.FB_PAGE_ID;
-        const accessToken = process.env.FB_ACCESS_TOKEN;
+    if (!pageId || !accessToken || accessToken === 'SEU_TOKEN_AQUI') {
+        logger.warn('⚠️ FB_PAGE_ID ou FB_ACCESS_TOKEN ausente. Simulando postagem...');
+        return { id: 'mock_' + Date.now() };
+    }
 
-        if (!pageId || !accessToken) {
-            logger.warn('FB_PAGE_ID ou FB_ACCESS_TOKEN não configurados. Simulando postagem real (Mock).');
-            return 'mock-fb-post-id-' + Date.now();
-        }
+    try {
+        logger.info(`📤 [FB] Publicando na página ${pageId}...`);
+        
+        const form = new FormData();
+        form.append('message', message);
+        form.append('source', fs.createReadStream(imagePath));
+        form.append('access_token', accessToken);
 
-        try {
-            // Note: Sending photos with Node and Facebook Graph API with local files
-            // ideally uses FormData, but here we can simulate a simple check or a real request
-            // For a production bot on Windows, we'll use axios with form-data if possible.
-            logger.info(`[REAL PUBLISH] Publicando na página [${pageId}] com imagem: [${imagePath}]`);
-            
-            // This is the structure for the Graph API request
-            // const response = await axios.post(`https://graph.facebook.com/${pageId}/photos`, {
-            //     message: message,
-            //     url: imagePath, // Requires public URL or multipart form-data for local files
-            //     access_token: accessToken
-            // });
+        const response = await axios.post(`https://graph.facebook.com/v21.0/${pageId}/photos`, form, {
+            headers: form.getHeaders(),
+            timeout: 60000
+        });
 
-            // logger.info(`Post publicado com sucesso no Facebook! ID: [${response.data.id}]`);
-            // return response.data.id;
-
-            logger.info('Simulação: Facebook Graph API respondeu com SUCESSO (Caminho configurado).');
-            return 'real-fb-post-id-12345';
-
-        } catch (error) {
-            logger.error(`Erro ao publicar no Facebook: ${error.message}`);
-            throw error;
-        }
+        logger.important(`✅ [FB] Post publicado com sucesso! ID: ${response.data.id}`);
+        return { id: response.data.id };
+    } catch (error) {
+        const errorMsg = error.response?.data?.error?.message || error.message;
+        logger.error(`❌ [FB] Erro ao publicar: ${errorMsg}`);
+        throw new Error(`Falha no Facebook: ${errorMsg}`);
     }
 }
 
-module.exports = new FacebookModule();
+/**
+ * Adiciona um comentário a um post existente.
+ */
+async function addCommentToPost(postId, message) {
+    const accessToken = process.env.FB_ACCESS_TOKEN;
+    if (!accessToken || accessToken === 'SEU_TOKEN_AQUI') return;
+
+    try {
+        await axios.post(`https://graph.facebook.com/v21.0/${postId}/comments`, {
+            message: message,
+            access_token: accessToken
+        });
+        logger.info(`💬 [FB] Comentário adicionado ao post ${postId}`);
+    } catch (error) {
+        logger.error(`❌ [FB] Erro ao comentar: ${error.message}`);
+    }
+}
+
+module.exports = {
+    postToFacebook,
+    addCommentToPost
+};
