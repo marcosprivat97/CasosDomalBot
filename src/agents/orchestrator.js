@@ -163,7 +163,7 @@ class Orchestrator {
     }
 
     /**
-     * handleMonetization - Comentário Estratégico
+     * handleMonetization - Comentário Estratégico (v12.2 - Bulletproof)
      */
     async handleMonetization(postId, niche) {
         const productsPath = path.join(__dirname, '../../data/products.json');
@@ -171,16 +171,30 @@ class Orchestrator {
 
         setTimeout(async () => {
             try {
-                const products = JSON.parse(fs.readFileSync(productsPath, 'utf8'));
-                const safeNiche = (niche || "Geral").toLowerCase();
-                const product = products.find(p => (p.niche || "").toLowerCase() === safeNiche) || products[0];
-                if (product && product.link !== 'SEU_LINK_AQUI') {
+                const productsContent = fs.readFileSync(productsPath, 'utf8');
+                const products = JSON.parse(productsContent);
+
+                if (!Array.isArray(products)) {
+                    logger.error(`❌ handleMonetization: products.json não é um array.`);
+                    return;
+                }
+
+                const safeNiche = String(niche || "Geral").toLowerCase();
+                
+                // Busca segura que ignora itens nulos ou malformados
+                const product = products.find(p => 
+                    p && 
+                    p.niche && 
+                    String(p.niche).toLowerCase() === safeNiche
+                ) || products[0];
+
+                if (product && product.link && product.link !== 'SEU_LINK_AQUI') {
                     const comment = `${product.cta}\n\n👉 Confira aqui: ${product.link}`;
                     await addCommentToPost(postId, comment);
                     logger.important(`💰 Monetização ativa no post ${postId}`);
                 }
             } catch (e) {
-                logger.error(`Erro na monetização: ${e.message}`);
+                logger.error(`❌ Erro crítico no handleMonetization: ${e.message}`);
             }
         }, 900000); // 15 minutos
     }
