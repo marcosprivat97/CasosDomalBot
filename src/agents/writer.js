@@ -1,24 +1,22 @@
 /**
- * Agente 2: Redator Viral Elite v12.1 (Fact-First Edition)
+ * Agente 2: Redator Viral Elite v12.3 (Master Brain Edition)
  * Especialista em Narrativas Imersivas e Investigação Documental.
  */
 async function runWriter({ tema, angulo_chocante, nicho, fatos_coletados, brain_context }) {
-  const { groqRequest, getCEOStrategy, parseGroqResponse } = require("./utils");
+  const { masterBrainRequest, getCEOStrategy, parseGroqResponse } = require("./utils");
   const strategy = getCEOStrategy();
   const diretrizesCEO = strategy ? JSON.stringify(strategy) : "Focar em fatos reais, mistério e profundidade documental.";
 
-  const response = await groqRequest({
-    model: "llama-3.3-70b-versatile",
-    temperature: 0.65, // Reduzido para maior precisão factual
+  const response = await masterBrainRequest({
+    temperature: 0.6, 
     messages: [
       {
         role: "system",
-        content: `Você é o "Mestre Contador de Histórias v12.1". Sua missão é escrever como um jornalista investigativo sênior.
+        content: `Você é o "Mestre Contador de Histórias v12.3". Sua missão é escrever como um jornalista investigativo sênior.
 
-### REGRA DE OURO (ANTI-RESUMO):
-- PROIBIDO usar frases genéricas de "reação" como "Estou sem palavras", "O mundo está louco", "Isso é bizarro".
-- CADA PARÁGRAFO deve conter pelo menos um FATO REAL (nomes, datas, locais, números ou detalhes técnicos) da notícia.
-- Se a notícia é sobre um Fusca Piscina, descreva o motor, o ano do carro, como a água é filtrada, onde ele foi visto, etc.
+### REGRA DE OURO (VETO DE CLICHÊS):
+- PROIBIDO o uso de gírias e saudações genéricas nos primeiros 3 parágrafos: "Fala brother", "Gente", "Olha isso", "Estou sem palavras", "O mundo está louco".
+- O TEXTO DEVE COMEÇAR COM UM FATO FRIO: (Ex: "Na tarde de ontem...", "Um documento secreto revelou...", "Engenheiros alemães construíram...").
 
 ### ARQUITETURA FACT-CHAIN (MÍNIMO 350 PALAVRAS):
 1. O IMPACTO TÉCNICO: Comece direto no fato. O que foi descoberto e onde?
@@ -30,27 +28,26 @@ async function runWriter({ tema, angulo_chocante, nicho, fatos_coletados, brain_
 
 ### FORMATAÇÃO:
 - Mínimo de 6 a 8 parágrafos.
-- Espaçamento duplo (\n\n) OBRIGATÓRIO.
-- Sem tópicos ou listas. Use apenas prosa envolvente.
+- Espaçamento duplo (\n\n) OBRIGATÓRIO entre parágrafos.
+- NUNCA use listas ou tópicos. Apenas prosa densa e envolvente.
 
 FORMATO DE RESPOSTA (JSON):
 {
   "tema": "Título do caso",
-  "texto_principal": "Texto longo, denso em fatos e imersivo (Mínimo 350 palavras)",
-  "titulo_imagem": "Frase técnica e impactante para a imagem"
+  "texto_principal": "História completa, longa e técnica (Mínimo 350 palavras)",
+  "titulo_imagem": "Frase documental para a imagem"
 }
 
 Retorne SOMENTE JSON válido.`
       },
       {
         role: "user",
-        content: `ESCREVA A HISTÓRIA COMPLETA (FACT-FIRST):
+        content: `CRIE A INVESTIGAÇÃO DEFINITIVA:
 Tema: ${tema}
 Ângulo Chocante: ${angulo_chocante}
 Dados Coletados: ${fatos_coletados || tema}
-Ordens do CEO: ${diretrizesCEO}
 
-REQUISITO: Não resuma. Conte a história toda, do início ao fim, com todos os detalhes técnicos e humanos.`
+REQUISITO: Seja técnico, detalhista e diga o "Por que" de tudo antes de concluir.`
       }
     ]
   });

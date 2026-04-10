@@ -183,6 +183,42 @@ async function siliconFlowRequest(options) {
 }
 
 
+/**
+ * MASTER BRAIN v12.3: Garante o uso apenas de modelos GIGANTES (70B+ / DeepSeek-V3).
+ * Ignora modelos pequenos (8B) para garantir profundidade narrativa.
+ */
+async function masterBrainRequest(options, retries = 3) {
+    logger.info(`🧠 [MASTER BRAIN] Iniciando requisição de alta performance...`);
+
+    // 1. TENTA SILICONFLOW (DeepSeek-V3 ou Llama-70B) - O Cérebro mais forte hoje
+    if (siliconKey) {
+        const silicon = await siliconFlowRequest(options);
+        if (silicon) return silicon;
+    }
+
+    // 2. TENTA GROQ (Apenas Modelos de 70B+)
+    const strongGroqModels = ["llama-3.3-70b-versatile", "llama-3.1-70b-versatile"];
+    for (const model of strongGroqModels) {
+        try {
+            logger.warn(`🔄 [MASTER BRAIN] Tentando Groq Premium: ${model}`);
+            const response = await groq.chat.completions.create({
+                ...options,
+                model: model
+            });
+            return response;
+        } catch (e) {
+            logger.error(`⚠️ Groq ${model} falhou: ${e.message}`);
+        }
+    }
+
+    // 3. TENTA SAMBANOVA (Llama-3.1-70B)
+    const nova = await novaApiRequest(options);
+    if (nova) return nova;
+
+    throw new Error("❌ FALHA TOTAL: Todos os Cérebro Mestres estão offline ou sem cota.");
+}
+
+
 async function groqRequest(options, retries = 5, delay = 3000) {
     let status = getSharedStatus();
     let currentSharedIndex = status.index || 0;
