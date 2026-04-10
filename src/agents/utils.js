@@ -34,10 +34,8 @@ function getGroqClient() {
 }
 
 const siliconKey = (process.env.SILICONFLOW_API_KEY || "").trim();
-const geminiKey = (process.env.GEMINI_API_KEY || "").trim();
 
 if (!siliconKey) logger.warn("⚠️ SILICONFLOW_API_KEY ausente.");
-if (!geminiKey) logger.warn("⚠️ GEMINI_API_KEY ausente (Reserva Suprema).");
 
 
 
@@ -206,32 +204,6 @@ async function siliconFlowRequest(options) {
 
 
 /**
- * GEMINI REQUEST: A Reserva Suprema (v12.4)
- */
-async function geminiRequest(options) {
-    if (!geminiKey) return null;
-    logger.info(`🌟 [GEMINI] Acionando Google Gemini 1.5 Pro...`);
-    try {
-        const response = await axios.post(
-            `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=${geminiKey}`,
-            {
-                contents: [{ parts: [{ text: options.messages.map(m => m.content).join("\n") }] }],
-                generationConfig: {
-                    temperature: options.temperature || 0.7,
-                    maxOutputTokens: options.max_tokens || 1000
-                }
-            },
-            { timeout: 30000 }
-        );
-        const text = response.data.candidates[0].content.parts[0].text;
-        return { choices: [{ message: { content: text } }] };
-    } catch (e) {
-        logger.error(`❌ Gemini falhou: ${e.message}`);
-        return null;
-    }
-}
-
-/**
  * MASTER BRAIN v12.4: Sistema de Contingência Multi-Core
  */
 async function masterBrainRequest(options, retries = 3) {
@@ -254,7 +226,7 @@ async function masterBrainRequest(options, retries = 3) {
                 return response;
             } catch (e) {
                 if (e.status === 429) {
-                    logger.error(`🛑 Motor #${groqInfo.index + 1} sgeotado. Tentando próximo...`);
+                    logger.error(`🛑 Motor #${groqInfo.index + 1} esgotado. Tentando próximo...`);
                     groqInfo.next();
                     return masterBrainRequest(options, retries - 1); // Tenta novamente com a nova chave
                 }
@@ -263,11 +235,7 @@ async function masterBrainRequest(options, retries = 3) {
         }
     }
 
-    // 3. TENTA GEMINI (Reserva Suprema)
-    const gemini = await geminiRequest(options);
-    if (gemini) return gemini;
-
-    // 4. TENTA SAMBANOVA
+    // 3. TENTA SAMBANOVA
     const nova = await novaApiRequest(options);
     if (nova) return nova;
 
@@ -308,9 +276,6 @@ async function groqRequest(options, retries = 5, delay = 3000) {
                 // Se esgotamos as chaves e modelos, tentamos reservas externas
                 const silicon = await siliconFlowRequest(options);
                 if (silicon) return silicon;
-
-                const gemini = await geminiRequest(options);
-                if (gemini) return gemini;
 
                 const nova = await novaApiRequest(options);
                 if (nova) return nova;
