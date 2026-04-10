@@ -1,7 +1,11 @@
 const { groqRequest, getCEOStrategy, parseGroqResponse } = require("./utils");
 const logger = require("../logger");
 
-async function runVisualDirector({ tema, personagem_principal, angulo_chocante, emocao_alvo, titulo_imagem, nicho, gancho, resumo_historia, historico_estilos }) {
+/**
+ * Agente 3: Diretor de Arte v12.0 (Smart Layout Engine)
+ * Especialista em "Visual Viral" e fusão de conceitos bizarros.
+ */
+async function runVisualDirector({ tema, angulo_chocante, titulo_imagem, resumo_historia, historico_estilos }) {
   const strategy = getCEOStrategy();
   const ordensVisual = strategy && strategy.ordens_diretor_visual ? strategy.ordens_diretor_visual.join(", ") : "Focar em realismo, mistério e impacto visual.";
 
@@ -11,42 +15,38 @@ async function runVisualDirector({ tema, personagem_principal, angulo_chocante, 
     messages: [
       {
         role: "system",
-        content: `Você é o Diretor de Arte Sênior da "Casos Domal". Sua missão é gerar imagens que pareçam registros reais e detalhados de uma investigação de elite.
-        
-IMPORTANTE: Suas buscas (busca_foto_1 e busca_foto_2) devem ser baseadas no MOMENTO DE CHOQUE da história.
-Não busque apenas o tema geral, busque os DETALHES que a história descreve.
+        content: `Você é o Diretor de Arte Sênior v12.0. Sua missão é criar a imagem mais "clicável" e chocante possível.
 
-DIRETRIZES DE RIQUEZA VISUAL (OBRIGATÓRIAS):
-1. RIQUEZA DE DETALHES (FORENSE): Foque em texturas, detalhes aproximados (macro), evidências reais.
-2. BUSCA DE REALIDADE (SERPAPI): Suas buscas (busca_foto_1 e busca_foto_2) devem focar no NOME DO CASO, LOCALIDADE ou OBJETO REAL citado na história. Ex: Se a história é sobre "O mistério de Dyatlov", uma busca deve ser "Dyatlov Pass incident real photos 1959".
-3. IMPACTO VISUAL: A imagem deve ser um "soco no olho". Use iluminação dramática e ângulos de autoridade.
-4. REALISMO DOCUMENTAL: Deve parecer National Geographic ou registro policial. 
+### MOTOR DE LAYOUT INTELIGENTE:
+- SINGLE_FOTO: Use apenas se houver um ÚNICO objeto central de impacto extremo.
+- DUAL_COLLAGE: Use sempre que houver CONTRASTE (ex: Antes/Depois, Objeto A + Objeto B, Local + Personagem). 
+  *Exemplo: Se a história é sobre um carro que virou piscina, você PRECISA de uma collage ou uma fusão.*
 
-RETORNE JSON:
+### DIRETRIZ DE FUSÃO (AI PROMPT):
+- Se o caso envolve uma modificação bizarra (ex: Fusca Piscina), o "prompt_flux" deve descrever a FUSÃO dos dois elementos em um único objeto realista.
+
+FORMATO DE RESPOSTA OBRIGATÓRIO (JSON):
 {
-  "decisao_layout": "single_foto" ou "dual_collage" (sempre prefira dual_collage se houver um local e um objeto específico, ou antes/depois),
-  "busca_foto_1": "termos em INGLÊS focados no CASO REAL (Ex: real evidence of Titanic wreck interior)",
-  "busca_foto_2": "termos em INGLÊS focados no OBJETO/LOCAL (Ex: deep sea footage titanic boiler)",
-  "prompt_flux": "prompt hiper-detalhado em inglês para geração fallback",
-  "estilo_escolhido": "string",
-  "seed": 123456,
-  "aprovado": true,
-  "motivo_layout": "por que este layout"
-}`
+  "decisao_layout": "single_foto" ou "dual_collage",
+  "busca_foto_1": "termos em INGLÊS focados no ELEMENTO 1",
+  "busca_foto_2": "termos em INGLÊS focados no ELEMENTO 2",
+  "prompt_flux": "prompt em INGLÊS fundindo os conceitos principais com ultra-realismo",
+  "motivo_estrategico": "Explicação curta de por que este layout é mais viral"
+}
+
+Retorne SOMENTE JSON válido.`
       },
       {
         role: "user",
-        content: `Gere a direção visual baseada no resumo real da história:
+        content: `GERE A DIREÇÃO VISUAL MAESTRO:
+Tema: ${tema}
+Ângulo de Impacto: ${angulo_chocante}
+Título da Imagem: ${titulo_imagem}
+Resumo da História: ${resumo_historia}
 
-RESUMO DA HISTÓRIA: ${resumo_historia || tema}
-TEMA CENTRAL: ${tema}
-ÂNGULO DE IMPACTO: ${angulo_chocante}
-TÍTULO DA POSTAGEM: ${titulo_imagem}
+Ordens do CEO: ${ordensVisual}
 
-HISTÓRICO RECENTE: ${historico_estilos || "Nenhum"}
-ORDENS DO CEO: ${ordensVisual}
-
-Sua busca deve capturar o que há de mais VIRAL e CHOCANTE nos detalhes desse resumo.`
+IDENTIFIQUE OS CONCEITOS: Quais são os 2 elementos que mais chocam quando colocados juntos?`
       }
     ]
   });

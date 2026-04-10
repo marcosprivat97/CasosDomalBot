@@ -26,7 +26,7 @@ class Orchestrator {
                 categoria: forcePilar || preSelectedNews?.category || "Curiosidade",
                 ultimo_tema: lastCase,
                 brain_context: brainContext
-            }));
+            }), { mandatory: ["tema", "nicho", "angulo_chocante", "query_rara"] });
 
             // 3. Estágio: WRITER (Narrativa Magnética)
             const pauta = await this._safeAgentCall("Writer", () => runWriter({
@@ -35,23 +35,22 @@ class Orchestrator {
                 nicho: scoutData.nicho,
                 fatos_coletados: scoutData.angulo_chocante,
                 brain_context: brainContext
-            }));
+            }), { mandatory: ["texto_principal", "titulo_imagem"], minParagraphs: 6 });
 
-            // 4. Estágio: VISUAL (Direção de Arte)
+            // 4. Estágio: VISUAL (Direção de Arte Smart)
             const visualData = await this._safeAgentCall("Visual", () => runVisualDirector({
                 tema: scoutData.tema,
                 angulo_chocante: scoutData.angulo_chocante,
                 titulo_imagem: pauta.titulo_imagem,
-                nicho: scoutData.nicho,
-                gancho: pauta.gancho,
-                resumo_historia: pauta.texto_principal
-            }));
+                resumo_historia: pauta.texto_principal,
+                historico_estilos: lastCase
+            }), { mandatory: ["decisao_layout", "busca_foto_1", "prompt_flux"] });
 
             // 5. Estágio: FORMAT (Polimento de Texto)
             const formatação = await this._safeAgentCall("Formatter", () => runFormattingAgent({
-                texto_bruto: pauta.post_completo || pauta.texto_principal,
+                texto_bruto: pauta.texto_principal,
                 nicho: scoutData.nicho
-            }));
+            }), { mandatory: ["legenda_formatada"] });
             const textoFinal = formatação.legenda_formatada || pauta.post_completo;
 
             // 6. Estágio: GENERATION & PUBLISH
@@ -87,21 +86,49 @@ class Orchestrator {
     }
 
     /**
-     * Wrapper de Segurança para Agentes (Retry Logic)
+     * Wrapper de Segurança para Agentes (Retry + Validação)
      */
-    async _safeAgentCall(agentName, agentFunc, retries = 2) {
+    async _safeAgentCall(agentName, agentFunc, validationRules = null, retries = 2) {
         for (let i = 0; i <= retries; i++) {
             try {
                 this.updateAgentStatus(agentName, "Executando");
                 const result = await agentFunc();
+                
+                // Validação de Integridade (NADA PODE VIR VAZIO)
+                if (validationRules) {
+                    this._validateResult(agentName, result, validationRules);
+                }
+
                 this.updateAgentStatus(agentName, "Ocioso");
                 return result;
             } catch (e) {
                 if (i === retries) throw e;
-                logger.warn(`🔄 [RETRY] Falha no agente ${agentName}. Tentativa ${i+1}/${retries}...`);
+                logger.warn(`🔄 [RETRY] ${agentName}: ${e.message}. Tentativa ${i+1}/${retries}...`);
                 await new Promise(r => setTimeout(r, 2000));
             }
         }
+    }
+
+    /**
+     * Validador de Qualidade v12.0
+     */
+    _validateResult(agentName, result, rules) {
+        if (!result || typeof result !== 'object') throw new Error("Resultado não é um objeto válido");
+
+        for (const field of rules.mandatory) {
+            if (!result[field] || String(result[field]).trim() === "") {
+                throw new Error(`Campo mandatório '${field}' está vazio ou ausente`);
+            }
+        }
+
+        if (rules.minParagraphs) {
+            const paragraphs = result.texto_principal.split(/\n\n+/).filter(p => p.trim().length > 10);
+            if (paragraphs.length < rules.minParagraphs) {
+                throw new Error(`O texto tem apenas ${paragraphs.length} parágrafos. Mínimo exigido: ${rules.minParagraphs}`);
+            }
+        }
+
+        logger.info(`✅ [VALIDATION] ${agentName}: Integridade confirmada.`);
     }
 
     async _createFinalCollage(visualResult, pauta) {
