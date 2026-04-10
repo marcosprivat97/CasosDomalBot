@@ -344,20 +344,33 @@ class ImageModule {
             const urlObj = new URL(url);
             const response = await safeFetch(url, {
                 responseType: 'arraybuffer',
+                timeout: 15000,
                 headers: {
-                    'Referer': referer || `${urlObj.protocol}//${urlObj.hostname}/`
+                    'Referer': referer || `${urlObj.protocol}//${urlObj.hostname}/`,
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                    'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'
                 }
             });
             const buffer = Buffer.from(response.data);
 
+            if (!buffer || buffer.length < 100) return null;
+
             // Validação de Magic Bytes para garantir que é uma imagem
-            const header = buffer.toString('hex', 0, 4).toUpperCase();
-            const isJpg = header.startsWith('FFD8FF');
-            const isPng = header === '89504E47';
-            const isWebp = buffer.toString('utf8', 0, 4) === 'RIFF' && buffer.toString('utf8', 8, 12) === 'WEBP';
+            const hex = buffer.toString('hex', 0, 12).toUpperCase();
+            const text = buffer.toString('utf8', 0, 12);
             
-            if (!isJpg && !isPng && !isWebp) {
-                logger.warn(`⚠️ O arquivo baixado não possui um cabeçalho de imagem válido: ${url.substring(0, 50)}...`);
+            const isJpg = hex.startsWith('FFD8FF');
+            const isPng = hex.startsWith('89504E47');
+            const isWebp = text.includes('RIFF') && text.includes('WEBP');
+            const isAvif = hex.includes('6674797061766966'); // "ftypavif"
+            
+            if (!isJpg && !isPng && !isWebp && !isAvif) {
+                // Se for HTML, logamos os primeiros caracteres para confirmar o erro
+                if (text.trim().startsWith('<') || text.trim().toLowerCase().startsWith('<!do')) {
+                    logger.warn(`⚠️ URL retornou HTML em vez de imagem: ${url.substring(0, 40)}...`);
+                } else {
+                    logger.warn(`⚠️ Formato inválido (${hex.substring(0, 8)}): ${url.substring(0, 40)}...`);
+                }
                 return null;
             }
 
