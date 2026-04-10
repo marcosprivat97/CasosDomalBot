@@ -32,7 +32,7 @@ FORMATO DE RESPOSTA OBRIGATÓRIO (JSON):
   "busca_foto_2": "REFINAMENTO do prompt_ia (em inglês)",
   "prompt_flux": "Prompt de FUSÃO para IA caso o layout mude para single",
   "motivo_estrategico": "Explicação"
-}`
+}
 
 Retorne SOMENTE JSON válido.`
       },
