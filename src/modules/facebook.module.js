@@ -57,7 +57,41 @@ async function addCommentToPost(postId, message) {
     }
 }
 
+/**
+ * Busca métricas de performance de um post específico.
+ */
+async function getPostMetrics(postId) {
+    const accessToken = process.env.FB_ACCESS_TOKEN;
+    if (!accessToken || accessToken === 'SEU_TOKEN_AQUI' || postId.startsWith('mock_')) {
+        return { reach: Math.floor(Math.random() * 100), engagement: Math.floor(Math.random() * 10) }; // Fallback para teste
+    }
+
+    try {
+        const insights = ['post_impressions_unique', 'post_engaged_users'];
+        const response = await axios.get(`https://graph.facebook.com/v21.0/${postId}/insights`, {
+            params: {
+                metric: insights.join(','),
+                access_token: accessToken
+            }
+        });
+
+        const metrics = {};
+        response.data.data.forEach(item => {
+            metrics[item.name] = item.values[0].value;
+        });
+
+        return {
+            reach: metrics.post_impressions_unique || 0,
+            engagement: metrics.post_engaged_users || 0
+        };
+    } catch (error) {
+        logger.error(`❌ [FB] Erro ao buscar métricas do post ${postId}: ${error.message}`);
+        return null;
+    }
+}
+
 module.exports = {
     postToFacebook,
-    addCommentToPost
+    addCommentToPost,
+    getPostMetrics
 };

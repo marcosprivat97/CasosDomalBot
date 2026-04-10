@@ -10,6 +10,8 @@ const { postToFacebook, addCommentToPost } = require('../modules/facebook.module
 const { runSchedulerAgent } = require('./scheduler_agent');
 const { createViralCollage } = require('../image');
 const HistoryModule = require('../modules/history.module');
+const AuditorModule = require('../modules/auditor.module');
+const { runCEO } = require('./ceo');
 
 /**
  * ORQUESTRADOR v12.0 - "O MAESTRO ESTRATÉGICO"
@@ -28,7 +30,14 @@ class Orchestrator {
         try {
             logger.important(`🚀 [MASTER] Iniciando Ciclo Viral Elite v12.0`);
             
-            // 1. Contexto e Preparação
+            // 1. Auditoria e Estratégia (O Cérebro Evolutivo)
+            logger.important(`📈 [EVOLUTION] Iniciando auditoria de performance...`);
+            const performanceReport = await AuditorModule.generatePerformanceReport(5);
+            const strategy = await this._safeAgentCall("CEO", () => runCEO({
+                metricas: performanceReport,
+                historico: HistoryModule.getRecentTopics(5)
+            }), { mandatory: ["estrategia_atual", "ordens_redator"] });
+
             const brainContext = BrainModule.getInsightsForAI();
             const lastCase = BrainModule.getBrain().last_case;
 
@@ -41,7 +50,8 @@ class Orchestrator {
                 categoria: forcePilar || preSelectedNews?.category || "Curiosidade",
                 ultimo_tema: lastCase,
                 recent_topics: recentTopics,
-                brain_context: brainContext
+                brain_context: brainContext,
+                ceo_strategy: strategy
             }), { mandatory: ["tema", "nicho", "angulo_chocante", "prompt_web", "prompt_ia"] });
 
             // Verificação Dupla de Segurança (Código)
@@ -55,7 +65,8 @@ class Orchestrator {
                 angulo_chocante: scoutData.angulo_chocante,
                 nicho: scoutData.nicho,
                 fatos_coletados: scoutData.angulo_chocante,
-                brain_context: brainContext
+                brain_context: brainContext,
+                ceo_strategy: strategy
             }), { mandatory: ["texto_principal", "titulo_imagem"], minParagraphs: 6 });
 
             // 4. Estágio: VISUAL (Direção de Arte Smart)
@@ -97,7 +108,7 @@ class Orchestrator {
                 // Pós-Publicação
                 this.handleMonetization(postData.id, scoutData.nicho);
                 BrainModule.updateBrain({ last_case: scoutData.tema });
-                HistoryModule.recordTopic(scoutData.tema);
+                HistoryModule.recordTopic(scoutData.tema, postData.id);
             }
 
             logger.important(`✅ [SUCESSO] Ciclo v12.0 finalizado com ID: ${postData.id}`);

@@ -32,8 +32,9 @@ const HistoryModule = {
         const cleanTitle = title.toLowerCase().trim();
         
         return history.posted_topics.some(t => {
-            const cleanExisting = t.toLowerCase().trim();
-            // Check para igualdade exata ou se um contém o outro (títulos similares)
+            const existingTitle = (typeof t === 'string' ? t : t.tema) || "";
+            const cleanExisting = existingTitle.toLowerCase().trim();
+            
             return cleanExisting === cleanTitle || 
                    (cleanTitle.length > 10 && cleanExisting.includes(cleanTitle)) ||
                    (cleanExisting.length > 10 && cleanTitle.includes(cleanExisting));
@@ -41,15 +42,25 @@ const HistoryModule = {
     },
 
     /**
-     * Registra um novo tema no histórico
+     * Registra um novo tema no histórico com metadados
      */
-    recordTopic(title) {
+    recordTopic(title, postId = null) {
         if (!title) return;
         this._initHistory();
         try {
             const history = this.getHistory();
-            if (!history.posted_topics.includes(title)) {
-                history.posted_topics.push(title);
+            
+            // Verifica duplicata exata no nível de objeto para evitar sujeira
+            const exists = history.posted_topics.some(t => 
+                (typeof t === 'string' ? t : t.tema) === title
+            );
+
+            if (!exists) {
+                history.posted_topics.push({
+                    tema: title,
+                    id: postId,
+                    timestamp: new Date().toISOString()
+                });
                 
                 // Limite técnico de 2000 temas para não explodir o JSON
                 if (history.posted_topics.length > 2000) {
@@ -57,7 +68,7 @@ const HistoryModule = {
                 }
                 
                 fs.writeFileSync(historyPath, JSON.stringify(history, null, 2));
-                logger.info(`📝 [HISTORY] Tema registrado com sucesso: ${title}`);
+                logger.info(`📝 [HISTORY] Tema registrado com sucesso: ${title} (ID: ${postId})`);
             }
         } catch (e) {
             logger.error(`❌ Erro ao salvar histórico: ${e.message}`);
@@ -65,11 +76,21 @@ const HistoryModule = {
     },
 
     /**
-     * Retorna os temas mais recentes para passar no prompt da IA
+     * Retorna os temas mais recentes
      */
     getRecentTopics(limit = 50) {
         const history = this.getHistory();
-        return history.posted_topics.slice(-limit).reverse();
+        return history.posted_topics.slice(-limit).reverse().map(t => 
+            typeof t === 'string' ? t : t.tema
+        );
+    },
+
+    /**
+     * Retorna os últimos records completos para auditoria
+     */
+    getRecentRecords(limit = 10) {
+        const history = this.getHistory();
+        return history.posted_topics.slice(-limit).filter(t => typeof t === 'object');
     }
 };
 
