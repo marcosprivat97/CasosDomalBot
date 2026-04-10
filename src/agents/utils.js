@@ -272,7 +272,7 @@ function parseGroqResponse(response) {
         if (raw.length > 100) {
             return {
                 texto_principal: raw,
-                texto_formatado: raw,
+                legenda_formatada: raw,
                 tema: "Caso Detectado",
                 titulo_imagem: "Cena do Caso"
             };

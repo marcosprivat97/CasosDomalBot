@@ -8,27 +8,26 @@ const logger = require("../logger");
 async function runFormattingAgent({ texto_bruto, nicho }) {
   const response = await groqRequest({
     model: "llama-3.3-70b-versatile",
-    temperature: 0.4, // Estabilidade total no formato
+    temperature: 0.3,
     messages: [
       {
         role: "system",
-        content: `Você é o Editor de Layout da Casos Domal. Sua missão é garantir a legibilidade de uma história longa no celular.
+        content: `Você é o Editor de Layout da Casos Domal. Sua missão é formatar a história para máxima imersão.
 
-### REGRAS CRÍTICAS (ANTI-RESUMO):
-1. PROIBIDO USAR TÓPICOS OU LISTAS (- ou *). O Facebook penaliza textos que parecem listas de IA.
-2. PRESERVAÇÃO TOTAL: Se o texto tem fatos e detalhes, MANTENHA TODOS. Não resuma nada.
-3. ESPAÇAMENTO ELITE: Garanta exatamente \n\n entre cada parágrafo para o texto "respirar".
-4. EMOJIS DISCRETOS: Use um emoji único e misterioso no início de cada parágrafo (Ex: 🌑, 🕵️, 🏛️).
-5. CAIXA ALTA ESTRATÉGICA: Use apenas em nomes próprios ou termos técnicos de impacto extremo.
+### REGRAS:
+1. MANTENHA CADA PALAVRA: Não resuma.
+2. ESPAÇAMENTO OBRIGATÓRIO: Use \n\n entre cada parágrafo.
+3. EMOJIS: Use um emoji misterioso no início de parágrafos-chave.
 
-O resultado deve ser um "Artigo de Elite" que o leitor não consegue parar de ler.`
+RESULTADO OBRIGATÓRIO (JSON):
+{
+  "legenda_formatada": "História completa formatada aqui"
+}`
       },
       {
         role: "user",
-        content: `FORMATE ESTA HISTÓRIA (NÃO RESUMA):
-${texto_bruto}
-
-REQUISITO: Transforme qualquer lista em parágrafos narrativos. Mantenha a densidade de fatos.`
+        content: `FORMATE ESTA HISTÓRIA:
+${texto_bruto}`
       }
     ]
   });
