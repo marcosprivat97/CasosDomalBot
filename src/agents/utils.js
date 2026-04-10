@@ -474,6 +474,7 @@ module.exports = {
     parseGroqResponse, 
     novaApiRequest,
     siliconFlowRequest,
+    masterBrainRequest,
     searchImages,
     generateImageViaAI
 };
