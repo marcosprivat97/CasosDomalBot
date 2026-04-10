@@ -6,16 +6,38 @@ const { Groq } = require("groq-sdk");
 
 const logger = require("../logger");
 
-const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
-const siliconKey = (process.env.SILICONFLOW_API_KEY || "").trim();
+// CONFIGURAÇÃO MULTI-ENGINE (RODÍZIO DE CHAVES)
+function getGroqClient() {
+    const status = getSharedStatus();
+    const keyIndex = status.groq_key_index || 0;
+    const keys = [
+        (process.env.GROQ_API_KEY || "").trim(),
+        (process.env.GROQ_API_KEY_2 || "").trim()
+    ].filter(k => k.startsWith("gsk_"));
 
+    const apiKey = keys[keyIndex] || keys[0];
+    if (!apiKey) {
+        logger.error("🛑 [CRÍTICO] Nenhuma chave do Groq encontrada!");
+        return null;
+    }
 
-if (!siliconKey) {
-    logger.error("🛑 [ALERTA] SILICONFLOW_API_KEY não encontrada no ambiente!");
-} else {
-    const maskedKey = siliconKey.substring(0, 5) + "..." + siliconKey.substring(siliconKey.length - 4);
-    logger.info(`✅ [INFO] SILICONFLOW_API_KEY carregada: ${maskedKey} (Tam: ${siliconKey.length})`);
+    return { 
+        client: new Groq({ apiKey }), 
+        index: keyIndex, 
+        total: keys.length,
+        next: () => {
+            const nextIndex = (keyIndex + 1) % keys.length;
+            saveSharedStatus({ groq_key_index: nextIndex });
+            logger.important(`🔄 [FAILOVER] Alternando chave do Groq para Motor #${nextIndex + 1}`);
+        }
+    };
 }
+
+const siliconKey = (process.env.SILICONFLOW_API_KEY || "").trim();
+const geminiKey = (process.env.GEMINI_API_KEY || "").trim();
+
+if (!siliconKey) logger.warn("⚠️ SILICONFLOW_API_KEY ausente.");
+if (!geminiKey) logger.warn("⚠️ GEMINI_API_KEY ausente (Reserva Suprema).");
 
 
 
@@ -184,38 +206,72 @@ async function siliconFlowRequest(options) {
 
 
 /**
- * MASTER BRAIN v12.3: Garante o uso apenas de modelos GIGANTES (70B+ / DeepSeek-V3).
- * Ignora modelos pequenos (8B) para garantir profundidade narrativa.
+ * GEMINI REQUEST: A Reserva Suprema (v12.4)
+ */
+async function geminiRequest(options) {
+    if (!geminiKey) return null;
+    logger.info(`🌟 [GEMINI] Acionando Google Gemini 1.5 Pro...`);
+    try {
+        const response = await axios.post(
+            `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=${geminiKey}`,
+            {
+                contents: [{ parts: [{ text: options.messages.map(m => m.content).join("\n") }] }],
+                generationConfig: {
+                    temperature: options.temperature || 0.7,
+                    maxOutputTokens: options.max_tokens || 1000
+                }
+            },
+            { timeout: 30000 }
+        );
+        const text = response.data.candidates[0].content.parts[0].text;
+        return { choices: [{ message: { content: text } }] };
+    } catch (e) {
+        logger.error(`❌ Gemini falhou: ${e.message}`);
+        return null;
+    }
+}
+
+/**
+ * MASTER BRAIN v12.4: Sistema de Contingência Multi-Core
  */
 async function masterBrainRequest(options, retries = 3) {
     logger.info(`🧠 [MASTER BRAIN] Iniciando requisição de alta performance...`);
 
-    // 1. TENTA SILICONFLOW (DeepSeek-V3 ou Llama-70B) - O Cérebro mais forte hoje
+    // 1. TENTA SILICONFLOW
     if (siliconKey) {
         const silicon = await siliconFlowRequest(options);
         if (silicon) return silicon;
     }
 
-    // 2. TENTA GROQ (Apenas Modelos de 70B+)
-    const strongGroqModels = ["llama-3.3-70b-versatile", "llama-3.1-70b-versatile"];
-    for (const model of strongGroqModels) {
-        try {
-            logger.warn(`🔄 [MASTER BRAIN] Tentando Groq Premium: ${model}`);
-            const response = await groq.chat.completions.create({
-                ...options,
-                model: model
-            });
-            return response;
-        } catch (e) {
-            logger.error(`⚠️ Groq ${model} falhou: ${e.message}`);
+    // 2. TENTA GROQ (Com Rodízio de Chaves)
+    const groqInfo = getGroqClient();
+    if (groqInfo) {
+        const strongModels = ["llama-3.3-70b-versatile", "llama-3.1-70b-versatile"];
+        for (const model of strongModels) {
+            try {
+                logger.warn(`🔄 [MASTER BRAIN] Tentando Groq Premium (${model}) no Motor #${groqInfo.index + 1}`);
+                const response = await groqInfo.client.chat.completions.create({ ...options, model });
+                return response;
+            } catch (e) {
+                if (e.status === 429) {
+                    logger.error(`🛑 Motor #${groqInfo.index + 1} sgeotado. Tentando próximo...`);
+                    groqInfo.next();
+                    return masterBrainRequest(options, retries - 1); // Tenta novamente com a nova chave
+                }
+                logger.error(`⚠️ Groq ${model} falhou: ${e.message}`);
+            }
         }
     }
 
-    // 3. TENTA SAMBANOVA (Llama-3.1-70B)
+    // 3. TENTA GEMINI (Reserva Suprema)
+    const gemini = await geminiRequest(options);
+    if (gemini) return gemini;
+
+    // 4. TENTA SAMBANOVA
     const nova = await novaApiRequest(options);
     if (nova) return nova;
 
-    throw new Error("❌ FALHA TOTAL: Todos os Cérebro Mestres estão offline ou sem cota.");
+    throw new Error("❌ FALHA TOTAL: Todos os sistemas de IA estão offline ou sem cota.");
 }
 
 
@@ -224,41 +280,45 @@ async function groqRequest(options, retries = 5, delay = 3000) {
     let currentSharedIndex = status.index || 0;
     
     for (let i = 0; i < retries; i++) {
-        const currentModel = models[currentSharedIndex];
-        const requestOptions = {
-            model: currentModel,
-            ...options
-        };
+        const groqInfo = getGroqClient();
+        if (!groqInfo) break;
 
+        const currentModel = models[currentSharedIndex];
         try {
-            const response = await groq.chat.completions.create(requestOptions);
+            const response = await groqInfo.client.chat.completions.create({ model: currentModel, ...options });
             return response;
         } catch (error) {
             const errorMsg = error.message || "";
-            const status = error.status || (error.response ? error.response.status : null);
-            const isRateLimit = status === 429 || errorMsg.includes("Rate limit");
-            const isDecommissioned = errorMsg.includes("decommissioned") || status === 400;
-
-            if ((isRateLimit || isDecommissioned) && currentSharedIndex < models.length - 1) {
-                currentSharedIndex++;
-                saveSharedStatus({ index: currentSharedIndex });
-                logger.warn(`🔄 [BACKUP GROQ] Mudando GLOBALMENTE para: ${models[currentSharedIndex]}`);
-                i--; continue;
-            }
-
-            // Exauriu Groq -> Tenta SiliconFlow (NOVO CÉREBRO PRINCIPAL DE BACKUP)
-            if (isRateLimit && currentSharedIndex === models.length - 1) {
-                const siliconResponse = await siliconFlowRequest(options);
-                if (siliconResponse) return siliconResponse;
-
-                const novaResponse = await novaApiRequest(options);
-                if (novaResponse) return novaResponse;
-            }
-
+            const statusErr = error.status || (error.response ? error.response.status : null);
+            const isRateLimit = statusErr === 429 || errorMsg.includes("Rate limit");
             
-            if (isRateLimit && i < retries - 1) {
+            if (isRateLimit) {
+                // Se o erro for de limite, tentamos trocar a chave primeiro
+                logger.error(`🛑 Limite no Motor #${groqInfo.index + 1}. Rotacionando chaves...`);
+                groqInfo.next();
+                
+                // Se ainda tivermos modelos para testar no Groq, tentamos o próximo modelo com a nova chave
+                if (currentSharedIndex < models.length - 1) {
+                    currentSharedIndex++;
+                    saveSharedStatus({ index: currentSharedIndex });
+                    logger.warn(`🔄 [BACKUP] Mudando para modelo ${models[currentSharedIndex]} com nova chave.`);
+                    i--; continue;
+                }
+                
+                // Se esgotamos as chaves e modelos, tentamos reservas externas
+                const silicon = await siliconFlowRequest(options);
+                if (silicon) return silicon;
+
+                const gemini = await geminiRequest(options);
+                if (gemini) return gemini;
+
+                const nova = await novaApiRequest(options);
+                if (nova) return nova;
+            }
+
+            if (i < retries - 1) {
                 const waitTime = delay * Math.pow(2, i);
-                logger.warn(`⏳ Aguardando liberação de cota (Tentativa ${i+1}/${retries})...`);
+                logger.warn(`⏳ Aguardando liberação (Tentativa ${i+1}/${retries})...`);
                 await new Promise(r => setTimeout(r, waitTime));
                 continue;
             }
