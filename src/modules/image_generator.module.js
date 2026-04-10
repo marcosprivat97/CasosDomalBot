@@ -18,7 +18,8 @@ class ImageGeneratorModule {
      * Ciclo Elite v12.0: Provedores Sucessivos & Validação
      */
     async generate(theme, visualData = {}, forcedPriority = null) {
-        const query = visualData.busca_foto_1 || visualData.palavra_chave_busca || theme;
+        // CORREÇÃO: theme (argumento específico) deve vir antes de campos genéricos do objeto
+        const query = theme || visualData.busca_foto_1 || visualData.palavra_chave_busca;
         const layout = visualData.decisao_layout || 'single_foto';
 
         // Suporte para Collages (Dual)
@@ -123,9 +124,9 @@ class ImageGeneratorModule {
     }
 
     async _generateDual(theme, visualData) {
-        logger.info(`🎭 [DUAL MODE] Gerando composição de duas imagens...`);
-        const img1 = await this.generate(visualData.busca_foto_1 || theme, { ...visualData, decisao_layout: 'single' });
-        const img2 = await this.generate(visualData.busca_foto_2 || theme, { ...visualData, decisao_layout: 'single' });
+        logger.info(`🎭 [HYBRID DUAL] FOTO 1 (WEB) + FOTO 2 (IA)...`);
+        const img1 = await this.generate(visualData.busca_foto_1 || theme, { ...visualData, decisao_layout: 'single' }, 'web');
+        const img2 = await this.generate(visualData.busca_foto_2 || theme, { ...visualData, decisao_layout: 'single' }, 'ai');
         return (img1 && img2) ? { img1, img2 } : (img1 || img2);
     }
 }
