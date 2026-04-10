@@ -5,7 +5,7 @@ const logger = require("../logger");
  * Agente 3: Diretor de Arte v12.0 (Smart Layout Engine)
  * Especialista em "Visual Viral" e fusão de conceitos bizarros.
  */
-async function runVisualDirector({ tema, angulo_chocante, titulo_imagem, resumo_historia, historico_estilos }) {
+async function runVisualDirector({ tema, angulo_chocante, titulo_imagem, prompt_web, prompt_ia, resumo_historia, historico_estilos }) {
   const strategy = getCEOStrategy();
   const ordensVisual = strategy && strategy.ordens_diretor_visual ? strategy.ordens_diretor_visual.join(", ") : "Focar em realismo, mistério e impacto visual.";
 
@@ -17,22 +17,22 @@ async function runVisualDirector({ tema, angulo_chocante, titulo_imagem, resumo_
         role: "system",
         content: `Você é o Diretor de Arte Sênior v12.0. Sua missão é criar a imagem mais "clicável" e chocante possível.
 
-### MOTOR DE LAYOUT INTELIGENTE:
-- SINGLE_FOTO: Use apenas se houver um ÚNICO objeto central de impacto extremo.
-- DUAL_COLLAGE: Use sempre que houver CONTRASTE (ex: Antes/Depois, Objeto A + Objeto B, Local + Personagem). 
-  *Exemplo: Se a história é sobre um carro que virou piscina, você PRECISA de uma collage ou uma fusão.*
+### ESTRATÉGIA HÍBRIDA (WEB + IA):
+O Caçador (Scout) sugeriu estes conceitos:
+- REAL (PROMPT_WEB): ${prompt_web}
+- ARTÍSTICO (PROMPT_IA): ${prompt_ia}
 
-### DIRETRIZ DE FUSÃO (AI PROMPT):
-- Se o caso envolve uma modificação bizarra (ex: Fusca Piscina), o "prompt_flux" deve descrever a FUSÃO dos dois elementos em um único objeto realista.
+### MOTOR DE LAYOUT:
+- DUAL_COLLAGE: USE SEMPRE que puder mostrar um contraste. Coloque a foto REAL (Web) de um lado e a geração IA (Dramática) do outro.
 
 FORMATO DE RESPOSTA OBRIGATÓRIO (JSON):
 {
-  "decisao_layout": "single_foto" ou "dual_collage",
-  "busca_foto_1": "termos em INGLÊS focados no ELEMENTO 1",
-  "busca_foto_2": "termos em INGLÊS focados no ELEMENTO 2",
-  "prompt_flux": "prompt em INGLÊS fundindo os conceitos principais com ultra-realismo",
-  "motivo_estrategico": "Explicação curta de por que este layout é mais viral"
-}
+  "decisao_layout": "dual_collage",
+  "busca_foto_1": "REFINAMENTO do prompt_web (em inglês)",
+  "busca_foto_2": "REFINAMENTO do prompt_ia (em inglês)",
+  "prompt_flux": "Prompt de FUSÃO para IA caso o layout mude para single",
+  "motivo_estrategico": "Explicação"
+}`
 
 Retorne SOMENTE JSON válido.`
       },

@@ -29,13 +29,14 @@ CATEGORIAS MESTRE:
 DIRETRIZ VISUAL:
 - Gere "query_rara": Um termo técnico em INGLÊS para buscar a foto real documental (Ex: "fujifilm documentary photography street scene Brazil"). Evite termos genéricos.
 
-FORMATO DE RESPOSTA OBRIGATÓRIO (JSON):
+RESULTADO OBRIGATÓRIO (JSON):
 {
   "tema": "Título do caso",
-  "nicho": "Categoria (Brasil Misterioso / Só acontece no Brasil / Alerta)",
+  "nicho": "Categoria",
   "angulo_chocante": "O ponto de curiosidade extrema",
-  "query_rara": "Termo de busca em inglês",
-  "emocao_alvo": "Emoção principal"
+  "prompt_web": "Termo de busca em inglês focado no FATO REAL/OBJETO",
+  "prompt_ia": "Prompt detalhado em inglês para IA focado em CONTEXTO/DRAMA/MISTÉRIO",
+  "emocao_alvo": "Emoção"
 }
 
 Retorne SOMENTE JSON válido.`

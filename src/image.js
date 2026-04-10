@@ -46,9 +46,16 @@ async function createViralCollage(image1Buffer, image2Buffer, title, subtitle = 
     // 1. Processar Imagem(s) com Boost de Qualidade
     let baseImage;
     if (image2Buffer && !isStory) {
+      // SEGURANÇA: Se as imagens forem idênticas, espelha a segunda para dar variedade
+      let secondImgBuffer = image2Buffer;
+      if (image1Buffer.equals(image2Buffer)) {
+        logger.warn(`⚠️ [IMAGE] Imagens idênticas detectadas. Aplicando espelhamento de segurança.`);
+        secondImgBuffer = await sharp(image2Buffer).flop().toBuffer();
+      }
+
       logger.info(`✨ Aplicando Filtros de Nitidez e Qualidade (Dual Mode)...`);
       const img1 = await boostImageQuality(image1Buffer, WIDTH / 2, HEIGHT);
-      const img2 = await boostImageQuality(image2Buffer, WIDTH / 2, HEIGHT);
+      const img2 = await boostImageQuality(secondImgBuffer, WIDTH / 2, HEIGHT);
       
       baseImage = await sharp({
         create: { width: WIDTH, height: HEIGHT, channels: 4, background: { r: 17, g: 17, b: 17, alpha: 1 } }

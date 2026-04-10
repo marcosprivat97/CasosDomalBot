@@ -63,6 +63,8 @@ class Orchestrator {
                 tema: scoutData.tema,
                 angulo_chocante: scoutData.angulo_chocante,
                 titulo_imagem: pauta.titulo_imagem,
+                prompt_web: scoutData.prompt_web,
+                prompt_ia: scoutData.prompt_ia,
                 resumo_historia: pauta.texto_principal,
                 historico_estilos: lastCase
             }), { mandatory: ["decisao_layout", "busca_foto_1", "prompt_flux"] });
