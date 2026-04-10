@@ -54,4 +54,12 @@ jobs:
           git config --global user.name "Domal Cloud Bot"
           git config --global user.email "bot@casosdomal.com"
           git add data/*.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Memória: Ciclo finalizado e histórico atualizado" && git push)
+          # Só tenta commitar e subir se houver mudanças nos arquivos JSON
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            git commit -m "🤖 Memória: Ciclo finalizado e histórico atualizado"
+            # Pull com rebase para evitar conflitos se o repositório foi atualizado externamente
+            git pull --rebase origin ${{ github.ref_name }}
+            git push origin ${{ github.ref_name }}
+          else
+            echo "Nenhuma mudança na memória detectada."
+          fi
