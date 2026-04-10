@@ -144,39 +144,52 @@ async function novaApiRequest(options, retries = 3) {
 
 
 /**
- * MASTER BRAIN v12.7: Sistema de Contingência com Downscaling Automático
+ * MASTER BRAIN v12.7: Sistema de Contingência com Downscaling Automático e Multi-Motor
  */
 async function masterBrainRequest(options, retries = 3) {
     logger.info(`🧠 [MASTER BRAIN] Iniciando requisição de alta performance...`);
 
     // 1. TENTA GROQ (NÍVEL MESTRE: 70B+)
-    const groqInfo = getGroqClient();
-    if (groqInfo) {
-        const masterModels = ["llama-3.3-70b-versatile", "llama-3-70b-8192"];
-        for (const model of masterModels) {
+    const masterModels = ["llama-3.3-70b-versatile", "llama-3-70b-8192"];
+    for (const model of masterModels) {
+        // Para cada modelo mestre, tentamos TODOS os motores disponíveis (Chave 1 e 2)
+        for (let motorTry = 0; motorTry < 2; motorTry++) {
+            const groqInfo = getGroqClient();
+            if (!groqInfo) break;
+
             try {
-                logger.warn(`🔄 [MASTER BRAIN] Tentando Modelo Mestre (${model}) no Motor #${groqInfo.index + 1}`);
+                logger.warn(`🔄 [MASTER BRAIN] Tentando 70B (${model}) no Motor #${groqInfo.index + 1} (Tentativa ${motorTry + 1}/2)`);
                 const response = await groqInfo.client.chat.completions.create({ ...options, model });
                 return response;
             } catch (e) {
-                const isRateLimit = e.status === 429;
-                if (isRateLimit) {
+                if (e.status === 429) {
                     logger.error(`🛑 Motor #${groqInfo.index + 1} sem cota para 70B. Rotacionando...`);
                     groqInfo.next();
-                    // Continua para o próximo motor ou modelo
+                } else {
+                    logger.error(`⚠️ Erro no Groq ${model}: ${e.message}`);
+                    break; // Se não for erro de cota, pula para o próximo modelo
                 }
             }
         }
+    }
 
-        // 2. LIFEBOAT CLASSE (8B): Caso o 70B falhe em todos os motores, tentamos o 8B para não parar o bot
-        const lifeboats = ["llama-3.1-8b-instant", "gemma2-9b-it"];
-        for (const model of lifeboats) {
+    // 2. LIFEBOAT CLASSE (8B): Caso o 70B falhe em todos os motores, tentamos o 8B (também em todos os motores)
+    const lifeboats = ["llama-3.1-8b-instant", "gemma2-9b-it"];
+    for (const model of lifeboats) {
+        for (let motorTry = 0; motorTry < 2; motorTry++) {
+            const groqInfo = getGroqClient();
+            if (!groqInfo) break;
+
             try {
-                logger.important(`🛶 [LIFEBOAT] Tentando Modelo de Resgate (${model}) no Motor #${groqInfo.index + 1}`);
+                logger.important(`🛶 [LIFEBOAT] Tentando 8B de Resgate (${model}) no Motor #${groqInfo.index + 1}`);
                 const response = await groqInfo.client.chat.completions.create({ ...options, model });
                 return response;
             } catch (e) {
-                // Se até o 8B falhar, o problema é grave
+                if (e.status === 429) {
+                    groqInfo.next();
+                } else {
+                    break;
+                }
             }
         }
     }
@@ -185,7 +198,7 @@ async function masterBrainRequest(options, retries = 3) {
     const nova = await novaApiRequest(options);
     if (nova) return nova;
 
-    throw new Error("❌ FALHA TOTAL: Todos os sistemas (70B, 8B e SambaNova) estão sem cota.");
+    throw new Error("❌ FALHA TOTAL: Todos os motores e modelos (70B, 8B e SambaNova) estão sem cota.");
 }
 
 
