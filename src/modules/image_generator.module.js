@@ -6,146 +6,127 @@ const logger = require('../logger');
 
 class ImageGeneratorModule {
     constructor() {
-        // Inicialização limpa
+        this.providers = [
+            { name: 'serpapi', priority: 'web', type: 'web' },
+            { name: 'serper', priority: 'web', type: 'web' },
+            { name: 'freepik', priority: 'web', type: 'web' },
+            { name: 'pollinations', priority: 'ai', type: 'ai' }
+        ];
     }
 
-
     /**
-     * Ciclo Mestre de Geração: Web Search (Prioridade) -> IA Generation (Fallback)
+     * Ciclo Elite v12.0: Provedores Sucessivos & Validação
      */
     async generate(theme, visualData = {}) {
-        const query1 = visualData.busca_foto_1 || visualData.palavra_chave_busca || theme;
-        const query2 = visualData.busca_foto_2;
+        const query = visualData.busca_foto_1 || visualData.palavra_chave_busca || theme;
         const layout = visualData.decisao_layout || 'single_foto';
 
-        logger.info(`🔍 [VISUAL] Iniciando busca inteligente (${layout}) para: "${query1}"`);
-
-        // Caso seja DUAL, gera os dois componentes
-        if (layout === 'dual_collage' && query2) {
+        // Suporte para Collages (Dual)
+        if (layout === 'dual_collage' && visualData.busca_foto_2) {
             return await this._generateDual(theme, visualData);
         }
 
-        // Caso seja SINGLE (Padrão)
-        return await this._generateSingle(query1, visualData);
-    }
+        const preferredSource = await this._getPreferredSource();
+        logger.info(`📸 [IMAGE GENERATOR] Iniciando busca para: "${query}" | Preferência: ${preferredSource.toUpperCase()}`);
 
-    async _generateSingle(queryBase, visualData) {
-        // Variações Circulares com Filtros Negativos para evitar Texto/Logo
-        const searchVariations = [
-            `${queryBase} -text -logo -subtitle`, 
-            `${queryBase} real photo -meme -poster`,
-            this._getEnglishSearchTerm(visualData.prompt_flux || queryBase) + ' -text -poster'
-        ];
+        // Reordenar provedores baseado na preferência do sistema
+        const executionPlan = [...this.providers].sort((a, b) => {
+            if (a.priority === preferredSource && b.priority !== preferredSource) return -1;
+            if (a.priority !== preferredSource && b.priority === preferredSource) return 1;
+            return 0;
+        });
 
-        for (let i = 0; i < searchVariations.length; i++) {
+        for (const provider of executionPlan) {
             try {
-                logger.info(`🌐 [WEB SEARCH] Tentativa ${i + 1}/${searchVariations.length}: "${searchVariations[i]}"`);
-                const buffer = await this._tryWebSearch(searchVariations[i]);
-                if (buffer) return buffer;
+                logger.info(`🔄 [PROV] Tentando provedor: ${provider.name.toUpperCase()}...`);
+                const buffer = await this._callProvider(provider, query, visualData);
+                
+                if (await this._validateImage(buffer)) {
+                    logger.important(`✅ [IMAGE] Sucesso via ${provider.name.toUpperCase()}!`);
+                    await this._updateUsage(provider.type);
+                    return buffer;
+                }
             } catch (e) {
-                logger.debug(`⚠️ Falha na busca web ${i + 1}: ${e.message}`);
+                logger.warn(`⚠️ [PROV] ${provider.name.toUpperCase()} falhou: ${e.message}`);
             }
         }
 
-        // Se falhou web, tenta IA
-        return await this._generateFallbackIA(visualData.prompt_flux || queryBase);
-    }
-
-    async _generateDual(theme, visualData) {
-        logger.info(`🎭 [DUAL SEARCH] Buscando 2 temas: "${visualData.busca_foto_1}" e "${visualData.busca_foto_2}"`);
-        
-        const [img1, img2] = await Promise.all([
-            this._generateSingle(visualData.busca_foto_1, visualData),
-            this._generateSingle(visualData.busca_foto_2, visualData)
-        ]);
-
-        if (img1 && img2) {
-            return { img1, img2 }; // Retorna objeto especial para o Orquestrador
-        }
-
-        // Se um dos dois falhou, tenta pelo menos o principal
-        return img1 || img2;
-    }
-
-    async _generateFallbackIA(prompt) {
-        logger.warn(`🚨 [IA FALLBACK] Nenhuma foto real encontrada. Gerando via IA...`);
-        const enhancedPrompt = this._enrichPrompt(prompt);
-        
-        try {
-            const buffer = await this._tryPollinations(enhancedPrompt);
-            if (buffer) return buffer;
-        } catch (e) {
-            logger.warn(`⚠️ [IMAGE IA] Pollinations falhou.`);
-        }
-
-
+        logger.error(`🚨 [FALHA TOTAL] Nenhum provedor conseguiu obter a imagem.`);
         return null;
     }
 
-    async _tryWebSearch(query) {
-        try {
-            const SerpApiModule = require('./serpapi.module');
-            const SerperModule = require('./serper.module');
-            const ImageModule = require('./image.module');
-            
-            // Plano A: SerpApi (Google Images Oficial)
-            try {
-                const serpBuffers = await SerpApiModule.searchImages(query, 1);
-                if (serpBuffers && serpBuffers.length > 0) {
-                    logger.important(`✅ [SERPAPI] Foto REAL obtida!`);
-                    return serpBuffers[0];
-                }
-            } catch (e) {
-                logger.warn(`⚠️ SerpApi falhou, tentando Serper...`);
-            }
+    async _callProvider(provider, query, visualData) {
+        const ImageModule = require('./image.module');
+        const SerpApiModule = require('./serpapi.module');
+        const SerperModule = require('./serper.module');
 
-            // Plano B: Serper.dev (Google Images Fallback)
-            try {
-                const serperBuffers = await SerperModule.searchImages(query, 1);
-                if (serperBuffers && serperBuffers.length > 0) {
-                    logger.important(`✅ [SERPER] Foto REAL obtida via Backup!`);
-                    return serperBuffers[0];
-                }
-            } catch (e) {
-                logger.warn(`⚠️ Serper falhou, tentando Freepik...`);
-            }
-
-            // Plano C: Freepik (Qualidade Premium e Limpa)
-            const freepikBuffer = await ImageModule.searchFreepikImages(query);
-            if (freepikBuffer) {
-                logger.info(`✅ [VISUAL] Foto Premium obtida via Freepik!`);
-                return freepikBuffer;
-            }
-
-            // Plano D: Bing (Fallback de busca aberta)
-            return await ImageModule.searchBingImages(query);
-        } catch (e) {
-            logger.warn(`⚠️ Erro na cadeia de busca web: ${e.message}`);
-            return null;
+        switch (provider.name) {
+            case 'serpapi':
+                const serpRes = await SerpApiModule.searchImages(query, 1);
+                return serpRes[0];
+            case 'serper':
+                const serperRes = await SerperModule.searchImages(query, 1);
+                return serperRes[0];
+            case 'freepik':
+                return await ImageModule.searchFreepikImages(query);
+            case 'pollinations':
+                const prompt = visualData.prompt_flux || visualData.prompt_ia || query;
+                return await this._tryPollinations(this._enrichPrompt(prompt));
+            default:
+                return null;
         }
+    }
+
+    /**
+     * Validação de Qualidade e Integridade (Anti-Corrupção)
+     */
+    async _validateImage(buffer) {
+        if (!buffer || !Buffer.isBuffer(buffer)) return false;
+        
+        // Tamanho mínimo razoável (30KB) para evitar thumbnails ou erros
+        if (buffer.length < 30000) {
+            logger.warn(`⚠️ [VALIDATION] Imagem rejeitada por tamanho insuficiente (${Math.round(buffer.length/1024)}KB)`);
+            return false;
+        }
+
+        return true; // No futuro, usar Sharp aqui para checar dimensões
+    }
+
+    async _getPreferredSource() {
+        const BrainModule = require('./brain.module');
+        const brain = BrainModule.getBrain();
+        const serpUsageToday = brain.serp_usage_today || 0;
+        
+        // Quota Safety: 6 buscas web por dia para economizar SerpApi
+        if (serpUsageToday >= 6) return 'ai';
+        return brain.last_image_source === 'web' ? 'ai' : 'web';
+    }
+
+    async _updateUsage(type) {
+        const BrainModule = require('./brain.module');
+        const updates = { last_image_source: type };
+        if (type === 'web') {
+            const brain = BrainModule.getBrain();
+            updates.serp_usage_today = (brain.serp_usage_today || 0) + 1;
+        }
+        BrainModule.updateBrain(updates);
     }
 
     _enrichPrompt(prompt) {
-        if (prompt.includes('no text')) return prompt;
-        return `RAW photo of ${prompt}, documentary style, fujifilm photography, realistic textures, no text, no logo, no watermark, sharp focus, 8k`;
+        return `Hyper-realistic RAW photo of ${prompt}, documentary style, fujifilm photography, cinematic lighting, 8k, highly detailed, no text, no logo.`;
     }
-
-
 
     async _tryPollinations(prompt) {
-        logger.info(`🌪️ [IMAGE IA] Tentando Reserva (Pollinations)...`);
         const url = `https://image.pollinations.ai/prompt/${encodeURIComponent(prompt)}?width=1024&height=1024&nologo=true&enhance=true`;
-        const response = await axios.get(url, { responseType: 'arraybuffer', timeout: 20000 });
-        if (response.data && response.data.length > 50000) {
-            return Buffer.from(response.data);
-        }
-        return null;
+        const response = await axios.get(url, { responseType: 'arraybuffer', timeout: 30000 });
+        return Buffer.from(response.data);
     }
 
-    _getEnglishSearchTerm(fullPrompt) {
-        if (!fullPrompt) return "";
-        // Tenta pegar o núcleo do assunto antes da vírgula
-        return fullPrompt.split(',')[0].replace(/RAW photo of/i, '').trim();
+    async _generateDual(theme, visualData) {
+        logger.info(`🎭 [DUAL MODE] Gerando composição de duas imagens...`);
+        const img1 = await this.generate(visualData.busca_foto_1 || theme, { ...visualData, decisao_layout: 'single' });
+        const img2 = await this.generate(visualData.busca_foto_2 || theme, { ...visualData, decisao_layout: 'single' });
+        return (img1 && img2) ? { img1, img2 } : (img1 || img2);
     }
 }
 

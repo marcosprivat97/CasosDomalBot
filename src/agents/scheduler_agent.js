@@ -1,52 +1,102 @@
 const { Groq } = require("groq-sdk");
 const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
+/**
+ * Agente: Estrategista de Tráfego v12.0 (Elite)
+ * Gerencia o timing perfeito e o fluxo de posts para máxima tração.
+ */
 async function runSchedulerAgent({ posts_hoje, ultimo_post_horario }) {
-  const agora = new Date().toLocaleTimeString('pt-BR', { hour12: false, hour: '2-digit', minute: '2-digit' });
+  const agoraStr = new Date().toLocaleTimeString('pt-BR', { hour12: false, hour: '2-digit', minute: '2-digit' });
+  const [hora, minuto] = agoraStr.split(':').map(Number);
+  const minutosAtuais = hora * 60 + minuto;
 
   const response = await groq.chat.completions.create({
     model: "llama-3.3-70b-versatile",
-    temperature: 0.2,
+    temperature: 0.2, // Baixa temperatura para precisão lógica
     messages: [
       {
         role: "system",
-        content: `Você é o Estrategista de Tráfego da Casos Domal. Sua missão é garantir que a página poste APENAS nos "Horários de Ouro" para maximizar o alcance orgânico.
+        content: `Você é o "Estrategista de Tráfego Elite v12.0". Sua missão é dominar o algoritmo do Facebook através do Timing Perfeito.
 
-JANELAS DE POSTAGEM (Horário de Brasília):
-1. MANHÃ (Pilar Curiosidade): 08:30 - 09:00
-2. ALMOÇO (Pilar Mistério): 12:15 - 13:00
-3. TARDE (Pilar Alerta/Bizarro): 18:30 - 19:15
-4. NOITE (Pilar História/Interação): 21:30 - 22:15
+JANELAS DE OURO (Horário de Brasília):
+1. MANHÃ (Identificação): 07:15 - 08:30
+2. ALMOÇO (Pico Viral): 12:00 - 13:15
+3. NOITE (Narrativas): 19:15 - 20:30
+4. MADRUGADA (Mistério): 22:30 - 23:30
 
-REGRAS:
-- Se a hora atual estiver fora dessas janelas, "pode_postar_agora" deve ser FALSE.
-- Nunca postar se o intervalo do último post for menor que 3 horas.
+REGRAS DE OURO:
+- Intervalo mínimo de 4 horas entre posts (Obrigatório).
 - Máximo de 4 posts por dia.
+- Calcule o "Score de Oportunidade" (0-100). Só recomende postar se o score for > 85.
 
-Retorne EM JSON VALID:
-{
-  "pode_postar_agora": true ou false,
-  "janela_alvo": "Manhã/Almoço/Tarde/Noite",
-  "motivo": "por que este horário",
-  "minutos_para_aguardar": número,
-  "alerta": "algum aviso importante ou null"
-}`
+Retorne SOMENTE JSON válido.`
       },
       {
         role: "user",
-        content: `Analise o momento atual para postagem:
-Agora são: ${agora}
-Posts realizados hoje: ${posts_hoje}
-Horário do último post: ${ultimo_post_horario || 'Nunca postado hoje'}
+        content: `DADOS DO MOMENTO:
+Hora Atual: ${agoraStr}
+Posts Hoje: ${posts_hoje}
+Último Post: ${ultimo_post_horario || 'Nunca postado hoje'}
 
-Decida se devemos postar agora ou aguardar.`
+Decida se devemos postar agora ou calcular a espera. Responda APENAS o JSON.`
       }
     ]
   });
 
   const raw = response.choices[0].message.content.trim();
-  const jsonMatch = raw.match(/\{[\s\S]*\}/);
-  return JSON.parse(jsonMatch ? jsonMatch[0] : raw);
+  let json;
+
+  // 1. Parsing Robusto
+  try {
+    const jsonMatch = raw.match(/\{[\s\S]*\}/);
+    if (!jsonMatch) throw new Error("JSON não encontrado");
+    json = JSON.parse(jsonMatch[0]);
+  } catch (e) {
+    logger.warn(`🚨 [SCHEDULER] IA falhou no JSON. Ativando Fallback de Segurança.`);
+    json = getLocalFallback(hora, minutosAtuais, posts_hoje, ultimo_post_horario);
+  }
+
+  // 2. Logs Estratégicos
+  if (json.pode_postar_agora) {
+    logger.important(`🎯 [OPORTUNIDADE] Janela: ${json.janela_alvo} | Score: ${json.score_oportunidade || 'N/A'}`);
+    logger.info(`📝 Estratégia: ${json.estrategia_janela}`);
+  } else {
+    logger.info(`⏳ [AGUARDANDO] Próxima Janela: ${json.janela_alvo} (${json.minutos_para_aguardar}min)`);
+  }
+
+  return json;
+}
+
+/**
+ * Lógica de Segurança Local (Fallback)
+ * Garante que o bot funcione mesmo se a IA estiver offline ou errática.
+ */
+function getLocalFallback(hora, totalMinutos, postsHoje, ultimoPost) {
+  const janelas = [
+    { nome: "Manhã", start: 7*60+15, end: 8*60+30 },
+    { nome: "Almoço", start: 12*60, end: 13*60+15 },
+    { nome: "Noite", start: 19*60+15, end: 20*60+30 },
+    { nome: "Madrugada", start: 22*60+30, end: 23*60+30 }
+  ];
+
+  const janelaAtual = janelas.find(j => totalMinutos >= j.start && totalMinutos <= j.end);
+  const proximaJanela = janelas.find(j => j.start > totalMinutos) || janelas[0];
+
+  let podePostar = false;
+  let motivo = "Fora de janelas de pico.";
+
+  if (janelaAtual && postsHoje < 4) {
+    podePostar = true;
+    motivo = "Dentro da janela estratégica (Fallback Local).";
+  }
+
+  return {
+    pode_postar_agora: podePostar,
+    janela_alvo: janelaAtual ? janelaAtual.nome : proximaJanela.nome,
+    minutos_para_aguardar: janelaAtual ? 0 : proximaJanela.start - totalMinutos,
+    estrategia_janela: motivo,
+    score_oportunidade: podePostar ? 90 : 0
+  };
 }
 
 module.exports = { runSchedulerAgent };

@@ -2,9 +2,37 @@ const sharp = require('sharp');
 const logger = require('./logger');
 
 /**
- * Motor de Composicao Visual Elite v11.8 - "Compact Mode 4.1"
- * Design: Selo Vermelho + Espaçamento Ultra Denso + Máxima Visibilidade de Fundo.
+ * Motor de Composicao Visual Elite v12.0 - "Ultra Quality Mode"
+ * Design: Selo Vermelho + Melhoria de Imagem AI-Style + Máxima Nitidez.
  */
+
+/**
+ * Função Auxiliar: Booster de Qualidade (Lanczos3 + Sharpen + Color)
+ */
+async function boostImageQuality(buffer, targetWidth, targetHeight) {
+  try {
+    return await sharp(buffer)
+      .resize(targetWidth, targetHeight, { 
+        fit: 'cover',
+        kernel: sharp.kernel.lanczos3 
+      })
+      .modulate({
+        brightness: 1.05,
+        contrast: 1.1,
+        saturation: 1.15
+      })
+      .sharpen({
+        sigma: 1.2,
+        m1: 0.5,
+        m2: 0.8
+      })
+      .toBuffer();
+  } catch (e) {
+    logger.error(`⚠️ Falha no Booster de Qualidade: ${e.message}`);
+    return buffer;
+  }
+}
+
 async function createViralCollage(image1Buffer, image2Buffer, title, subtitle = "", options = {}) {
   try {
     const isStory = options.type === 'story';
@@ -15,25 +43,43 @@ async function createViralCollage(image1Buffer, image2Buffer, title, subtitle = 
     const WIDTH = 1080;
     const HEIGHT = isStory ? 1920 : 1080;
 
-    // 1. Processar Imagem(s)
+    // 1. Processar Imagem(s) com Boost de Qualidade
     let baseImage;
     if (image2Buffer && !isStory) {
-      const img1 = await sharp(image1Buffer).resize(WIDTH / 2, HEIGHT, { fit: 'cover' }).toBuffer();
-      const img2 = await sharp(image2Buffer).resize(WIDTH / 2, HEIGHT, { fit: 'cover' }).toBuffer();
+      logger.info(`✨ Aplicando Filtros de Nitidez e Qualidade (Dual Mode)...`);
+      const img1 = await boostImageQuality(image1Buffer, WIDTH / 2, HEIGHT);
+      const img2 = await boostImageQuality(image2Buffer, WIDTH / 2, HEIGHT);
+      
       baseImage = await sharp({
         create: { width: WIDTH, height: HEIGHT, channels: 4, background: { r: 17, g: 17, b: 17, alpha: 1 } }
       })
-      .composite([{ input: img1, left: 0, top: 0 }, { input: img2, left: WIDTH / 2, top: 0 }])
+      .composite([
+        { input: img1, left: 0, top: 0 }, 
+        { input: img2, left: WIDTH / 2, top: 0 }
+      ])
       .jpeg()
       .toBuffer();
-      baseImage = await sharp(image1Buffer).resize(WIDTH, HEIGHT, { fit: 'cover' }).toBuffer();
+    } else {
+      logger.info(`✨ Aplicando Filtros de Nitidez e Qualidade (Single Mode)...`);
+      baseImage = await boostImageQuality(image1Buffer, WIDTH, HEIGHT);
     }
 
-    // 2. Efeito Dramático
+    // 2. Efeito Dramático e Textura Ultra
     let processedBase = sharp(baseImage);
-    if (documentaryMode) {
-      processedBase = processedBase.modulate({ brightness: 0.85, contrast: 1.15 });
-    }
+    
+    // Filtro de "Grão Cinematográfico" para mascarar pixelização e dar textura premium
+    const noiseSvg = Buffer.from(`
+      <svg width="${WIDTH}" height="${HEIGHT}">
+        <filter id="grain">
+          <feTurbulence type="fractalNoise" baseFrequency="0.60" numOctaves="3" stitchTiles="stitch" />
+          <feColorMatrix type="saturate" values="0" />
+          <feComponentTransfer>
+            <feFuncA type="linear" slope="0.06" />
+          </feComponentTransfer>
+        </filter>
+        <rect width="100%" height="100%" filter="url(#grain)" />
+      </svg>
+    `);
 
     // 3. Gradiente para Legenda (Apenas no Rodapé)
     const gradientSvg = Buffer.from(`
@@ -127,10 +173,11 @@ async function createViralCollage(image1Buffer, image2Buffer, title, subtitle = 
 
     const finalBuffer = await processedBase
       .composite([
+        { input: noiseSvg, left: 0, top: 0 }, // Camada de Textura Mestra
         { input: gradientSvg, left: 0, top: 0 },
         { input: textSvg, left: 0, top: 0 }
       ])
-      .jpeg({ quality: 90 })
+      .jpeg({ quality: 95 }) // Aumento da qualidade final para 95%
       .toBuffer();
 
     logger.info(`✅ Arte Final Compacta 4.1 Criada!`);

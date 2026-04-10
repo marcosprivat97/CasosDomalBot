@@ -2,52 +2,44 @@ const { groqRequest, getCEOStrategy, parseGroqResponse } = require("./utils");
 const logger = require("../logger");
 
 /**
- * Agente 1 — Caçador de Curiosidades e Fatos Desconhecidos.
- * Especialista em encontrar e pontuar temas reais com alto potencial de engajamento.
+ * Agente 1: Caçador de Tendências v12.0 (Elite)
+ * Especialista em encontrar mistérios e fatos "O Brasileiro precisa ser estudado".
  */
 async function runScout({ titulo, fonte, shares, categoria, ultimo_tema, brain_context }) {
   const strategy = getCEOStrategy();
-  const diretrizesCEO = strategy ? JSON.stringify(strategy) : "Focar em mistérios, ciência, história e futilidades polêmicas.";
+  const diretrizesCEO = strategy ? JSON.stringify(strategy) : "Focar em mistérios, ciência e fatos insólitos.";
 
   const response = await groqRequest({
     model: "llama-3.3-70b-versatile",
-    temperature: 0.5,
+    temperature: 0.6, // Sensibilidade equilibrada para inovação
     messages: [
       {
         role: "system",
-        content: `Sua missão é identificar temas que vão EXPLODIR em compartilhamentos no Facebook Brasil. O seu público são brasileiros de 25-55 anos que adoram mistérios locais, lendas urbanas e HUMOR BIZARRO (coisas que só brasileiro faz).
+        content: `Você é o "Caçador Global de Elite v12.0". Sua missão é encontrar o ouro viral escondido para o público brasileiro.
 
-CATEGORIAS MESTRE (DNA Brasil):
-1. BRASIL MISTERIOSO (40%): Casos de OVNIs, cidades perdidas na Amazônia, arquivos militares secretos do Brasil.
-2. HUMOR BIZARRO / SÓ NO BRASIL (40%): "O brasileiro precisa ser estudado pela NASA". Gambiarras surreais, flagras absurdos, situações cômicas que parecem mentira.
-3. ALERTA / CURIOSIDADE NACIONAL (20%): Fatos chocantes sobre o nosso dia a dia, animais estranhos e descobertas arqueológicas no BR.
+CATEGORIAS MESTRE (Obrigatório seguir o Mix):
+1. BRASIL MISTERIOSO (40%): OVNIs no interior, lendas urbanas reais, segredos históricos do BR.
+2. SÓ ACONTECE NO BRASIL (40%): Gambiarras geniais, flagras de rua absurdos, humor bizarro que gera o comentário "Eu amo/odeio meu país".
+3. ALERTA / CURIOSIDADE (20%): Fatos chocantes sobre o cotidiano ou avisos que todos precisam saber.
 
-TOM DE VOZ:
-- Misture o Mistério com o Humor Brasileiro.
-- Use frases como "Não é possível que isso é real", "O dono do Brasil é o brasileiro".
-- O tema deve ser regionalizado e gerar aquele riso de "Onde a gente vive?".
-- Gere curiosidade extrema com uma pitada de deboche.
-`
+DIRETRIZ VISUAL:
+- Gere "query_rara": Um termo técnico em INGLÊS para buscar a foto real documental (Ex: "fujifilm documentary photography street scene Brazil"). Evite termos genéricos.
+
+Retorne SOMENTE JSON válido.`
       },
       {
         role: "user",
-        content: `Avalie este tema capturado dos portais de notícias:
+        content: `ANALISE E VALIDE ESTA PAUTA:
+Título: ${titulo}
+Nicho Sugerido: ${categoria}
+Diretriz CEO: ${diretrizesCEO}
+Último Tema: ${ultimo_tema}
 
-TÍTULO DA NOTÍCIA: ${titulo}
-PORTAL DE ORIGEM: ${fonte}
-COMPARTILHAMENTOS ESTIMADOS: ${shares}
-CATEGORIA: ${categoria}
+REQUISITO:
+- Se o tema for internacional, traga para o contexto brasileiro ("Imagine isso acontecendo aqui").
+- A manchete sugerida para a foto deve ser uma frase completa e chocante.
 
-CONTEXTO ADICIONAL:
-- Público da página: brasileiros de 25 a 45 anos
-- Nicho da página: curiosidades virais, ciência, mistérios, história
-- Seguidores atuais: 21.000
-- Último tema postado: ${ultimo_tema}
-
-DIRETRIZES ATUAIS DO CEO: ${diretrizesCEO}
-
-Avalie o potencial viral deste tema para esta página específica.
-Responda SOMENTE com o JSON especificado no system prompt.`
+Responda APENAS o JSON.`
       }
     ]
   });

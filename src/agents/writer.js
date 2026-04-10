@@ -1,117 +1,55 @@
-const { groqRequest, getCEOStrategy, parseGroqResponse } = require("./utils");
-const logger = require("../logger");
-
 /**
- * Agente 1 — Caçador de Tendências (Scout)
- * Especialista em encontrar mistérios internacionais e fatos virais inéditos.
+ * Agente 2: Redator Viral Elite v12.0
+ * Especialista em Storytelling de Alta Retenção e Hipnose por Texto.
  */
-async function runScout({ titulo, fonte, shares, categoria, ultimo_tema, brain_context }) {
+async function runWriter({ tema, angulo_chocante, nicho, fatos_coletados, criticas_redator, brain_context }) {
   const strategy = getCEOStrategy();
-  const diretrizesCEO = strategy ? JSON.stringify(strategy) : "Focar em mistérios mundiais, ciência proibida e fatos gringos inéditos.";
+  const diretrizesCEO = strategy ? JSON.stringify(strategy) : "Focar em histórias emocionantes e reviravoltas chocantes.";
 
   const response = await groqRequest({
     model: "llama-3.3-70b-versatile",
-    temperature: 0.5,
+    temperature: 0.75, // Ideal para criatividade narrativa
     messages: [
       {
         role: "system",
-        content: `Você é o "Caçador Global" da Casos Domal. CATEGORIAS MESTRE (DNA Brasil):
-1. BRASIL MISTERIOSO (40%): Casos reais de OVNIs, cidades perdidas na Amazônia, arquivos secretos militares BR.
-2. SÓ ACONTECE NO BRASIL / HUMOR (40%): "O Brasileiro precisa ser estudado pela NASA". Gambiarras surreais, flagras absurdos de rua, situações de humor bizarro que parecem mentira mas são reais.
-3. ALERTA / CURIOSIDADE HUMANA (20%): Fatos chocantes sobre o cotidiano, avisos bizarros e descobertas arqueológicas nacionais.
+        content: `Você é o "Escritor Mestre v12.0" da Casos Domal. Sua missão é criar textos que "hipnotizam" o leitor e forçam o compartilhamento.
 
-TOM DE VOZ:
-- Misture o Mistério com o Humor Brasileiro.
-- Use frases como "Não é possível que isso é real", "O dono do Brasil é o brasileiro".
-- O tema deve ser regionalizado e gerar aquele riso de "Onde a gente vive?".
-- Gere curiosidade extrema com uma pitada de deboche.
-2. MANCHETE LONGA E POLÊMICA (CRÍTICO): Diferente de outros portais, sua manchete na foto deve ser uma frase completa, descritiva e altamente instigante. 
-   - Ruim: "ESTUDANTES CRIARAM ROBÔ"
-   - Bom (Fatos Style): "ESTUDANTES BRASILEIROS CRIAM ROBÔ ANTIDRONE PARA A GUERRA E O MUNDO ESTÁ EM ALERTA"
-3. INVESTIGAÇÃO DRAMÁTICA: O texto deve parecer uma revelação de um segredo guardado a sete chaves.`
+### ARQUITETURA DE RETENÇÃO (MÍNIMO 6 PARÁGRAFOS):
+1. O GANCHO (Parágrafo 1): Uma afirmação impossível ou pergunta que "golpeia" a mente do leitor.
+2. O CENÁRIO (Parágrafo 2): Construa a ponte emocional. Onde isso aconteceu? Como era a vida antes do fato?
+3. O INCIDENTE (Parágrafo 3): O início do mistério ou evento bizarro.
+4. A EXPLICAÇÃO/DETALHE (Parágrafo 4): Mergulhe na riqueza de detalhes. Não economize na curiosidade.
+5. A REVIRAVOLTA/MORAL (Parágrafo 5): O momento "Uau". O que ninguém esperava que aconteceu.
+6. A CTA VIVA (Parágrafo 6): Uma pergunta aberta que obrigue o leitor a dar a opinião nos comentários.
+
+### REGRAS DE OURO:
+- JAMAIS comece com "Gente...", "Você sabia?" ou clichês de IA.
+- TEMA: Fatos reais, humor bizarro brasileiro ou mistérios mundiais.
+- FORMATO: Duas quebras de linha (\n\n) entre parágrafos.
+
+Retorne SOMENTE JSON válido.`
       },
       {
         role: "user",
-        content: `Analise o cenário atual e sugira um novo tema viral baseado em fontes internacionais.
-        
-        Último tema abordado: ${ultimo_tema}
-        Diretrizes do CEO: ${diretrizesCEO}
-        
-        - Gere curiosidade extrema sem ser clickbait barato.
+        content: `CRIE A NARRATIVA DEFINITIVA:
+Tema: ${tema}
+Ângulo Chocante: ${angulo_chocante}
+Histórico (Anti-Repetição): ${brain_context}
+Ordens do CEO: ${diretrizesCEO}
 
-RESPOSTA OBRIGATÓRIA:
-Retorne APENAS um objeto JSON válido no formato abaixo, sem nenhum texto antes ou depois:
-{
-  "tema": "nome do caso/tema",
-  "pilar": "Mistério / Alerta / Interação",
-  "score_viral": 0-100,
-  "nicho": "string",
-  "angulo_chocante": "o ponto central polêmico",
-  "titulo_sugerido_foto": "MANCHETE EM CAIXA ALTA",
-  "query_rara": "termo em inglês para busca de imagem real"
-}`
+REQUISITO ESPECIAL:
+- O texto final deve ter no mínimo 6 parágrafos distintos.
+- A voz deve ser a de um contador de histórias sênior que está revelando um segredo incrível.
+
+Responda APENAS o JSON.`
       }
     ]
   });
+
   return parseGroqResponse(response);
 }
 
-/**
- * Agente 2 — Redator Viral Sênior
- * Especialista em transformar fatos brutos em narrativas magnéticas e humanas.
- */
-async function runWriter({ tema, angulo_chocante, tipo_lista, nicho, emocao_alvo, fatos_coletados, criticas_redator, brain_context, modo_curto = false }) {
-  const strategy = getCEOStrategy();
-  
-  const response = await groqRequest({
-    model: "llama-3.3-70b-versatile",
-    temperature: 0.7,
-    messages: [
-      {
-        role: "system",
-        content: `Você é o "Investigador das Sombras" da Casos Domal. Sua missão é transformar fatos brutos em narrativas viciantes que o brasileiro médio sinta vontade de compartilhar IMEDIATAMENTE no grupo da família.
-
-PERSONA:
-Você é aquele narrador de mistérios que não perde a piada. Seu tom é conspiratório, mas com o humor ácido do brasileiro. Trata o leitor como um "brother" que está vendo um absurdo junto com você.
-
-ESTILO DE ESCRITA (Padrão WhatsApp Viral + Humor):
-1. QUEBRA DE TEXTO: Parágrafos curtos (2-3 frases).
-2. ESPAÇAMENTO: Use sempre DUAS QUEBRAS DE LINHA (\n\n) entre parágrafos.
-3. EMOJIS ESTRATÉGICOS: Misture mistério (😱, 🕵️‍♂️) com humor (😂, 🤡, 🚩) dependendo da pauta.
-4. TONE DE VOZ: Use o PT-BR de internet. "Gente, eu tô sem palavras...", "O brasileiro realmente não tem limites", "É cada uma que me aparece...".
-5. GANCHO: A primeira frase deve ser um choque de humor ou bizarria.
-
-REGRAS DE OURO:
-- A ÚLTIMA FRASE deve ser uma pergunta que force o debate ou a risada.
-- Foco em Humor Bizarro Brasileiro e Mistérios Inexplicáveis.
-- Use CAIXA ALTA para ênfase cômica (ex: RIREI, SURREAL, ABSURDO).
-
-RESPOSTA OBRIGATÓRIA:
-Retorne APENAS um objeto JSON válido, sem texto explicativo. Use \n para quebras de linha.
-{
-  "gancho": "...",
-  "texto_principal": "...",
-  "lista": ["...", "...", "...", "...", "..."],
-  "fechamento": "...",
-  "hashtags": ["...", "..."],
-  "titulo_imagem": "...",
-  "subtitulo_imagem": "...",
-  "score_texto": 98,
-  "post_completo": "..."
-}`
-      },
-      {
-        role: "user",
-        content: `Crie o post viral completo sobre este tema aprovado.
-TEMA: ${tema}
-
-CRÍTICAS DO ÚLTIMO POST (aplique as correções):
-${criticas_redator || "Nenhuma"}
-
-Lembre-se: TEM QUE SER UM JSON VÁLIDO. Use \\n para pular linha. Nenhuma quebra física de linha nos textos!
-
-FATOS E DADOS:
-${fatos_coletados}`
+module.exports = { runWriter };{criticas_redator || "Nenhuma"}`
       }
     ]
   });
