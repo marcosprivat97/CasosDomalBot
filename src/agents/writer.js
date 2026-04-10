@@ -32,8 +32,8 @@ async function runWriter({ tema, angulo_chocante, nicho, fatos_coletados, brain_
 ### REGRAS:
 1. MÁXIMO 6 PARÁGRAFOS: Se o texto for maior, condense-o sem perder os fatos.
 2. ESPAÇAMENTO OBRIGATÓRIO: Use \n\n entre cada parágrafo.
-3. EMOJIS: Use um emoji misterioso no início de cada parágrafo.
-4. HASHTAGS: Garanta que existam 3 hashtags no final.
+3. EMOJIS: Comece cada parágrafo com um emoji misterioso.
+4. HASHTAGS: Adicione 3 hashtags virais ao final.
 
 FORMATO DE RESPOSTA (JSON):
 {
