@@ -1,3 +1,15 @@
+const path = require('path');
+const fs = require('fs');
+const logger = require('../logger');
+const BrainModule = require('../modules/brain.module');
+const { runScout } = require('./scout');
+const { runWriter } = require('./writer');
+const { runVisualDirector } = require('./visual');
+const { runFormattingAgent } = require('./formatting_agent');
+const { postToFacebook, addCommentToPost } = require('../modules/facebook.module');
+const { runSchedulerAgent } = require('./scheduler_agent');
+const { createViralCollage } = require('../image');
+
 /**
  * ORQUESTRADOR v12.0 - "O MAESTRO ESTRATÉGICO"
  * Coordena o pipeline viral de ponta a ponta com resiliência de elite.
