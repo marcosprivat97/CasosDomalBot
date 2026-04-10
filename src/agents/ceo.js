@@ -87,7 +87,7 @@ Emita suas novas ordens estratégicas. Responda APENAS o JSON.`
       ordens_diretor_visual: ["Foto única, alta clareza"],
       limite_postagem_dia: 3,
       diagnostico_causa_raiz: "IA falhou no JSON, entrando em modo seguro.",
-      msg_para_equipe": "Mantenham a simplicidade e foco total em identificação emocional."
+      "msg_para_equipe": "Mantenham a simplicidade e foco total em identificação emocional."
     };
   }
 
