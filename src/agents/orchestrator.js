@@ -129,7 +129,8 @@ class Orchestrator {
         setTimeout(async () => {
             try {
                 const products = JSON.parse(fs.readFileSync(productsPath, 'utf8'));
-                const product = products.find(p => p.niche.toLowerCase() === niche.toLowerCase()) || products[0];
+                const safeNiche = (niche || "Geral").toLowerCase();
+                const product = products.find(p => (p.niche || "").toLowerCase() === safeNiche) || products[0];
                 if (product && product.link !== 'SEU_LINK_AQUI') {
                     const comment = `${product.cta}\n\n👉 Confira aqui: ${product.link}`;
                     await addCommentToPost(postId, comment);
