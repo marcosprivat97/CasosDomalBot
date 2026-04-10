@@ -266,6 +266,17 @@ function parseGroqResponse(response) {
     const lastBrace = raw.lastIndexOf('}');
     
     if (firstBrace === -1 || lastBrace === -1) {
+        // Fallback: se não houver chaves, mas o conteúdo parecer ser o texto que queremos,
+        // tentamos envolver em um objeto genérico para não quebrar o pipeline.
+        logger.warn("⚠️ IA não enviou JSON. Tentando reparo de emergência...");
+        if (raw.length > 100) {
+            return {
+                texto_principal: raw,
+                texto_formatado: raw,
+                tema: "Caso Detectado",
+                titulo_imagem: "Cena do Caso"
+            };
+        }
         throw new Error(`A IA não retornou um objeto JSON válido. Resposta: ${raw.substring(0, 50)}...`);
     }
     
