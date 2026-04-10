@@ -9,13 +9,16 @@ const logger = require("../logger");
 // CONFIGURAÇÃO MULTI-ENGINE (RODÍZIO DE CHAVES)
 function getGroqClient() {
     const status = getSharedStatus();
-    const keyIndex = status.groq_key_index || 0;
+    const keyIndex = status.groq_key_index !== undefined ? status.groq_key_index : 0;
     const keys = [
         (process.env.GROQ_API_KEY || "").trim(),
         (process.env.GROQ_API_KEY_2 || "").trim()
     ].filter(k => k.startsWith("gsk_"));
 
-    const apiKey = keys[keyIndex] || keys[0];
+    // Segurança: se o index estiver fora do array, reseta
+    const safeIndex = keyIndex % (keys.length || 1);
+    const apiKey = keys[safeIndex];
+
     if (!apiKey) {
         logger.error("🛑 [CRÍTICO] Nenhuma chave do Groq encontrada!");
         return null;
@@ -23,10 +26,10 @@ function getGroqClient() {
 
     return { 
         client: new Groq({ apiKey }), 
-        index: keyIndex, 
+        index: safeIndex, 
         total: keys.length,
         next: () => {
-            const nextIndex = (keyIndex + 1) % keys.length;
+            const nextIndex = (safeIndex + 1) % keys.length;
             saveSharedStatus({ groq_key_index: nextIndex });
             logger.important(`🔄 [FAILOVER] Alternando chave do Groq para Motor #${nextIndex + 1}`);
         }
@@ -142,80 +145,12 @@ async function novaApiRequest(options, retries = 3) {
 
 
 /**
- * Super Backup: SiliconFlow (DeepSeek-V3 / Llama 3.3)
- * Cota gratuita generosa e alta performance.
- */
-async function siliconFlowRequest(options) {
-    if (!siliconKey) {
-        logger.error("❌ SiliconFlow ignorado: Variável SILICONFLOW_API_KEY está vazia.");
-        return null;
-    }
-
-
-    try {
-        logger.warn(`🚀 [PLANO ÔMEGA+](SILICON) Acionando DeepSeek-V3 via SiliconFlow...`);
-        const response = await axios.post(
-            "https://api.siliconflow.cn/v1/chat/completions",
-            {
-                model: "deepseek-ai/DeepSeek-V3", 
-                messages: options.messages,
-                temperature: options.temperature || 0.7,
-                max_tokens: options.max_tokens || 1000,
-                stream: false
-            },
-            {
-                headers: {
-                    "Authorization": `Bearer ${siliconKey}`,
-                    "Content-Type": "application/json"
-                },
-                timeout: 45000
-            }
-        );
-
-        if (response.data && response.data.choices) {
-            return { choices: [{ message: { content: response.data.choices[0].message.content } }] };
-        }
-        return null;
-    } catch (e) {
-        logger.error(`❌ Falha no SiliconFlow: ${e.response?.data?.error?.message || e.message}`);
-        
-        // Fallback rápido para Llama caso o DeepSeek falhe no SiliconFlow
-        try {
-            logger.warn(`🔄 Tentando Fallback Interno SiliconFlow (Llama 3.3)...`);
-            const response = await axios.post(
-                "https://api.siliconflow.cn/v1/chat/completions",
-                {
-                    model: "meta-llama/Llama-3.3-70B-Instruct",
-                    messages: options.messages,
-                    max_tokens: 1000
-                },
-                {
-                    headers: { "Authorization": `Bearer ${siliconKey}`, "Content-Type": "application/json" },
-                    timeout: 45000
-                }
-            );
-            return { choices: [{ message: { content: response.data.choices[0].message.content } }] };
-        } catch (e2) {
-            logger.error(`❌ Falha Total no SiliconFlow: ${e2.message}`);
-            return null;
-        }
-    }
-}
-
-
-/**
  * MASTER BRAIN v12.4: Sistema de Contingência Multi-Core
  */
 async function masterBrainRequest(options, retries = 3) {
     logger.info(`🧠 [MASTER BRAIN] Iniciando requisição de alta performance...`);
 
-    // 1. TENTA SILICONFLOW
-    if (siliconKey) {
-        const silicon = await siliconFlowRequest(options);
-        if (silicon) return silicon;
-    }
-
-    // 2. TENTA GROQ (Com Rodízio de Chaves)
+    // 1. TENTA GROQ (Com Rodízio de Chaves)
     const groqInfo = getGroqClient();
     if (groqInfo) {
         const strongModels = ["llama-3.3-70b-versatile", "llama-3.1-70b-versatile"];
@@ -228,14 +163,18 @@ async function masterBrainRequest(options, retries = 3) {
                 if (e.status === 429) {
                     logger.error(`🛑 Motor #${groqInfo.index + 1} esgotado. Tentando próximo...`);
                     groqInfo.next();
-                    return masterBrainRequest(options, retries - 1); // Tenta novamente com a nova chave
+                    // Importante: Não damos return imediato aqui para que ele continue o loop ou tente outra chave
+                    const nextGroq = getGroqClient();
+                    if (nextGroq && nextGroq.index !== groqInfo.index) {
+                         return masterBrainRequest(options, retries - 1);
+                    }
                 }
                 logger.error(`⚠️ Groq ${model} falhou: ${e.message}`);
             }
         }
     }
 
-    // 3. TENTA SAMBANOVA
+    // 2. TENTA SAMBANOVA (Fallback Final)
     const nova = await novaApiRequest(options);
     if (nova) return nova;
 
@@ -274,9 +213,6 @@ async function groqRequest(options, retries = 5, delay = 3000) {
                 }
                 
                 // Se esgotamos as chaves e modelos, tentamos reservas externas
-                const silicon = await siliconFlowRequest(options);
-                if (silicon) return silicon;
-
                 const nova = await novaApiRequest(options);
                 if (nova) return nova;
             }
