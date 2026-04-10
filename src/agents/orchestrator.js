@@ -138,14 +138,14 @@ class Orchestrator {
             const words = text.split(/\s+/).length;
             const paragraphs = text.split(/\n\n+/).filter(p => p.trim().length > 10);
 
-            // 1. Validação de Extensão (Mínimo 350 palavras)
-            if (words < 350) {
-                throw new Error(`Texto muito curto (${words} palavras). Mínimo exigido: 350`);
+            // 1. Validação de Extensão (Mínimo 150 palavras)
+            if (words < 150) {
+                throw new Error(`Texto muito curto (${words} palavras). Mínimo exigido: 150`);
             }
 
-            // 2. Validação de Estrutura (Mínimo 6 parágrafos)
-            if (paragraphs.length < 6) {
-                throw new Error(`Estrutura incompleta (${paragraphs.length} parágrafos). Mínimo exigido: 6`);
+            // 2. Validação de Estrutura (Mínimo 4 parágrafos)
+            if (paragraphs.length < 4) {
+                throw new Error(`Estrutura incompleta (${paragraphs.length} parágrafos). Mínimo exigido: 4`);
             }
 
             // 3. Detecção de "Encheção de Linguiça" (Fillers)
