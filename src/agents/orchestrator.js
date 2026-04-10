@@ -42,7 +42,7 @@ class Orchestrator {
                 ultimo_tema: lastCase,
                 recent_topics: recentTopics,
                 brain_context: brainContext
-            }), { mandatory: ["tema", "nicho", "angulo_chocante", "query_rara"] });
+            }), { mandatory: ["tema", "nicho", "angulo_chocante", "prompt_web", "prompt_ia"] });
 
             // Verificação Dupla de Segurança (Código)
             if (HistoryModule.isTopicRepeated(scoutData.tema)) {
