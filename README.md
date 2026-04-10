@@ -1,48 +1,45 @@
-# Antigravity Bot
+# CASOS DOMAL - Viral Maestro v12.0 (Elite Growth Edition) 🚀
 
-Bot automatizado local para gerao e postagem de contedo viral no Facebook baseado em tendncias dirias do Brasil.
+Sistema de elite totalmente autônomo projetado para transformar páginas do Facebook em impérios de milhões de seguidores através de estratégias virais avançadas, storytelling de alta retenção e inteligência visual.
 
-## Pr-requisitos
-- **Node.js LTS** (Recomendado v18+)
-- **PM2** (Gerenciador de processos para rodar 24h)
-  ```powershell
-  npm install -g pm2
-  ```
+## 🧠 Arquitetura de Inteligência (v12.0)
+Este bot opera com um pipeline de agentes profissionais coordenados:
 
-## Configurao (.env)
-Abra o arquivo \`.env\` e preencha com suas credenciais:
-- **GROQ_API_KEY**: Pegue sua chave gratuita em [console.groq.com](https://console.groq.com/keys) (use um modelo Llama 3).
-- **FB_PAGE_ID**: O ID numrico da sua pgina no Facebook.
-- **FB_ACCESS_TOKEN**: Gere um Token de Acesso de Pgina com permisses \`pages_manage_posts\` no [Facebook Developers Portal](https://developers.facebook.com/).
+*   **CEO v12.0**: Cérebro estratégico com memória de longo prazo e lógica de "Recovery Mode" para páginas travadas.
+*   **Maestro Orchestrator**: Gerencia o pipeline Scout -> Writer -> Visual -> Publish com resiliência de nível empresarial.
+*   **Scout DNA Brasil**: Caçador de tendências focado no DNA cultural brasileiro (Mistério, Humor Surreal e Curiosidade).
+*   **Writer Elite Storyteller**: Narrativas de 6+ parágrafos estruturadas para retenção máxima e compartilhamento viral.
+*   **Visual Director (Provider Pattern)**: Sistema resiliente que intercala busca web premium com geração de imagem via IA.
 
-## Instalao
-1. Abra o terminal na pasta do projeto.
-2. Instale as bibliotecas:
-   ```powershell
-   npm install
-   ```
+## 🚀 Execução em Nuvem (GitHub Actions)
+O bot está configurado para rodar 24/7 diretamente na nuvem:
+- **Frequência**: Ciclos de postagem cirúrgica em janelas de pico.
+- **Persistência**: Memória de estratégia sincronizada automaticamente.
+- **Monetização**: Inserção automática de links de afiliados em posts estratégicos.
 
-## Testar Manualmente
-Para verificar se a IA e a postagem esto funcionando agora mesmo, dispare o ciclo manualmente:
+## 🛠️ Configuração e Instalação Local
+
+### Pré-requisitos
+- **Node.js 22+**
+- **PM2** (Para execução local contínua)
+
+### Configuração (.env)
+Preencha as chaves no arquivo `.env`:
+- `GROQ_API_KEY`: Inteligência de Agentes.
+- `SILICONFLOW_API_KEY`: Fallback de IA de Alta Capacidade.
+- `FB_PAGE_ID` & `FB_ACCESS_TOKEN`: Conexão com sua página.
+- `SERP_API_KEY` / `SERPER_API_KEY`: Busca de imagens reais.
+
+### Comandos Úteis
 ```powershell
-node -e "require('\''./src/scheduler'\'').runPost()"
+# Instalação
+npm install
+
+# Execução 24h
+pm2 start ecosystem.config.js
+pm2 logs antigravity-bot
 ```
 
-## Rodar 24h com PM2
-Para deixar o bot rodando em segundo plano e garantir que ele reinicie se o PC ligar ou o processo falhar:
-1. Inicie o bot:
-   ```powershell
-   pm2 start ecosystem.config.js
-   ```
-2. Salve a lista para reinicializao automtica:
-   ```powershell
-   pm2 save
-   pm2 startup
-   ```
+---
+*Desenvolvido com foco em autoridade e crescimento orgânico acelerado.*
 
-## Comandos PM2 teis
-- **Ver Status**: \`pm2 status\`
-- **Ver o bot trabalhando**: \`pm2 logs antigravity-bot\`
-- **Monitoramento Visual**: \`pm2 monit\`
-- **Reiniciar (ps alterar .env)**: \`pm2 restart antigravity-bot\`
-- **Parar o rob**: \`pm2 stop antigravity-bot\`

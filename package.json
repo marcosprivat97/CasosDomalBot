@@ -1,10 +1,11 @@
 {
-  "name": "antigravity-bot",
-  "version": "2.1.0",
-  "description": "Bot automatizado para postagens virais no Facebook com Dashboard de Controle",
-  "main": "src/scheduler.js",
+  "name": "casos-domal-bot",
+  "version": "2.2.0",
+  "description": "Viral Maestro v12.0 (Elite Growth Edition) - Automação Profissional de Tráfego Orgânico",
+  "main": "src/actions_run.js",
   "scripts": {
     "start": "pm2 start ecosystem.config.js",
+    "cloud": "node src/actions_run.js",
     "dev": "cd dashboard && npm run dev",
     "stop": "pm2 stop ecosystem.config.js",
     "restart": "pm2 restart ecosystem.config.js",
