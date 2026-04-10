@@ -9,6 +9,7 @@ const { runFormattingAgent } = require('./formatting_agent');
 const { postToFacebook, addCommentToPost } = require('../modules/facebook.module');
 const { runSchedulerAgent } = require('./scheduler_agent');
 const { createViralCollage } = require('../image');
+const HistoryModule = require('../modules/history.module');
 
 /**
  * ORQUESTRADOR v12.0 - "O MAESTRO ESTRATÉGICO"
@@ -32,13 +33,21 @@ class Orchestrator {
             const lastCase = BrainModule.getBrain().last_case;
 
             // 2. Estágio: SCOUT (Busca de Tendência)
+            const recentTopics = HistoryModule.getRecentTopics(100);
+            
             const scoutData = await this._safeAgentCall("Scout", () => runScout({
                 titulo: preSelectedNews?.title || null,
                 fonte: preSelectedNews?.source || "Global Discovery",
                 categoria: forcePilar || preSelectedNews?.category || "Curiosidade",
                 ultimo_tema: lastCase,
+                recent_topics: recentTopics,
                 brain_context: brainContext
             }), { mandatory: ["tema", "nicho", "angulo_chocante", "query_rara"] });
+
+            // Verificação Dupla de Segurança (Código)
+            if (HistoryModule.isTopicRepeated(scoutData.tema)) {
+                logger.warn(`🚨 [HISTORY] Tema '${scoutData.tema}' já postado. O AGENTE INSISTIU NA REPETIÇÃO.`);
+            }
 
             // 3. Estágio: WRITER (Narrativa Magnética)
             const pauta = await this._safeAgentCall("Writer", () => runWriter({
@@ -86,6 +95,7 @@ class Orchestrator {
                 // Pós-Publicação
                 this.handleMonetization(postData.id, scoutData.nicho);
                 BrainModule.updateBrain({ last_case: scoutData.tema });
+                HistoryModule.recordTopic(scoutData.tema);
             }
 
             logger.important(`✅ [SUCESSO] Ciclo v12.0 finalizado com ID: ${postData.id}`);

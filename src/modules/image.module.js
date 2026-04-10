@@ -32,8 +32,8 @@ class ImageModule {
             
             if (!memory.urls.includes(url)) {
                 memory.urls.push(url);
-                // Manter apenas as últimas 500 imagens para não pesar
-                if (memory.urls.length > 500) memory.urls.shift();
+                // Memória expandida para evitar repetição a longo prazo (5000 itens)
+                if (memory.urls.length > 5000) memory.urls.shift();
                 fs.writeFileSync(this.memoryPath, JSON.stringify(memory, null, 2));
             }
         } catch (e) {
