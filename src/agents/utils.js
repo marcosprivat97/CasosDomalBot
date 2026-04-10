@@ -15,8 +15,12 @@ function getGroqClient() {
         (process.env.GROQ_API_KEY_2 || "").trim()
     ].filter(k => k.startsWith("gsk_"));
 
+    if (keys.length < 2) {
+        logger.warn(`⚠️ [MODO LIMITADO] Apenas ${keys.length} chave(s) do Groq detectada(s). O rodízio automático não irá funcionar plenamente. Verifique se adicionou 'GROQ_API_KEY_2' nos Secrets do GitHub.`);
+    }
+
     // Segurança: se o index estiver fora do array, reseta
-    const safeIndex = keyIndex % (keys.length || 1);
+    const safeIndex = keys.length > 0 ? (keyIndex % keys.length) : 0;
     const apiKey = keys[safeIndex];
 
     if (!apiKey) {
@@ -29,6 +33,7 @@ function getGroqClient() {
         index: safeIndex, 
         total: keys.length,
         next: () => {
+            if (keys.length < 2) return; // Não há para onde rotacionar
             const nextIndex = (safeIndex + 1) % keys.length;
             saveSharedStatus({ groq_key_index: nextIndex });
             logger.important(`🔄 [FAILOVER] Alternando chave do Groq para Motor #${nextIndex + 1}`);
@@ -150,7 +155,7 @@ async function masterBrainRequest(options, retries = 3) {
     logger.info(`🧠 [MASTER BRAIN] Iniciando requisição de alta performance...`);
 
     // 1. TENTA GROQ (NÍVEL MESTRE: 70B+)
-    const masterModels = ["llama-3.3-70b-versatile", "llama-3-70b-8192"];
+    const masterModels = ["llama-3.3-70b-versatile"];
     for (const model of masterModels) {
         // Para cada modelo mestre, tentamos TODOS os motores disponíveis (Chave 1 e 2)
         for (let motorTry = 0; motorTry < 2; motorTry++) {
