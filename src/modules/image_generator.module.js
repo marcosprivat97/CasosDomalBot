@@ -17,22 +17,22 @@ class ImageGeneratorModule {
     /**
      * Ciclo Elite v12.0: Provedores Sucessivos & Validação
      */
-    async generate(theme, visualData = {}) {
+    async generate(theme, visualData = {}, forcedPriority = null) {
         const query = visualData.busca_foto_1 || visualData.palavra_chave_busca || theme;
         const layout = visualData.decisao_layout || 'single_foto';
 
         // Suporte para Collages (Dual)
-        if (layout === 'dual_collage' && visualData.busca_foto_2) {
+        if (layout === 'dual_collage' && visualData.busca_foto_2 && !forcedPriority) {
             return await this._generateDual(theme, visualData);
         }
 
-        const preferredSource = await this._getPreferredSource();
+        const preferredSource = forcedPriority || await this._getPreferredSource();
         logger.info(`📸 [IMAGE GENERATOR] Iniciando busca para: "${query}" | Preferência: ${preferredSource.toUpperCase()}`);
 
         // Reordenar provedores baseado na preferência do sistema
         const executionPlan = [...this.providers].sort((a, b) => {
-            if (a.priority === preferredSource && b.priority !== preferredSource) return -1;
-            if (a.priority !== preferredSource && b.priority === preferredSource) return 1;
+            if (a.type === preferredSource && b.type !== preferredSource) return -1;
+            if (a.type !== preferredSource && b.type === preferredSource) return 1;
             return 0;
         });
 
