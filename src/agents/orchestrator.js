@@ -110,7 +110,7 @@ class Orchestrator {
     }
 
     /**
-     * Validador de Qualidade v12.0
+     * Validador de Qualidade v12.1 (Deep Narrative Edition)
      */
     _validateResult(agentName, result, rules) {
         if (!result || typeof result !== 'object') throw new Error("Resultado não é um objeto válido");
@@ -121,14 +121,30 @@ class Orchestrator {
             }
         }
 
-        if (rules.minParagraphs) {
-            const paragraphs = result.texto_principal.split(/\n\n+/).filter(p => p.trim().length > 10);
-            if (paragraphs.length < rules.minParagraphs) {
-                throw new Error(`O texto tem apenas ${paragraphs.length} parágrafos. Mínimo exigido: ${rules.minParagraphs}`);
+        if (agentName === "Writer") {
+            const text = result.texto_principal;
+            const words = text.split(/\s+/).length;
+            const paragraphs = text.split(/\n\n+/).filter(p => p.trim().length > 10);
+
+            // 1. Validação de Extensão (Mínimo 350 palavras)
+            if (words < 350) {
+                throw new Error(`Texto muito curto (${words} palavras). Mínimo exigido: 350`);
+            }
+
+            // 2. Validação de Estrutura (Mínimo 6 parágrafos)
+            if (paragraphs.length < 6) {
+                throw new Error(`Estrutura incompleta (${paragraphs.length} parágrafos). Mínimo exigido: 6`);
+            }
+
+            // 3. Detecção de "Encheção de Linguiça" (Fillers)
+            const fillers = ["estou sem palavras", "mundo está louco", "isso é bizarro", "eu não imaginava", "brasileiro não tem limites"];
+            const fillerHits = fillers.filter(f => text.toLowerCase().includes(f));
+            if (fillerHits.length > 3) {
+                throw new Error(`Detectado excesso de frases genéricas (${fillerHits.length}). Foque nos fatos!`);
             }
         }
 
-        logger.info(`✅ [VALIDATION] ${agentName}: Integridade confirmada.`);
+        logger.info(`✅ [VALIDATION] ${agentName}: Integridade e Densidade confirmadas.`);
     }
 
     async _createFinalCollage(visualResult, pauta) {

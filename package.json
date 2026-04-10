@@ -1,6 +1,6 @@
 {
   "name": "casos-domal-bot",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Viral Maestro v12.0 (Elite Growth Edition) - Automação Profissional de Tráfego Orgânico",
   "main": "src/actions_run.js",
   "scripts": {
