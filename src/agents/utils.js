@@ -49,9 +49,8 @@ if (!siliconKey) logger.warn("⚠️ SILICONFLOW_API_KEY ausente.");
  */
 const API_STATUS_PATH = path.join(__dirname, '../../data/api_status.json');
 const models = [
-    "llama-3.1-8b-instant",
     "llama-3.3-70b-versatile",
-    "llama-3.1-70b-versatile",
+    "llama-3.1-8b-instant",
     "mixtral-8x7b-32768",
     "gemma2-9b-it"
 ];
@@ -145,40 +144,48 @@ async function novaApiRequest(options, retries = 3) {
 
 
 /**
- * MASTER BRAIN v12.4: Sistema de Contingência Multi-Core
+ * MASTER BRAIN v12.7: Sistema de Contingência com Downscaling Automático
  */
 async function masterBrainRequest(options, retries = 3) {
     logger.info(`🧠 [MASTER BRAIN] Iniciando requisição de alta performance...`);
 
-    // 1. TENTA GROQ (Com Rodízio de Chaves)
+    // 1. TENTA GROQ (NÍVEL MESTRE: 70B+)
     const groqInfo = getGroqClient();
     if (groqInfo) {
-        const strongModels = ["llama-3.3-70b-versatile", "llama-3.1-70b-versatile"];
-        for (const model of strongModels) {
+        const masterModels = ["llama-3.3-70b-versatile", "llama-3-70b-8192"];
+        for (const model of masterModels) {
             try {
-                logger.warn(`🔄 [MASTER BRAIN] Tentando Groq Premium (${model}) no Motor #${groqInfo.index + 1}`);
+                logger.warn(`🔄 [MASTER BRAIN] Tentando Modelo Mestre (${model}) no Motor #${groqInfo.index + 1}`);
                 const response = await groqInfo.client.chat.completions.create({ ...options, model });
                 return response;
             } catch (e) {
-                if (e.status === 429) {
-                    logger.error(`🛑 Motor #${groqInfo.index + 1} esgotado. Tentando próximo...`);
+                const isRateLimit = e.status === 429;
+                if (isRateLimit) {
+                    logger.error(`🛑 Motor #${groqInfo.index + 1} sem cota para 70B. Rotacionando...`);
                     groqInfo.next();
-                    // Importante: Não damos return imediato aqui para que ele continue o loop ou tente outra chave
-                    const nextGroq = getGroqClient();
-                    if (nextGroq && nextGroq.index !== groqInfo.index) {
-                         return masterBrainRequest(options, retries - 1);
-                    }
+                    // Continua para o próximo motor ou modelo
                 }
-                logger.error(`⚠️ Groq ${model} falhou: ${e.message}`);
+            }
+        }
+
+        // 2. LIFEBOAT CLASSE (8B): Caso o 70B falhe em todos os motores, tentamos o 8B para não parar o bot
+        const lifeboats = ["llama-3.1-8b-instant", "gemma2-9b-it"];
+        for (const model of lifeboats) {
+            try {
+                logger.important(`🛶 [LIFEBOAT] Tentando Modelo de Resgate (${model}) no Motor #${groqInfo.index + 1}`);
+                const response = await groqInfo.client.chat.completions.create({ ...options, model });
+                return response;
+            } catch (e) {
+                // Se até o 8B falhar, o problema é grave
             }
         }
     }
 
-    // 2. TENTA SAMBANOVA (Fallback Final)
+    // 3. TENTA SAMBANOVA (Fallback Externo)
     const nova = await novaApiRequest(options);
     if (nova) return nova;
 
-    throw new Error("❌ FALHA TOTAL: Todos os sistemas de IA estão offline ou sem cota.");
+    throw new Error("❌ FALHA TOTAL: Todos os sistemas (70B, 8B e SambaNova) estão sem cota.");
 }
 
 

@@ -8,12 +8,12 @@ const fs = require('fs');
 const path = require('path');
 
 // CARIMBO DE VERSÃO - PARA GARANTIR QUE O CÓDIGO NOVO ESTÁ RODANDO
-console.log("\n=======================================================");
-console.log("🚀 CASOS DOMAL VIRAL BOT - v12.0 [SILICON ONLY MODE]");
-console.log("=======================================================\n");
+console.log("=======================================================");
+console.log("🚀 CASOS DOMAL VIRAL BOT - v12.7.1 [MULTI-CORE MODE]");
+console.log("=======================================================");
 
 async function runCloudCycle() {
-    logger.important("☁️ INICIANDO CICLO DE NUVEM (GITHUB ACTIONS) - v12.0 - SILICON ONLY");
+    logger.important("🤖 INICIANDO CICLO VIRAL - v12.7.1 - MULTI-CORE BRAIN");
     
     try {
         // 1. Forçar Configuração de Auto-Approve (Necessário para nuvem 24/7)
