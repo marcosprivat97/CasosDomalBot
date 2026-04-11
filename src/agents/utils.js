@@ -6,17 +6,19 @@ const { Groq } = require("groq-sdk");
 
 const logger = require("../logger");
 
-// CONFIGURAÇÃO MULTI-ENGINE (RODÍZIO DE CHAVES)
+// CONFIGURAÇÃO MULTI-ENGINE (RODÍZIO DINÂMICO DE CHAVES)
 function getGroqClient() {
     const status = getSharedStatus();
     const keyIndex = status.groq_key_index !== undefined ? status.groq_key_index : 0;
-    const keys = [
-        (process.env.GROQ_API_KEY || "").trim(),
-        (process.env.GROQ_API_KEY_2 || "").trim()
-    ].filter(k => k.startsWith("gsk_"));
+    
+    // Busca automática por todas as chaves GROQ_API_KEY, GROQ_API_KEY_2, GROQ_API_KEY_3...
+    const keys = Object.keys(process.env)
+        .filter(k => k.startsWith("GROQ_API_KEY"))
+        .map(k => (process.env[k] || "").trim())
+        .filter(k => k.startsWith("gsk_"));
 
     if (keys.length < 2) {
-        logger.warn(`⚠️ [MODO LIMITADO] Apenas ${keys.length} chave(s) do Groq detectada(s). O rodízio automático não irá funcionar plenamente. Verifique se adicionou 'GROQ_API_KEY_2' nos Secrets do GitHub.`);
+        logger.warn(`⚠️ [MODO LIMITADO] Apenas ${keys.length} chave(s) do Groq detectada(s). Adicione 'GROQ_API_KEY_2', 'GROQ_API_KEY_3' etc. nos Secrets do GitHub para maior autonomia.`);
     }
 
     // Segurança: se o index estiver fora do array, reseta
@@ -190,8 +192,11 @@ async function masterBrainRequest(options, retries = 3) {
     // 1. TENTA GROQ (NÍVEL MESTRE: 70B+)
     const masterModels = ["llama-3.3-70b-versatile"];
     for (const model of masterModels) {
-        // Para cada modelo mestre, tentamos TODOS os motores disponíveis (Chave 1 e 2)
-        for (let motorTry = 0; motorTry < 2; motorTry++) {
+        // Tentamos TODOS os motores disponíveis dinamicamente
+        const initialInfo = getGroqClient();
+        const totalMotors = initialInfo ? initialInfo.total : 0;
+        
+        for (let motorTry = 0; motorTry < totalMotors; motorTry++) {
             const groqInfo = getGroqClient();
             if (!groqInfo) break;
 
@@ -211,10 +216,13 @@ async function masterBrainRequest(options, retries = 3) {
         }
     }
 
-    // 2. LIFEBOAT CLASSE (8B): Caso o 70B falhe em todos os motores, tentamos o 8B (também em todos os motores)
+    // 2. LIFEBOAT CLASSE (8B): Caso o 70B falhe, tentamos o 8B (também em todos os motores)
     const lifeboats = ["llama-3.1-8b-instant", "gemma2-9b-it"];
     for (const model of lifeboats) {
-        for (let motorTry = 0; motorTry < 2; motorTry++) {
+        const initialInfo = getGroqClient();
+        const totalMotors = initialInfo ? initialInfo.total : 0;
+
+        for (let motorTry = 0; motorTry < totalMotors; motorTry++) {
             const groqInfo = getGroqClient();
             if (!groqInfo) break;
 
