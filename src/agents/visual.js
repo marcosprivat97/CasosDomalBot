@@ -9,6 +9,26 @@ async function runVisualDirector({ tema, angulo_chocante, titulo_imagem, prompt_
   const strategy = getCEOStrategy();
   const ordensVisual = strategy && strategy.ordens_diretor_visual ? strategy.ordens_diretor_visual.join(", ") : "Focar em realismo, mistério e impacto visual.";
 
+  // CARREGAR CONHECIMENTO APRENDIDO PELO VISUAL MASTER
+  let visualKnowledge = "";
+  const knowledgePath = path.join(__dirname, "../../data/visual_knowledge.json");
+  if (fs.existsSync(knowledgePath)) {
+    try {
+      const knowledge = JSON.parse(fs.readFileSync(knowledgePath, 'utf8'));
+      const licao = knowledge.licao_atual;
+      visualKnowledge = `
+### TÉCNICAS APRENDIDAS RECENTEMENTE (AUTO-EVOLUÇÃO):
+- ESTILO: ${licao.novas_diretrizes.estilo_imagem}
+- COMPOSIÇÃO: ${licao.novas_diretrizes.foco_composicao}
+- PALETA: ${licao.novas_diretrizes.paleta_cores}
+- POR QUE FUNCIONA: ${licao.novas_diretrizes.teoria_do_clique}
+- PROMPT IA SUGERIDO: ${licao.prompt_padrao_atualizado}
+`;
+    } catch (e) {
+      logger.error("Erro ao carregar conhecimento visual:", e.message);
+    }
+  }
+
   const response = await groqRequest({
     model: "llama-3.3-70b-versatile",
     temperature: 0.6,
@@ -16,6 +36,7 @@ async function runVisualDirector({ tema, angulo_chocante, titulo_imagem, prompt_
       {
         role: "system",
         content: `Você é o Diretor de Arte Sênior v12.0. Sua missão é criar a imagem mais "clicável" e chocante possível.
+${visualKnowledge}
 
 ### ESTRATÉGIA HÍBRIDA (WEB + IA):
 O Caçador (Scout) sugeriu estes conceitos:

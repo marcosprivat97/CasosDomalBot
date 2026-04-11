@@ -16,6 +16,26 @@ class CompositionModule {
     async compose(imagePath, title, subtitle = "") {
         logger.info(`🎨 [V4.1 Compact] Compondo card: "${title.substring(0, 40)}..."`);
 
+        // CARREGA CONHECIMENTO APRENDIDO PELO VISUAL MASTER
+        let config = {
+            font_size_mult: 1.0,
+            gradient_intensity: 0.95,
+            stroke_width: 1.5
+        };
+
+        const knowledgePath = path.join(__dirname, '../../data/visual_knowledge.json');
+        if (fs.existsSync(knowledgePath)) {
+            try {
+                const knowledge = JSON.parse(fs.readFileSync(knowledgePath, 'utf8'));
+                if (knowledge.licao_atual && knowledge.licao_atual.config_layout) {
+                    config = { ...config, ...knowledge.licao_atual.config_layout };
+                    logger.info(`🧬 [AUTO-ESTILO] Aplicando técnicas aprendidas: FontSizex${config.font_size_mult}`);
+                }
+            } catch (e) {
+                logger.error("Erro ao ler visual_knowledge:", e.message);
+            }
+        }
+
         try {
             const metadata = await sharp(imagePath).metadata();
             const canvasW = metadata.width;
@@ -53,18 +73,18 @@ class CompositionModule {
             };
 
             // ─── CONFIGURAÇÃO COMPACTA ─────────────────────────────────────
-            let fontSize = 90;
-            let lineHeight = 100; // Reduzido para compactar
+            let fontSize = 90 * config.font_size_mult;
+            let lineHeight = 100 * config.font_size_mult; // Reduzido para compactar
             let titleLines = wrapText(title, 14); 
 
             if (titleLines.length > 3) {
-                fontSize = 75;
-                lineHeight = 85;
+                fontSize = 75 * config.font_size_mult;
+                lineHeight = 85 * config.font_size_mult;
                 titleLines = wrapText(title, 18);
             }
             if (titleLines.length > 4) {
-                fontSize = 60;
-                lineHeight = 70;
+                fontSize = 60 * config.font_size_mult;
+                lineHeight = 70 * config.font_size_mult;
                 titleLines = wrapText(title, 22);
             }
 
@@ -95,9 +115,10 @@ class CompositionModule {
             const svg = `
 <svg xmlns="http://www.w3.org/2000/svg" width="${canvasW}" height="${canvasH}">
   <defs>
+    <!-- Gradiente escuro adaptável -->
     <linearGradient id="blackGrad" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="black" stop-opacity="0" />
-      <stop offset="65%" stop-color="black" stop-opacity="0.95" />
+      <stop offset="65%" stop-color="black" stop-opacity="${config.gradient_intensity}" />
       <stop offset="100%" stop-color="black" stop-opacity="1" />
     </linearGradient>
 
@@ -120,7 +141,7 @@ class CompositionModule {
   <g filter="url(#shadow)">
     <rect x="${canvasW / 2 - (badgeW + 20) / 2}" y="${brandingY - badgeH / 2 - 8}" 
           width="${badgeW + 20}" height="${badgeH + 4}" 
-          fill="url(#rubyGrad)" stroke="white" stroke-width="1.5" rx="2" />
+          fill="url(#rubyGrad)" stroke="white" stroke-width="${config.stroke_width}" rx="2" />
     <text x="${canvasW / 2}" y="${brandingY + 2}" 
           font-family="'Arial Black', sans-serif" font-size="30" font-weight="900" 
           fill="white" text-anchor="middle" letter-spacing="4">CASOS DOMAL</text>

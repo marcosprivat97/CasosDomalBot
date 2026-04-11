@@ -1,0 +1,37 @@
+{
+  "ultima_atualizacao": "2026-04-11T22:27:08.789Z",
+  "licao_atual": {
+    "versao_logica": "1.0",
+    "mudancas_aplicadas": [
+      "Atualização para tendências visuais de 2026"
+    ],
+    "novas_diretrizes": {
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas",
+      "foco_composicao": "Enquadre a foto de forma a destacar a imperfeição humana e a autenticidade",
+      "paleta_cores": "Contrastes agressivos, como Neon-Noir ou Hyper-Bloom, para chamar a atenção",
+      "teoria_do_clique": "O uso de imagens reais e cruas gera engajamento por causa da conexão emocional e da autenticidade"
+    },
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com contraste agressivo e foco em detalhes humanos",
+    "config_layout": {
+      "font_size_mult": 1.5,
+      "gradient_intensity": 0.9,
+      "stroke_width": 6
+    }
+  },
+  "historico_licoes": [
+    {
+      "data": "2026-04-11T22:24:57.465Z",
+      "licao": [
+        "Atualização da paleta de cores para incluir tons pastéis e neons",
+        "Novo estilo de imagem: Fotorrealismo Sujo com efeitos de luz",
+        "Ajuste do layout de texto para incluir contornos irregulares"
+      ]
+    },
+    {
+      "data": "2026-04-11T22:27:08.790Z",
+      "licao": [
+        "Atualização para tendências visuais de 2026"
+      ]
+    }
+  ]
+}
