@@ -1,11 +1,9 @@
-const { Groq } = require("groq-sdk");
+const { masterBrainRequest, parseGroqResponse } = require("./utils");
 const fs = require("fs");
 const path = require("path");
 
-const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
-
 /**
- * Agente 7: O CEO "Cérebro Estratégico v12.0"
+ * Agente 7: O CEO "Cérebro Estratégico v12.1"
  * Toma decisões resilientes e criativas com memória de longo prazo.
  */
 async function runCEO({ criticas, historico, metricas }) {
@@ -28,8 +26,7 @@ async function runCEO({ criticas, historico, metricas }) {
     ? "⚠️ EMERGÊNCIA: ALCANCE ZERADO (Página em Reach Freeze)" 
     : "✅ OPERACIONAL: Página com tração orgânica";
 
-  const response = await groq.chat.completions.create({
-    model: "llama-3.3-70b-versatile",
+  const response = await masterBrainRequest({
     temperature: 0.7, // Aumentado para maior criatividade estratégica
     messages: [
       {

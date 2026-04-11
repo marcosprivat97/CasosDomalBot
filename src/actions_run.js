@@ -19,7 +19,12 @@ async function runCloudCycle() {
     try {
         // 0. AUTO-APRENDIZADO (O Robô estuda antes de trabalhar)
         logger.info("🧬 [CYCLE] Acionando Robô Professor para atualização de tendências...");
-        await runVisualLearning();
+        try {
+            await runVisualLearning();
+            logger.info("✅ [LEARNING] Ciclo de aprendizado concluído.");
+        } catch (learnError) {
+            logger.warn(`⚠️ [LEARNING SKIP] Falha no aprendizado: ${learnError.message}. Seguindo ciclo com base de dados anterior.`);
+        }
         
         // 1. Forçar Configuração de Auto-Approve (Necessário para nuvem 24/7)
         const configPath = path.join(__dirname, '..', 'data', 'config.json');

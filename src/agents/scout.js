@@ -1,16 +1,15 @@
-const { groqRequest, getCEOStrategy, parseGroqResponse } = require("./utils");
+const { masterBrainRequest, getCEOStrategy, parseGroqResponse } = require("./utils");
 const logger = require("../logger");
 
 /**
- * Agente 1: Caçador de Tendências v12.0 (Elite)
+ * Agente 1: Caçador de Tendências v12.1 (Elite)
  * Especialista em encontrar mistérios e fatos "O Brasileiro precisa ser estudado".
  */
 async function runScout({ titulo, fonte, shares, categoria, ultimo_tema, recent_topics = [], brain_context }) {
   const strategy = getCEOStrategy();
   const diretrizesCEO = strategy ? JSON.stringify(strategy) : "Focar em mistérios, ciência e fatos insólitos.";
 
-  const response = await groqRequest({
-    model: "llama-3.3-70b-versatile",
+  const response = await masterBrainRequest({
     temperature: 0.6, 
     messages: [
       {

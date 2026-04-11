@@ -146,6 +146,39 @@ async function novaApiRequest(options, retries = 3) {
     return null;
 }
 
+/**
+ * SILICON BRAIN: Redundância Final via SiliconFlow (DeepSeek V3)
+ */
+async function siliconRequest(options) {
+    const apiKey = (process.env.SILICONFLOW_API_KEY || "").trim();
+    if (!apiKey) return null;
+
+    logger.warn(`🚀 [PLANO ZERA] SiliconFlow DeepSeek: Acionando última linha de defesa...`);
+
+    try {
+        const response = await axios.post(
+            "https://api.siliconflow.cn/v1/chat/completions",
+            {
+                model: "deepseek-ai/DeepSeek-V3",
+                messages: options.messages,
+                temperature: options.temperature || 0.7,
+                max_tokens: options.max_tokens || 2000
+            },
+            {
+                headers: {
+                    "Authorization": `Bearer ${apiKey.startsWith('sk-') ? apiKey : 'sk-' + apiKey}`,
+                    "Content-Type": "application/json"
+                },
+                timeout: 45000
+            }
+        );
+        return { choices: [{ message: { content: response.data.choices[0].message.content } }] };
+    } catch (error) {
+        logger.error(`❌ Falha na SiliconFlow: ${error.message}`);
+        return null;
+    }
+}
+
 
 
 /**
@@ -203,7 +236,11 @@ async function masterBrainRequest(options, retries = 3) {
     const nova = await novaApiRequest(options);
     if (nova) return nova;
 
-    throw new Error("❌ FALHA TOTAL: Todos os motores e modelos (70B, 8B e SambaNova) estão sem cota.");
+    // 4. PLANO ZERA: SILICONFLOW (DeepSeek V3)
+    const silicon = await siliconRequest(options);
+    if (silicon) return silicon;
+
+    throw new Error("❌ FALHA TOTAL: Todos os motores e modelos (Groq, SambaNova e SiliconFlow) estão sem cota.");
 }
 
 

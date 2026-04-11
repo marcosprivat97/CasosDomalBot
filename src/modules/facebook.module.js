@@ -85,7 +85,15 @@ async function getPostMetrics(postId) {
             engagement: metrics.post_engaged_users || 0
         };
     } catch (error) {
-        logger.error(`❌ [FB] Erro ao buscar métricas do post ${postId}: ${error.message}`);
+        const errorMsg = error.response?.data?.error?.message || error.message;
+        const status = error.response ? error.response.status : null;
+
+        // Se for erro 400, provavelmente o post é muito antigo ou foi deletado. Apenas avisamos.
+        if (status === 400) {
+            logger.warn(`⚠️ [FB] Métricas indisponíveis para o post ${postId}: ${errorMsg}`);
+        } else {
+            logger.error(`❌ [FB] Erro ao buscar métricas do post ${postId}: ${errorMsg}`);
+        }
         return null;
     }
 }
