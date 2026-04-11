@@ -1,0 +1,27 @@
+{
+  "CEO": {
+    "name": "CEO",
+    "status": "Ocioso",
+    "lastUpdate": "2026-04-11T23:09:19.532Z"
+  },
+  "Scout": {
+    "name": "Scout",
+    "status": "Ocioso",
+    "lastUpdate": "2026-04-11T23:09:20.284Z"
+  },
+  "Writer": {
+    "name": "Writer",
+    "status": "Ocioso",
+    "lastUpdate": "2026-04-11T23:09:22.846Z"
+  },
+  "Visual": {
+    "name": "Visual",
+    "status": "Ocioso",
+    "lastUpdate": "2026-04-11T23:09:24.233Z"
+  },
+  "Formatter": {
+    "name": "Formatter",
+    "status": "Ocioso",
+    "lastUpdate": "2026-04-11T23:09:26.690Z"
+  }
+}

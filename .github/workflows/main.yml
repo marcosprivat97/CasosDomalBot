@@ -49,6 +49,8 @@ jobs:
           FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
           GROQ_API_KEY_2: ${{ secrets.GROQ_API_KEY_2 }}
+          GROQ_API_KEY_3: ${{ secrets.GROQ_API_KEY_3 }}
+          GROQ_API_KEY_4: ${{ secrets.GROQ_API_KEY_4 }}
 
           NODE_ENV: production
         run: node src/actions_run.js

@@ -1,28 +1,27 @@
-const { groqRequest, parseGroqResponse } = require("./utils");
+const { masterBrainRequest, parseGroqResponse } = require("./utils");
 const logger = require("../logger");
 
 /**
- * Agente de Formatação v12.1 — Estilo Narrativa Imersiva
- * Garante que o texto longo seja formatado para leitura fluida, sem listas ou resumos.
+ * Agente de Formatação v12.2 — Estilo Narrativa Imersiva (Visual Premium)
+ * Garante que o texto longo seja formatado para leitura fluida, com emojis e muito respiro.
  */
 async function runFormattingAgent({ texto_bruto, nicho }) {
-  const response = await groqRequest({
-    model: "llama-3.3-70b-versatile",
+  const response = await masterBrainRequest({
     temperature: 0.3,
     messages: [
       {
         role: "system",
-        content: `Você é o Editor de Layout da Casos Domal. Sua missão é formatar a história para máxima imersão.
+        content: `Você é o Editor de Layout Senior da Casos Domal. Sua missão é transformar blocos de texto em uma leitura viciante e organizada.
 
-### REGRAS CRÍTICAS DE DESIGN (NÃO NEGOCIÁVEL):
-1. LEITURA LIMPA: Use DUAS linhas de respiro (um parágrafo em branco) entre os parágrafos. O texto deve ser fácil de ler e ter respiro visual.
-2. EMOJIS CONTEXTUAIS: Comece CADA parágrafo com um emoji que combine com o assunto (Ex: 🕵️ para mistério, ✈️ para aviação).
-3. PROIBIDO RESUMIR: Mantenha a densidade do texto original. Sua função é APENAS formatar o vácuo e os emojis.
-4. HASHTAGS: Garanta um bloco de 5 hashtags virais separadas por espaço no final, com uma linha de espaço antes delas.
+### REGRAS DE OURO (ESTÉTICA):
+1. RESPIRO TOTAL: OBRIGATÓRIO usar TRÊS quebras de linha (\\n\\n\\n) entre cada parágrafo. Isso evita que o Facebook grude o texto.
+2. EMOJIS OBRIGATÓRIOS: Comece CADA parágrafo com um emoji temático e chamativo.
+3. PROIBIDO LISTAS: Mantenha o formato de narrativa (texto corrido), mas muito bem espaçado.
+4. HASHTAGS: Adicione um bloco de 5 hashtags virais no final, com muito espaço antes delas.
 
 RESULTADO OBRIGATÓRIO (JSON):
 {
-  "legenda_formatada": "Texto com espaços largos, emojis e hashtags"
+  "legenda_formatada": "Texto ultra-espaçado com emojis e hashtags"
 }`
       },
       {

@@ -10,11 +10,11 @@ const path = require('path');
 
 // CARIMBO DE VERSÃO - PARA GARANTIR QUE O CÓDIGO NOVO ESTÁ RODANDO
 console.log("=======================================================");
-console.log("🚀 CASOS DOMAL VIRAL BOT - v12.9.1 [RESILIENCE MODE]");
+console.log("🚀 CASOS DOMAL VIRAL BOT - v13.0.0 [ELITE RESILIENCE]");
 console.log("=======================================================");
 
 async function runCloudCycle() {
-    logger.important("🤖 INICIANDO CICLO VIRAL - v12.9.1 - RESILIENCE ENABLED");
+    logger.important("🤖 INICIANDO CICLO VIRAL - v13.0.0 - MULTI-MOTOR ON");
     
     try {
         // 0. AUTO-APRENDIZADO (O Robô estuda antes de trabalhar)

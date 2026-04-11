@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2026-04-11T23:09:19.529Z",
+    "status_pagina": "⚠️ EMERGÊNCIA: ALCANCE ZERADO (Página em Reach Freeze)",
+    "estrategia_atual": "Reaquecimento",
+    "diagnostico_causa_raiz": "Falta de conteúdo relevante e atraente",
+    "ordens_cacador": [
+      "Pesquisar tendências atuais e criar conteúdo viral",
+      "Identificar e abordar temas universais que gerem comentários"
+    ],
+    "ordens_redator": [
+      "Criar posts de 'Identificação Extrema' que obriguem o comentário",
+      "Desenvolver conteúdo de qualidade e relevante para o público-alvo"
+    ],
+    "ordens_diretor_visual": [
+      "Criar imagens e vídeos atraentes e impactantes",
+      "Utilizar elementos visuais para chamar a atenção do público"
+    ],
+    "estrategia_semana": "Foco em posts de 'Identificação Extrema' para reaquecer o algoritmo",
+    "nivel_urgencia": "alto",
+    "msg_para_equipe": "Vamos trabalhar juntos para reaquecer o algoritmo e aumentar o alcance da página!"
+  }
+]
