@@ -1,22 +1,22 @@
 {
   "ceo_orders": {
-    "estrategia_atual": "Reaquecimento Intensivo",
-    "diagnostico_causa_raiz": "Falta de conteúdo viral e relevante, além de não ter conseguido engajar o público com o último post",
+    "estrategia_atual": "Reativação de Conteúdo",
+    "diagnostico_causa_raiz": "Falta de engajamento e conteúdo que ressoe com o público",
     "ordens_cacador": [
-      "Pesquisar tendências atuais e criar conteúdo viral com perguntas que gerem comentários",
-      "Identificar e abordar temas universais que sejam relevantes e atraentes para o público-alvo"
+      "Pesquisar temas atuais e universais que possam gerar discussões e comentários",
+      "Identificar influencers ou marcas que possam colaborar para aumentar o alcance"
     ],
     "ordens_redator": [
-      "Criar posts de 'Identificação Extrema' que obriguem o comentário e sejam relevantes para o público-alvo",
-      "Desenvolver conteúdo de qualidade e relevante que atenda às necessidades e interesses do público"
+      "Desenvolver conteúdo que aborde problemas ou questões atuais do público-alvo",
+      "Criar posts que estimulem a interação e o compartilhamento de experiências"
     ],
     "ordens_diretor_visual": [
-      "Criar imagens e vídeos atraentes e impactantes que chamem a atenção do público",
-      "Utilizar elementos visuais para contar histórias e gerar engajamento"
+      "Produzir conteúdo visual atraente e relevante para os temas abordados",
+      "Utilizar histórias e reels para diversificar o conteúdo e aumentar o engajamento"
     ],
-    "estrategia_semana": "Foco em posts de 'Identificação Extrema' e conteúdo viral para reaquecer o algoritmo e aumentar o alcance da página",
+    "estrategia_semana": "Foco em conteúdo que estimule a interação e o compartilhamento",
     "nivel_urgencia": "alto",
-    "msg_para_equipe": "Vamos trabalhar juntos para criar conteúdo viral e relevante, e reaquecer o algoritmo para aumentar o alcance da página!"
+    "msg_para_equipe": "Vamos trabalhar juntos para criar conteúdo que ressoe com o público e reative a página!"
   },
-  "last_update": "2026-04-11T23:21:27.506Z"
+  "last_update": "2026-04-11T23:18:31.328Z"
 }

@@ -21,12 +21,13 @@ async function runFormattingAgent({ texto_bruto, nicho }) {
 
 RESULTADO OBRIGATÓRIO (JSON):
 {
-  "legenda_formatada": "Texto ultra-espaçado com emojis e hashtags"
+  "legenda_formatada": "<INSIRA AQUI O TEXTO ORIGINAL COM EMOJIS E ESPAÇAMENTOS>"
 }`
       },
       {
         role: "user",
-        content: `FORMATE ESTA HISTÓRIA:
+        content: `TAREFA: Formate a história abaixo seguindo TODAS as regras de respiro e emojis. 
+USE APENAS O CONTEÚDO DESTA HISTÓRIA:
 ${texto_bruto}`
       }
     ]
