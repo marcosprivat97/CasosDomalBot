@@ -1,22 +1,22 @@
 {
   "ceo_orders": {
-    "estrategia_atual": "Reativação de Conteúdo",
-    "diagnostico_causa_raiz": "Falta de engajamento e conteúdo que ressoe com o público",
+    "estrategia_atual": "Reconstrução de Conteúdo",
+    "diagnostico_causa_raiz": "Falta de conteúdo relevante, atraente e que ressoe com o público-alvo, além da repetição de estratégias sem sucesso",
     "ordens_cacador": [
-      "Pesquisar temas atuais e universais que possam gerar discussões e comentários",
-      "Identificar influencers ou marcas que possam colaborar para aumentar o alcance"
+      "Pesquisar novas tendências e temas universais que gerem comentários e discussões",
+      "Identificar e abordar problemas ou questões atuais do público-alvo que possam ser resolvidos ou discutidos"
     ],
     "ordens_redator": [
-      "Desenvolver conteúdo que aborde problemas ou questões atuais do público-alvo",
-      "Criar posts que estimulem a interação e o compartilhamento de experiências"
+      "Desenvolver conteúdo de qualidade, relevante e que estimule a interação e o compartilhamento de experiências",
+      "Criar posts de 'Identificação Extrema' que obriguem o comentário e sejam compartilhados"
     ],
     "ordens_diretor_visual": [
-      "Produzir conteúdo visual atraente e relevante para os temas abordados",
-      "Utilizar histórias e reels para diversificar o conteúdo e aumentar o engajamento"
+      "Produzir conteúdo visual atraente, relevante e impactante que chame a atenção do público",
+      "Utilizar histórias, reels e outras formas de conteúdo visual para diversificar e aumentar o engajamento"
     ],
-    "estrategia_semana": "Foco em conteúdo que estimule a interação e o compartilhamento",
+    "estrategia_semana": "Foco em reconstruir o conteúdo e criar uma nova identidade para a página",
     "nivel_urgencia": "alto",
-    "msg_para_equipe": "Vamos trabalhar juntos para criar conteúdo que ressoe com o público e reative a página!"
+    "msg_para_equipe": "Vamos trabalhar juntos para reconstruir a página e criar um novo caminho para o sucesso!"
   },
-  "last_update": "2026-04-11T23:18:31.328Z"
+  "last_update": "2026-04-11T23:37:48.390Z"
 }
