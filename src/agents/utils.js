@@ -252,52 +252,13 @@ async function masterBrainRequest(options, retries = 3) {
 }
 
 
-async function groqRequest(options, retries = 5, delay = 3000) {
-    let status = getSharedStatus();
-    let currentSharedIndex = status.index || 0;
-    
-    for (let i = 0; i < retries; i++) {
-        const groqInfo = getGroqClient();
-        if (!groqInfo) break;
-
-        const currentModel = models[currentSharedIndex];
-        try {
-            const response = await groqInfo.client.chat.completions.create({ model: currentModel, ...options });
-            return response;
-        } catch (error) {
-            const errorMsg = error.message || "";
-            const statusErr = error.status || (error.response ? error.response.status : null);
-            const isRateLimit = statusErr === 429 || errorMsg.includes("Rate limit");
-            
-            if (isRateLimit) {
-                // Se o erro for de limite, tentamos trocar a chave primeiro
-                logger.error(`🛑 Limite no Motor #${groqInfo.index + 1}. Rotacionando chaves...`);
-                groqInfo.next();
-                
-                // Se ainda tivermos modelos para testar no Groq, tentamos o próximo modelo com a nova chave
-                if (currentSharedIndex < models.length - 1) {
-                    currentSharedIndex++;
-                    saveSharedStatus({ index: currentSharedIndex });
-                    logger.warn(`🔄 [BACKUP] Mudando para modelo ${models[currentSharedIndex]} com nova chave.`);
-                    i--; continue;
-                }
-                
-                // Se esgotamos as chaves e modelos, tentamos reservas externas
-                const nova = await novaApiRequest(options);
-                if (nova) return nova;
-            }
-
-            if (i < retries - 1) {
-                const waitTime = delay * Math.pow(2, i);
-                logger.warn(`⏳ Aguardando liberação (Tentativa ${i+1}/${retries})...`);
-                await new Promise(r => setTimeout(r, waitTime));
-                continue;
-            }
-            
-            logger.error(`❌ Erro Fatal no Fluxo de IA: ${errorMsg}`);
-            throw error;
-        }
-    }
+/**
+ * groqRequest (v13.0 Legacy Wrapper)
+ * Redireciona chamadas antigas para o motor de alta resiliencia Master Brain.
+ */
+async function groqRequest(options, retries = 3) {
+    logger.info(`🔄 [LEGACY REDIRECT] Redirecionando para Master Brain para garantir resiliência...`);
+    return await masterBrainRequest(options, retries);
 }
 
 /**
