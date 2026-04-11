@@ -81,7 +81,7 @@ Se o tema base for fraco, mude para algo relacionado que seja VIRAIS.`
     return {
       title: (content.viral_title || "FATO INACREDITÁVEL").toUpperCase(),
       subtitle: content.image_text || "Você não vai acreditar no item #3",
-      caption: `${content.hook}\n\n${content.items.map((item, i) => `${i + 1}. ${item}`).join('\n')}\n\n${content.caption}\n\n${content.hashtags}`,
+      caption: `${content.hook}\n\n${content.items.map((item, i) => `${i + 1}. ${item}`).join('\n\n')}\n\n${content.caption}\n\n${content.hashtags}`,
       imagePrompts: {
         fallback: `high quality documentary photo of ${content.image_text}, mysterious atmosphere, hyper-realistic, national geographic style`
       }
