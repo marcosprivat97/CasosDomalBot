@@ -1,8 +1,10 @@
-const { groqRequest, getCEOStrategy, parseGroqResponse } = require("./utils");
+const { masterBrainRequest, getCEOStrategy, parseGroqResponse } = require("./utils");
 const logger = require("../logger");
+const fs = require("fs");
+const path = require("path");
 
 /**
- * Agente 3: Diretor de Arte v12.0 (Smart Layout Engine)
+ * Agente 3: Diretor de Arte v12.1 (Smart Layout Engine)
  * Especialista em "Visual Viral" e fusão de conceitos bizarros.
  */
 async function runVisualDirector({ tema, angulo_chocante, titulo_imagem, prompt_web, prompt_ia, resumo_historia, historico_estilos }) {
@@ -29,8 +31,7 @@ async function runVisualDirector({ tema, angulo_chocante, titulo_imagem, prompt_
     }
   }
 
-  const response = await groqRequest({
-    model: "llama-3.3-70b-versatile",
+  const response = await masterBrainRequest({
     temperature: 0.6,
     messages: [
       {
