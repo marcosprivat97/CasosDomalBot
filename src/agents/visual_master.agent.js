@@ -2,6 +2,7 @@ const { masterBrainRequest, parseGroqResponse } = require("./utils");
 const fs = require("fs");
 const path = require("path");
 const logger = require("../logger");
+const AuditorModule = require("../modules/auditor.module");
 
 /**
  * Agente Mestre Visual (O Professor)
@@ -10,7 +11,21 @@ const logger = require("../logger");
 async function runVisualLearning() {
   logger.info("🎨 [VISUAL MASTER] Iniciando ciclo de aprendizado para 2026...");
 
-  // 1. Simulação de "Pesquisa de tendências"
+  // 1. Coletar Feedback de Performance Real
+  let performanceSummary = "Dados de performance indisponíveis no momento.";
+  try {
+      const report = await AuditorModule.generatePerformanceReport(5);
+      performanceSummary = `
+ÚLTIMA PERFORMANCE (FACEBOOK):
+- Alcance Total: ${report.reach_total} usuários únicos.
+- Engajamento Médio: ${report.avg_engagement} por post.
+- Status da Página: ${report.reach_total > 500 ? "ALTO DESEMPENHO" : "NECESSITA MELHORIA"}
+`;
+  } catch (e) {
+      logger.warn("⚠️ [VISUAL MASTER] Não foi possível obter dados de performance.");
+  }
+
+  // 2. Simulação de "Pesquisa de tendências"
   const response = await masterBrainRequest({
     messages: [
       {
@@ -18,18 +33,21 @@ async function runVisualLearning() {
         content: `Você é um Especialista em Psicologia Visual e Design Viral para Redes Sociais. 
 Sua função é atuar como o "Professor" de um robô de edição de fotos. Estamos em Abril de 2026.
 
-Você deve pesquisar e sintetizar tendências visuais de 2026 que geram alto engajamento no Facebook e Instagram.
-TENDÊNCIAS ATUAIS DE 2026:
-- **Hyper-Human**: O público está cansado de "AI Slop" (imagens IA genéricas). Fotos reais, cruas e com imperfeições humanas estão performando melhor.
-- **Neon-Noir & Hyper-Bloom**: Uso de contrastes agressivos (preto/neon) ou estéticas oníricas com profundidade ampliada.
-- **Design Deconstrutivista**: Quebra de regras de layout para parar o scroll.
-- **Tipografia Gigante**: Textos que dominam a cena para leitura rápida no mobile.
+Você deve analisar a PERFORMANCE REAL da página e as tendências atuais para criar a Lição do Dia.
 
-Sua tarefa hoje é criar uma "Lição do Dia" para o robô editor.`
+${performanceSummary}
+
+TENDÊNCIAS GLOBAIS DE 2026:
+- **Hyper-Human**: Rejeição ao "AI Slop". Fotos reais, cruas e com imperfeições humanas estão performando melhor.
+- **Neon-Noir & Hyper-Bloom**: Contrastes agressivos (preto/neon) ou estéticas oníricas.
+- **Design Deconstrutivista**: Quebra de regras de layout para parar o scroll.
+- **Tipografia Gigante**: Textos dominantes para leitura rápida no mobile.
+
+Sua tarefa é criar uma "Lição do Dia" que adapte estas tendências à realidade de performance da página.`
       },
       {
         role: "user",
-        content: `Crie uma nova lição baseada nas tendências atuais de 2025. 
+        content: `Crie uma nova lição baseada nos dados acima. 
 Retorne SOMENTE JSON no formato:
 {
   "versao_logica": "1.x",

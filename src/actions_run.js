@@ -3,19 +3,24 @@
  * Executa um único ciclo de postagem e encerra o processo.
  */
 const orchestrator = require('./agents/orchestrator');
+const { runVisualLearning } = require('./agents/visual_master.agent');
 const logger = require('./logger');
 const fs = require('fs');
 const path = require('path');
 
 // CARIMBO DE VERSÃO - PARA GARANTIR QUE O CÓDIGO NOVO ESTÁ RODANDO
 console.log("=======================================================");
-console.log("🚀 CASOS DOMAL VIRAL BOT - v12.7.1 [MULTI-CORE MODE]");
+console.log("🚀 CASOS DOMAL VIRAL BOT - v12.8.0 [AUTO-LEARNING MODE]");
 console.log("=======================================================");
 
 async function runCloudCycle() {
-    logger.important("🤖 INICIANDO CICLO VIRAL - v12.7.1 - MULTI-CORE BRAIN");
+    logger.important("🤖 INICIANDO CICLO VIRAL - v12.8.0 - AUTO-LEARNING ENABLED");
     
     try {
+        // 0. AUTO-APRENDIZADO (O Robô estuda antes de trabalhar)
+        logger.info("🧬 [CYCLE] Acionando Robô Professor para atualização de tendências...");
+        await runVisualLearning();
+        
         // 1. Forçar Configuração de Auto-Approve (Necessário para nuvem 24/7)
         const configPath = path.join(__dirname, '..', 'data', 'config.json');
         let config = { isActive: true, autoApprove: true };

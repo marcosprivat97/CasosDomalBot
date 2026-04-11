@@ -175,7 +175,24 @@ class CompositionModule {
                 .toFile(outputPath);
 
             logger.info(`✅ [V4.1 Compact] Card gerado com Sucesso!`);
-            return outputPath;
+            
+            // RELATÓRIO TÉCNICO PARA O PROFESSOR (Alternativa à Visão)
+            const techReport = {
+                path: outputPath,
+                canvas: { w: canvasW, h: canvasH },
+                texto: {
+                    tamanho_fonte: fontSize,
+                    linhas: titleLines.length,
+                    intensidade_gradiente: config.gradient_intensity,
+                    posicao_y: titleY_First
+                },
+                estilo_aplicado: config
+            };
+
+            return { 
+                path: outputPath, 
+                techReport: techReport 
+            };
 
         } catch (error) {
             logger.error(`❌ Erro no CompositionModule V4 (Safe): ${error.message}`);
