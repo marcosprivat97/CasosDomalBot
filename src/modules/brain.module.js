@@ -26,6 +26,7 @@ const BrainModule = {
 
     addInsight(type, insight) {
         const brain = this.getBrain();
+        if (!brain.knowledge_base) brain.knowledge_base = {};
         if (!brain.knowledge_base[type]) brain.knowledge_base[type] = [];
         brain.knowledge_base[type].unshift({
             date: new Date().toISOString(),
@@ -38,6 +39,8 @@ const BrainModule = {
 
     recordPerformance(performance) {
         const brain = this.getBrain();
+        if (!brain.performance_insights) brain.performance_insights = {};
+        if (!brain.performance_insights.top_topics) brain.performance_insights.top_topics = [];
         brain.performance_insights.top_topics.unshift(performance);
         brain.performance_insights.top_topics = brain.performance_insights.top_topics.slice(0, 50);
         this.saveBrain(brain);
