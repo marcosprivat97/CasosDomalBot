@@ -1,22 +1,22 @@
 {
   "ceo_orders": {
-    "estrategia_atual": "Reativação de Conteúdo",
-    "diagnostico_causa_raiz": "Falta de engajamento e conteúdo que ressoe com o público",
+    "estrategia_atual": "Reconstrução de Base",
+    "diagnostico_causa_raiz": "Falta de conteúdo relevante e atraente, além de não haver uma abordagem eficaz para estimular o engajamento",
     "ordens_cacador": [
-      "Pesquisar temas atuais e universais que possam gerar discussões e comentários",
-      "Identificar influencers ou marcas que possam colaborar para aumentar o alcance"
+      "Identificar e abordar temas universais que gerem comentários e discussões",
+      "Pesquisar tendências atuais e criar conteúdo viral que ressoe com o público-alvo"
     ],
     "ordens_redator": [
-      "Desenvolver conteúdo que aborde problemas ou questões atuais do público-alvo",
-      "Criar posts que estimulem a interação e o compartilhamento de experiências"
+      "Criar posts de 'Identificação Extrema' que obriguem o comentário e estimulem a interação",
+      "Desenvolver conteúdo de qualidade e relevante para o público-alvo, focando em problemas ou questões atuais"
     ],
     "ordens_diretor_visual": [
-      "Produzir conteúdo visual atraente e relevante para os temas abordados",
-      "Utilizar histórias e reels para diversificar o conteúdo e aumentar o engajamento"
+      "Criar imagens e vídeos atraentes e impactantes que chamem a atenção do público",
+      "Utilizar elementos visuais para contar histórias e estimular a emoção, aumentando o engajamento"
     ],
-    "estrategia_semana": "Foco em conteúdo que estimule a interação e o compartilhamento",
+    "estrategia_semana": "Foco em posts de 'Identificação Extrema' e conteúdo que estimule a interação e o compartilhamento",
     "nivel_urgencia": "alto",
-    "msg_para_equipe": "Vamos trabalhar juntos para criar conteúdo que ressoe com o público e reative a página!"
+    "msg_para_equipe": "Vamos trabalhar juntos para reconstruir a base da página, criar conteúdo relevante e estimular o engajamento para reaquecer o algoritmo e aumentar o alcance!"
   },
-  "last_update": "2026-04-11T23:18:31.328Z"
+  "last_update": "2026-04-11T23:31:20.440Z"
 }
