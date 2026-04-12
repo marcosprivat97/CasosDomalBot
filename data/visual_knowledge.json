@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-12T16:26:09.093Z",
+  "ultima_atualizacao": "2026-04-12T17:25:48.970Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-      "Incorporação de estilos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção do usuário",
-      "Implementação de design deconstrutivista para interromper o scroll"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadramento irregular, quebrando regras tradicionais de layout, com foco em detalhes humanos e imperfeições",
-      "paleta_cores": "Predominância de tons neons sobre fundos escuros, com acenos a cores pastéis em pontos de destaque",
-      "teoria_do_clique": "O uso de contrastes agressivos e a quebra de regras de layout visam surpreender e capturar a atenção do usuário, enquanto a autenticidade e imperfeições humanas promovem uma conexão emocional"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, destacando imperfeições humanas",
+      "paleta_cores": "Preto profundo com neon vibrante, destacando a estética onírica",
+      "teoria_do_clique": "A combinação de contraste agressivo e estética onírica atrai a atenção do usuário, enquanto a presença de imperfeições humanas gera empatia e aumenta a probabilidade de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento humano autêntico, com iluminação dramática, tons neons e uma composição que desafie as convenções tradicionais",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano imperfeito no centro, utilizando contraste agressivo e cores neon vibrantes",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-12T07:57:01.185Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e Design Deconstrutivista",
-        "Incorporação de Neon-Noir e Hyper-Bloom",
-        "Uso de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-04-12T08:40:07.590Z",
       "licao": [
@@ -102,6 +92,14 @@
         "Incorporação de estilos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção do usuário",
         "Implementação de design deconstrutivista para interromper o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-12T17:25:48.970Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
