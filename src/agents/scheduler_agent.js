@@ -1,5 +1,6 @@
 const { Groq } = require("groq-sdk");
 const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
+const logger = require('../logger');
 
 /**
  * Agente: Estrategista de Tráfego v12.0 (Elite)
