@@ -2,26 +2,26 @@
   "CEO": {
     "name": "CEO",
     "status": "Ocioso",
-    "lastUpdate": "2026-04-12T15:26:56.009Z"
+    "lastUpdate": "2026-04-12T16:26:14.380Z"
   },
   "Scout": {
     "name": "Scout",
     "status": "Ocioso",
-    "lastUpdate": "2026-04-12T15:26:56.636Z"
+    "lastUpdate": "2026-04-12T16:26:15.087Z"
   },
   "Writer": {
     "name": "Writer",
     "status": "Ocioso",
-    "lastUpdate": "2026-04-12T15:27:06.975Z"
+    "lastUpdate": "2026-04-12T16:26:21.763Z"
   },
   "Visual": {
     "name": "Visual",
     "status": "Ocioso",
-    "lastUpdate": "2026-04-12T15:27:07.839Z"
+    "lastUpdate": "2026-04-12T16:26:23.401Z"
   },
   "Formatter": {
     "name": "Formatter",
     "status": "Ocioso",
-    "lastUpdate": "2026-04-12T15:27:09.666Z"
+    "lastUpdate": "2026-04-12T16:26:25.392Z"
   }
 }
