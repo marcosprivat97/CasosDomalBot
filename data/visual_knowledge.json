@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-12T11:26:07.948Z",
+  "ultima_atualizacao": "2026-04-12T12:36:03.794Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop'",
-      "Incorporação de contraste agressivo e estética onírica",
-      "Uso de design deconstrutivista e tipografia gigante"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais engajamento",
+      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de maneira a quebrar as regras de layout tradicionais, criando um ponto focal dominante",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O uso de contraste agressivo e estética onírica gera engajamento pois chama a atenção do usuário e o faz parar o scroll"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto com objetos ou pessoas em primeiro plano, deixando espaço em branco no fundo para criar contraste e profundidade",
+      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves para criar um equilíbrio entre contraste e harmonia",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estética onírica e contrastes agressivos gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com toques de Hyper-Bloom, quebrando as regras de layout tradicionais e utilizando contraste agressivo entre preto e neon",
+    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa em primeiro plano, com uma expressão autêntica e imperfeições humanas, sobre um fundo preto com neon verde e rosa, com textos gigantes em fonte sans-serif branca",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-11T23:18:29.863Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estilos de imagem mais humanos e cruas",
-        "Incorporação de contrates agressivos e estéticas oníricas",
-        "Uso de design deconstrutivista para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-04-11T23:37:46.961Z",
       "licao": [
@@ -105,6 +94,14 @@
         "Foco em estilos que rejeitam o 'AI Slop'",
         "Incorporação de contraste agressivo e estética onírica",
         "Uso de design deconstrutivista e tipografia gigante"
+      ]
+    },
+    {
+      "data": "2026-04-12T12:36:03.794Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais engajamento",
+        "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
   ]
