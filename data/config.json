@@ -1,8 +1,8 @@
 {
-  "growthMode": true,
+  "growthMode": false,
   "intervalMinutes": 15,
-  "postsPerHour": 0.5,
-  "postsPerDay": 5,
+  "postsPerHour": 0.1,
+  "postsPerDay": 2,
   "isActive": true,
   "autoApprove": true,
   "categories": [
