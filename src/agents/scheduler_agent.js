@@ -1,5 +1,6 @@
 const { Groq } = require("groq-sdk");
 const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
+const logger = require('../logger');
 
 /**
  * Agente: Estrategista de Tráfego v12.0 (Elite)
@@ -19,15 +20,14 @@ async function runSchedulerAgent({ posts_hoje, ultimo_post_horario }) {
         content: `Você é o "Estrategista de Tráfego Elite v12.0". Sua missão é dominar o algoritmo do Facebook através do Timing Perfeito.
 
 JANELAS DE OURO (Horário de Brasília):
-1. MANHÃ (Identificação): 07:15 - 08:30
-2. ALMOÇO (Pico Viral): 12:00 - 13:15
-3. NOITE (Narrativas): 19:15 - 20:30
-4. MADRUGADA (Mistério): 22:30 - 23:30
+1. MANHÃ (Identificação): 07:30 - 09:30
+2. NOITE (Narrativas): 19:30 - 21:30
 
 REGRAS DE OURO:
-- Intervalo mínimo de 4 horas entre posts (Obrigatório).
-- Máximo de 4 posts por dia.
-- Calcule o "Score de Oportunidade" (0-100). Só recomende postar se o score for > 85.
+- Intervalo mínimo de 10 horas entre posts (Obrigatório para evitar spam).
+- Máximo de 2 posts por dia (Manhã e Noite).
+- Calcule o "Score de Oportunidade" (0-100). Só recomende postar se o score for > 90.
+- Se estiver fora das janelas acima, REJEITE a postagem imediatamente.
 
 Retorne SOMENTE JSON válido.`
       },
@@ -73,19 +73,17 @@ Decida se devemos postar agora ou calcular a espera. Responda APENAS o JSON.`
  */
 function getLocalFallback(hora, totalMinutos, postsHoje, ultimoPost) {
   const janelas = [
-    { nome: "Manhã", start: 7*60+15, end: 8*60+30 },
-    { nome: "Almoço", start: 12*60, end: 13*60+15 },
-    { nome: "Noite", start: 19*60+15, end: 20*60+30 },
-    { nome: "Madrugada", start: 22*60+30, end: 23*60+30 }
+    { nome: "Manhã", start: 7*60+30, end: 9*60+30 },
+    { nome: "Noite", start: 19*60+30, end: 21*60+30 }
   ];
 
   const janelaAtual = janelas.find(j => totalMinutos >= j.start && totalMinutos <= j.end);
   const proximaJanela = janelas.find(j => j.start > totalMinutos) || janelas[0];
 
   let podePostar = false;
-  let motivo = "Fora de janelas de pico.";
+  let motivo = "Fora de janelas de pico (Manhã/Noite).";
 
-  if (janelaAtual && postsHoje < 4) {
+  if (janelaAtual && postsHoje < 2) {
     podePostar = true;
     motivo = "Dentro da janela estratégica (Fallback Local).";
   }

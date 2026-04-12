@@ -1,22 +1,22 @@
 {
   "ceo_orders": {
-    "estrategia_atual": "Reconstrução Total com Foco em Identificação Extrema, Inovação e Diversificação de Conteúdo 8.0",
-    "diagnostico_causa_raiz": "Falta de inovação, diversificação e adaptação às necessidades do público-alvo, além da repetição de estratégias sem sucesso e falta de engajamento",
+    "estrategia_atual": "Reconstrução de Base",
+    "diagnostico_causa_raiz": "Falta de conteúdo relevante e atraente, além de não haver uma abordagem eficaz para estimular o engajamento",
     "ordens_cacador": [
-      "Pesquisar novas tendências e temas universais que gerem comentários e discussões, com foco em problemas ou questões do público-alvo e utilizando ferramentas de inteligência de mercado mais avançadas",
-      "Identificar e abordar temas atuais e relevantes que possam ser resolvidos ou discutidos de forma inovadora, com foco em conteúdo de 'Identificação Extrema' e soluções criativas"
+      "Identificar e abordar temas universais que gerem comentários e discussões",
+      "Pesquisar tendências atuais e criar conteúdo viral que ressoe com o público-alvo"
     ],
     "ordens_redator": [
-      "Desenvolver conteúdo de qualidade, relevante e que estimule a interação e o compartilhamento de experiências, com foco em posts de 'Identificação Extrema', diversificação de temas e uso de narrativas atraentes",
-      "Criar posts que estimulem a discussão e o debate, além de promover a participação ativa do público, com uso de perguntas, chamadas para ação e respostas personalizadas"
+      "Criar posts de 'Identificação Extrema' que obriguem o comentário e estimulem a interação",
+      "Desenvolver conteúdo de qualidade e relevante para o público-alvo, focando em problemas ou questões atuais"
     ],
     "ordens_diretor_visual": [
-      "Produzir conteúdo visual atraente, relevante e impactante que chame a atenção do público, utilizando histórias, reels, vídeos e outras formas de conteúdo visual inovadoras",
-      "Desenvolver uma identidade visual forte e coerente para a página, que reflita a essência do conteúdo e atraia o público-alvo, com uso de cores, imagens e elementos visuais atraentes e personalizados"
+      "Criar imagens e vídeos atraentes e impactantes que chamem a atenção do público",
+      "Utilizar elementos visuais para contar histórias e estimular a emoção, aumentando o engajamento"
     ],
-    "estrategia_semana": "Foco em reconstruir a página de forma total, com destaque para posts de 'Identificação Extrema', diversificação de conteúdo, conteúdo visual atraente e inovação em todas as áreas",
+    "estrategia_semana": "Foco em posts de 'Identificação Extrema' e conteúdo que estimule a interação e o compartilhamento",
     "nivel_urgencia": "alto",
-    "msg_para_equipe": "Vamos trabalhar juntos para reconstruir a página e criar um novo caminho para o sucesso, com foco em inovação, diversificação e adaptação às necessidades do público-alvo!"
+    "msg_para_equipe": "Vamos trabalhar juntos para reconstruir a base da página, criar conteúdo relevante e estimular o engajamento para reaquecer o algoritmo e aumentar o alcance!"
   },
-  "last_update": "2026-04-12T17:25:51.982Z"
+  "last_update": "2026-04-11T23:31:20.440Z"
 }

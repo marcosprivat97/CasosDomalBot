@@ -28,6 +28,39 @@ class Orchestrator {
      */
     async runViralCycle(isManual = false, preSelectedNews = null, forcePilar = null) {
         try {
+            // Trava de Segurança Autônoma (v13.0.1)
+            if (!isManual) {
+                const configPath = path.join(__dirname, '../../data/config.json');
+                const config = fs.existsSync(configPath) ? JSON.parse(fs.readFileSync(configPath, 'utf8')) : {};
+                
+                // 1. Verificação Hard (10 horas de intervalo real)
+                if (config.lastRun) {
+                    const lastPostTime = new Date(config.lastRun);
+                    const now = new Date();
+                    const diffHours = (now - lastPostTime) / (1000 * 60 * 60);
+                    
+                    if (diffHours < 10) {
+                        logger.important(`🛑 [TRAVA GLOBAL] Intervalo muito curto (${diffHours.toFixed(1)}h). Respeitando o algoritmo.`);
+                        return { success: false, status: "bloqueado", reason: "intervalo_insuficiente", wait: 10 - diffHours };
+                    }
+                }
+
+                // 2. Verificação AI (Janelas e Score)
+                const today = new Date().toISOString().split('T')[0];
+                const history = HistoryModule.getHistory().posted_topics || [];
+                const postsHoje = history.filter(h => h.timestamp && h.timestamp.startsWith(today)).length;
+
+                const scheduler = await runSchedulerAgent({
+                    posts_hoje: postsHoje,
+                    ultimo_post_horario: config.lastRun
+                });
+
+                if (!scheduler.pode_postar_agora) {
+                    logger.important(`⏳ [AGUARDANDO] O maestro do tráfego decidiu esperar: ${scheduler.estrategia_janela}`);
+                    return { success: false, status: "aguardando", next: scheduler.janela_alvo };
+                }
+            }
+
             logger.important(`🚀 [MASTER] Iniciando Ciclo Viral Elite v12.0`);
             
             // 1. Auditoria e Estratégia (O Cérebro Evolutivo)
@@ -109,6 +142,7 @@ class Orchestrator {
                 this.handleMonetization(postData.id, scoutData.nicho);
                 BrainModule.updateBrain({ last_case: scoutData.tema });
                 HistoryModule.recordTopic(scoutData.tema, postData.id);
+                this._updateLastRun();
             }
 
             logger.important(`✅ [SUCESSO] Ciclo v12.0 finalizado com ID: ${postData.id}`);
@@ -234,6 +268,20 @@ class Orchestrator {
         }, 900000); // 15 minutos
     }
 
+    _updateLastRun() {
+        try {
+            const configPath = path.join(__dirname, '../../data/config.json');
+            if (fs.existsSync(configPath)) {
+                const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
+                config.lastRun = new Date().toISOString();
+                fs.writeFileSync(configPath, JSON.stringify(config, null, 2));
+                logger.info("💾 [CONFIG] Horário do último post atualizado com sucesso.");
+            }
+        } catch (e) {
+            logger.error(`❌ Erro ao atualizar lastRun: ${e.message}`);
+        }
+    }
+
     // --- Helpers de Compatibilidade ---
     updateAgentStatus(agentName, status, active = true) {
         try {
@@ -246,6 +294,19 @@ class Orchestrator {
     async produceContent(newsItem) { return this.runViralCycle(false, newsItem); }
 
     async publishPhase(production, newsItem, stats) {
+        // Trava de Segurança Hard (v13.0): 10 horas de intervalo real obrigatório
+        if (stats.ultimo_post) {
+            const lastPostTime = new Date(stats.ultimo_post);
+            const now = new Date();
+            const diffHours = (now - lastPostTime) / (1000 * 60 * 60);
+            
+            if (diffHours < 10) {
+                const waitMinutes = Math.ceil((10 - diffHours) * 60);
+                logger.warn(`🛑 [SECURITY LOCK] Intervalo insuficiente (${diffHours.toFixed(1)}h). Mínimo exigido: 10h. Bloqueando postagem.`);
+                return { status: "aguardando", minutos: waitMinutes };
+            }
+        }
+
         const scheduler = await runSchedulerAgent({
             posts_hoje: stats.posts_hoje || 0,
             ultimo_post_horario: stats.ultimo_post
