@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-04-12T01:23:38.818Z",
+  "ultima_atualizacao": "2026-04-12T04:38:24.794Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante",
-      "Foco em rejeição ao 'AI Slop' para fotos mais cruas e humanas"
+      "Adaptação às tendências de 2026 para melhorar performance",
+      "Inclusão de estilos visuais mais humanos e imperfeitos",
+      "Uso de contrastes agressivos e estéticas oníricas",
+      "Quebra de regras de layout para aumentar engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando contrastes agressivos e estéticas oníricas",
-      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, utilizando elementos de Design Deconstrutivista para parar o scroll",
-      "paleta_cores": "Preto profundo com neon vibrante, criando um contraste visual impactante",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera curiosidade e atrai a atenção do usuário, aumentando a probabilidade de engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma irregular, destacando o sujeito principal com imperfeições naturais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O uso de imperfeições humanas e contrastes agressivos cria uma conexão emocional com o espectador, aumentando a probabilidade de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine Neon-Noir com toques de Hyper-Bloom, com uma composição que quebre regras de layout tradicionais e uma paleta de cores que inclua preto profundo com neon vibrante",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um sujeito principal em um ambiente sombrio, com toques de neon e imperfeições naturais, utilizando uma paleta de cores que combine preto, neon e pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -77,6 +78,15 @@
         "Adaptação às tendências de Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante",
         "Foco em rejeição ao 'AI Slop' para fotos mais cruas e humanas"
+      ]
+    },
+    {
+      "data": "2026-04-12T04:38:24.794Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar performance",
+        "Inclusão de estilos visuais mais humanos e imperfeitos",
+        "Uso de contrastes agressivos e estéticas oníricas",
+        "Quebra de regras de layout para aumentar engajamento"
       ]
     }
   ]
