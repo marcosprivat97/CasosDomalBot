@@ -1,10 +1,10 @@
 {
   "ceo_orders": {
-    "estrategia_atual": "Reativação de Engajamento",
-    "diagnostico_causa_raiz": "Falta de conteúdo que ressoe com o público e gera engajamento, além da repetição de estratégias sem sucesso",
+    "estrategia_atual": "Reconstrução de Conteúdo com Foco em Identificação Extrema",
+    "diagnostico_causa_raiz": "Falta de conteúdo relevante, atraente e que ressoe com o público-alvo, além da repetição de estratégias sem sucesso",
     "ordens_cacador": [
-      "Pesquisar temas atuais e universais que gerem comentários e discussões, com foco em problemas ou questões do público-alvo",
-      "Identificar influencers ou marcas que possam colaborar para aumentar o alcance e o engajamento"
+      "Pesquisar novas tendências e temas universais que gerem comentários e discussões, com foco em problemas ou questões do público-alvo",
+      "Identificar e abordar temas atuais e relevantes que possam ser resolvidos ou discutidos de forma inovadora"
     ],
     "ordens_redator": [
       "Desenvolver conteúdo de qualidade, relevante e que estimule a interação e o compartilhamento de experiências, com foco em posts de 'Identificação Extrema'",
@@ -14,9 +14,9 @@
       "Produzir conteúdo visual atraente, relevante e impactante que chame a atenção do público, utilizando histórias, reels e outras formas de conteúdo visual",
       "Desenvolver uma identidade visual forte e coerente para a página, que reflita a essência do conteúdo e atraia o público-alvo"
     ],
-    "estrategia_semana": "Foco em reativar o engajamento e criar uma nova identidade para a página, com destaque para posts de 'Identificação Extrema' e conteúdo visual atraente",
+    "estrategia_semana": "Foco em reconstruir o conteúdo e criar uma nova identidade para a página, com destaque para posts de 'Identificação Extrema' e conteúdo visual atraente",
     "nivel_urgencia": "alto",
-    "msg_para_equipe": "Vamos trabalhar juntos para reativar o engajamento e criar um novo caminho para o sucesso, com foco em conteúdo inovador e atraente que ressoe com o público-alvo!"
+    "msg_para_equipe": "Vamos trabalhar juntos para reconstruir a página e criar um novo caminho para o sucesso, com foco em conteúdo inovador e atraente que ressoe com o público-alvo!"
   },
-  "last_update": "2026-04-12T04:38:26.524Z"
+  "last_update": "2026-04-12T06:18:03.514Z"
 }

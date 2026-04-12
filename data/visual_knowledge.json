@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-12T04:38:24.794Z",
+  "ultima_atualizacao": "2026-04-12T06:18:01.706Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar performance",
-      "Inclusão de estilos visuais mais humanos e imperfeitos",
-      "Uso de contrastes agressivos e estéticas oníricas",
-      "Quebra de regras de layout para aumentar engajamento"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma irregular, destacando o sujeito principal com imperfeições naturais",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "O uso de imperfeições humanas e contrastes agressivos cria uma conexão emocional com o espectador, aumentando a probabilidade de engajamento"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, utilizando elementos humanos reais e imperfeitos",
+      "paleta_cores": "Preto profundo com neon vibrante e possíveis toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de elementos humanos reais com contraste agressivo e estética onírica gera engajamento por causar surpresa e curiosidade no usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um sujeito principal em um ambiente sombrio, com toques de neon e imperfeições naturais, utilizando uma paleta de cores que combine preto, neon e pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano real, incorporando estética onírica e contraste agressivo entre luz e sombra, utilizando uma paleta de cores vibrante e pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -87,6 +86,14 @@
         "Inclusão de estilos visuais mais humanos e imperfeitos",
         "Uso de contrastes agressivos e estéticas oníricas",
         "Quebra de regras de layout para aumentar engajamento"
+      ]
+    },
+    {
+      "data": "2026-04-12T06:18:01.706Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
