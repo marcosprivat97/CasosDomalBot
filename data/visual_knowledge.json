@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-12T14:32:53.394Z",
+  "ultima_atualizacao": "2026-04-12T15:26:52.414Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026: Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhorar o engajamento em uma página com baixo desempenho"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Foco em melhorar o engajamento com estética mais crua e humana",
+      "Inclusão de contraste agressivo e tipografia dominante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas e contraste agressivo",
-      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras tradicionais de layout, utilizando ângulos inusitados e foco seletivo",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contraste agressivo e estética onírica captura a atenção do usuário, enquanto a quebra de regras de layout estimula a curiosidade e aumenta a probabilidade de clique"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de desconforto ou surpresa, quebrando regras de layout tradicionais",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis suaves com contrastes fortes",
+      "teoria_do_clique": "A combinação de elementos humanos reais com toques de artificialidade neon, junto com a quebra de regras de layout, deve parar o scroll e estimular a curiosidade do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Bloom, destacando uma cena ou objeto com imperfeições humanas, utilizando ângulos inusitados e uma paleta de cores vibrante e contrastante",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon vibrante, em um ambiente sombrio ou onírico, com textos gigantes e composição desestruturada",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-12T04:38:24.794Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar performance",
-        "Inclusão de estilos visuais mais humanos e imperfeitos",
-        "Uso de contrastes agressivos e estéticas oníricas",
-        "Quebra de regras de layout para aumentar engajamento"
-      ]
-    },
     {
       "data": "2026-04-12T06:18:01.706Z",
       "licao": [
@@ -100,6 +92,14 @@
       "licao": [
         "Adaptação às tendências de 2026: Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhorar o engajamento em uma página com baixo desempenho"
+      ]
+    },
+    {
+      "data": "2026-04-12T15:26:52.414Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Foco em melhorar o engajamento com estética mais crua e humana",
+        "Inclusão de contraste agressivo e tipografia dominante"
       ]
     }
   ]
