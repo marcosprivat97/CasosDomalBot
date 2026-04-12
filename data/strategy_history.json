@@ -166,5 +166,26 @@
     "estrategia_semana": "Foco em reconstruir a página de forma total, com destaque para posts de 'Identificação Extrema', diversificação de conteúdo, conteúdo visual atraente e inovação em todas as áreas",
     "nivel_urgencia": "alto",
     "msg_para_equipe": "Vamos trabalhar juntos para reconstruir a página e criar um novo caminho para o sucesso, com foco em inovação, diversificação e adaptação às necessidades do público-alvo, e não repetir as mesmas estratégias que falharam nos últimos 3 ciclos!"
+  },
+  {
+    "timestamp": "2026-04-12T09:36:21.308Z",
+    "status_pagina": "⚠️ EMERGÊNCIA: ALCANCE ZERADO (Página em Reach Freeze)",
+    "estrategia_atual": "Reativação com Foco em Identificação Extrema e Inovação",
+    "diagnostico_causa_raiz": "Falta de inovação, diversificação e adaptação às necessidades do público-alvo, além da repetição de estratégias sem sucesso",
+    "ordens_cacador": [
+      "Pesquisar novas tendências e temas universais que gerem comentários e discussões, com foco em problemas ou questões do público-alvo e utilizando ferramentas de inteligência de mercado",
+      "Identificar e abordar temas atuais e relevantes que possam ser resolvidos ou discutidos de forma inovadora, com foco em conteúdo de 'Identificação Extrema' e soluções criativas"
+    ],
+    "ordens_redator": [
+      "Desenvolver conteúdo de qualidade, relevante e que estimule a interação e o compartilhamento de experiências, com foco em posts de 'Identificação Extrema', diversificação de temas e uso de narrativas atraentes",
+      "Criar posts que estimulem a discussão e o debate, além de promover a participação ativa do público, com uso de perguntas, chamadas para ação e respostas personalizadas"
+    ],
+    "ordens_diretor_visual": [
+      "Produzir conteúdo visual atraente, relevante e impactante que chame a atenção do público, utilizando histórias, reels, vídeos e outras formas de conteúdo visual inovadoras",
+      "Desenvolver uma identidade visual forte e coerente para a página, que reflita a essência do conteúdo e atraia o público-alvo, com uso de cores, imagens e elementos visuais atraentes e personalizados"
+    ],
+    "estrategia_semana": "Foco em reativar o engajamento e criar uma nova identidade para a página, com destaque para posts de 'Identificação Extrema', diversificação de conteúdo, conteúdo visual atraente e inovação em todas as áreas",
+    "nivel_urgencia": "alto",
+    "msg_para_equipe": "Vamos trabalhar juntos para reativar o engajamento e criar um novo caminho para o sucesso, com foco em inovação, diversificação e adaptação às necessidades do público-alvo, e não repetir as mesmas estratégias que falharam nos últimos 3 ciclos!"
   }
 ]
