@@ -1,20 +1,18 @@
 {
-  "ultima_atualizacao": "2026-04-13T12:58:45.313Z",
+  "ultima_atualizacao": "2026-04-13T14:47:30.724Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Ajuste no estilo de imagem para Hyper-Human",
-      "Incorporação de contraste agressivo com Neon-Noir",
-      "Implementação de Design Deconstrutivista para quebrar regras de layout",
-      "Uso de Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Foco em melhorar o engajamento médio e alcance total da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma assimétrica, com foco em detalhes humanos e imperfeições",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para suavizar",
-      "teoria_do_clique": "O uso de imagens reais e cruas, aliado a contraste agressivo, gera engajamento por ser mais autêntico e chamativo"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, valorizando a estética onírica e contrastes agressivos",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras tradicionais de layout, utilizando elementos que interrompam o scroll",
+      "paleta_cores": "Preto profundo como base, com acréscimos de neon em verde, azul ou rosa para criar contraste",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera curiosidade e pausa no scroll, aumentando as chances de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano, com pessoas reais e imperfeições, usando contraste agressivo entre preto e neon, e incorporando elementos de Design Deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, utilizando uma paleta de cores neon sobre um fundo preto, com textos gigantes e composição deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,16 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-12T20:23:12.270Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
-        "Incorporação de contrastes agressivos e estéticas oníricas",
-        "Uso de design deconstrutivista para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-04-12T21:24:05.121Z",
       "licao": [
@@ -105,6 +93,13 @@
         "Incorporação de contraste agressivo com Neon-Noir",
         "Implementação de Design Deconstrutivista para quebrar regras de layout",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-13T14:47:30.724Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Foco em melhorar o engajamento médio e alcance total da página"
       ]
     }
   ]
