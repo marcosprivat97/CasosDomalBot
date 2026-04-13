@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-13T04:49:39.618Z",
+  "ultima_atualizacao": "2026-04-13T07:08:12.151Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Incorporação de Tipografia Gigante para melhor leitura no mobile",
-      "Foco em estética crua e humana para aumentar o engajamento"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Uso de contrates agressivos e estéticas oníricas para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando contrastes agressivos e cores neon",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Preto profundo com acenos de neon verde, azul ou rosa, para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contrastes agressivos e cores neon atrai a atenção do usuário, enquanto a quebra de regras de layout estimula a curiosidade e o engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento e energia, com atenção ao primeiro plano e ao uso do espaço negativo",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar contraste",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrates agressivos, gera curiosidade e estimula a interação do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Bloom, incorporando Tipografia Gigante e uma composição que quebre as regras tradicionais de layout, com um foco em estética crua e humana",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com personagens reais e imperfeições, utilizando luzes neon e sombras profundas, com texto gigante destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-12T16:26:09.093Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-        "Incorporação de estilos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção do usuário",
-        "Implementação de design deconstrutivista para interromper o scroll"
-      ]
-    },
     {
       "data": "2026-04-12T17:25:48.970Z",
       "licao": [
@@ -102,6 +93,14 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Incorporação de Tipografia Gigante para melhor leitura no mobile",
         "Foco em estética crua e humana para aumentar o engajamento"
+      ]
+    },
+    {
+      "data": "2026-04-13T07:08:12.151Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Uso de contrates agressivos e estéticas oníricas para parar o scroll"
       ]
     }
   ]
