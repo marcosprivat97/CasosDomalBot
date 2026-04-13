@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-13T16:06:10.376Z",
+  "ultima_atualizacao": "2026-04-13T17:51:14.162Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a estética humana",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de design deconstrutivista para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em Hyper-Human e estéticas visuais disruptivas",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou dinamismo, com foco em detalhes humanos como rugas, sorrisos ou expressões faciais",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com destaque para cores vibrantes e uma paleta de fundo mais escura",
-      "teoria_do_clique": "O uso de imagens com imperfeições humanas e contrastes agressivos gera engajamento porque cria uma conexão emocional mais forte com o público, além de se destacar em meio a um feed de imagens mais padronizadas"
+      "foco_composicao": "Enquadre a imagem com contraste agressivo, utilizando preto e neon, e inclua elementos humanos reais e imperfeitos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar contraste",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estética Neon-Noir gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano central, destacando uma expressão facial ou uma ação dinâmica, com uma paleta de cores que inclua tons de preto, neon e elementos de Hyper-Bloom",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa real em primeiro plano, com expressão autêntica e imperfeições, sobre um fundo preto com detalhes neon, utilizando uma tipografia gigante e disruptiva",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-12T22:22:20.491Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-04-12T23:24:11.653Z",
       "licao": [
@@ -105,6 +95,14 @@
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de design deconstrutivista para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-13T17:51:14.162Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e estéticas visuais disruptivas",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
