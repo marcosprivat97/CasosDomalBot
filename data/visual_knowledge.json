@@ -1,18 +1,20 @@
 {
-  "ultima_atualizacao": "2026-04-13T20:05:58.821Z",
+  "ultima_atualizacao": "2026-04-13T21:38:31.448Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhorar o engajamento e alcance da página"
+      "Adoção de estética Hyper-Human para aumentar a autenticidade",
+      "Incorporação de contrastes agressivos do estilo Neon-Noir",
+      "Uso de Design Deconstrutivista para chamar a atenção",
+      "Implementação de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, priorizando fotos reais e cruas",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, utilizando a técnica de 'quebra de regras' do Design Deconstrutivista",
-      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com a estética Neon-Noir, gera curiosidade e atrai a atenção do usuário, enquanto a quebra de regras do Design Deconstrutivista mantém o usuário engajado"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma assimétrica, com elementos importantes fora do centro, e utilize a regra dos terços",
+      "paleta_cores": "Preto profundo com neon verde ou rosa para criar contraste agressivo",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrates agressivos, gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos Hyper-Human, utilizando contraste agressivo e quebra de regras de layout, com uma paleta de cores que inclua preto, neon e tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano, com uma pessoa real, em um ambiente urbano, utilizando iluminação natural e sombras profundas, com um toque de neon verde no primeiro plano e uma tipografia gigante com a frase 'Vida Real' em letras brancas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-13T04:49:39.619Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Incorporação de Tipografia Gigante para melhor leitura no mobile",
-        "Foco em estética crua e humana para aumentar o engajamento"
-      ]
-    },
     {
       "data": "2026-04-13T07:08:12.151Z",
       "licao": [
@@ -100,6 +94,15 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhorar o engajamento e alcance da página"
+      ]
+    },
+    {
+      "data": "2026-04-13T21:38:31.448Z",
+      "licao": [
+        "Adoção de estética Hyper-Human para aumentar a autenticidade",
+        "Incorporação de contrastes agressivos do estilo Neon-Noir",
+        "Uso de Design Deconstrutivista para chamar a atenção",
+        "Implementação de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
