@@ -1,34 +1,26 @@
 {
-  "ultima_atualizacao": "2026-04-14T16:01:06.340Z",
+  "ultima_atualizacao": "2026-04-14T17:57:13.078Z",
   "licao_atual": {
-    "versao_logica": "1.4",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
-      "Incorporação de Design Deconstrutivista para parar o scroll",
-      "Uso de Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando contrastes agressivos e elementos humanos",
-      "foco_composicao": "Enquadramento off-center, com sujeito principal em posição dinâmica e elementos de contexto minimalistas",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a presença humana aumenta a conexão emocional"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luzes neon e sombras escuras, com foco em detalhes humanos imperfeitos",
+      "paleta_cores": "Preto profundo, neon verde, azul e rosa, com alto contraste",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estética neon e contraste agressivo gera curiosidade e paralisa o scroll, além de promover engajamento devido à autenticidade e originalidade"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma pessoa em primeiro plano, iluminada por neon, em um ambiente sombrio com detalhes sutis de Hyper-Bloom",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma pessoa real, iluminada por luzes neon verdes e azuis, com sombras escuras profundas e textura granulada, adicionando texto gigante em fonte sans-serif branca sobre a imagem",
     "config_layout": {
-      "font_size_mult": 1.2,
+      "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-13T23:34:02.088Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-04-14T01:23:43.032Z",
       "licao": [
@@ -102,6 +94,14 @@
         "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
         "Incorporação de Design Deconstrutivista para parar o scroll",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-14T17:57:13.078Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
