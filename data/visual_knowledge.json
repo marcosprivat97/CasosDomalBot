@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-14T12:58:50.775Z",
+  "ultima_atualizacao": "2026-04-14T14:50:27.319Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos de imagem mais cruos e humanos",
-      "Uso de contraste agressivo e estéticas oníricas"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com foco em fotos reais, cruas e com imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a destacar a imperfeição humana, utilizando ângulos e luz natural para criar um efeito de autenticidade",
-      "paleta_cores": "Neon-Noir, com contraste agressivo entre preto e neon, ou Hyper-Bloom, com estéticas oníricas e cores vibrantes",
-      "teoria_do_clique": "A rejeição ao 'AI Slop' e a busca por autenticidade nas imagens gera engajamento, pois as pessoas se conectam com a humanidade e a imperfeição"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, destacando imperfeições humanas",
+      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de imperfeições humanas cria uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Hyper-Human, com uma pessoa em um ambiente natural, utilizando luz e sombra para criar um efeito de profundidade e autenticidade",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais em um ambiente urbano sombrio, com luzes neon refletindo em superfícies molhadas, e adicione textos gigantes em fonte sans-serif para destacar a mensagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-13T21:38:31.448Z",
-      "licao": [
-        "Adoção de estética Hyper-Human para aumentar a autenticidade",
-        "Incorporação de contrastes agressivos do estilo Neon-Noir",
-        "Uso de Design Deconstrutivista para chamar a atenção",
-        "Implementação de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-04-13T22:34:29.316Z",
       "licao": [
@@ -104,6 +95,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos de imagem mais cruos e humanos",
         "Uso de contraste agressivo e estéticas oníricas"
+      ]
+    },
+    {
+      "data": "2026-04-14T14:50:27.319Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
