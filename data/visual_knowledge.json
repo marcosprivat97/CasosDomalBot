@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-14T11:50:50.755Z",
+  "ultima_atualizacao": "2026-04-14T12:58:50.775Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
-      "Implementação de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Inclusão de estilos de imagem mais cruos e humanos",
+      "Uso de contraste agressivo e estéticas oníricas"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human para criar uma estética única e atraente",
-      "foco_composicao": "Enquadre a imagem de forma a criar um equilíbrio entre o sujeito principal e o ambiente, com atenção especial para a inclusão de elementos que contam uma história",
-      "paleta_cores": "Preto profundo com neon vibrante para criar contraste e destacar o sujeito principal",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com estéticas oníricas e contraste agressivo, gera curiosidade e estimula o engajamento, pois oferece uma experiência visual única e memorável"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais, cruas e com imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a destacar a imperfeição humana, utilizando ângulos e luz natural para criar um efeito de autenticidade",
+      "paleta_cores": "Neon-Noir, com contraste agressivo entre preto e neon, ou Hyper-Bloom, com estéticas oníricas e cores vibrantes",
+      "teoria_do_clique": "A rejeição ao 'AI Slop' e a busca por autenticidade nas imagens gera engajamento, pois as pessoas se conectam com a humanidade e a imperfeição"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em primeiro plano, utilizando iluminação neon para realçar detalhes e criar um ambiente mystérico, com uma paleta de cores que inclua preto, neon verde e rosa, e adicione elementos de Design Deconstrutivista para quebrar as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Hyper-Human, com uma pessoa em um ambiente natural, utilizando luz e sombra para criar um efeito de profundidade e autenticidade",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-13T20:05:58.821Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhorar o engajamento e alcance da página"
-      ]
-    },
     {
       "data": "2026-04-13T21:38:31.448Z",
       "licao": [
@@ -104,6 +96,14 @@
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
         "Implementação de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-04-14T12:58:50.776Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Inclusão de estilos de imagem mais cruos e humanos",
+        "Uso de contraste agressivo e estéticas oníricas"
       ]
     }
   ]
