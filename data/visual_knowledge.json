@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-04-14T10:06:02.106Z",
+  "ultima_atualizacao": "2026-04-14T11:50:50.755Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
+      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+      "Implementação de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, com foco em elementos humanos imperfeitos",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves",
-      "teoria_do_clique": "A combinação de estética Neon-Noir com a autenticidade do Hyper-Human cria uma experiência visual única, capaz de parar o scroll e gerar engajamento"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human para criar uma estética única e atraente",
+      "foco_composicao": "Enquadre a imagem de forma a criar um equilíbrio entre o sujeito principal e o ambiente, com atenção especial para a inclusão de elementos que contam uma história",
+      "paleta_cores": "Preto profundo com neon vibrante para criar contraste e destacar o sujeito principal",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com estéticas oníricas e contraste agressivo, gera curiosidade e estimula o engajamento, pois oferece uma experiência visual única e memorável"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Human, destacando elementos humanos imperfeitos em um ambiente sombrio, com texto dominante em Tipografia Gigante",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em primeiro plano, utilizando iluminação neon para realçar detalhes e criar um ambiente mystérico, com uma paleta de cores que inclua preto, neon verde e rosa, e adicione elementos de Design Deconstrutivista para quebrar as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-13T18:59:29.306Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
-        "Foco em estética crua e humana para rejeitar o 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-04-13T20:05:58.821Z",
       "licao": [
@@ -102,6 +95,15 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-04-14T11:50:50.755Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
+        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+        "Implementação de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
       ]
     }
   ]
