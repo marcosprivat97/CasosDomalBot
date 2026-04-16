@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-04-16T21:33:48.944Z",
+  "ultima_atualizacao": "2026-04-16T22:29:33.956Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      "Foco em estilos mais humanos e autênticos",
+      "Incorporação de contraste agressivo e estéticas oníricas",
+      "Quebra de regras de layout para aumentar o engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, com foco em detalhes humanos reais e imperfeições",
-      "paleta_cores": "Preto profundo com neon vibrante, ou estéticas oníricas com Hyper-Bloom para criar contrastes agressivos",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos, gera engajamento pois ressoa com a autenticidade e a emoção humana, interrompendo o scroll do usuário"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a cena de forma assimétrica, com foco em elementos humanos e imperfeições",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves",
+      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout capturam a atenção do usuário, enquanto a autenticidade humana gera conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir, focando em detalhes humanos reais e imperfeições, com uma paleta de preto profundo e neon vibrante, e um layout que quebre as regras de composição tradicionais",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais, iluminadas por neon, em um ambiente urbano decadente, com texto gigante sobrepondo a imagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-16T08:21:41.379Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em Hyper-Human e estilos visuais disruptivos",
-        "Otimização para melhor engajamento em redes sociais"
-      ]
-    },
     {
       "data": "2026-04-16T10:06:35.618Z",
       "licao": [
@@ -102,6 +95,15 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      ]
+    },
+    {
+      "data": "2026-04-16T22:29:33.956Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Foco em estilos mais humanos e autênticos",
+        "Incorporação de contraste agressivo e estéticas oníricas",
+        "Quebra de regras de layout para aumentar o engajamento"
       ]
     }
   ]
