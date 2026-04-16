@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-04-15T23:33:18.976Z",
+  "ultima_atualizacao": "2026-04-16T01:25:59.938Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de elementos de Hyper-Human e Neon-Noir para aumentar a atratividade visual",
-      "Implementação de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Ajustes para incorporar tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar engajamento e alcance"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos de Hyper-Human",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos e imperfeições",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera curiosidade e atrai a atenção do usuário, enquanto a inclusão de elementos humanos cria uma conexão emocional"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições e autenticidade",
+      "foco_composicao": "Enquadramento assimétrico com foco em detalhes humanos, como mãos, olhos ou expressões faciais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estética neon e contrastes agressivos gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Bloom, destacando uma pessoa ou cena cotidiana com imperfeições humanas, utilizando uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano central, como uma mão segurando um objeto neon, em um ambiente escuro e contrastado, com textos gigantes ao fundo",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-15T11:46:22.190Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Inclusão de estilos visuais para melhorar o engajamento",
-        "Otimização do layout para dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-04-15T12:57:45.116Z",
       "licao": [
@@ -103,6 +94,13 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de elementos de Hyper-Human e Neon-Noir para aumentar a atratividade visual",
         "Implementação de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-16T01:25:59.938Z",
+      "licao": [
+        "Ajustes para incorporar tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar engajamento e alcance"
       ]
     }
   ]
