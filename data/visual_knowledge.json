@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-16T10:06:35.618Z",
+  "ultima_atualizacao": "2026-04-16T11:51:06.742Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em Hyper-Human e Neon-Noir para melhor engajamento",
-      "Inclusão de Design Deconstrutivista para parar o scroll",
-      "Uso de Tipografia Gigante para leitura rápida no mobile"
+      "Adoção de estilos visuais que rejeitam o 'AI Slop' para melhorar engajamento",
+      "Incorporação de tendências de design para parar o scroll e aumentar o alcance",
+      "Otimização da tipografia para leitura rápida em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem com elementos humanos reais e imperfeições, utilizando contraste agressivo entre preto e neon",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica geram curiosidade e paralisam o scroll, enquanto a presença humana real aumenta a empatia e o engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto com elementos humanos reais, imperfeições e contraste agressivo, utilizando a regra dos terços para direcionar o olhar do observador",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para elementos secundários",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas oníricas e contraste agressivo gera curiosidade e pausa no scroll, aumentando a probabilidade de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com um humano real em primeiro plano, com iluminação neon e contraste agressivo, sobre um fundo preto ou com tons pastéis, utilizando elementos de Design Deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine um elemento humano real com um fundo neon vibrante e contraste agressivo, utilizando a tipografia gigante para destacar uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-15T18:59:43.130Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a essência humana",
-        "Implementação de contrates agressivos e estéticas oníricas para chamar a atenção",
-        "Uso de design deconstrutivista para interromper o scroll",
-        "Incorporação de tipografia gigante para facilitar a leitura no mobile"
-      ]
-    },
     {
       "data": "2026-04-15T20:03:42.946Z",
       "licao": [
@@ -105,6 +94,14 @@
         "Foco em Hyper-Human e Neon-Noir para melhor engajamento",
         "Inclusão de Design Deconstrutivista para parar o scroll",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-16T11:51:06.742Z",
+      "licao": [
+        "Adoção de estilos visuais que rejeitam o 'AI Slop' para melhorar engajamento",
+        "Incorporação de tendências de design para parar o scroll e aumentar o alcance",
+        "Otimização da tipografia para leitura rápida em dispositivos móveis"
       ]
     }
   ]
