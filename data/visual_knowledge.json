@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-16T06:27:53.838Z",
+  "ultima_atualizacao": "2026-04-16T08:21:41.379Z",
   "licao_atual": {
-    "versao_logica": "1.4",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais mais cruos e humanos",
-      "Uso de contrastes agressivos e estéticas oníricas",
-      "Implementação de design deconstrutivista e tipografia gigante"
+      "Adaptação às tendências globais de 2026",
+      "Foco em Hyper-Human e estilos visuais disruptivos",
+      "Otimização para melhor engajamento em redes sociais"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neo-Noir com elementos de Hyper-Bloom",
-      "foco_composicao": "Enquadre sujeitos em ambientes urbanos noturnos com iluminação neon, explorando ângulos e perspectivas inovadoras",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas captura a atenção do usuário, enquanto a tipografia gigante facilita a leitura rápida e aumenta o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, destacando o tema principal",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contraste agressivo e cores vibrantes chama a atenção do usuário, enquanto a estética onírica estimula a curiosidade e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com um personagem principal iluminado por luzes neon, utilizando uma paleta de cores escuras e vibrantes, com texto gigante sobreposto que destaque uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, destacando um tema humano real e cru, com textos gigantes em primeiro plano para leitura rápida",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-15T15:58:42.829Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estéticas mais humanas e imperfeitas",
-        "Incorporação de contrastes agressivos e tipografia gigante"
-      ]
-    },
     {
       "data": "2026-04-15T17:02:33.533Z",
       "licao": [
@@ -104,6 +95,14 @@
         "Inclusão de estilos visuais mais cruos e humanos",
         "Uso de contrastes agressivos e estéticas oníricas",
         "Implementação de design deconstrutivista e tipografia gigante"
+      ]
+    },
+    {
+      "data": "2026-04-16T08:21:41.379Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em Hyper-Human e estilos visuais disruptivos",
+        "Otimização para melhor engajamento em redes sociais"
       ]
     }
   ]
