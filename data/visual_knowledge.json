@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-16T23:31:28.693Z",
+  "ultima_atualizacao": "2026-04-17T01:23:26.536Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human",
-      "Incorporação de contraste agressivo e estética onírica",
-      "Uso de tipografia gigante para leitura rápida"
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a cena de forma irregular, quebrando as regras tradicionais de layout, para parar o scroll",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a tipografia gigante facilita a leitura e o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a criar contrastes agressivos entre preto e neon, com foco em elementos humanos reais e imperfeitos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "A combinação de Hyper-Human e Neon-Noir gera curiosidade e atrai a atenção do usuário, enquanto a quebra de regras de layout e a tipografia gigante param o scroll e estimulam a leitura rápida"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com iluminação neon, pessoas com expressões autênticas e uma atmosfera onírica, utilizando uma paleta de cores que inclua preto, neon e tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon vibrante em um cenário sombrio, utilizando uma paleta de cores que inclua preto profundo e tons pastéis suaves",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-16T11:51:06.742Z",
-      "licao": [
-        "Adoção de estilos visuais que rejeitam o 'AI Slop' para melhorar engajamento",
-        "Incorporação de tendências de design para parar o scroll e aumentar o alcance",
-        "Otimização da tipografia para leitura rápida em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-04-16T13:02:45.793Z",
       "licao": [
@@ -104,6 +95,14 @@
         "Foco em estética Hyper-Human",
         "Incorporação de contraste agressivo e estética onírica",
         "Uso de tipografia gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-04-17T01:23:26.536Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
