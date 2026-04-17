@@ -1,35 +1,25 @@
 {
-  "ultima_atualizacao": "2026-04-17T20:34:29.058Z",
+  "ultima_atualizacao": "2026-04-17T21:32:23.737Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
-      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, destacando imperfeições e contrastes agressivos",
-      "foco_composicao": "Enquadre a foto com um sujeito central, utilizando regras de terço e quebrando a simetria para criar um layout deconstrutivista",
-      "paleta_cores": "Preto profundo com neon vibrante, criando um contraste agressivo e atraente",
-      "teoria_do_clique": "O uso de contrastes agressivos e estética onírica gera curiosidade e atrai a atenção do usuário, aumentando a probabilidade de cliques e engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, destacando imperfeições e realismo",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, com foco em elementos humanos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico e atraente",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de imperfeições humanas cria uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos de Neon-Noir com toques de Hyper-Human, com um sujeito central e um layout deconstrutivista, utilizando uma paleta de cores que inclua preto profundo e neon vibrante",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em primeiro plano, iluminado por luzes neon, com um fundo sombrio e detalhes de textura para destacar a realidade",
     "config_layout": {
-      "font_size_mult": 1.5,
+      "font_size_mult": 1.2,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-17T10:04:11.812Z",
-      "licao": [
-        "Adoção do estilo Hyper-Human para fotos mais autênticas",
-        "Incorporação de contrastes agressivos com Neon-Noir",
-        "Uso de Design Deconstrutivista para interrupção do scroll",
-        "Implementação de Tipografia Gigante para melhor legibilidade"
-      ]
-    },
     {
       "data": "2026-04-17T11:41:57.159Z",
       "licao": [
@@ -101,6 +91,13 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
         "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-17T21:32:23.737Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais engajamento"
       ]
     }
   ]
