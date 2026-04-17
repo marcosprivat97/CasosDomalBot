@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-17T11:41:57.159Z",
+  "ultima_atualizacao": "2026-04-17T12:53:43.561Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhorar a leitura rápida no mobile"
+      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
+      "Foco em composições que quebram regras de layout para aumentar engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contrastes agressivos (preto/neon) ou estéticas oníricas",
-      "foco_composicao": "Enquadre a foto de modo a quebrar as regras de layout tradicionais, utilizando espaços em branco e composições assimétricas para parar o scroll",
-      "paleta_cores": "Utilize cores neon ou pastéis suaves em contraste com tons escuros, criando um ambiente visual atraente e disruptivo",
-      "teoria_do_clique": "O uso de imagens cruas e humanas, combinado com estéticas visuais atraentes, gera engajamento por criar uma conexão emocional com o espectador e estimular a curiosidade"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, buscando contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de desconstrução, com elementos fora do centro e uso de espaço negativo para direcionar o olhar do espectador",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas futuristas e a quebra de regras de layout criam uma curiosidade no espectador, levando a um aumento no engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com estéticas neon ou oníricas, utilizando uma paleta de cores contrastantes e uma composição que quebre as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, utilizando uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis. A composição deve quebrar regras de layout, com elementos fora do centro e uso de espaço negativo. Inclua textos dominantes com fontes gigantes para leitura rápida em dispositivos móveis.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-16T20:42:11.544Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
-        "Incorporação de contrastes agressivos e estéticas oníricas",
-        "Uso de tipografia gigante para melhor legibilidade em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-04-16T21:33:48.944Z",
       "licao": [
@@ -103,6 +95,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhorar a leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-17T12:53:43.561Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
+        "Foco em composições que quebram regras de layout para aumentar engajamento"
       ]
     }
   ]
