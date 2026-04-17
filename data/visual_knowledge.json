@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-17T15:49:17.358Z",
+  "ultima_atualizacao": "2026-04-17T16:41:45.014Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      "Incorporação das tendências globais de 2026 para melhorar o engajamento",
+      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Adaptação do layout para parar o scroll e capturar a atenção do usuário"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de proximidade e intimidade, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Preto profundo com acenos de neon em cores vibrantes, como rosa, azul ou amarelo, para criar contraste",
-      "teoria_do_clique": "O uso de imagens cruas e autênticas, combinado com estéticas oníricas, gera curiosidade e estimula o engajamento, pois os usuários buscam experiências visuais únicas e memoráveis"
+      "estilo_imagem": "Hyper-Human, com fotos reais e cruas, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste e destacar a autenticidade do momento, quebrando regras de layout tradicionais",
+      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrastes agressivos entre preto e neon, ou estéticas oníricas vibrantes",
+      "teoria_do_clique": "O uso de imagens autênticas e estilos visuais ousados gera engajamento por criar uma conexão emocional mais forte com o espectador, além de parar o scroll devido à sua natureza disruptiva"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um protagonista humano em primeiro plano, utilizando luzes neon para realçar a textura e as imperfeições da pele, com um fundo escuro que permita ao neon brilhar",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento autêntico e cru, com um estilo Hyper-Human, utilizando uma paleta de cores Neon-Noir ou Hyper-Bloom, e quebra as regras de layout tradicionais para criar um impacto visual forte",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-16T23:31:28.693Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human",
-        "Incorporação de contraste agressivo e estética onírica",
-        "Uso de tipografia gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-04-17T01:23:26.536Z",
       "licao": [
@@ -103,6 +94,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-17T16:41:45.014Z",
+      "licao": [
+        "Incorporação das tendências globais de 2026 para melhorar o engajamento",
+        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Adaptação do layout para parar o scroll e capturar a atenção do usuário"
       ]
     }
   ]
