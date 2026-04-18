@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-04-18T15:28:29.366Z",
+  "ultima_atualizacao": "2026-04-18T16:26:54.782Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estética Hyper-Human para atrair usuários",
+      "Incorporação de elementos Neon-Noir e Hyper-Bloom para aumento de contraste",
+      "Utilização de Design Deconstrutivista para quebrar regras de layout",
+      "Implementação de Tipografia Gigante para melhor legibilidade"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a cena com contraste agressivo, destacando elementos humanos imperfeitos",
-      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para equilíbrio",
-      "teoria_do_clique": "A combinação de estética onírica e elementos humanos reais gera curiosidade e empatia, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, destacando imperfeições humanas",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O uso de imagens reais, cruas e com imperfeições humanas, aliado a contrastes agressivos, atrai a atenção do usuário e gera engajamento devido à busca por autenticidade e experiências visuais impactantes"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em primeiro plano, iluminadas por neon, com um fundo preto profundo e elementos oníricos ao redor",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com elementos neon, pessoas reais em movimento, com foco em expressões faciais intensas e uso de textos gigantes em primeiro plano para transmitir uma mensagem poderosa",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-18T06:06:20.169Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human e Neon-Noir",
-        "Inclusão de Design Deconstrutivista para melhor engajamento",
-        "Uso de Tipografia Gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-04-18T07:53:09.356Z",
       "licao": [
@@ -100,6 +94,16 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-04-18T16:26:54.782Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estética Hyper-Human para atrair usuários",
+        "Incorporação de elementos Neon-Noir e Hyper-Bloom para aumento de contraste",
+        "Utilização de Design Deconstrutivista para quebrar regras de layout",
+        "Implementação de Tipografia Gigante para melhor legibilidade"
       ]
     }
   ]
