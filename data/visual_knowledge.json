@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-04-18T10:30:30.245Z",
+  "ultima_atualizacao": "2026-04-18T11:26:30.401Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
@@ -8,12 +8,12 @@
       "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, buscando um equilíbrio entre contraste agressivo e autenticidade",
-      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras tradicionais de layout, utilizando espaços negativos e cores neon para direcionar a atenção do espectador",
-      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar uma estética onírica e hipnótica",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras visuais capturam a atenção imediata, enquanto a autenticidade Hyper-Human promove a conexão emocional e o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luzes e sombras, com atenção a detalhes humanos imperfeitos",
+      "paleta_cores": "Preto profundo com neon vibrante, contrastando com tons pastéis suaves",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a presença de imperfeições humanas aumenta a empatia e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais em primeiro plano, utilizando luzes neon para realçar detalhes e criar sombras profundas, com um texto gigante e disruptivo sobrepondo a cena",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, iluminada por neon, com um fundo escuro e sombras profundas, incorporando elementos de design deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-17T21:32:23.737Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais engajamento"
-      ]
-    },
     {
       "data": "2026-04-17T22:27:40.481Z",
       "licao": [
@@ -94,6 +87,14 @@
     },
     {
       "data": "2026-04-18T10:30:30.245Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-04-18T11:26:30.401Z",
       "licao": [
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
