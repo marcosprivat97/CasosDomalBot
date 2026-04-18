@@ -1,21 +1,20 @@
 {
-  "ultima_atualizacao": "2026-04-18T12:36:14.418Z",
+  "ultima_atualizacao": "2026-04-18T13:54:42.626Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos de imagem mais cruos e humanos",
-      "Uso de contrastes agressivos e estéticas oníricas",
-      "Implementação de design deconstrutivista para parar o scroll",
-      "Integração de tipografia gigante para leitura rápida no mobile"
+      "Adoção de estética Hyper-Human para fotos mais cruas e reais",
+      "Incorporação de contrastes agressivos do estilo Neon-Noir",
+      "Aplicação de princípios de Design Deconstrutivista para layouts inovadores",
+      "Uso de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou tensão, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Preto profundo com neon verde ou rosa, criando um contraste agressivo",
-      "teoria_do_clique": "O uso de imagens cruas e humanas, combinado com contrastes agressivos, gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
+      "foco_composicao": "Enquadre sujeitos em ambientes urbanos noturnos, destacando imperfeições e texturas naturais",
+      "paleta_cores": "Preto profundo, neon verde, azul e rosa, com iluminação dramática",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a autenticidade do Hyper-Human gera conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma cena urbana noturna com pessoas em movimento, utilizando neon verde e rosa em contraste com um fundo preto profundo, com textos dominantes em fonte sans-serif",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com personagens reais, incorporando neon e iluminação dramática, com texto dominante em fonte sans-serif",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-17T23:29:52.387Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de tipografia gigante para leitura rápida no mobile",
-        "Foco em estéticas oníricas e contrastes agressivos para parar o scroll"
-      ]
-    },
     {
       "data": "2026-04-18T01:17:10.759Z",
       "licao": [
@@ -103,6 +94,15 @@
         "Uso de contrastes agressivos e estéticas oníricas",
         "Implementação de design deconstrutivista para parar o scroll",
         "Integração de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-18T13:54:42.626Z",
+      "licao": [
+        "Adoção de estética Hyper-Human para fotos mais cruas e reais",
+        "Incorporação de contrastes agressivos do estilo Neon-Noir",
+        "Aplicação de princípios de Design Deconstrutivista para layouts inovadores",
+        "Uso de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
       ]
     }
   ]
