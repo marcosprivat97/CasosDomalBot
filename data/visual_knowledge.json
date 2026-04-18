@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-04-18T11:26:30.401Z",
+  "ultima_atualizacao": "2026-04-18T12:36:14.418Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Inclusão de estilos de imagem mais cruos e humanos",
+      "Uso de contrastes agressivos e estéticas oníricas",
+      "Implementação de design deconstrutivista para parar o scroll",
+      "Integração de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luzes e sombras, com atenção a detalhes humanos imperfeitos",
-      "paleta_cores": "Preto profundo com neon vibrante, contrastando com tons pastéis suaves",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a presença de imperfeições humanas aumenta a empatia e o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou tensão, quebrando as regras tradicionais de layout",
+      "paleta_cores": "Preto profundo com neon verde ou rosa, criando um contraste agressivo",
+      "teoria_do_clique": "O uso de imagens cruas e humanas, combinado com contrastes agressivos, gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, iluminada por neon, com um fundo escuro e sombras profundas, incorporando elementos de design deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma cena urbana noturna com pessoas em movimento, utilizando neon verde e rosa em contraste com um fundo preto profundo, com textos dominantes em fonte sans-serif",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-17T22:27:40.481Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
-        "Foco em criar imagens que rejeitam o 'AI Slop' e buscam autenticidade"
-      ]
-    },
     {
       "data": "2026-04-17T23:29:52.387Z",
       "licao": [
@@ -99,6 +93,16 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-04-18T12:36:14.418Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Inclusão de estilos de imagem mais cruos e humanos",
+        "Uso de contrastes agressivos e estéticas oníricas",
+        "Implementação de design deconstrutivista para parar o scroll",
+        "Integração de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
