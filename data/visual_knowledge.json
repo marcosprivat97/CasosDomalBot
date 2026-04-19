@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-19T04:42:45.216Z",
+  "ultima_atualizacao": "2026-04-19T06:23:46.737Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adoção de estilos Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista",
-      "Uso de Tipografia Gigante"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a imagem de forma a desafiar as regras tradicionais de layout, utilizando espaços negativos e elementos fora de foco para criar contraste",
-      "paleta_cores": "Preto profundo com neon vibrante e possíveis toques de cores pastéis para um efeito híbrido",
-      "teoria_do_clique": "O uso de contrastes agressivos e composições desafiadoras parará o scroll e estimulará a curiosidade do usuário, enquanto a presença de elementos humanos imperfeitos aumentará a conexão emocional"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
+      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre preto e neon, com elementos humanos cruas e imperfeitas",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de elementos humanos cruas e imperfeitas gera empatia e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano central, incorporando imperfeições e contraste agressivo, com texto gigante sobreposto de forma a desafiar as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Neon-Noir com uma pessoa humana real, imperfeita e crua, em um ambiente sombrio com neon vibrante, com uma tipografia gigante destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-18T16:26:54.782Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estética Hyper-Human para atrair usuários",
-        "Incorporação de elementos Neon-Noir e Hyper-Bloom para aumento de contraste",
-        "Utilização de Design Deconstrutivista para quebrar regras de layout",
-        "Implementação de Tipografia Gigante para melhor legibilidade"
-      ]
-    },
     {
       "data": "2026-04-18T17:28:42.692Z",
       "licao": [
@@ -105,6 +95,14 @@
         "Adoção de estilos Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista",
         "Uso de Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-04-19T06:23:46.737Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
