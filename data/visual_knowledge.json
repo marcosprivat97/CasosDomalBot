@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-04-19T08:57:02.966Z",
+  "ultima_atualizacao": "2026-04-19T09:41:20.930Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências de 2026",
+      "Foco em estilos de imagem mais humanos e cruas",
+      "Introdução de contraste agressivo e estéticas oníricas",
+      "Uso de tipografia gigante para leitura rápida"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a destacar a imperfeição humana, com um foco em elementos que criam contraste e textura",
-      "paleta_cores": "Preto profundo com neon vibrante, ou inversamente, tons pastéis com iluminação dramática",
-      "teoria_do_clique": "O uso de imagens reais e cruas gera engajamento porque ressoa com a autenticidade e a imperfeição humana, enquanto os contrastes agressivos capturam a atenção do usuário"
+      "foco_composicao": "Enquadre a cena de forma desequilibrada, com atenção a detalhes imperfeitos e humanos",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um contraste onírico",
+      "teoria_do_clique": "O uso de imagens cruas e humanas gera empatia e curiosidade, enquanto o contraste agressivo e a tipografia gigante capturam a atenção do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência humana em um ambiente onírico, com contraste agressivo entre preto e neon, e uma tipografia gigante que domine a cena",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais, iluminados por neon, com textos gigantes e imperfeições humanas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-18T19:33:44.833Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-04-18T20:24:48.350Z",
       "licao": [
@@ -102,6 +95,15 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-19T09:41:20.930Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estilos de imagem mais humanos e cruas",
+        "Introdução de contraste agressivo e estéticas oníricas",
+        "Uso de tipografia gigante para leitura rápida"
       ]
     }
   ]
