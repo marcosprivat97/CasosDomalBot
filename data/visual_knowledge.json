@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-19T23:26:38.053Z",
+  "ultima_atualizacao": "2026-04-20T01:26:25.405Z",
   "licao_atual": {
-    "versao_logica": "2.0",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em Hyper-Human e estéticas visuais disruptivas",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
+      "Otimização para engajamento com base em rejeição ao 'AI Slop' e busca por autenticidade"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a imagem com contraste agressivo, utilizando preto e neon, e inclua imperfeições humanas para criar uma sensação de autenticidade",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste onírico",
-      "teoria_do_clique": "O uso de contraste agressivo e estéticas disruptivas parará o scroll e gerará curiosidade, enquanto a inclusão de imperfeições humanas criará uma conexão emocional com o público"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, focando em contrastes agressivos e autenticidade",
+      "foco_composicao": "Enquadre a cena de forma a destacar a humanidade e as imperfeições, quebrando regras tradicionais de layout para capturar a atenção",
+      "paleta_cores": "Preto profundo contrastando com neon ou cores vibrantes, criando um efeito visual impactante e onírico",
+      "teoria_do_clique": "O uso de imagens cruas e humanas, junto com contrastes agressivos, atrai o olhar e estimula o cérebro a processar a informação de forma mais profunda, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um tema humano, incorporando elementos disruptivos e imperfeições para gerar curiosidade e conexão emocional",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, sob iluminação neon vibrante e com um fundo escuro, incorporando elementos de design deconstrutivista e tipografia gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-19T14:33:40.562Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhoria de engajamento",
-        "Foco em estética Hyper-Human e Neon-Noir"
-      ]
-    },
     {
       "data": "2026-04-19T15:28:50.483Z",
       "licao": [
@@ -98,6 +91,14 @@
         "Adaptação às tendências de 2026",
         "Foco em Hyper-Human e estéticas visuais disruptivas",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-04-20T01:26:25.405Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
+        "Otimização para engajamento com base em rejeição ao 'AI Slop' e busca por autenticidade"
       ]
     }
   ]
