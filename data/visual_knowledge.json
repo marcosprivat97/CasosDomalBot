@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-04-20T04:49:31.213Z",
+  "ultima_atualizacao": "2026-04-20T07:09:47.408Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human para aumentar engajamento",
+      "Incorporação de Design Deconstrutivista para parar o scroll",
+      "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
-      "foco_composicao": "Enquadre a foto com contraste agressivo, utilizando sombras escuras e iluminação neon, e inclua elementos humanos reais e imperfeitos",
-      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contraste agressivo e estética onírica captura a atenção do usuário, enquanto a inclusão de elementos humanos reais aumenta a empatia e o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de maneira irregular, quebrando regras de layout tradicionais, e inclua elementos humanos reais com imperfeições",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas gera empatia e autenticidade, aumentando o engajamento. A quebra de regras de layout e o contraste agressivo capturam a atenção do usuário."
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa real no centro, utilizando sombras escuras e iluminação neon, e adicione textos gigantes em fonte sans-serif para destacar a mensagem",
+    "prompt_padrao_atualizado": "Crie uma cena Hyper-Human com toques de Neon-Noir, incorporando elementos reais e imperfeições humanas. Use contraste agressivo e quebre regras de layout para criar uma estética única.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-19T16:27:16.892Z",
-      "licao": [
-        "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhorar engajamento em redes sociais"
-      ]
-    },
     {
       "data": "2026-04-19T17:27:18.866Z",
       "licao": [
@@ -99,6 +93,15 @@
         "Adaptação às tendências globais de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-04-20T07:09:47.408Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human para aumentar engajamento",
+        "Incorporação de Design Deconstrutivista para parar o scroll",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
