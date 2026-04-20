@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-20T17:49:38.626Z",
+  "ultima_atualizacao": "2026-04-20T18:50:28.082Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
-      "Implementação de contrastes agressivos e estéticas oníricas para chamar a atenção",
-      "Uso de design deconstrutivista para interromper o scroll",
-      "Integração de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Incorporação de contraste agressivo e estéticas oníricas"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, valorizando a estética humana e imperfeições",
-      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre luz e sombra, com elementos humanos no centro",
-      "paleta_cores": "Preto, neon e tons pastéis para criar uma estética onírica e atraente",
-      "teoria_do_clique": "O uso de contraste e cores vibrantes, aliado à estética humana, gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo, com preto e neon, e considere a quebra de regras de layout para chamar a atenção",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O uso de contraste agressivo e estéticas oníricas captura a atenção do usuário, enquanto a autenticidade da imagem 'Hyper-Human' gera conexão emocional e aumenta o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem neon-noir com um humano no centro, rodeado por luzes neon e tons pastéis, com uma tipografia gigante e deconstrutivista ao fundo",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com elementos neon, pessoas reais em primeiro plano e uma cidade ou paisagem onírica ao fundo, com texturas e imperfeições naturais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-19T23:26:38.053Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e estéticas visuais disruptivas",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-04-20T01:26:25.405Z",
       "licao": [
@@ -109,6 +99,14 @@
         "Implementação de contrastes agressivos e estéticas oníricas para chamar a atenção",
         "Uso de design deconstrutivista para interromper o scroll",
         "Integração de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-20T18:50:28.082Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Incorporação de contraste agressivo e estéticas oníricas"
       ]
     }
   ]
