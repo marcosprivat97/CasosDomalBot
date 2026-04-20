@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-20T09:47:29.653Z",
+  "ultima_atualizacao": "2026-04-20T11:11:01.087Z",
   "licao_atual": {
-    "versao_logica": "2.0",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
-      "Foco em estética cruas e com imperfeições humanas para rejeitar o 'AI Slop'"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando contrastes agressivos e estéticas oníricas",
-      "foco_composicao": "Enquadre a imagem de forma a quebrar regras de layout tradicionais, utilizando espaços negativos e composições assimétricas para parar o scroll",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera engajamento por criar uma experiência visual única e memorável, enquanto a quebra de regras de layout mantém o usuário engajado"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
+      "foco_composicao": "Enquadre sujeitos em ambientes urbanos noturnos com iluminação neon, destacando imperfeições humanas",
+      "paleta_cores": "Preto, neon verde, rosa e azul, com contraste agressivo",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estética futurista gera curiosidade e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com toques de Hyper-Bloom, com uma composição deconstrutivista que inclua textos gigantes em neon, sobre um fundo preto profundo, destacando a imperfeição humana e a autenticidade",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com uma pessoa real, iluminada por luzes neon, com uma tipografia gigante e deconstrutivista ao fundo",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-19T18:32:41.431Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
-        "Inclusão de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
-        "Uso de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-04-19T19:34:04.888Z",
       "licao": [
@@ -101,6 +93,14 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
         "Foco em estética cruas e com imperfeições humanas para rejeitar o 'AI Slop'"
+      ]
+    },
+    {
+      "data": "2026-04-20T11:11:01.087Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
