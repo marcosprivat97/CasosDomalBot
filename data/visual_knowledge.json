@@ -1,21 +1,21 @@
 {
-  "ultima_atualizacao": "2026-04-20T15:08:40.408Z",
+  "ultima_atualizacao": "2026-04-20T16:53:09.441Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-      "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-      "Uso de contraste agressivo e estética onírica para chamar a atenção",
-      "Aplicação de design deconstrutivista para quebrar regras de layout",
+      "Adaptação às tendências de 2026",
+      "Foco em estilos que rejeitam o 'AI Slop'",
+      "Incorporação de contrastes agressivos e estéticas oníricas",
+      "Uso de design deconstrutivista para parar o scroll",
       "Implementação de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre preto e neon, com elementos humanos em primeiro plano e uma estética onírica ao fundo",
-      "paleta_cores": "Preto, neon e tons pastéis para criar uma atmosfera única",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica criam uma sensação de curiosidade e surpresa, fazendo com que os usuários cliquem para saber mais"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
+      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, com elementos humanos imperfeitos no centro",
+      "paleta_cores": "Preto profundo com neon vibrante, ou estéticas oníricas pastéis",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas chama a atenção do usuário, enquanto a inclusão de elementos humanos imperfeitos gera empatia e curiosidade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon e tons pastéis, utilizando uma composição deconstrutivista e tipografia gigante para destacar a palavra-chave 'Descubra'",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa humana imperfeita no centro, utilizando uma paleta de cores que inclua preto profundo e neon vibrante, com um layout deconstrutivista que quebre as regras de composição tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-19T21:24:57.029Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-04-19T22:23:34.874Z",
       "licao": [
@@ -105,6 +97,16 @@
         "Incorporação do estilo Hyper-Human para fotos mais autênticas",
         "Uso de contraste agressivo e estética onírica para chamar a atenção",
         "Aplicação de design deconstrutivista para quebrar regras de layout",
+        "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-20T16:53:09.441Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estilos que rejeitam o 'AI Slop'",
+        "Incorporação de contrastes agressivos e estéticas oníricas",
+        "Uso de design deconstrutivista para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
       ]
     }
