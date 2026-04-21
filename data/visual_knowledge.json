@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-21T20:53:15.403Z",
+  "ultima_atualizacao": "2026-04-21T21:39:56.474Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e favorecem a autenticidade",
+      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadramento dinâmico com quebra de regras de layout para chamar a atenção",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estética futurista e contraste agressivo gera curiosidade e faz com que o usuário pare o scroll"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom e elementos de Design Deconstrutivista",
+      "foco_composicao": "Enquadre a cena de forma a criar uma composição assimétrica, com elemento(s) principal(is) destacado(s) por contraste ou luz",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contraste agressivo e estéticas oníricas cria uma pausa no scroll, enquanto a autenticidade e a imperfeição humana geram uma conexão emocional com o espectador"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa real no centro, aplicando elementos de Design Deconstrutivista e utilizando Tipografia Gigante para destacar uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma cena noturna neon com elementos humanos reais e imperfeições, aplicando um estilo de contraste agressivo e uma paleta de cores vibrantes e pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-21T08:26:25.929Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-04-21T10:10:11.585Z",
       "licao": [
@@ -104,6 +96,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-04-21T21:39:56.474Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e favorecem a autenticidade",
+        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
       ]
     }
   ]
