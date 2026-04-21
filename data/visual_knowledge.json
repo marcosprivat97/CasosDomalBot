@@ -1,37 +1,26 @@
 {
-  "ultima_atualizacao": "2026-04-21T06:28:29.823Z",
+  "ultima_atualizacao": "2026-04-21T08:26:25.929Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de design deconstrutivista e tipografia gigante para parar o scroll"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar um ponto de tensão visual, utilizando linhas diagonais e angulares para direcionar o olhar do espectador",
-      "paleta_cores": "Preto profundo com explosões de neon em tons pastéis, criando um contraste agressivo e uma atmosfera onírica",
-      "teoria_do_clique": "O uso de contrastes agressivos e a presença de elementos humanos autênticos geram curiosidade e convidam o espectador a parar o scroll e explorar a imagem"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, com elementos humanos reais e imperfeitos",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de elementos humanos reais aumenta a conexão emocional e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, destacada por uma luz neon suave, sobre um fundo preto profundo com detalhes em neon pastel, considerando uma abordagem deconstrutivista no layout",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em primeiro plano, iluminadas por neon vibrante, sobre um fundo preto profundo com tons pastéis suaves",
     "config_layout": {
-      "font_size_mult": 1.5,
+      "font_size_mult": 1.2,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-20T17:49:38.627Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
-        "Implementação de contrastes agressivos e estéticas oníricas para chamar a atenção",
-        "Uso de design deconstrutivista para interromper o scroll",
-        "Integração de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-04-20T18:50:28.082Z",
       "licao": [
@@ -109,6 +98,14 @@
         "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de design deconstrutivista e tipografia gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-21T08:26:25.929Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
