@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-22T10:10:06.004Z",
+  "ultima_atualizacao": "2026-04-22T11:51:26.742Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adoção de estilos mais cruas e humanas para combater a rejeição ao 'AI Slop'",
-      "Incorporação de contraste agressivo e estéticas oníricas para aumentar o engajamento",
-      "Uso de tipografia gigante para facilitar a leitura rápida no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis suaves com contrastes fortes",
-      "teoria_do_clique": "O uso de imagens cruas e humanas, combinadas com contraste agressivo e tipografia gigante, visa parar o scroll do usuário e estimular a curiosidade, aumentando assim o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos cruas e imperfeições humanas",
+      "foco_composicao": "Enquadre a foto com contraste agressivo, utilizando preto e neon, e quebre as regras de layout para chamar a atenção",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste onírico",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica criam uma experiência visual impactante, enquanto a presença de imperfeições humanas gera empatia e conexão com o público"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com personagens reais e imperfeições, iluminada por neon, com texto gigante destacando uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma figura humana em primeiro plano, com elementos cruas e imperfeições visíveis, sobre um fundo preto profundo com detalhes em neon, e adicione textos dominantes em tipografia gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-21T19:59:11.076Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop'",
-        "Incorporação de contrastes agressivos e estéticas oníricas",
-        "Uso de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-04-21T20:53:15.403Z",
       "licao": [
@@ -104,6 +95,14 @@
         "Adoção de estilos mais cruas e humanas para combater a rejeição ao 'AI Slop'",
         "Incorporação de contraste agressivo e estéticas oníricas para aumentar o engajamento",
         "Uso de tipografia gigante para facilitar a leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-22T11:51:26.742Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
