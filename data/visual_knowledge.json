@@ -1,20 +1,18 @@
 {
-  "ultima_atualizacao": "2026-04-22T20:01:49.425Z",
+  "ultima_atualizacao": "2026-04-22T21:41:19.272Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Implementação do estilo Hyper-Human para conectar com o público de forma mais autêntica",
-      "Integração da estética Neon-Noir para aumentar o contraste e chamar a atenção",
-      "Aplicação do Design Deconstrutivista para quebrar a monotonia e parar o scroll",
-      "Uso de Tipografia Gigante para facilitar a leitura no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, enfatizando a autenticidade e o contraste agressivo",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, utilizando a regra dos terços e elementos que levem o olhar do observador a explorar a cena",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas, combinado com estéticas visuais ousadas, gera engajamento por criar uma conexão emocional mais profunda e estimular a curiosidade do público"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir e Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto com um sujeito principal em primeiro plano, utilizando regras de terço e deixe espaço para texto em Tipografia Gigante",
+      "paleta_cores": "Contrastes agressivos com preto e neon, ou estéticas oníricas pastéis para criar um visual único",
+      "teoria_do_clique": "O uso de imagens reais, cruas e com imperfeições humanas, combinado com contrates visuais e textos dominantes, gera engajamento por provocar curiosidade e emoção"
     },
-    "prompt_padrao_atualizado": "Crie uma cena urbana noturna com pessoas reais em movimento, utilizando neon e sombras para realçar a profundidade e a vida noturna, com texto gigante destacando uma mensagem de impacto social",
+    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano com um toque surreal, utilizando contrates agressivos de preto e neon, com um sujeito principal em primeiro plano e espaço para um título em Tipografia Gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-22T06:28:56.625Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor legibilidade",
-        "Foco em criando contraste agressivo para parar o scroll"
-      ]
-    },
     {
       "data": "2026-04-22T08:23:59.299Z",
       "licao": [
@@ -104,6 +94,13 @@
         "Integração da estética Neon-Noir para aumentar o contraste e chamar a atenção",
         "Aplicação do Design Deconstrutivista para quebrar a monotonia e parar o scroll",
         "Uso de Tipografia Gigante para facilitar a leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-22T21:41:19.272Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis"
       ]
     }
   ]
