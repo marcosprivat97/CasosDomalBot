@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-22T21:41:19.272Z",
+  "ultima_atualizacao": "2026-04-22T22:37:47.886Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      "Adaptação às tendências globais de 2026",
+      "Foco em Hyper-Human e Design Deconstrutivista para melhorar engajamento",
+      "Inclusão de Neon-Noir e Hyper-Bloom para aumento de contraste"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto com um sujeito principal em primeiro plano, utilizando regras de terço e deixe espaço para texto em Tipografia Gigante",
-      "paleta_cores": "Contrastes agressivos com preto e neon, ou estéticas oníricas pastéis para criar um visual único",
-      "teoria_do_clique": "O uso de imagens reais, cruas e com imperfeições humanas, combinado com contrates visuais e textos dominantes, gera engajamento por provocar curiosidade e emoção"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar uma dissonância visual, quebrando regras de layout tradicionais",
+      "paleta_cores": "Contrastes agressivos com preto e neon, ou estéticas oníricas com Hyper-Bloom",
+      "teoria_do_clique": "O engajamento é gerado pela combinação de elementos humanos reais com estéticas visuais disruptivas, criando uma experiência única e memorável"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano com um toque surreal, utilizando contrates agressivos de preto e neon, com um sujeito principal em primeiro plano e espaço para um título em Tipografia Gigante",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Hyper-Human, com elementos reais e cruas, contrastando com estéticas Neon-Noir ou Hyper-Bloom, e quebrando regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-22T08:23:59.299Z",
-      "licao": [
-        "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Implementação de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-04-22T10:10:06.004Z",
       "licao": [
@@ -101,6 +95,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-04-22T22:37:47.886Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em Hyper-Human e Design Deconstrutivista para melhorar engajamento",
+        "Inclusão de Neon-Noir e Hyper-Bloom para aumento de contraste"
       ]
     }
   ]
