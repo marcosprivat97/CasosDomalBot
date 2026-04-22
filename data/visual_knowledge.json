@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-22T12:58:30.159Z",
+  "ultima_atualizacao": "2026-04-22T14:45:50.770Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026",
-      "Foco em estilos visuais que rejeitam o 'AI Slop'",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de design deconstrutivista para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida"
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de desconstrução, com elementos fora de lugar ou sobrepostos",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves para criar contraste",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera curiosidade e engajamento, pois o cérebro humano é atraído por padrões disruptivos e novidades"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos Hyper-Human",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, com atenção a detalhes humanos imperfeitos",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de contraste agressivo e elementos humanos imperfeitos gera curiosidade e emoção, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com iluminação neon, incorporando elementos de desconstrução e contrastes agressivos, com uma paleta de cores que inclua preto, neon e tons pastéis. Adicione textos dominantes em fontes grandes e ousadas.",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente noturno, com iluminação neon vibrante e sombras profundas, incorporando elementos de Design Deconstrutivista e Tipografia Gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-21T21:39:56.474Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e favorecem a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-04-21T22:30:18.642Z",
       "licao": [
@@ -107,6 +97,14 @@
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de design deconstrutivista para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-04-22T14:45:50.770Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
