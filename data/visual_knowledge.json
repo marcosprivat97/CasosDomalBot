@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-04-22T06:28:56.625Z",
+  "ultima_atualizacao": "2026-04-22T08:23:59.299Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor legibilidade",
-      "Foco em criando contraste agressivo para parar o scroll"
+      "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Implementação de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir & Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de maneira a criar um contraste agressivo entre preto e neon, com elementos humanos reais e imperfeições",
-      "paleta_cores": "Preto, neon verde, rosa e azul, com destaque para cores vibrantes e contrastantes",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica criam uma experiência visual única e atraem a atenção do usuário, enquanto a inclusão de elementos humanos reais gera empatia e conexão"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas",
+      "foco_composicao": "Enquadramento desequilibrado, com elementos principais fora do centro e uso de espaços negativos",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O uso de elementos humanos reais, combinado com contrastes visuais fortes e composições desequilibradas, gera curiosidade e paralisa o scroll"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa real em um ambiente sombrio, com detalhes neon e uma tipografia gigante que domine a cena",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano real no centro, usando uma paleta de cores que combine preto, neon verde e rosa pastel, com uma composição desequilibrada e texto gigante sobrepondo a imagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-21T17:51:00.191Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e buscam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-04-21T18:55:37.145Z",
       "licao": [
@@ -105,6 +95,13 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor legibilidade",
         "Foco em criando contraste agressivo para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-22T08:23:59.299Z",
+      "licao": [
+        "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Implementação de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
