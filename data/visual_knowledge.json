@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-04-22T01:22:04.461Z",
+  "ultima_atualizacao": "2026-04-22T04:37:39.352Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar a atratividade visual",
-      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação do estilo Hyper-Human para fotos mais autênticas",
+      "Uso de contrastes agressivos do Neon-Noir para chamar a atenção",
+      "Aplicação do Design Deconstrutivista para layouts inovadores",
+      "Implementação da Tipografia Gigante para melhor legibilidade"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo, com foco em elementos humanos reais e imperfeições",
-      "paleta_cores": "Preto profundo com neon vibrante, criando um contraste que chame a atenção",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo, gera curiosidade e atrai o usuário para uma leitura mais profunda"
+      "foco_composicao": "Enquadre a foto de forma a criar uma composição assimétrica, com objeto principal fora do centro, e use a regra dos terços para adicionar tensão",
+      "paleta_cores": "Preto profundo com neon vibrante para criar contraste agressivo",
+      "teoria_do_clique": "O uso de imagens cruas e autênticas, combinado com contrastes agressivos, gera curiosidade e atrai a atenção do usuário, melhorando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano, com pessoas reais e imperfeições, utilizando uma paleta de cores neon sobre um fundo preto, com textos gigantes destacando o tema principal",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, utilizando uma paleta de cores preto/neon e uma composição assimétrica para chamar a atenção",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-21T14:46:14.769Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de elementos de 'Hyper-Human' para aumentar a autenticidade",
-        "Uso de 'Neon-Noir & Hyper-Bloom' para criar contraste visual",
-        "Aplicação de 'Design Deconstrutivista' para quebrar regras de layout",
-        "Integração de 'Tipografia Gigante' para facilitar a leitura"
-      ]
-    },
     {
       "data": "2026-04-21T16:03:45.700Z",
       "licao": [
@@ -105,6 +97,16 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar a atratividade visual",
         "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-22T04:37:39.352Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
+        "Uso de contrastes agressivos do Neon-Noir para chamar a atenção",
+        "Aplicação do Design Deconstrutivista para layouts inovadores",
+        "Implementação da Tipografia Gigante para melhor legibilidade"
       ]
     }
   ]
