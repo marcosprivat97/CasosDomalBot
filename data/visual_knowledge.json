@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-22T08:23:59.299Z",
+  "ultima_atualizacao": "2026-04-22T10:10:06.004Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Implementação de Tipografia Gigante para melhor leitura no mobile"
+      "Adoção de estilos mais cruas e humanas para combater a rejeição ao 'AI Slop'",
+      "Incorporação de contraste agressivo e estéticas oníricas para aumentar o engajamento",
+      "Uso de tipografia gigante para facilitar a leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas",
-      "foco_composicao": "Enquadramento desequilibrado, com elementos principais fora do centro e uso de espaços negativos",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "O uso de elementos humanos reais, combinado com contrastes visuais fortes e composições desequilibradas, gera curiosidade e paralisa o scroll"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, quebrando as regras tradicionais de layout",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis suaves com contrastes fortes",
+      "teoria_do_clique": "O uso de imagens cruas e humanas, combinadas com contraste agressivo e tipografia gigante, visa parar o scroll do usuário e estimular a curiosidade, aumentando assim o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano real no centro, usando uma paleta de cores que combine preto, neon verde e rosa pastel, com uma composição desequilibrada e texto gigante sobrepondo a imagem",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com personagens reais e imperfeições, iluminada por neon, com texto gigante destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-21T18:55:37.145Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento"
-      ]
-    },
     {
       "data": "2026-04-21T19:59:11.076Z",
       "licao": [
@@ -102,6 +96,14 @@
       "licao": [
         "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Implementação de Tipografia Gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-22T10:10:06.004Z",
+      "licao": [
+        "Adoção de estilos mais cruas e humanas para combater a rejeição ao 'AI Slop'",
+        "Incorporação de contraste agressivo e estéticas oníricas para aumentar o engajamento",
+        "Uso de tipografia gigante para facilitar a leitura rápida no mobile"
       ]
     }
   ]
