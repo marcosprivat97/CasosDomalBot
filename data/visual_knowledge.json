@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-23T06:54:47.832Z",
+  "ultima_atualizacao": "2026-04-23T08:28:13.155Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human para aumentar a autenticidade",
-      "Inclusão de estilos Neon-Noir e Hyper-Bloom para contraste",
-      "Aplicação de design Deconstrutivista para quebra de regras de layout",
-      "Uso de tipografia gigante para facilitar a leitura rápida"
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Implementação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a destacar imperfeições humanas e utilize contraste agressivo",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "A combinação de autenticidade humana com estética futurista gera curiosidade e aumenta o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, valorizando a imperfeição",
+      "foco_composicao": "Enquadre a cena de forma a quebrar as regras tradicionais de layout, criando contraste e tensão visual",
+      "paleta_cores": "Preto profundo como base, com explosões de neon em cores como rosa, azul e verde, criando um contraste agressivo",
+      "teoria_do_clique": "O uso de cores neon e a quebra de regras de layout criam um choque visual que para o scroll e estimula a curiosidade do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que misture elementos humanos reais com toques de neon e contraste agressivo, utilizando uma paleta de cores que inclua preto, neon e tons pastéis, e destaque a autenticidade humana com uma composição que quebre as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma cena noturna em Neon-Noir com elementos humanos imperfeitos, incorporando explosões de cor neon e quebrando as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-22T16:01:44.150Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em conteúdo 'Hyper-Human' para aumentar engajamento",
-        "Inclusão de estilos visuais como 'Neon-Noir' e 'Hyper-Bloom' para chamar atenção",
-        "Uso de 'Design Deconstrutivista' para quebrar regras de layout e parar o scroll",
-        "Implementação de 'Tipografia Gigante' para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-04-22T17:51:36.436Z",
       "licao": [
@@ -109,6 +97,14 @@
         "Inclusão de estilos Neon-Noir e Hyper-Bloom para contraste",
         "Aplicação de design Deconstrutivista para quebra de regras de layout",
         "Uso de tipografia gigante para facilitar a leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-04-23T08:28:13.155Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Implementação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
