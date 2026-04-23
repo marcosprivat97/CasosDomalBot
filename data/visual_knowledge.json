@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-23T15:11:16.692Z",
+  "ultima_atualizacao": "2026-04-23T17:08:31.151Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista para melhorar engajamento",
-      "Inclusão de Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética 'Hyper-Human' e 'Neon-Noir' para melhorar o engajamento",
+      "Inclusão de 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
-      "foco_composicao": "Enquadre a imagem de forma a quebrar regras de layout tradicionais, utilizando elementos da cena para direcionar o olhar do espectador",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O uso de contraste agressivo e a quebra de regras de layout capturam a atenção do usuário, enquanto a estética onírica e as imperfeições humanas criam uma conexão emocional"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, usando elementos humanos reais e imperfeitos",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica criam uma experiência visual impactante, enquanto a inclusão de elementos humanos reais aumenta a conexão emocional e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com toques de Hyper-Bloom, destacando uma cena humana crua e imperfeita, com uma tipografia gigante que domine a composição",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano real e imperfeito no centro, usando uma paleta de cores preto profundo e neon vibrante, com toques de cores pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-22T22:37:47.886Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em Hyper-Human e Design Deconstrutivista para melhorar engajamento",
-        "Inclusão de Neon-Noir e Hyper-Bloom para aumento de contraste"
-      ]
-    },
     {
       "data": "2026-04-22T23:37:38.250Z",
       "licao": [
@@ -102,6 +95,14 @@
       "licao": [
         "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista para melhorar engajamento",
         "Inclusão de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-23T17:08:31.151Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética 'Hyper-Human' e 'Neon-Noir' para melhorar o engajamento",
+        "Inclusão de 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll"
       ]
     }
   ]
