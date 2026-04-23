@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-23T17:08:31.151Z",
+  "ultima_atualizacao": "2026-04-23T18:54:00.108Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética 'Hyper-Human' e 'Neon-Noir' para melhorar o engajamento",
-      "Inclusão de 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, usando elementos humanos reais e imperfeitos",
-      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica criam uma experiência visual impactante, enquanto a inclusão de elementos humanos reais aumenta a conexão emocional e o engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma a criar uma composição desequilibrada, mas harmoniosa, com o sujeito principal ocupando a maior parte da imagem",
+      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves para criar contraste agressivo e uma atmosfera onírica",
+      "teoria_do_clique": "O uso de imagens reais, cruas e com imperfeições humanas, combinado com contraste agressivo, gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano real e imperfeito no centro, usando uma paleta de cores preto profundo e neon vibrante, com toques de cores pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com um sujeito principal em primeiro plano, com uma paleta de cores que inclua preto profundo, neon vibrante e cores pastéis suaves, e uma composição desequilibrada que chame a atenção",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-22T23:37:38.250Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estética 'Hyper-Human' para atrair usuários",
-        "Incorporação de 'Neon-Noir' e 'Hyper-Bloom' para contraste visual",
-        "Uso de 'Design Deconstrutivista' para interrupção do scroll",
-        "Implementação de 'Tipografia Gigante' para leitura rápida"
-      ]
-    },
     {
       "data": "2026-04-23T01:27:01.142Z",
       "licao": [
@@ -103,6 +93,14 @@
         "Adaptação às tendências globais de 2026",
         "Foco em estética 'Hyper-Human' e 'Neon-Noir' para melhorar o engajamento",
         "Inclusão de 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-23T18:54:00.108Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
       ]
     }
   ]
