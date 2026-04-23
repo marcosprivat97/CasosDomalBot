@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-04-23T18:54:00.108Z",
+  "ultima_atualizacao": "2026-04-23T20:01:05.916Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a autenticidade",
+      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+      "Aplicação de design deconstrutivista para interromper o scroll",
+      "Implementação de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar uma composição desequilibrada, mas harmoniosa, com o sujeito principal ocupando a maior parte da imagem",
-      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves para criar contraste agressivo e uma atmosfera onírica",
-      "teoria_do_clique": "O uso de imagens reais, cruas e com imperfeições humanas, combinado com contraste agressivo, gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais, cruas e com imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a destacar o tema principal, utilizando regras de terço e deixando espaço para a tipografia gigante",
+      "paleta_cores": "Neon-Noir & Hyper-Bloom, com contrastes agressivos entre preto e neon, ou estéticas oníricas pastéis",
+      "teoria_do_clique": "O uso de imagens autênticas e contrastes agressivos gera curiosidade e atrai a atenção do usuário, enquanto a tipografia gigante facilita a leitura e o entendimento do conteúdo"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com um sujeito principal em primeiro plano, com uma paleta de cores que inclua preto profundo, neon vibrante e cores pastéis suaves, e uma composição desequilibrada que chame a atenção",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com um tema principal destacado em um ambiente onírico, utilizando uma paleta de cores Neon-Noir & Hyper-Bloom e tipografia gigante para transmitir uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-23T01:27:01.142Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis",
-        "Foco em conteúdo cru e imperfeito para aumentar a autenticidade"
-      ]
-    },
     {
       "data": "2026-04-23T04:42:38.997Z",
       "licao": [
@@ -101,6 +95,16 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-23T20:01:05.916Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a autenticidade",
+        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+        "Aplicação de design deconstrutivista para interromper o scroll",
+        "Implementação de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
