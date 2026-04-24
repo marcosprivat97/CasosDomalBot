@@ -1,36 +1,27 @@
 {
-  "ultima_atualizacao": "2026-04-24T17:42:43.005Z",
+  "ultima_atualizacao": "2026-04-24T18:35:49.440Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.4",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em Hyper-Human e Neon-Noir",
-      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
+      "Implementação do Design Deconstrutivista para parar o scroll",
+      "Uso de Tipografia Gigante para facilitar a leitura no mobile"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a imagem com contraste agressivo e elementos humanos em primeiro plano",
-      "paleta_cores": "Preto, neon e tons pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "A combinação de elementos humanos e estéticas oníricas gera curiosidade e engajamento"
+      "foco_composicao": "Enquadramento assimétrico com foco em elementos humanos imperfeitos",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas oníricas e contrastes agressivos gera curiosidade e atrai a atenção do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon e tons pastéis, utilizando contraste agressivo e elementos humanos em primeiro plano",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma pessoa real, iluminada por neons, em um ambiente urbano sombrio e com elementos de desordem, utilizando uma paleta de cores que combine preto, neon e pastéis",
     "config_layout": {
-      "font_size_mult": 1.5,
+      "font_size_mult": 1.2,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-24T04:46:14.728Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human para maior engajamento",
-        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
-        "Uso de Design Deconstrutivista para quebra de regras de layout",
-        "Implementação de Tipografia Gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-04-24T06:58:05.782Z",
       "licao": [
@@ -103,6 +94,15 @@
         "Adaptação às tendências de 2026",
         "Foco em Hyper-Human e Neon-Noir",
         "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-04-24T18:35:49.440Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
+        "Implementação do Design Deconstrutivista para parar o scroll",
+        "Uso de Tipografia Gigante para facilitar a leitura no mobile"
       ]
     }
   ]
