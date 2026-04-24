@@ -1,21 +1,18 @@
 {
-  "ultima_atualizacao": "2026-04-24T08:58:29.615Z",
+  "ultima_atualizacao": "2026-04-24T10:19:38.956Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e favorecem a autenticidade",
-      "Uso de contrastos agressivos e estéticas oníricas para chamar a atenção",
-      "Aplicação de design deconstrutivista para interromper o scroll",
-      "Implementação de tipografia gigante para melhor legibilidade no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em Hyper-Human e Neon-Noir"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre preto e neon, com o tema principal no centro, mas de forma descentrada para criar tensão visual",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera engajamento porque chama a atenção do usuário e o faz parar para entender a mensagem por trás da imagem"
+      "estilo_imagem": "Neon-Noir com toques de realismo sujo",
+      "foco_composicao": "Enquadre a foto de forma assimétrica, com elementos fora do centro e uso de espaço negativo",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para equilíbrio",
+      "teoria_do_clique": "O uso de contrates agressivos e composições assimétricas chama a atenção do usuário e gera curiosidade, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon vibrante, em um ambiente escuro e onírico, com o tema principal destacado em uma tipografia gigante e colorida",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de realismo sujo, com uma composição assimétrica e contrates agressivos entre preto e neon",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-23T17:08:31.151Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estética 'Hyper-Human' e 'Neon-Noir' para melhorar o engajamento",
-        "Inclusão de 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll"
-      ]
-    },
     {
       "data": "2026-04-23T18:54:00.108Z",
       "licao": [
@@ -107,6 +96,13 @@
         "Uso de contrastos agressivos e estéticas oníricas para chamar a atenção",
         "Aplicação de design deconstrutivista para interromper o scroll",
         "Implementação de tipografia gigante para melhor legibilidade no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-24T10:19:38.956Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e Neon-Noir"
       ]
     }
   ]
