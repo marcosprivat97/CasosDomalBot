@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-24T15:57:34.320Z",
+  "ultima_atualizacao": "2026-04-24T16:51:01.026Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop'",
-      "Uso de contrastes agressivos e tipografia gigante para parar o scroll"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Otimização para engajamento com base na rejeição ao 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto com um foco principal claro, mas deixe espaço para elementos secundários que criem uma narrativa",
-      "paleta_cores": "Preto profundo com neon vibrante e alguns toques de cores pastéis para criar contraste",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos, gera curiosidade e estimula o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, enfatizando imperfeições humanas e contrates agressivos",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar regras de layout tradicionais, utilizando espaços negativos e angulações inovadoras",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis oníricos para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens cruas e humanas, aliado a estéticas visuais inovadoras, atrai a atenção do usuário e estimula o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um toque de Neon-Noir, destacando um elemento central com tipografia gigante e cores vibrantes",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, utilizando uma paleta de cores vibrante e preto profundo, com foco em composições inovadoras e quebras de regras de layout",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-23T23:35:20.624Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e priorizam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
-      ]
-    },
     {
       "data": "2026-04-24T01:26:04.023Z",
       "licao": [
@@ -102,6 +94,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop'",
         "Uso de contrastes agressivos e tipografia gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-24T16:51:01.026Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Otimização para engajamento com base na rejeição ao 'AI Slop'"
       ]
     }
   ]
