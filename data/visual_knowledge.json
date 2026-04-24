@@ -1,18 +1,21 @@
 {
-  "ultima_atualizacao": "2026-04-24T21:38:06.088Z",
+  "ultima_atualizacao": "2026-04-24T22:31:18.428Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Foco em melhorar o engajamento com base na performance atual da página"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação do estilo Hyper-Human para fotos mais autênticas",
+      "Uso de contrastes agressivos da estética Neon-Noir e Hyper-Bloom",
+      "Implementação do Design Deconstrutivista para quebrar regras de layout",
+      "Inclusão de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Realismo com toques de Neon-Noir",
-      "foco_composicao": "Enquadramento assimétrico com foco em detalhes humanos, como expressões faciais ou texturas de pele",
-      "paleta_cores": "Contrastes agressivos com preto e neon, ou estéticas oníricas com tons pastéis",
-      "teoria_do_clique": "O uso de imagens reais e cruas com toques de neon ou estéticas oníricas gera curiosidade e paralisa o scroll, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, buscando uma estética onírica e impactante",
+      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, destacando o sujeito principal com imperfeições humanas",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um ambiente onírico e hipnótico",
+      "teoria_do_clique": "O uso de contrastes agressivos e estética onírica atrai a atenção do usuário, enquanto a autenticidade do Hyper-Human e a quebra de regras do Design Deconstrutivista mantêm o usuário engajado"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa com expressão intensa, usando contrastes agressivos de preto e neon, com um fundo onírico e textos gigantes em fonte sans-serif",
+    "prompt_padrao_atualizado": "Crie uma imagem com um sujeito humano real, em um ambiente noturno com iluminação neon, usando uma paleta de cores vibrantes e contrastes agressivos, e aplicando o estilo Neon-Noir com toques de Hyper-Bloom",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-24T11:51:36.323Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e estéticas visuais disruptivas",
-        "Otimização para engajamento em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-04-24T12:57:01.331Z",
       "licao": [
@@ -101,6 +96,16 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Foco em melhorar o engajamento com base na performance atual da página"
+      ]
+    },
+    {
+      "data": "2026-04-24T22:31:18.428Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
+        "Uso de contrastes agressivos da estética Neon-Noir e Hyper-Bloom",
+        "Implementação do Design Deconstrutivista para quebrar regras de layout",
+        "Inclusão de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
