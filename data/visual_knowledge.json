@@ -1,20 +1,20 @@
 {
-  "ultima_atualizacao": "2026-04-24T19:43:02.736Z",
+  "ultima_atualizacao": "2026-04-24T20:35:07.868Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop'",
+      "Adaptação às tendências globais de 2026",
+      "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
       "Incorporação de contraste agressivo e estéticas oníricas",
-      "Uso de tipografia gigante para leitura rápida no mobile"
+      "Uso de design deconstrutivista para capturar a atenção do usuário"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma desequilibrada, com elementos principais fora do centro, para criar um layout deconstrutivista",
-      "paleta_cores": "Preto profundo com neon vibrante e pontos de Hyper-Bloom para contraste agressivo",
-      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas e contraste agressivo atrai a atenção do usuário e gera engajamento devido à sua capacidade de parar o scroll"
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, utilizando elementos que quebram a linearidade da composição",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis oníricos para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens autênticas e cruas, combinado com contraste agressivo, gera curiosidade e atrai a atenção do usuário, aumentando as chances de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, utilizando uma paleta de preto profundo e neon vibrante, com elementos principais fora do centro e textos gigantes para leitura rápida no mobile",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos Neon-Noir, utilizando uma paleta de cores vibrantes e contrastantes, e uma composição que quebre as regras tradicionais de layout",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,16 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-24T08:58:29.615Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e favorecem a autenticidade",
-        "Uso de contrastos agressivos e estéticas oníricas para chamar a atenção",
-        "Aplicação de design deconstrutivista para interromper o scroll",
-        "Implementação de tipografia gigante para melhor legibilidade no mobile"
-      ]
-    },
     {
       "data": "2026-04-24T10:19:38.956Z",
       "licao": [
@@ -104,6 +94,15 @@
         "Foco em estilos que rejeitam o 'AI Slop'",
         "Incorporação de contraste agressivo e estéticas oníricas",
         "Uso de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-24T20:35:07.868Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
+        "Incorporação de contraste agressivo e estéticas oníricas",
+        "Uso de design deconstrutivista para capturar a atenção do usuário"
       ]
     }
   ]
