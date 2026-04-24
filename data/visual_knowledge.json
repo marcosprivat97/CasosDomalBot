@@ -1,18 +1,21 @@
 {
-  "ultima_atualizacao": "2026-04-24T01:26:04.023Z",
+  "ultima_atualizacao": "2026-04-24T04:46:14.728Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais que promovam engajamento e alcance"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human para maior engajamento",
+      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+      "Uso de Design Deconstrutivista para quebra de regras de layout",
+      "Implementação de Tipografia Gigante para leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e contrastes agressivos",
-      "foco_composicao": "Enquadramento desconstrutivista, quebrando regras de layout tradicionais para parar o scroll",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com cores pastéis intensas",
-      "teoria_do_clique": "O uso de contrastes agressivos e estilos desconstrutivistas pode parar o scroll e gerar curiosidade, enquanto a inclusão de elementos humanos e imperfeições promove uma conexão emocional com o público"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, focando em texturas e imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou desconforto, usando ângulos inusitados e quebrando a simetria",
+      "paleta_cores": "Preto profundo com neon vibrante e explosões de cor pastel para um contraste agressivo e sonhador",
+      "teoria_do_clique": "A combinação de elementos humanos cruos com estética onírica e tipografia dominante atrai a atenção, estimula a curiosidade e gera engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano crú e imperfeito no centro, com contraste agressivo e estética onírica, utilizando tipografia gigante para destacar uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do movimento noturno, com luzes neon refletindo em superfícies úmidas, pessoas em movimento rápido e texturas que evocam sensações táteis, tudo sob uma paleta de preto profundo e neon vibrante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-23T11:52:45.926Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-04-23T12:58:12.645Z",
       "licao": [
@@ -98,6 +93,16 @@
       "licao": [
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos visuais que promovam engajamento e alcance"
+      ]
+    },
+    {
+      "data": "2026-04-24T04:46:14.728Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human para maior engajamento",
+        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+        "Uso de Design Deconstrutivista para quebra de regras de layout",
+        "Implementação de Tipografia Gigante para leitura rápida"
       ]
     }
   ]
