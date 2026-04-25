@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-04-25T16:29:45.511Z",
+  "ultima_atualizacao": "2026-04-25T17:29:50.273Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais mais atraentes e atuais",
-      "Foco em criar uma experiência visual impactante"
+      "Foco em estética Hyper-Human para aumentar a autenticidade",
+      "Incorporação de contrates agressivos e estéticas oníricas",
+      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, utilizando a regra dos terços para direcionar o olhar do espectador",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual atraente",
-      "teoria_do_clique": "A combinação de contraste agressivo e cores vibrantes atrai a atenção do usuário, enquanto a composição cuidadosa direciona o olhar para o foco principal da imagem, aumentando a probabilidade de engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir e Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto de forma desestruturada, quebrando regras de layout tradicionais, e inclua textos dominantes para leitura rápida",
+      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves para criar contraste",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com estéticas oníricas e contrates agressivos, gera curiosidade e faz o usuário parar o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com iluminação neon, utilizando tons de preto e rosa neon, e inclua textos gigantes em fonte sans-serif para transmitir uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem Hyper-Human com um toque de Neon-Noir, incorporando textos gigantes e uma composição desestruturada, com uma paleta de cores que inclua preto profundo, neon vibrante e cores pastéis suaves",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-25T07:59:14.059Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026 para melhorar o engajamento",
-        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-        "Uso de contraste agressivo com Neon-Noir e Hyper-Bloom",
-        "Aplicação do Design Deconstrutivista para quebrar regras de layout",
-        "Implementação de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-04-25T08:53:04.370Z",
       "licao": [
@@ -102,6 +93,15 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais mais atraentes e atuais",
         "Foco em criar uma experiência visual impactante"
+      ]
+    },
+    {
+      "data": "2026-04-25T17:29:50.273Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estética Hyper-Human para aumentar a autenticidade",
+        "Incorporação de contrates agressivos e estéticas oníricas",
+        "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
   ]
