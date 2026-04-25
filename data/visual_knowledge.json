@@ -1,20 +1,21 @@
 {
-  "ultima_atualizacao": "2026-04-25T17:29:50.273Z",
+  "ultima_atualizacao": "2026-04-25T18:34:54.832Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estética Hyper-Human para aumentar a autenticidade",
-      "Incorporação de contrates agressivos e estéticas oníricas",
-      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Enfatização do estilo Hyper-Human para rejeitar o 'AI Slop'",
+      "Incorporação de Neon-Noir e Hyper-Bloom para contrastes agressivos",
+      "Uso de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
+      "Implementação de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma desestruturada, quebrando regras de layout tradicionais, e inclua textos dominantes para leitura rápida",
-      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves para criar contraste",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com estéticas oníricas e contrates agressivos, gera curiosidade e faz o usuário parar o scroll, aumentando o engajamento"
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com elementos humanos imperfeitos no centro",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O uso de contrastes agressivos e estilos humanos imperfeitos gera engajamento por criar uma conexão emocional com o espectador e parar o scroll"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem Hyper-Human com um toque de Neon-Noir, incorporando textos gigantes e uma composição desestruturada, com uma paleta de cores que inclua preto profundo, neon vibrante e cores pastéis suaves",
+    "prompt_padrao_atualizado": "Crie uma imagem com um humano imperfeito no centro, com um fundo preto e neon vibrante, usando uma tipografia gigante para destacar a mensagem principal",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-25T08:53:04.370Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Foco em estilos visuais que geram engajamento",
-        "Inclusão de diretrizes para layout e design"
-      ]
-    },
     {
       "data": "2026-04-25T09:41:35.726Z",
       "licao": [
@@ -102,6 +95,16 @@
         "Foco em estética Hyper-Human para aumentar a autenticidade",
         "Incorporação de contrates agressivos e estéticas oníricas",
         "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-25T18:34:54.832Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Enfatização do estilo Hyper-Human para rejeitar o 'AI Slop'",
+        "Incorporação de Neon-Noir e Hyper-Bloom para contrastes agressivos",
+        "Uso de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
+        "Implementação de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
