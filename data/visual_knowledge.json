@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-25T15:31:20.181Z",
+  "ultima_atualizacao": "2026-04-25T16:29:45.511Z",
   "licao_atual": {
     "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estilos visuais que rejeitam o 'AI Slop'",
-      "Inclusão de paleta de cores Neon-Noir e Hyper-Bloom",
-      "Uso de tipografia gigante para leitura rápida"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos visuais mais atraentes e atuais",
+      "Foco em criar uma experiência visual impactante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com ênfase em fotos reais e cruas",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, utilizando a regra dos terços",
-      "paleta_cores": "Utilize cores neon em contraste com preto profundo ou Hyper-Bloom para criar uma estética onírica",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrates agressivos e tipografia gigante, gera engajamento por ser mais autêntico e chamativo"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, utilizando a regra dos terços para direcionar o olhar do espectador",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual atraente",
+      "teoria_do_clique": "A combinação de contraste agressivo e cores vibrantes atrai a atenção do usuário, enquanto a composição cuidadosa direciona o olhar para o foco principal da imagem, aumentando a probabilidade de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com uma paleta de cores Neon-Noir, utilizando tipografia gigante e foco em contraste agressivo para parar o scroll",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com iluminação neon, utilizando tons de preto e rosa neon, e inclua textos gigantes em fonte sans-serif para transmitir uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-25T06:14:49.720Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Implementação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-04-25T07:59:14.059Z",
       "licao": [
@@ -103,6 +94,14 @@
         "Foco em estilos visuais que rejeitam o 'AI Slop'",
         "Inclusão de paleta de cores Neon-Noir e Hyper-Bloom",
         "Uso de tipografia gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-04-25T16:29:45.511Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais mais atraentes e atuais",
+        "Foco em criar uma experiência visual impactante"
       ]
     }
   ]
