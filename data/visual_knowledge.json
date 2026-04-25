@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-25T08:53:04.370Z",
+  "ultima_atualizacao": "2026-04-25T09:41:35.726Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "2.0",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Foco em estilos visuais que geram engajamento",
-      "Inclusão de diretrizes para layout e design"
+      "Incorporação do estilo Hyper-Human e Hyper-Bloom para aumentar o engajamento",
+      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas",
-      "foco_composicao": "Enquadre a foto de forma a destacar o tema principal, utilizando contraste e texturas para criar profundidade",
-      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contraste agressivo entre cores escuras e neon",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e estética onírica, gera curiosidade e paralisa o scroll, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos imperfeitos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual atraente",
+      "teoria_do_clique": "O uso de imagens reais e cruas com toques de neon e contraste agressivo atrai a atenção do usuário e gera engajamento devido à sua originalidade e capacidade de criar uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com um tema principal em foco, utilizando uma paleta de cores Neon-Noir e contraste agressivo, aplicando a estética de Design Deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento humano real e crú, com contraste agressivo entre luz e sombra, incorporando toques de neon e uma paleta de cores vibrante e pastel, com texto dominante em tipografia gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-24T19:43:02.736Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop'",
-        "Incorporação de contraste agressivo e estéticas oníricas",
-        "Uso de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-04-24T20:35:07.868Z",
       "licao": [
@@ -104,6 +95,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Foco em estilos visuais que geram engajamento",
         "Inclusão de diretrizes para layout e design"
+      ]
+    },
+    {
+      "data": "2026-04-25T09:41:35.726Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human e Hyper-Bloom para aumentar o engajamento",
+        "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
   ]
