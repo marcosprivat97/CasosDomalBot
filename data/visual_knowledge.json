@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-25T22:24:59.962Z",
+  "ultima_atualizacao": "2026-04-25T23:27:38.807Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam uma estética mais humana e cruamente realista",
-      "Uso de contraste agressivo e estéticas oníricas para capturar a atenção do usuário"
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
+      "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem com foco em elementos humanos, destacando imperfeições e texturas naturais, e utilize a regra dos terços para criar uma composição dinâmica",
-      "paleta_cores": "Preto profundo com neon destacado, ou tons pastéis suaves para uma estética onírica, com contraste agressivo para chamar a atenção",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo, gera engajamento porque estimula a curiosidade e a conexão emocional do público, interrompendo o scroll"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, quebrando as regras tradicionais de layout",
+      "paleta_cores": "Preto profundo como base, com acertos de neon em tons pastéis para criar contraste",
+      "teoria_do_clique": "O uso de imagens com estética humana e imperfeições, aliado a contrastes agressivos, gera engajamento por ser mais autêntico e cativante"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência humana em um ambiente noturno neon com tons de azul e rosa, com texturas naturais e imperfeições destacadas, e um texto gigante que domine a cena",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em movimento, utilizando luzes neon para realçar a ação, com uma paleta de cores que inclua preto, rosa neon e azul pastel",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-25T13:56:45.887Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estilos que geram engajamento",
-        "Melhoria na paleta de cores e composição"
-      ]
-    },
     {
       "data": "2026-04-25T14:37:50.599Z",
       "licao": [
@@ -105,6 +97,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam uma estética mais humana e cruamente realista",
         "Uso de contraste agressivo e estéticas oníricas para capturar a atenção do usuário"
+      ]
+    },
+    {
+      "data": "2026-04-25T23:27:38.807Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
+        "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
       ]
     }
   ]
