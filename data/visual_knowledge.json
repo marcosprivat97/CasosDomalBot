@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-25T01:19:40.737Z",
+  "ultima_atualizacao": "2026-04-25T04:27:35.090Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação de elementos humanos e imperfeições para uma estética mais autêntica",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
+      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições e autenticidade",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de profundidade, utilizando linhas e formas para guiar o olhar do espectador",
-      "paleta_cores": "Preto profundo com neon vibrante, contrastando com tons pastéis ou neutros para criar um visual impactante",
-      "teoria_do_clique": "O uso de contraste agressivo e estéticas oníricas, combinado com a autenticidade do estilo Hyper-Human, gera curiosidade e paralisa o scroll, aumentando a probabilidade de engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos imperfeitos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O contraste agressivo e a estética imperfeita humana geram curiosidade e emoção, aumentando a probabilidade de clique e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Human, incorporando texturas e imperfeições, e utilize uma paleta de cores que combine preto profundo com neon vibrante",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um toque de Neon-Noir, com um elemento humano imperfeito no centro, cercado por uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-24T15:57:34.320Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop'",
-        "Uso de contrastes agressivos e tipografia gigante para parar o scroll"
-      ]
-    },
     {
       "data": "2026-04-24T16:51:01.026Z",
       "licao": [
@@ -103,6 +95,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Incorporação de elementos humanos e imperfeições para uma estética mais autêntica",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-25T04:27:35.090Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
+        "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
   ]
