@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-26T17:30:17.656Z",
+  "ultima_atualizacao": "2026-04-26T18:35:49.763Z",
   "licao_atual": {
-    "versao_logica": "2.0",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026",
-      "Foco em Hyper-Human e rejeição ao 'AI Slop'",
-      "Incorporação de Neon-Noir e Hyper-Bloom",
-      "Aplicação de Design Deconstrutivista e Tipografia Gigante"
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto com contrates agressivos e quebra de regras de layout para parar o scroll",
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a imagem com contraste agressivo, utilizando preto e neon, e quebre as regras de layout para parar o scroll",
       "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de imagens reais e cruas com imperfeições humanas gera um engajamento maior, pois as pessoas se conectam com a autenticidade"
+      "teoria_do_clique": "A combinação de Hyper-Human, Neon-Noir e Design Deconstrutivista gera engajamento por criar uma experiência visual única e atraente, quebrando a monotonia do feed de redes sociais"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, utilizando uma paleta de cores que inclua preto, neon e tons pastéis, e aplicando princípios de Design Deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Bloom, utilizando uma paleta de cores que inclua preto, neon e tons pastéis, com uma composição que quebre as regras de layout e inclua textos dominantes com fonte gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-26T08:10:57.059Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Incorporação de contrastes agressivos e estéticas oníricas",
-        "Uso de design deconstrutivista para chamar a atenção",
-        "Implementação de tipografia gigante para melhor legibilidade em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-04-26T09:43:04.469Z",
       "licao": [
@@ -109,6 +98,14 @@
         "Foco em Hyper-Human e rejeição ao 'AI Slop'",
         "Incorporação de Neon-Noir e Hyper-Bloom",
         "Aplicação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-04-26T18:35:49.763Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
