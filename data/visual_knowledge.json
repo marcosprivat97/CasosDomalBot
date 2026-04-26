@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-25T23:27:38.807Z",
+  "ultima_atualizacao": "2026-04-26T01:29:07.928Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
-      "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
+      "Foco em composições que quebram regras de layout para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Preto profundo como base, com acertos de neon em tons pastéis para criar contraste",
-      "teoria_do_clique": "O uso de imagens com estética humana e imperfeições, aliado a contrastes agressivos, gera engajamento por ser mais autêntico e cativante"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando contraste agressivo e estética onírica",
+      "foco_composicao": "Enquadre a foto de maneira a criar uma composição assimétrica, com elementos que saem da moldura ou rompem com a linearidade",
+      "paleta_cores": "Preto profundo como base, com explosões de neon em cores como rosa, azul ou amarelo, para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas, aliado à quebra de regras de layout, gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em movimento, utilizando luzes neon para realçar a ação, com uma paleta de cores que inclua preto, rosa neon e azul pastel",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com toques de Hyper-Bloom, com uma composição que quebre as regras de layout e inclua tipografia gigante em neon, sobre um fundo preto profundo",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-25T14:37:50.599Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-04-25T15:31:20.181Z",
       "licao": [
@@ -105,6 +97,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
         "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      ]
+    },
+    {
+      "data": "2026-04-26T01:29:07.928Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
+        "Foco em composições que quebram regras de layout para parar o scroll"
       ]
     }
   ]
