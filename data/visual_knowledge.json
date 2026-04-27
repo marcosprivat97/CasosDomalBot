@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-27T17:59:18.662Z",
+  "ultima_atualizacao": "2026-04-27T19:22:27.215Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhorar a leitura rápida no mobile"
+      "Incorporação das tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Adaptação para melhorar o engajamento com base na performance atual da página",
+      "Inclusão da tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando contraste agressivo e estética onírica",
-      "foco_composicao": "Enquadre a imagem com elementos humanos reais e imperfeições, quebrando regras de layout tradicionais para chamar a atenção",
-      "paleta_cores": "Preto profundo com neon, ou tons pastéis vibrantes para criar um contraste visual impactante",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout paralisam o scroll, enquanto a autenticidade humana e as cores vibrantes geram engajamento emocional"
+      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, incorporando contraste agressivo ou estética onírica",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, utilizando ângulos inusitados e foco seletivo",
+      "paleta_cores": "Preto e neon, ou cores pastéis com contrastes suaves, para criar uma estética única",
+      "teoria_do_clique": "O uso de imagens reais e cruas, aliado a composições inovadoras e uma paleta de cores atraente, gera curiosidade e estimula o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais, utilizando neon e cores vibrantes, com uma tipografia gigante que domine a composição e destaque a mensagem principal",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com contraste agressivo ou estética onírica, utilizando uma paleta de cores neon ou pastéis, e quebre as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-26T22:26:26.170Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
-      ]
-    },
     {
       "data": "2026-04-26T23:29:10.425Z",
       "licao": [
@@ -95,6 +88,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhorar a leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-27T19:22:27.215Z",
+      "licao": [
+        "Incorporação das tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Adaptação para melhorar o engajamento com base na performance atual da página",
+        "Inclusão da tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
