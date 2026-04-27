@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-04-27T20:50:44.097Z",
+  "ultima_atualizacao": "2026-04-27T21:44:45.629Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
-      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, destacando imperfeições e texturas reais",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos no centro",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste onírico",
-      "teoria_do_clique": "O uso de contraste agressivo e estética onírica captura a atenção do usuário e gera curiosidade, enquanto a inclusão de imperfeições humanas cria uma conexão emocional"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, destacando imperfeições humanas e contrastes agressivos",
+      "foco_composicao": "Enquadramento descentrado, com foco em detalhes humanos e expressões faciais, quebrando regras de layout tradicionais",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "A combinação de elementos humanos reais com contrastes visuais agressivos e estética onírica gera curiosidade e pausa no scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano no centro, destacando imperfeições e texturas reais, com uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente sombrio, com neon refletido em sua pele, destacando expressões faciais intensas e detalhes humanos, com texto gigante sobrepondo a cena, em uma fonte de alta legibilidade",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-27T01:29:50.437Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-04-27T04:58:54.068Z",
       "licao": [
@@ -97,6 +89,13 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
         "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-27T21:44:45.629Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
