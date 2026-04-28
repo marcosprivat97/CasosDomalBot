@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-27T23:41:48.558Z",
+  "ultima_atualizacao": "2026-04-28T01:50:22.403Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista para melhorar o engajamento",
-      "Inclusão de Tipografia Gigante para facilitar a leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em composições que quebram regras de layout para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contraste agressivo entre preto e neon ou estética onírica",
-      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, criando uma composição desequilibrada e atraente",
-      "paleta_cores": "Preto profundo, neon vibrante e cores pastéis suaves para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de imagens reais e cruas, aliado a um design desequilibrado e cores contrastantes, gera engajamento por causa da novidade e da surpresa que causa no usuário"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando iluminação dramática e cores vibrantes",
+      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento ou tensão, utilizando linhas diagonais e ângulos inusitados",
+      "paleta_cores": "Preto profundo como base, com neon verde, azul e rosa para criar contrastes agressivos",
+      "teoria_do_clique": "O uso de contrastes agressivos e composições inusitadas gera curiosidade e pausa no scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que misture elementos humanos reais com um toque de neon e uma composição desequilibrada, utilizando uma tipografia gigante e cores contrastantes",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com iluminação neon, pessoas movendo-se rapidamente e textos gigantes refletindo a emoção do momento",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-27T10:04:49.966Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e promovem a estética humana",
-        "Implementação de contraste agressivo e tipografia gigante para parar o scroll"
-      ]
-    },
     {
       "data": "2026-04-27T12:15:00.586Z",
       "licao": [
@@ -96,6 +89,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista para melhorar o engajamento",
         "Inclusão de Tipografia Gigante para facilitar a leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-04-28T01:50:22.403Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em composições que quebram regras de layout para parar o scroll"
       ]
     }
   ]
