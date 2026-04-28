@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-28T08:04:40.436Z",
+  "ultima_atualizacao": "2026-04-28T10:53:14.612Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estilo Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre as fotos de forma a criar uma sensação de movimento ou ação, com atenção ao primeiro plano e uso de profundidade de campo para destacar o assunto",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e estéticas oníricas, gera engajamento pois chama a atenção do usuário e o faz parar para olhar a imagem"
+      "foco_composicao": "Enquadre a foto de forma irregular, quebrando as regras de layout tradicionais, e destaque os detalhes humanos e imperfeições",
+      "paleta_cores": "Preto profundo com contrastes neon agressivos, criando um ambiente onírico",
+      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout pararão o scroll, enquanto a ênfase em imperfeições humanas gerará empatia e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, com um assunto principal em foco e um fundo onírico com contraste agressivo",
+    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com toques de Neon-Noir, destacando detalhes humanos e imperfeições, em um ambiente onírico com contrastes agressivos",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-27T16:19:54.517Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Incorporação de contrastes agressivos e estéticas oníricas",
-        "Uso de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-04-27T17:59:18.662Z",
       "licao": [
@@ -97,6 +88,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-28T10:53:14.612Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estilo Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
