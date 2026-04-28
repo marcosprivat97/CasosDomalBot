@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-28T10:53:14.612Z",
+  "ultima_atualizacao": "2026-04-28T12:19:30.182Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estilo Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em performance real da página para melhor engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma irregular, quebrando as regras de layout tradicionais, e destaque os detalhes humanos e imperfeições",
-      "paleta_cores": "Preto profundo com contrastes neon agressivos, criando um ambiente onírico",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout pararão o scroll, enquanto a ênfase em imperfeições humanas gerará empatia e engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras de layout tradicionais, utilizando espaços negativos e composições assimétricas",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O uso de cores vibrantes e composições desafiadoras parará o scroll e gerará curiosidade, enquanto as imperfeições humanas criarão uma conexão emocional com o usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com toques de Neon-Noir, destacando detalhes humanos e imperfeições, em um ambiente onírico com contrastes agressivos",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos de Neon-Noir e Hyper-Bloom, com uma composição desafiadora e cores vibrantes, incluindo textos dominantes e imperfeições humanas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-27T17:59:18.662Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhorar a leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-04-27T19:22:27.215Z",
       "licao": [
@@ -96,6 +89,14 @@
         "Adaptação às tendências globais de 2026",
         "Foco em estilo Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-04-28T12:19:30.182Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em performance real da página para melhor engajamento"
       ]
     }
   ]
