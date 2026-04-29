@@ -1,20 +1,20 @@
 {
-  "ultima_atualizacao": "2026-04-29T10:02:36.510Z",
+  "ultima_atualizacao": "2026-04-29T12:09:59.371Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adoção do estilo Hyper-Human para aumentar a autenticidade",
-      "Incorporação do Design Deconstrutivista para melhorar o engajamento",
-      "Uso de Tipografia Gigante para facilitar a leitura rápida",
-      "Exploração de Neon-Noir e Hyper-Bloom para contraste visual impactante"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human",
+      "Incorporação de Design Deconstrutivista",
+      "Uso de Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Realismo Sujo com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma assimétrica, destacando o sujeito principal com um fundo contrastante",
-      "paleta_cores": "Preto profundo com acenos de neon em cores como rosa, azul ou verde para criar um contraste agressivo",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com estéticas oníricas, gera curiosidade e pausa no scroll, aumentando a probabilidade de engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a imagem com elementos humanos reais, imperfeições inclusas, e use contraste agressivo para destacar o foco",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a presença humana real gera empatia e aumenta o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon, utilizando uma paleta de cores escuras e neon, e incorpore elementos de Design Deconstrutivista na composição",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Bloom, com elementos humanos reais no centro, utilizando uma paleta de preto profundo, neon vibrante e tons pastéis suaves, e destaque o texto principal com Tipografia Gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-28T17:28:36.552Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-        "Foco em composição que quebra regras de layout para parar o scroll"
-      ]
-    },
     {
       "data": "2026-04-28T19:17:33.049Z",
       "licao": [
@@ -107,6 +99,15 @@
         "Incorporação do Design Deconstrutivista para melhorar o engajamento",
         "Uso de Tipografia Gigante para facilitar a leitura rápida",
         "Exploração de Neon-Noir e Hyper-Bloom para contraste visual impactante"
+      ]
+    },
+    {
+      "data": "2026-04-29T12:09:59.371Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human",
+        "Incorporação de Design Deconstrutivista",
+        "Uso de Tipografia Gigante"
       ]
     }
   ]
