@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-29T15:02:05.180Z",
+  "ultima_atualizacao": "2026-04-29T17:15:31.535Z",
   "licao_atual": {
-    "versao_logica": "1.4",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
-      "Foco em composições que quebram regras de layout para parar o scroll"
+      "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
+      "Otimização para aumento do engajamento e alcance em redes sociais"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos reais e imperfeições",
-      "paleta_cores": "Preto profundo, neon verde, azul ou rosa, com toques de cores pastéis para criar um efeito onírico",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a inclusão de elementos humanos reais e imperfeições criam uma conexão emocional"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas e autenticidade",
+      "foco_composicao": "Enquadre a foto de maneira a criar contraste agressivo e quebre as regras de layout tradicionais",
+      "paleta_cores": "Preto profundo com neon vibrante, e elementos de Hyper-Bloom para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de elementos visuais chocantes e autênticos gera curiosidade e estimula o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com um tema humano, incorporando elementos de Neon-Noir e Hyper-Bloom, com uma tipografia gigante e composição deconstrutivista que quebre as regras de layout",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, destacando uma cena humana autêntica e imperfeita, com tipografia gigante e composição deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-28T20:57:36.059Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista para melhorar o engajamento",
-        "Inclusão de Tipografia Gigante para facilitar a leitura em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-04-28T21:53:10.903Z",
       "licao": [
@@ -107,6 +100,14 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
         "Foco em composições que quebram regras de layout para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-29T17:15:31.535Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
+        "Otimização para aumento do engajamento e alcance em redes sociais"
       ]
     }
   ]
