@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-04-30T10:45:07.214Z",
+  "ultima_atualizacao": "2026-04-30T12:08:03.555Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-      "Incorporação de elementos visuais que rejeitam o 'AI Slop' e promovem a estética 'Hyper-Human'",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      "Ajuste no estilo de imagem para refletir a tendência Hyper-Human",
+      "Incorporação de contrastes agressivos e estéticas oníricas",
+      "Implementação de design deconstrutivista para parar o scroll",
+      "Uso de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas que destacam imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de intimidade e autenticidade, quebrando regras de layout tradicionais",
-      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contraste agressivo entre preto e neon, ou estéticas oníricas pastéis",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e estéticas oníricas, gera engajamento por ser mais autêntico e cativante, parando o scroll do usuário"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre luz e sombra, com elementos humanos imperfeitos no centro",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um efeito onírico",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença humana imperfeita cria uma conexão emocional e autêntica"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento autêntico e crua da vida, com contraste agressivo entre preto e neon, e uma paleta de cores que seja ao mesmo tempo onírica e cativante",
+    "prompt_padrao_atualizado": "Crie uma imagem de um momento humano autêntico, com contraste agressivo entre luz e sombra, e cores neon vibrantes em um ambiente onírico",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-29T17:15:31.535Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
-        "Otimização para aumento do engajamento e alcance em redes sociais"
-      ]
-    },
     {
       "data": "2026-04-29T19:06:41.516Z",
       "licao": [
@@ -101,6 +94,15 @@
         "Adaptação às tendências de 2026 para melhorar o desempenho da página",
         "Incorporação de elementos visuais que rejeitam o 'AI Slop' e promovem a estética 'Hyper-Human'",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-30T12:08:03.555Z",
+      "licao": [
+        "Ajuste no estilo de imagem para refletir a tendência Hyper-Human",
+        "Incorporação de contrastes agressivos e estéticas oníricas",
+        "Implementação de design deconstrutivista para parar o scroll",
+        "Uso de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
