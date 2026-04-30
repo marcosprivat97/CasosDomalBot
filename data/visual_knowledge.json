@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-30T08:01:54.298Z",
+  "ultima_atualizacao": "2026-04-30T10:45:07.214Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human para aumentar a autenticidade",
-      "Incorporação de estilos visuais de Neon-Noir e Hyper-Bloom para contraste",
-      "Aplicação de princípios de Design Deconstrutivista para quebrar a monotonia",
-      "Uso de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
+      "Adaptação às tendências de 2026 para melhorar o desempenho da página",
+      "Incorporação de elementos visuais que rejeitam o 'AI Slop' e promovem a estética 'Hyper-Human'",
+      "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotografia Crua com Texturas e Imperfeições",
-      "foco_composicao": "Enquadramento assimétrico com foco em elementos humanos reais",
-      "paleta_cores": "Contraste agressivo entre tons neon e preto, com tons pastéis para equilíbrio",
-      "teoria_do_clique": "O engajamento aumenta com a percepção de autenticidade e a surpresa visual"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas que destacam imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de intimidade e autenticidade, quebrando regras de layout tradicionais",
+      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contraste agressivo entre preto e neon, ou estéticas oníricas pastéis",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e estéticas oníricas, gera engajamento por ser mais autêntico e cativante, parando o scroll do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon e sombras profundas, utilizando uma paleta de cores que inclua tons de rosa neon e azul escuro, com texto em fonte sans-serif gigante sobrepondo a cena",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento autêntico e crua da vida, com contraste agressivo entre preto e neon, e uma paleta de cores que seja ao mesmo tempo onírica e cativante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-29T15:02:05.180Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
-        "Foco em composições que quebram regras de layout para parar o scroll"
-      ]
-    },
     {
       "data": "2026-04-29T17:15:31.535Z",
       "licao": [
@@ -102,6 +93,14 @@
         "Incorporação de estilos visuais de Neon-Noir e Hyper-Bloom para contraste",
         "Aplicação de princípios de Design Deconstrutivista para quebrar a monotonia",
         "Uso de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-04-30T10:45:07.214Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
+        "Incorporação de elementos visuais que rejeitam o 'AI Slop' e promovem a estética 'Hyper-Human'",
+        "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
       ]
     }
   ]
