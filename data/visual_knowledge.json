@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-30T20:03:58.754Z",
+  "ultima_atualizacao": "2026-04-30T21:45:28.601Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de tipografia gigante para melhor legibilidade em dispositivos móveis"
+      "Adaptação às tendências de 2026",
+      "Foco em estilos que rejeitam o 'AI Slop' para aumento do engajamento",
+      "Incorporação de elementos de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a destacar a imperfeição humana, utilizando ângulos inusitados e foco seletivo",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com tons pastéis",
-      "teoria_do_clique": "O uso de imagens reais e cruas, com toques de Neon-Noir, gera engajamento por criar uma conexão emocional com o espectador, ao mesmo tempo em que a tipografia gigante chama a atenção e facilita a leitura"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo e quebrar as regras de layout tradicionais",
+      "paleta_cores": "Preto profundo e neon vibrante, com áreas de alta saturação para criar um efeito onírico",
+      "teoria_do_clique": "O uso de imagens cruas e com imperfeições humanas, aliado a contrastes agressivos, gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, destacando a imperfeição humana em um ambiente onírico, com textos gigantes que transmitam uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem que misture elementos urbanos noturnos com flores neon, utilizando uma paleta de cores que inclua preto, neon verde e rosa, com textos gigantes em fonte sans-serif para destacar uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-29T23:42:53.048Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-04-30T01:52:12.448Z",
       "licao": [
@@ -103,6 +94,14 @@
         "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de tipografia gigante para melhor legibilidade em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-04-30T21:45:28.601Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estilos que rejeitam o 'AI Slop' para aumento do engajamento",
+        "Incorporação de elementos de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
