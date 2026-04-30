@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-04-30T14:58:17.484Z",
+  "ultima_atualizacao": "2026-04-30T16:17:05.746Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
-      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Inclusão de estilos de imagem mais cruas e humanas",
+      "Uso de contraste agressivo para chamar a atenção",
+      "Implementação de design deconstrutivista para interrupção do scroll",
+      "Introdução de tipografia gigante para leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com fotos reais e cruas que destacam imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, utilizando a estética Neon-Noir",
-      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual atraente",
-      "teoria_do_clique": "O uso de estilos Hyper-Human e Neon-Noir gera engajamento pois cria uma conexão emocional com o público e chama a atenção de forma eficaz"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais e imperfeições",
+      "foco_composicao": "Enquadramento off-center, com elementos principais fora do centro da imagem",
+      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrastes agressivos entre preto e neon ou cores pastéis",
+      "teoria_do_clique": "A combinação de estilos visuais humanos com contraste agressivo e composições inovadoras gera curiosidade e engajamento, pois desafia o olhar do usuário e o incentiva a parar o scroll"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com estética Neon-Noir, utilizando tons pastéis e contraste agressivo para destacar a mensagem",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com uma cena noturna em Neon-Noir, utilizando uma tipografia gigante e um layout deconstrutivista que inclua elementos fora do centro da imagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-29T20:50:57.507Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais mais atuais e atraentes",
-        "Otimização do layout para parar o scroll"
-      ]
-    },
     {
       "data": "2026-04-29T21:50:45.980Z",
       "licao": [
@@ -101,6 +94,15 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
         "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-04-30T16:17:05.746Z",
+      "licao": [
+        "Inclusão de estilos de imagem mais cruas e humanas",
+        "Uso de contraste agressivo para chamar a atenção",
+        "Implementação de design deconstrutivista para interrupção do scroll",
+        "Introdução de tipografia gigante para leitura rápida"
       ]
     }
   ]
