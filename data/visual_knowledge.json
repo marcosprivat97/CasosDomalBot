@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-01T05:34:01.011Z",
+  "ultima_atualizacao": "2026-05-01T07:59:39.361Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop'",
-      "Inclusão de elementos de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento e alcance da página"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, utilizando elementos humanos reais e imperfeitos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual atraente",
-      "teoria_do_clique": "A combinação de Hyper-Human com Neon-Noir cria uma estética única que chama a atenção do usuário, enquanto a quebra de regras de layout mantém o usuário engajado"
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em detalhes humanos reais e imperfeições",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual atraente",
+      "teoria_do_clique": "A combinação de Hyper-Human e Neon-Noir cria uma estética única que chama a atenção do usuário, enquanto a quebra de regras de layout (Design Deconstrutivista) e a tipografia gigante facilitam a leitura rápida e aumentam o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano humano, com um fundo preto e elementos neon iluminados, utilizando uma tipografia gigante para destacar uma mensagem ou emoção",
+    "prompt_padrao_atualizado": "Crie uma imagem com um tema de vida real, incorporando elementos de Neon-Noir e Hyper-Bloom, com uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis, e adicione textos dominantes em fonte gigante para destacar a mensagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-30T12:08:03.555Z",
-      "licao": [
-        "Ajuste no estilo de imagem para refletir a tendência Hyper-Human",
-        "Incorporação de contrastes agressivos e estéticas oníricas",
-        "Implementação de design deconstrutivista para parar o scroll",
-        "Uso de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-04-30T14:58:17.484Z",
       "licao": [
@@ -101,6 +91,13 @@
         "Adaptação às tendências de 2026",
         "Foco em estilos que rejeitam o 'AI Slop'",
         "Inclusão de elementos de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-05-01T07:59:39.361Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento e alcance da página"
       ]
     }
   ]
