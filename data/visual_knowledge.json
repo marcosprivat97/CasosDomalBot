@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-04-30T23:41:27.784Z",
+  "ultima_atualizacao": "2026-05-01T01:54:18.620Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação ao estilo Hyper-Human para aumentar a autenticidade",
-      "Incorporação de Neon-Noir e Hyper-Bloom para contrastes visuais atraentes",
-      "Aplicação do Design Deconstrutivista para quebrar regras de layout",
-      "Uso de Tipografia Gigante para melhor legibilidade"
+      "Inclusão de estilos de imagem que seguem as tendências de Hyper-Human e Neon-Noir",
+      "Adaptação do layout para Design Deconstrutivista e Tipografia Gigante",
+      "Foco em composições que quebram regras de layout para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com Neon-Noir & Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem de forma irregular, com foco no centro e elementos fora de foco nos cantos, criando uma sensação de movimento",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis para criar contraste e atração visual",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos e layouts inovadores, gera curiosidade e impulsa o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições humanas e contraste agressivo",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou tensão, utilizando diagonais e elementos que quebram a simetria",
+      "paleta_cores": "Preto profundo com neon vibrante, ou estéticas oníricas com cores pastéis intensas",
+      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout criam uma curiosidade imediata no usuário, aumentando a probabilidade de clique e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em movimento, usando neon para realçar detalhes, e aplicando um estilo de contraste agressivo com preto profundo e tons vibrantes",
+    "prompt_padrao_atualizado": "Crie uma imagem misturando elementos urbanos noturnos com neon vibrante e personagens com expressões intensas, utilizando uma paleta de preto profundo e cores neon",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-30T08:01:54.298Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human para aumentar a autenticidade",
-        "Incorporação de estilos visuais de Neon-Noir e Hyper-Bloom para contraste",
-        "Aplicação de princípios de Design Deconstrutivista para quebrar a monotonia",
-        "Uso de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-04-30T10:45:07.214Z",
       "licao": [
@@ -103,6 +93,14 @@
         "Incorporação de Neon-Noir e Hyper-Bloom para contrastes visuais atraentes",
         "Aplicação do Design Deconstrutivista para quebrar regras de layout",
         "Uso de Tipografia Gigante para melhor legibilidade"
+      ]
+    },
+    {
+      "data": "2026-05-01T01:54:18.620Z",
+      "licao": [
+        "Inclusão de estilos de imagem que seguem as tendências de Hyper-Human e Neon-Noir",
+        "Adaptação do layout para Design Deconstrutivista e Tipografia Gigante",
+        "Foco em composições que quebram regras de layout para parar o scroll"
       ]
     }
   ]
