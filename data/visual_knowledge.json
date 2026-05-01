@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-05-01T15:44:46.928Z",
+  "ultima_atualizacao": "2026-05-01T16:43:25.027Z",
   "licao_atual": {
-    "versao_logica": "2.0",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adoção de estética Hyper-Human para aumento do engajamento",
+      "Incorporação de contraste agressivo Neon-Noir para chamar a atenção",
+      "Uso de Design Deconstrutivista para quebrar a monotonia do scroll",
+      "Implementação de Tipografia Gigante para facilitar a leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre sujeitos em ambientes urbanos noturnos com iluminação neon, destacando contrastes agressivos",
-      "paleta_cores": "Preto, neon verde, rosa e azul, com toques de cores pastéis para criar um contraste onírico",
-      "teoria_do_clique": "A combinação de cores neon e a estética onírica criam uma experiência visual única, enquanto a tipografia gigante facilita a leitura e o engajamento no mobile"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar tensão visual, quebrando as regras tradicionais de layout",
+      "paleta_cores": "Preto profundo com neon vibrante, contrastando com tons pastéis suaves",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica atrai a atenção, enquanto a tipografia gigante facilita a leitura e o entendimento rápido do conteúdo"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com um sujeito humano em primeiro plano, iluminado por luzes neon verdes e rosas, com uma tipografia gigante e deconstrutivista ao fundo",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Bloom, destacando uma pessoa ou cena com imperfeições humanas, utilizando uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis suaves, com texto gigante que domine a imagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-30T22:40:15.465Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-04-30T23:41:27.784Z",
       "licao": [
@@ -99,6 +93,15 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-05-01T16:43:25.027Z",
+      "licao": [
+        "Adoção de estética Hyper-Human para aumento do engajamento",
+        "Incorporação de contraste agressivo Neon-Noir para chamar a atenção",
+        "Uso de Design Deconstrutivista para quebrar a monotonia do scroll",
+        "Implementação de Tipografia Gigante para facilitar a leitura rápida"
       ]
     }
   ]
