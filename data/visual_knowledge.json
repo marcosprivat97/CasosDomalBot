@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-01T11:00:35.545Z",
+  "ultima_atualizacao": "2026-05-01T12:52:49.131Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a estética humana"
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e enfatizam a estética humana"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, destacando a presença humana de forma crua e autêntica",
-      "paleta_cores": "Preto profundo e neon vibrante, com destaque para cores quentes e frias em harmonia",
-      "teoria_do_clique": "O uso de imagens reais e imperfeitas, combinado com contrastes agressivos, atrai a atenção do usuário e estimula o engajamento devido à sua autenticidade e capacidade de parar o scroll"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições e texturas naturais",
+      "foco_composicao": "Enquadre a cena de forma a criar um contraste agressivo entre luz e sombra, com foco em detalhes que destacam a realidade crua",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar uma estética onírica e atraente",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera engajamento pois chama a atenção do usuário e o faz parar o scroll, enquanto a inclusão de elementos humanos e imperfeições cria uma conexão emocional mais forte com o conteúdo"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um toque de Neon-Noir, destacando uma pessoa em um ambiente sombrio com iluminação neon, usando uma tipografia gigante para transmitir uma mensagem poderosa",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um tema urbano, incorporando elementos de Neon-Noir e Hyper-Human, com uma paleta de cores que inclua preto, neon e toques de pastéis, e com uma composição que destaque contrastes agressivos e texturas naturais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-04-30T18:02:40.577Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-04-30T20:03:58.754Z",
       "licao": [
@@ -97,6 +90,13 @@
       "licao": [
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a estética humana"
+      ]
+    },
+    {
+      "data": "2026-05-01T12:52:49.131Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e enfatizam a estética humana"
       ]
     }
   ]
