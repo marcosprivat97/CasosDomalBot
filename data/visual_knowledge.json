@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-02T04:51:18.540Z",
+  "ultima_atualizacao": "2026-05-02T06:56:06.101Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop'",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em rejeição ao 'AI Slop' para fotos mais autênticas"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste e surpresa, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contraste agressivo entre preto e neon, ou cores pastéis oníricas",
-      "teoria_do_clique": "A combinação de elementos humanos, contrastes agressivos e estéticas oníricas gera engajamento por causa da novidade e surpresa, além de ativar a curiosidade do usuário"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir para contraste agressivo",
+      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, utilizando diagonais e elementos fora do centro",
+      "paleta_cores": "Preto profundo com neon vibrante para contraste, ou estética onírica com tons pastéis para Hyper-Bloom",
+      "teoria_do_clique": "O uso de imagens cruas e imperfeitas humanas, combinado com contrastes agressivos, gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com contraste agressivo entre preto e neon, e uma composição que quebre as regras tradicionais de layout, utilizando tipografia gigante para destacar a mensagem",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais, iluminados por neon, em um ambiente sombrio, com textos gigantes destacando uma mensagem poderosa",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-01T16:43:25.027Z",
-      "licao": [
-        "Adoção de estética Hyper-Human para aumento do engajamento",
-        "Incorporação de contraste agressivo Neon-Noir para chamar a atenção",
-        "Uso de Design Deconstrutivista para quebrar a monotonia do scroll",
-        "Implementação de Tipografia Gigante para facilitar a leitura rápida"
-      ]
-    },
     {
       "data": "2026-05-01T17:48:02.369Z",
       "licao": [
@@ -104,6 +94,14 @@
         "Foco em estilos que rejeitam o 'AI Slop'",
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-02T06:56:06.101Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em rejeição ao 'AI Slop' para fotos mais autênticas"
       ]
     }
   ]
