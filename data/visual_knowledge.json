@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-02T18:41:21.416Z",
+  "ultima_atualizacao": "2026-05-02T19:45:43.800Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
-      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto com uma composição desequilibrada, destacando o sujeito principal em um ambiente onírico",
-      "paleta_cores": "Preto profundo com neon verde ou rosa para criar um contraste agressivo",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com estética onírica, gera curiosidade e atrai a atenção do usuário, aumentando a probabilidade de cliques e engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a destacar a beleza das imperfeições humanas, com contraste agressivo entre preto e neon",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de elementos humanos reais com contrastes agressivos e estética onírica gera curiosidade e pausa no scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com neon verde iluminando o rosto e um fundo preto profundo, utilizando uma composição desequilibrada e textos gigantes em primeiro plano",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon, tons pastéis e contraste agressivo, destacando a beleza das imperfeições humanas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-02T08:17:52.000Z",
-      "licao": [
-        "Inclusão de tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Ajustes para melhorar o engajamento com base na performance atual da página"
-      ]
-    },
     {
       "data": "2026-05-02T09:52:31.357Z",
       "licao": [
@@ -101,6 +94,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
         "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-05-02T19:45:43.800Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
