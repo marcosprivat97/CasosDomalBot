@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-02T20:30:43.564Z",
+  "ultima_atualizacao": "2026-05-02T21:29:59.633Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de design deconstrutivista para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
-      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre luz e sombra, com elementos humanos reais e imperfeitos no centro",
-      "paleta_cores": "Preto profundo com neon vibrante, destacando a beleza dos contrastes",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera engajamento pois chama a atenção do usuário e estimula a curiosidade"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
+      "foco_composicao": "Enquadre a imagem com elementos em primeiro plano, utilizando a regra dos terços e quebrando a simetria",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O uso de contrates agressivos e elementos humanos imperfeitos gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Human, destacando uma cena urbana noturna com pessoas reais e imperfeitas, utilizando uma paleta de cores que inclua preto profundo e neon vibrante",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos Hyper-Human, utilizando contrates agressivos e cores pastéis, e enquadre a cena com elementos em primeiro plano",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-02T10:40:40.500Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-        "Uso de Neon-Noir e Hyper-Bloom para contraste visual atraente",
-        "Aplicação do Design Deconstrutivista para quebrar regras de layout",
-        "Implementação de Tipografia Gigante para melhor legibilidade"
-      ]
-    },
     {
       "data": "2026-05-02T11:36:28.581Z",
       "licao": [
@@ -106,6 +94,14 @@
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de design deconstrutivista para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-02T21:29:59.633Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
