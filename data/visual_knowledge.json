@@ -1,20 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-03T19:44:44.584Z",
+  "ultima_atualizacao": "2026-05-03T20:31:06.399Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop'",
-      "Incorporação de contraste agressivo e estéticas oníricas",
-      "Uso de tipografia gigante para melhor leitura no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, com foco em detalhes humanos imperfeitos",
-      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis para uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e as imperfeições humanas capturam a atenção do usuário, gerando engajamento devido à novidade e autenticidade"
+      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contraste agressivo entre preto e neon",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras de layout tradicionais, com elementos fora do centro e uso de espaços negativos",
+      "paleta_cores": "Neon-Noir com tons pastéis suaves para criar um contraste visual atraente",
+      "teoria_do_clique": "O uso de imperfeições humanas e contraste agressivo gera curiosidade e paralisa o scroll, enquanto a tipografia gigante facilita a leitura rápida e aumenta o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com um humano em movimento, com iluminação neon e sombras profundas, utilizando uma paleta de cores vibrantes e pastéis, com texto gigante sobreposto que destaque uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon e sombras profundas, usando uma câmera com granulação alta e texto gigante sobreposto",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-03T09:12:09.805Z",
-      "licao": [
-        "Adoção de tendências atuais para melhorar o engajamento",
-        "Foco em estilos visuais que geram interação",
-        "Ajustes no layout para parar o scroll"
-      ]
-    },
     {
       "data": "2026-05-03T10:43:19.294Z",
       "licao": [
@@ -105,6 +95,13 @@
         "Foco em estilos que rejeitam o 'AI Slop'",
         "Incorporação de contraste agressivo e estéticas oníricas",
         "Uso de tipografia gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-03T20:31:06.399Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
