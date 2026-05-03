@@ -1,18 +1,20 @@
 {
-  "ultima_atualizacao": "2026-05-03T05:21:04.642Z",
+  "ultima_atualizacao": "2026-05-03T07:45:38.308Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
+      "Incorporação de contrastes agressivos e estéticas oníricas",
+      "Uso de design deconstrutivista e tipografia gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto com uma composição desequilibrada, quebrando regras de layout tradicionais",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis",
-      "teoria_do_clique": "A combinação de elementos visuais desequilibrados e a estética Neon-Noir geram curiosidade e paralisam o scroll"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, destacando a autenticidade e a crueza da vida real",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, criando um equilíbrio visual instável que chame a atenção",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis para criar um contraste agressivo e uma atmosfera onírica",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera engajamento porque cria uma experiência visual única e memorável, fazendo com que o usuário pare o scroll e interaja com a publicação"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa em um ambiente urbano noturno, com iluminação neon e contraste agressivo, e um texto gigante sobrepondo a cena",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com elementos neon vibrantes e tons pastéis, incorporando um design deconstrutivista e tipografia gigante, destacando a autenticidade e a crueza da vida real",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-02T16:35:21.506Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
-        "Incorporação de contrastes agressivos e estéticas oníricas"
-      ]
-    },
     {
       "data": "2026-05-02T17:35:49.507Z",
       "licao": [
@@ -100,6 +94,15 @@
       "licao": [
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir"
+      ]
+    },
+    {
+      "data": "2026-05-03T07:45:38.308Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
+        "Incorporação de contrastes agressivos e estéticas oníricas",
+        "Uso de design deconstrutivista e tipografia gigante para parar o scroll"
       ]
     }
   ]
