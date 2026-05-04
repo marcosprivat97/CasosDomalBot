@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-04T21:55:38.403Z",
+  "ultima_atualizacao": "2026-05-04T22:47:54.860Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam uma estética mais humana e autêntica",
-      "Uso de contraste agressivo e cores neon para chamar a atenção do usuário"
+      "Inclusão de estilos de imagem 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom' para melhorar o engajamento",
+      "Adaptação do layout para seguir o Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento e energia, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Preto profundo com neon verde, rosa ou azul, para criar contraste agressivo e estimular a curiosidade",
-      "teoria_do_clique": "O uso de imagens cruas e humanas, combinado com contraste agressivo, gera engajamento por criar uma conexão emocional imediata e estimular a curiosidade do usuário"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir & Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos imperfeitos",
+      "paleta_cores": "Preto profundo com neon vibrante ou estéticas oníricas pastéis para criar um visual impactante",
+      "teoria_do_clique": "O uso de imagens reais e cruas com contraste agressivo atrai a atenção do usuário e gera curiosidade, levando a um maior engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma pessoa em movimento, usando luzes neon para realçar o contraste e criar uma atmosfera dinâmica e energética",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, com um foco em detalhes humanos imperfeitos e um contraste agressivo entre luz e sombra",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-04T01:47:16.279Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de elementos visuais para parar o scroll",
-        "Foco em estética cruas e humanas para rejeitar o 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-05-04T05:24:10.934Z",
       "licao": [
@@ -107,6 +98,13 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam uma estética mais humana e autêntica",
         "Uso de contraste agressivo e cores neon para chamar a atenção do usuário"
+      ]
+    },
+    {
+      "data": "2026-05-04T22:47:54.860Z",
+      "licao": [
+        "Inclusão de estilos de imagem 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom' para melhorar o engajamento",
+        "Adaptação do layout para seguir o Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
