@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-05T13:08:14.267Z",
+  "ultima_atualizacao": "2026-05-05T15:38:31.613Z",
   "licao_atual": {
-    "versao_logica": "1.0",
+    "versao_logica": "1.4",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estilos visuais que rejeitam a perfeição e valorizam a autenticidade"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em composições que quebram regras de layout para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a destacar contrastes agressivos entre luz e sombra, utilizando elementos humanos reais e imperfeitos",
-      "paleta_cores": "Preto profundo como base, com acordes de neon vibrantes para criar contraste",
-      "teoria_do_clique": "O uso de contrastes agressivos e estilos humanos reais atrai a atenção do usuário, enquanto a autenticidade e imperfeição criam uma conexão emocional"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando contraste e cores vibrantes",
+      "foco_composicao": "Enquadre a imagem de forma a criar tensão ou surpresa, quebrando regras de layout tradicionais",
+      "paleta_cores": "Preto profundo com neon verde, azul ou rosa, criando um contraste agressivo",
+      "teoria_do_clique": "O uso de cores vibrantes e composições inovadoras atrai a atenção do usuário e gera engajamento devido à novidade e surpresa"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir, destacando contrastes agressivos e utilizando tipografia gigante para transmitir uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais, mas com toques de neon, em um ambiente urbano decadente, com texto gigante destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-04T20:57:17.099Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-        "Foco em estética onírica e contrastes agressivos para parar o scroll"
-      ]
-    },
     {
       "data": "2026-05-04T21:55:38.403Z",
       "licao": [
@@ -97,6 +90,14 @@
       "licao": [
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Foco em estilos visuais que rejeitam a perfeição e valorizam a autenticidade"
+      ]
+    },
+    {
+      "data": "2026-05-05T15:38:31.613Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em composições que quebram regras de layout para parar o scroll"
       ]
     }
   ]
