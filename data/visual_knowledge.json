@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-06T21:01:46.278Z",
+  "ultima_atualizacao": "2026-05-06T22:38:21.495Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Ajuste para atender às tendências de Hyper-Human e Neon-Noir",
-      "Inclusão de Design Deconstrutivista para quebrar regras de layout",
-      "Implementação de Tipografia Gigante para leitura rápida no mobile"
+      "Adoção de estilos visuais que rejeitam o 'AI Slop' para melhorar a performance",
+      "Incorporação de tendências de design para aumentar o engajamento",
+      "Otimização do layout para parar o scroll e melhorar a leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, focando em contraste agressivo e imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a criar um centro de interesse desequilibrado, utilizando a regra dos terços e incorporando elementos que quebram a simetria",
-      "paleta_cores": "Preto profundo com neon vibrante, utilizando uma paleta limitada para enfatizar o contraste",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout capturam a atenção do usuário, enquanto a presença de imperfeições humanas gera empatia e aumenta a probabilidade de engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem com foco em elementos humanos reais, com ênfase em expressões faciais e corporais autênticas, utilizando contraste agressivo para destacar a cena",
+      "paleta_cores": "Neon vibrante sobre fundo escuro, com toques de cores pastéis para criar contraste",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e cores vibrantes, gera curiosidade e atrai a atenção do usuário, aumentando a probabilidade de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em foco, utilizando iluminação neon para realçar as características do ambiente e do personagem, com uma paleta de cores limitada e um design deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon e sombras profundas, utilizando uma abordagem fotográfica cru e autêntica, com foco em expressões faciais intensas e detalhes humanos",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-05T23:38:43.606Z",
-      "licao": [
-        "Adoção de estilo Hyper-Human para aumentar a autenticidade",
-        "Incorporação de contraste agressivo com Neon-Noir",
-        "Uso de Design Deconstrutivista para chamar atenção",
-        "Implementação de Tipografia Gigante para melhor legibilidade"
-      ]
-    },
     {
       "data": "2026-05-06T01:47:01.359Z",
       "licao": [
@@ -107,6 +98,14 @@
         "Ajuste para atender às tendências de Hyper-Human e Neon-Noir",
         "Inclusão de Design Deconstrutivista para quebrar regras de layout",
         "Implementação de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-06T22:38:21.495Z",
+      "licao": [
+        "Adoção de estilos visuais que rejeitam o 'AI Slop' para melhorar a performance",
+        "Incorporação de tendências de design para aumentar o engajamento",
+        "Otimização do layout para parar o scroll e melhorar a leitura no mobile"
       ]
     }
   ]
