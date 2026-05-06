@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-06T01:47:01.359Z",
+  "ultima_atualizacao": "2026-05-06T05:19:16.872Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir para aumentar engajamento",
-      "Incorporação de Design Deconstrutivista para quebrar regras de layout",
-      "Uso de Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom, com foco em contrastes agressivos e estéticas oníricas",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou tensão, quebrando regras de layout tradicionais",
-      "paleta_cores": "Preto, neon e cores pastéis para criar um contraste agressivo e atraente",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera engajamento por criar uma sensação de surpresa e curiosidade no usuário"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e autenticidade",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, utilizando a regra dos terços e quebrando a simetria",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um efeito onírico",
+      "teoria_do_clique": "A combinação de elementos humanos autênticos com uma estética neon e onírica gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Neon-Noir com uma figura humana em movimento, utilizando uma paleta de cores preto, neon e pastéis, e uma tipografia gigante para destacar a ação",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Neon-Noir com uma pessoa real, destacando suas imperfeições e autenticidade, com uma paleta de cores que inclua preto profundo e neon vibrante, e um layout que quebre a simetria e utilize a regra dos terços",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-05T11:09:23.123Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Otimização para melhorar o engajamento e alcance da página"
-      ]
-    },
     {
       "data": "2026-05-05T13:08:14.267Z",
       "licao": [
@@ -101,6 +93,14 @@
         "Foco em estética Hyper-Human e Neon-Noir para aumentar engajamento",
         "Incorporação de Design Deconstrutivista para quebrar regras de layout",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-06T05:19:16.872Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
