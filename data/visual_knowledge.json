@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-07T22:51:23.098Z",
+  "ultima_atualizacao": "2026-05-07T23:42:51.074Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Uso de contrates agressivos e estéticas oníricas para chamar a atenção",
-      "Quebra de regras de layout tradicionais para aumentar o engajamento"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante",
+      "Foco em melhorar a performance da página com base na análise de dados"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem de forma a destacar o contraste entre o preto e o neon, com elementos principais posicionados de maneira a quebrar a simetria",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "A combinação de contrates agressivos e estéticas oníricas gera curiosidade e pausa no scroll, aumentando as chances de engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando contraste e estética onírica",
+      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento ou tensão, quebrando as regras tradicionais de layout",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste agressivo e atraente",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica atrai a atenção do usuário, enquanto a quebra de regras de layout estimula a curiosidade e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos que quebram a simetria, incorporando textos gigantes em fontes degradadas e cores neon para destacar a mensagem principal",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com neon vibrante e tons pastéis, incorporando elementos humanos imperfeitos e uma composição que desafie as regras tradicionais de layout",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-07T05:22:07.018Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação de elementos de 'Hyper-Human' e 'Neon-Noir' para aumentar a atratividade",
-        "Uso de 'Design Deconstrutivista' para parar o scroll",
-        "Implementação de 'Tipografia Gigante' para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-07T08:12:18.699Z",
       "licao": [
@@ -106,6 +96,14 @@
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Uso de contrates agressivos e estéticas oníricas para chamar a atenção",
         "Quebra de regras de layout tradicionais para aumentar o engajamento"
+      ]
+    },
+    {
+      "data": "2026-05-07T23:42:51.074Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante",
+        "Foco em melhorar a performance da página com base na análise de dados"
       ]
     }
   ]
