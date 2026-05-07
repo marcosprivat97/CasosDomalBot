@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-05-07T21:48:08.958Z",
+  "ultima_atualizacao": "2026-05-07T22:51:23.098Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
+      "Uso de contrates agressivos e estéticas oníricas para chamar a atenção",
+      "Quebra de regras de layout tradicionais para aumentar o engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento e imperfeição, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Preto profundo com neon vibrante para criar contraste agressivo",
-      "teoria_do_clique": "A combinação de autenticidade humana com elementos visuais impactantes gera curiosidade e encoraja o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a imagem de forma a destacar o contraste entre o preto e o neon, com elementos principais posicionados de maneira a quebrar a simetria",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "A combinação de contrates agressivos e estéticas oníricas gera curiosidade e pausa no scroll, aumentando as chances de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em movimento, incorporando elementos neon e mantendo um toque de imperfeição humana",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos que quebram a simetria, incorporando textos gigantes em fontes degradadas e cores neon para destacar a mensagem principal",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-07T01:51:33.605Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir"
-      ]
-    },
     {
       "data": "2026-05-07T05:22:07.018Z",
       "licao": [
@@ -103,6 +97,15 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      ]
+    },
+    {
+      "data": "2026-05-07T22:51:23.098Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
+        "Uso de contrates agressivos e estéticas oníricas para chamar a atenção",
+        "Quebra de regras de layout tradicionais para aumentar o engajamento"
       ]
     }
   ]
