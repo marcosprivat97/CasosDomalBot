@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-08T16:08:14.076Z",
+  "ultima_atualizacao": "2026-05-08T18:03:34.690Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética 'Hyper-Human' para aumento do engajamento",
-      "Incorporação de 'Neon-Noir & Hyper-Bloom' para atrair a atenção do usuário",
-      "Utilização de 'Design Deconstrutivista' para quebrar regras de layout e parar o scroll",
-      "Implementação de 'Tipografia Gigante' para leitura rápida no mobile"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Ajustes no layout para quebrar regras e parar o scroll"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a destacar imperfeições humanas e contraste agressivo entre preto e neon",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a estética humana imperfeita geram curiosidade e emoção, aumentando o engajamento do usuário"
+      "foco_composicao": "Enquadre a cena de forma desequilibrada, com elementos importantes fora do centro, criando uma sensação de movimento e imperfeição",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar contraste agressivo e uma estética onírica",
+      "teoria_do_clique": "O uso de imagens reais, cruas e com imperfeições humanas, combinado com contraste agressivo e layouts desequilibrados, gera engajamento pois rompe com a monotonia e chama a atenção do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que mistura elementos humanos reais com toques de neon, em um ambiente sombrio e onírico, com textos gigantes destacando a essência da cena",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais, iluminados por neon, em um ambiente urbano desgastado, com textos gigantes e imperfeições visuais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-07T22:51:23.098Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Uso de contrates agressivos e estéticas oníricas para chamar a atenção",
-        "Quebra de regras de layout tradicionais para aumentar o engajamento"
-      ]
-    },
     {
       "data": "2026-05-07T23:42:51.074Z",
       "licao": [
@@ -108,6 +97,14 @@
         "Incorporação de 'Neon-Noir & Hyper-Bloom' para atrair a atenção do usuário",
         "Utilização de 'Design Deconstrutivista' para quebrar regras de layout e parar o scroll",
         "Implementação de 'Tipografia Gigante' para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-08T18:03:34.690Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Ajustes no layout para quebrar regras e parar o scroll"
       ]
     }
   ]
