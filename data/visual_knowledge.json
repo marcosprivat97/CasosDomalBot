@@ -1,20 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-09T01:50:17.105Z",
+  "ultima_atualizacao": "2026-05-09T05:00:10.268Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
-      "Uso de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
-      "Implementação de Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em conteúdo de alta qualidade e engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, destacando imperfeições e autenticidade",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com elementos humanos imperfeitos no centro",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um clima onírico",
-      "teoria_do_clique": "A combinação de contraste agressivo, imperfeições humanas e estética onírica gera curiosidade e atrai o olhar, aumentando a probabilidade de cliques e engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem com um foco principal claro, utilizando regras de terços e deixando espaço para textos gigantes",
+      "paleta_cores": "Contrastes agressivos com preto e neon, ou estéticas oníricas com Hyper-Bloom",
+      "teoria_do_clique": "O uso de imagens reais e cruas, com imperfeições humanas, gera mais engajamento devido à autenticidade e capacidade de conectar-se emocionalmente com o público"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um humano imperfeito no centro, destacando contraste agressivo e tons pastéis, com uma tipografia gigante sobrepondo a cena",
+    "prompt_padrao_atualizado": "Crie uma imagem que misture elementos humanos reais com toques de neon, com um foco principal claro e textos gigantes para leitura rápida no mobile",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-08T10:16:33.934Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
-        "Foco em composições que quebram regras de layout para aumentar o engajamento"
-      ]
-    },
     {
       "data": "2026-05-08T12:04:01.186Z",
       "licao": [
@@ -104,6 +94,13 @@
         "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
         "Uso de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
         "Implementação de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-09T05:00:10.268Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em conteúdo de alta qualidade e engajamento"
       ]
     }
   ]
