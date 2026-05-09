@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-09T16:39:52.507Z",
+  "ultima_atualizacao": "2026-05-09T17:40:28.326Z",
   "licao_atual": {
-    "versao_logica": "2.0",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+      "Incorporação do Design Deconstrutivista para parar o scroll",
+      "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de realismo cru",
-      "foco_composicao": "Enquadre a cena de forma desequilibrada, com elementos principais fora do centro",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis",
-      "teoria_do_clique": "O uso de cores vibrantes e composições desequilibradas atrai a atenção do usuário e gera curiosidade"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, com foco em contraste agressivo e imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de desconforto ou surpresa, utilizando a regra dos terços e elementos que quebram a simetria",
+      "paleta_cores": "Preto profundo com neon vibrante, ou estéticas oníricas pastéis para criar contraste",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas neon ou oníricas gera curiosidade e atrai a atenção do usuário, aumentando as chances de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais em primeiro plano, iluminados por neon, com uma cidade escura ao fundo",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano real no centro, utilizando uma paleta de cores que combine preto profundo com neon vibrante, e aplique um design deconstrutivista com tipografia gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-09T01:50:17.106Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
-        "Uso de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
-        "Implementação de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-09T05:00:10.268Z",
       "licao": [
@@ -103,6 +94,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-05-09T17:40:28.326Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+        "Incorporação do Design Deconstrutivista para parar o scroll",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
