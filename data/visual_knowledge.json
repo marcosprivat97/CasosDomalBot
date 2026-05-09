@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-09T14:12:46.409Z",
+  "ultima_atualizacao": "2026-05-09T15:40:33.845Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a destacar a imperfeição humana e a autenticidade, quebrando regras de layout tradicionais",
-      "paleta_cores": "Preto e neon, com contrastes agressivos para chamar a atenção",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com estéticas oníricas e contrastes agressivos, gera engajamento por ser mais autêntico e humano, além de ser visualmente atraente e disruptivo"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre close-ups com foco em texturas e imperfeições humanas, com contraste agressivo entre luz e sombra",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens reais e cruas com toques de Neon-Noir gera engajamento por criar uma conexão emocional com o observador, além de parar o scroll devido ao seu caráter único e disruptivo"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Hyper-Human, com um toque de Neon-Noir, e quebra as regras de layout tradicionais para parar o scroll",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente sombrio, com luz neon refletida em sua pele, usando uma tipografia gigante e deconstrutivista para destacar uma mensagem emocional",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-08T22:44:02.403Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade"
-      ]
-    },
     {
       "data": "2026-05-08T23:44:37.182Z",
       "licao": [
@@ -103,6 +95,14 @@
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-09T15:40:33.845Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
