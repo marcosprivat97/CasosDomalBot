@@ -1,20 +1,20 @@
 {
-  "ultima_atualizacao": "2026-05-09T11:40:05.600Z",
+  "ultima_atualizacao": "2026-05-09T12:51:05.380Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human",
-      "Incorporação de elementos Neon-Noir e Hyper-Bloom",
-      "Aplicação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam uma estética mais humana e crua",
+      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção do usuário",
+      "Aplicação de design deconstrutivista para quebrar regras de layout e parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a cena de forma irregular, quebrando as regras tradicionais de layout, e use a profundidade de campo para destacar o sujeito",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma atmosfera onírica",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas futuristas e a quebra de regras de layout criarão uma experiência visual impactante, parando o scroll e gerando engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, combinando contrastes agressivos com elementos oníricos",
+      "foco_composicao": "Enquadre a imagem de forma a criar tensão ou surpresa, quebrando regras de layout tradicionais",
+      "paleta_cores": "Preto e neon, com toques de cores pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "A combinação de elementos visuais chocantes e a quebra de regras de layout criam uma curiosidade no usuário, aumentando a probabilidade de cliques e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena urbana noturna com uma pessoa realista no centro, iluminada por neon, com uma paleta de cores que mistura preto, neon e pastéis, e aplique um estilo de composição irregular",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com elementos neon, incorporando texturas e imperfeições humanas, com um foco em contrastes agressivos e uma paleta de cores que inclua preto, neon e pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-08T20:03:19.767Z",
-      "licao": [
-        "Inclusão de estilos de imagem mais cruas e humanas",
-        "Uso de contraste agressivo e estéticas oníricas",
-        "Quebra de regras de layout para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-08T21:48:07.739Z",
       "licao": [
@@ -102,6 +93,15 @@
         "Foco em estética Hyper-Human",
         "Incorporação de elementos Neon-Noir e Hyper-Bloom",
         "Aplicação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-05-09T12:51:05.380Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam uma estética mais humana e crua",
+        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção do usuário",
+        "Aplicação de design deconstrutivista para quebrar regras de layout e parar o scroll"
       ]
     }
   ]
