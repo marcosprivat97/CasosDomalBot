@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-10T16:40:43.716Z",
+  "ultima_atualizacao": "2026-05-10T17:41:32.111Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a estética humana",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de design deconstrutivista para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos visuais mais cruas e humanas",
+      "Uso de contraste agressivo e tipografia gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, destacando contrastes agressivos e estéticas oníricas",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou dinamismo, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Preto e neon, com tons pastéis suaves para criar um contraste atraente e onírico",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera engajamento por criar uma experiência visual única e atraente, quebrando a monotonia do feed de redes sociais"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de proximidade e intimidade, com foco em detalhes humanos",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves para criar contraste",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a autenticidade e as imperfeições humanas geram empatia e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com um tema urbano noturno, incorporando elementos de Neon-Noir e Hyper-Bloom, com uma paleta de cores que inclua preto, neon e tons pastéis suaves. A composição deve ser dinâmica e quebrar as regras tradicionais de layout.",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um toque de Neon-Noir, com uma pessoa real em um ambiente urbano, utilizando uma paleta de cores que combine preto profundo com neon vibrante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-10T01:50:21.050Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
-        "Inclusão de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
-        "Uso de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-10T05:28:27.198Z",
       "licao": [
@@ -107,6 +97,14 @@
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de design deconstrutivista para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-10T17:41:32.111Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais mais cruas e humanas",
+        "Uso de contraste agressivo e tipografia gigante para parar o scroll"
       ]
     }
   ]
