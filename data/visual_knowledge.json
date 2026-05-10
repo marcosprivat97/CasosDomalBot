@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-10T10:53:25.238Z",
+  "ultima_atualizacao": "2026-05-10T11:40:52.969Z",
   "licao_atual": {
-    "versao_logica": "1.0",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026 para melhorar a performance da página",
-      "Incorporação do estilo Hyper-Human para atrair mais engajamento",
-      "Uso de contraste agressivo e estética onírica para parar o scroll",
-      "Aplicação de design deconstrutivista para quebrar regras de layout"
+      "Adaptação às tendências de 2026",
+      "Foco em estilos que geram engajamento",
+      "Ajustes para melhorar a performance da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas",
-      "foco_composicao": "Enquadre a cena de forma a destacar o contraste entre luz e sombra, com elementos principais em primeiro plano e um fundo onírico",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste agressivo e atraente",
-      "teoria_do_clique": "O uso de Hyper-Human e Neon-Noir gera engajamento por criar uma sensação de autenticidade e surpresa, além de estimular a curiosidade do usuário"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos imperfeitos",
+      "paleta_cores": "Preto profundo com neon vibrante e toques de cores pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contraste agressivo e cores neon chama a atenção do usuário, enquanto a inclusão de detalhes humanos imperfeitos gera empatia e curiosidade, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas, com um fundo onírico e contraste agressivo",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, com iluminação neon vibrante e sombras profundas, incorporando elementos de Design Deconstrutivista e Tipografia Gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-09T19:49:27.250Z",
-      "licao": [
-        "Adaptação das tendências de design para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-09T20:33:37.210Z",
       "licao": [
@@ -103,6 +93,14 @@
         "Incorporação do estilo Hyper-Human para atrair mais engajamento",
         "Uso de contraste agressivo e estética onírica para parar o scroll",
         "Aplicação de design deconstrutivista para quebrar regras de layout"
+      ]
+    },
+    {
+      "data": "2026-05-10T11:40:52.969Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estilos que geram engajamento",
+        "Ajustes para melhorar a performance da página"
       ]
     }
   ]
