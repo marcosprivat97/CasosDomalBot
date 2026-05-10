@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-10T01:50:21.050Z",
+  "ultima_atualizacao": "2026-05-10T05:28:27.198Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
-      "Inclusão de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
-      "Uso de Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, destacando imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos em primeiro plano",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica criam curiosidade e atraem a atenção do usuário, enquanto a inclusão de elementos humanos reais aumenta a conexão emocional"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom, com ênfase em contraste agressivo e estética onírica",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, criando um Design Deconstrutivista que pare o scroll",
+      "paleta_cores": "Preto e neon, com tons pastéis para criar um contraste agressivo",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica gera engajamento por criar uma experiência visual única e memorável"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa real em primeiro plano, destacando imperfeições humanas e contraste agressivo entre preto e neon",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir & Hyper-Bloom, com um objeto ou pessoa em foco, utilizando uma paleta de cores preto e neon, e incorpore elementos de Design Deconstrutivista e Tipografia Gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-09T15:40:33.845Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-05-09T16:39:52.507Z",
       "licao": [
@@ -100,6 +92,14 @@
         "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
         "Inclusão de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-10T05:28:27.198Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
