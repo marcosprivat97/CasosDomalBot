@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-05-10T05:28:27.198Z",
+  "ultima_atualizacao": "2026-05-10T07:54:33.208Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Foco em criação de imagens mais cruas e humanas",
+      "Uso de contrastes agressivos e estéticas oníricas",
+      "Implementação de tipografia gigante para melhor leitura em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom, com ênfase em contraste agressivo e estética onírica",
-      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, criando um Design Deconstrutivista que pare o scroll",
-      "paleta_cores": "Preto e neon, com tons pastéis para criar um contraste agressivo",
-      "teoria_do_clique": "O uso de contraste agressivo e estética onírica gera engajamento por criar uma experiência visual única e memorável"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, com foco em detalhes humanos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas oníricas e contrastes agressivos gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir & Hyper-Bloom, com um objeto ou pessoa em foco, utilizando uma paleta de cores preto e neon, e incorpore elementos de Design Deconstrutivista e Tipografia Gigante",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com luzes neon refletidas em superfícies úmidas, utilizando uma paleta de cores que inclua preto profundo, neon rosa e tons pastéis azuis, com texto gigante sobreposto que diga 'Descubra o Segredo'",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-09T16:39:52.507Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-05-09T17:40:28.326Z",
       "licao": [
@@ -100,6 +93,15 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-05-10T07:54:33.208Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Foco em criação de imagens mais cruas e humanas",
+        "Uso de contrastes agressivos e estéticas oníricas",
+        "Implementação de tipografia gigante para melhor leitura em dispositivos móveis"
       ]
     }
   ]
