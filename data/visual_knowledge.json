@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-10T07:54:33.208Z",
+  "ultima_atualizacao": "2026-05-10T09:21:09.991Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Foco em criação de imagens mais cruas e humanas",
-      "Uso de contrastes agressivos e estéticas oníricas",
-      "Implementação de tipografia gigante para melhor leitura em dispositivos móveis"
+      "Incorporação de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em composições que quebram regras de layout para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, com foco em detalhes humanos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas oníricas e contrastes agressivos gera curiosidade e paralisa o scroll, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo e destacar o sujeito principal",
+      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis para criar um contraste onírico",
+      "teoria_do_clique": "O uso de cores agressivas e composições quebradas chama a atenção do usuário e estimula o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com luzes neon refletidas em superfícies úmidas, utilizando uma paleta de cores que inclua preto profundo, neon rosa e tons pastéis azuis, com texto gigante sobreposto que diga 'Descubra o Segredo'",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Bloom, destacando um sujeito humano com imperfeições, em um ambiente sombrio com neon vibrante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-09T17:40:28.326Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
-        "Incorporação do Design Deconstrutivista para parar o scroll",
-        "Uso de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-09T18:42:54.470Z",
       "licao": [
@@ -102,6 +93,14 @@
         "Foco em criação de imagens mais cruas e humanas",
         "Uso de contrastes agressivos e estéticas oníricas",
         "Implementação de tipografia gigante para melhor leitura em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-05-10T09:21:09.991Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em composições que quebram regras de layout para parar o scroll"
       ]
     }
   ]
