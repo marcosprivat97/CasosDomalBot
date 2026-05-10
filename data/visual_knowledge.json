@@ -1,20 +1,20 @@
 {
-  "ultima_atualizacao": "2026-05-10T20:36:27.738Z",
+  "ultima_atualizacao": "2026-05-10T21:37:45.579Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação à tendência Hyper-Human para melhorar o engajamento",
-      "Incorporação de estilos visuais Neon-Noir e Hyper-Bloom para aumentar a atratividade",
-      "Aplicação de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
-      "Uso de Tipografia Gigante para facilitar a leitura rápida no mobile"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação de estilos visuais mais humanos e autênticos",
+      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+      "Reestruturação do layout para interromper o scroll do usuário"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem com um foco em elementos humanos reais, com imperfeições e contraste agressivo, utilizando a regra dos terços e deixando espaço em branco para criar uma sensação de movimento",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis para criar um contraste agressivo e uma estética onírica",
-      "teoria_do_clique": "O uso de imagens reais e cruas, com elementos de surpresa e contraste, gera engajamento pois estimula a curiosidade e a emoção do usuário"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a foto com um foco principal desfocado e um plano de fundo nítido, usando a regra dos terços para direcionar a atenção do espectador",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis para criar um contraste visual atraente",
+      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas, combinado com contrastes agressivos e estéticas oníricas, gera engajamento porque cria uma conexão emocional e visual imediata com o espectador, interrompendo o scroll e estimulando a curiosidade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de um momento humano autêntico, com iluminação dramática e cores neon, utilizando uma paleta de preto, neon e tons pastéis, com uma tipografia gigante e deconstrutivista que quebre as regras de layout",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com Neon-Noir, com um foco principal desfocado e um plano de fundo nítido, utilizando uma paleta de cores que inclua preto profundo e neon vibrante, e adicione textos dominantes em tipografia gigante para leitura rápida",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-10T10:53:25.238Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human para atrair mais engajamento",
-        "Uso de contraste agressivo e estética onírica para parar o scroll",
-        "Aplicação de design deconstrutivista para quebrar regras de layout"
-      ]
-    },
     {
       "data": "2026-05-10T11:40:52.969Z",
       "licao": [
@@ -106,6 +97,15 @@
         "Incorporação de estilos visuais Neon-Noir e Hyper-Bloom para aumentar a atratividade",
         "Aplicação de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
         "Uso de Tipografia Gigante para facilitar a leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-10T21:37:45.579Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação de estilos visuais mais humanos e autênticos",
+        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+        "Reestruturação do layout para interromper o scroll do usuário"
       ]
     }
   ]
