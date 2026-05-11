@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-11T09:30:05.300Z",
+  "ultima_atualizacao": "2026-05-11T12:33:54.119Z",
   "licao_atual": {
-    "versao_logica": "1.0",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estilos de imagem mais orgânicos e humanos",
-      "Inclusão de contraste e tipografia para aumentar o engajamento"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estilos que rejeitam o 'AI Slop' e priorizam a autenticidade"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas",
-      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre luz e sombra, utilizando a técnica de Neon-Noir ou Hyper-Bloom",
-      "paleta_cores": "Preto e neon, ou tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O uso de imagens reais e cruas gera engajamento por ser mais autêntico e humano, enquanto o contraste agressivo e a tipografia gigante ajudam a parar o scroll"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste e tensão visual, utilizando a regra dos terços e deixando espaço para a tipografia dominante",
+      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrastes agressivos entre preto e neon, ou estéticas oníricas para chamar a atenção",
+      "teoria_do_clique": "O uso de estilos que rompem com a perfeição artificial e a monotonia visual, juntamente com a quebra de regras de layout, gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com um contraste agressivo entre preto e neon, e uma tipografia gigante que domine a composição",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com uma pessoa em um ambiente urbano noturno, utilizando uma paleta Neon-Noir e incorporando elementos de Design Deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-10T17:41:32.111Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais mais cruas e humanas",
-        "Uso de contraste agressivo e tipografia gigante para parar o scroll"
-      ]
-    },
     {
       "data": "2026-05-10T18:44:06.030Z",
       "licao": [
@@ -99,6 +90,13 @@
         "Adaptação às tendências de 2026",
         "Foco em estilos de imagem mais orgânicos e humanos",
         "Inclusão de contraste e tipografia para aumentar o engajamento"
+      ]
+    },
+    {
+      "data": "2026-05-11T12:33:54.119Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos que rejeitam o 'AI Slop' e priorizam a autenticidade"
       ]
     }
   ]
