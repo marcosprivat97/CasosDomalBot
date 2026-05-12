@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-12T16:12:26.026Z",
+  "ultima_atualizacao": "2026-05-12T18:29:42.489Z",
   "licao_atual": {
     "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop'"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
+      "Introdução de contrastes agressivos e estéticas oníricas para chamar a atenção"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, utilizando a regra dos terços para direcionar o olhar do espectador",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar uma atmosfera onírica",
-      "teoria_do_clique": "A combinação de contrastes agressivos e cores vibrantes gera curiosidade e paralisa o scroll, aumentando as chances de engajamento"
+      "estilo_imagem": "Hyper-Human, com fotos reais, cruas e com imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a destacar a imperfeição humana, utilizando ângulos e focos que criem uma sensação de autenticidade",
+      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrastes agressivos entre preto e neon, ou estéticas oníricas que criem uma atmosfera sonhadora",
+      "teoria_do_clique": "A combinação de estilos visuais que rejeitam o 'AI Slop' com a inclusão de imperfeições humanas e contrastes agressivos irá gerar engajamento, pois as pessoas se sentem mais conectadas a imagens que refletem a realidade humana"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens humanos reais, incorporando elementos de Neon-Noir e Hyper-Bloom, com textos gigantes em primeiro plano que destaquem uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Hyper-Human, com uma pessoa real em um ambiente autêntico, utilizando uma paleta de cores Neon-Noir ou Hyper-Bloom, e uma composição que quebre as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-11T19:25:54.065Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a essência humana",
-        "Inclusão de contrastes agressivos e estéticas oníricas"
-      ]
-    },
     {
       "data": "2026-05-11T21:09:06.407Z",
       "licao": [
@@ -96,6 +89,14 @@
       "licao": [
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop'"
+      ]
+    },
+    {
+      "data": "2026-05-12T18:29:42.489Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
+        "Introdução de contrastes agressivos e estéticas oníricas para chamar a atenção"
       ]
     }
   ]
