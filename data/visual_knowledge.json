@@ -1,20 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-13T17:06:29.991Z",
+  "ultima_atualizacao": "2026-05-13T19:29:13.963Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão do estilo Hyper-Human para fotos mais autênticas",
-      "Adoção da estética Neon-Noir para contrastes agressivos",
-      "Introdução do Design Deconstrutivista para quebra de regras de layout",
-      "Uso de Tipografia Gigante para textos dominantes"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto com uma composição desequilibrada, utilizando a regra dos terços e jogando com a profundidade de campo",
-      "paleta_cores": "Preto profundo com neon vibrante e toques de cores pastéis",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a autenticidade da imagem gera empatia e engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, utilizando ângulos e perspectivas inovadoras",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de elementos visuais impactantes e a quebra de regras de layout deve parar o scroll e gerar curiosidade, levando a um aumento no engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana ao centro, utilizando luzes neon para realçar a textura da pele e do ambiente, com uma tipografia gigante sobrepondo a imagem com uma mensagem provocativa",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon, em um ambiente sombrio e onírico, utilizando uma tipografia gigante e quebrando as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-12T18:29:42.489Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
-        "Introdução de contrastes agressivos e estéticas oníricas para chamar a atenção"
-      ]
-    },
     {
       "data": "2026-05-12T20:24:21.761Z",
       "licao": [
@@ -105,6 +95,13 @@
         "Adoção da estética Neon-Noir para contrastes agressivos",
         "Introdução do Design Deconstrutivista para quebra de regras de layout",
         "Uso de Tipografia Gigante para textos dominantes"
+      ]
+    },
+    {
+      "data": "2026-05-13T19:29:13.963Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
