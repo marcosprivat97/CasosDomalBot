@@ -1,21 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-13T11:24:49.022Z",
+  "ultima_atualizacao": "2026-05-13T14:03:28.268Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética Hyper-Human para rejeitar o 'AI Slop'",
-      "Incorporação de contraste agressivo e estéticas oníricas",
-      "Quebra de regras de layout para parar o scroll",
-      "Uso de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre preto e neon, com elementos humanos reais e imperfeitos",
-      "paleta_cores": "Preto, neon verde, rosa e azul, com tons pastéis para criar um efeito onírico",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de elementos humanos reais cria uma conexão emocional"
+      "estilo_imagem": "Realismo Sujo com toques de Neon para contraste",
+      "foco_composicao": "Enquadramento desequilibrado com sujeito fora do centro, explorando espaços negativos",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis para criar contraste agressivo",
+      "teoria_do_clique": "A combinação de elementos humanos reais com contrastes agressivos e layout deconstrutivista gera curiosidade e pausa no scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana real, iluminada por neon, com um fundo preto e tons pastéis, e adicione textos gigantes em verde neon para criar um efeito de leitura rápida",
+    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano com pessoas reais, incorporando neon e tons pastéis em um ambiente escuro, com texto dominante em fonte sans-serif de tamanho 48px",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-12T13:50:18.941Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e Neon-Noir para aumento do engajamento",
-        "Inclusão de Design Deconstrutivista e Tipografia Gigante para melhor performance"
-      ]
-    },
     {
       "data": "2026-05-12T16:12:26.026Z",
       "licao": [
@@ -105,6 +94,13 @@
         "Incorporação de contraste agressivo e estéticas oníricas",
         "Quebra de regras de layout para parar o scroll",
         "Uso de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-13T14:03:28.268Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
