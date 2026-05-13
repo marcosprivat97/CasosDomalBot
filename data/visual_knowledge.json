@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-13T19:29:13.963Z",
+  "ultima_atualizacao": "2026-05-13T21:15:07.072Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Incorporação de Tipografia Gigante para melhor leitura no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, utilizando ângulos e perspectivas inovadoras",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "A combinação de elementos visuais impactantes e a quebra de regras de layout deve parar o scroll e gerar curiosidade, levando a um aumento no engajamento"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos cruas e imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem com contraste agressivo entre preto e neon, destacando o tema central",
+      "paleta_cores": "Preto, neon e tons pastéis para criar uma estética onírica e atraente",
+      "teoria_do_clique": "A combinação de elementos visuais impactantes e uma estética única irá parar o scroll e gerar curiosidade no usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon, em um ambiente sombrio e onírico, utilizando uma tipografia gigante e quebrando as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Neon-Noir com um tema central em neon e um fundo preto, incorporando elementos cruas e imperfeições humanas, com uma tipografia gigante e um layout deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-12T20:24:21.761Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-05-12T22:02:01.894Z",
       "licao": [
@@ -102,6 +95,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Incorporação de Tipografia Gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-13T21:15:07.072Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
