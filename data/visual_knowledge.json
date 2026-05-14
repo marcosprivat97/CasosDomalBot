@@ -1,33 +1,25 @@
 {
-  "ultima_atualizacao": "2026-05-14T11:42:27.197Z",
+  "ultima_atualizacao": "2026-05-14T13:26:40.736Z",
   "licao_atual": {
-    "versao_logica": "1.0",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026 para melhorar o engajamento",
-      "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
-      "Incorporação de contraste agressivo e estéticas oníricas"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com fotos reais e cruas que destacam imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a destacar o tema principal, utilizando a regra dos terços e deixando espaço em branco para direcionar o olhar do espectador",
-      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contraste agressivo entre preto e neon, ou cores pastéis oníricas para criar uma atmosfera única",
-      "teoria_do_clique": "O uso de imagens autênticas e estilos visuais ousados gera engajamento porque rompe com a monotonia e chama a atenção do espectador, fazendo com que ele pause o scroll e interaja com o conteúdo"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos",
+      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves",
+      "teoria_do_clique": "A combinação de contraste e cores neon atrai atenção, enquanto a estética onírica gera curiosidade e estimula o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com um tema principal destacado em um ambiente Neon-Noir ou Hyper-Bloom, utilizando a regra dos terços e deixando espaço em branco para direcionar o olhar do espectador",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, destacando detalhes humanos em um ambiente sombrio e misterioso",
     "config_layout": {
-      "font_size_mult": 1.2,
+      "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-13T14:03:28.268Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Incorporação de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-05-13T17:06:29.991Z",
       "licao": [
@@ -101,6 +93,13 @@
         "Adaptação às tendências globais de 2026 para melhorar o engajamento",
         "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
         "Incorporação de contraste agressivo e estéticas oníricas"
+      ]
+    },
+    {
+      "data": "2026-05-14T13:26:40.736Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
       ]
     }
   ]
