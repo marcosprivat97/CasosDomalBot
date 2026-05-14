@@ -1,18 +1,21 @@
 {
-  "ultima_atualizacao": "2026-05-14T13:26:40.736Z",
+  "ultima_atualizacao": "2026-05-14T16:04:00.718Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação do estilo Hyper-Human para fotos mais autênticas",
+      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+      "Implementação do Design Deconstrutivista para quebrar regras de layout",
+      "Inclusão de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos",
-      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves",
-      "teoria_do_clique": "A combinação de contraste e cores neon atrai atenção, enquanto a estética onírica gera curiosidade e estimula o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
+      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, com elementos humanos imperfeitos no centro",
+      "paleta_cores": "Preto, neon e tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera engajamento pois chama a atenção do usuário e o faz parar o scroll"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, destacando detalhes humanos em um ambiente sombrio e misterioso",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos Hyper-Human, utilizando contraste agressivo e estética onírica, com texto dominante em Tipografia Gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-13T17:06:29.991Z",
-      "licao": [
-        "Inclusão do estilo Hyper-Human para fotos mais autênticas",
-        "Adoção da estética Neon-Noir para contrastes agressivos",
-        "Introdução do Design Deconstrutivista para quebra de regras de layout",
-        "Uso de Tipografia Gigante para textos dominantes"
-      ]
-    },
     {
       "data": "2026-05-13T19:29:13.963Z",
       "licao": [
@@ -100,6 +94,16 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-05-14T16:04:00.718Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
+        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+        "Implementação do Design Deconstrutivista para quebrar regras de layout",
+        "Inclusão de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
