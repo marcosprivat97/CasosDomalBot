@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-05-14T18:28:04.325Z",
+  "ultima_atualizacao": "2026-05-14T20:22:23.678Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      "Adoção do estilo Hyper-Human para fotos",
+      "Incorporação de contraste agressivo com Neon-Noir",
+      "Uso de Design Deconstrutivista para quebrar regras de layout",
+      "Implementação de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a foto com ângulos inusitados e quebre as regras de layout tradicionais",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas futuristas e oníricas gera curiosidade e engajamento, pois desafia a percepção do usuário e o faz parar o scroll"
+      "estilo_imagem": "Hyper-Human com elementos cruas e imperfeições naturais",
+      "foco_composicao": "Enquadre a foto com atenção ao centro, utilizando regras quebras para criar contraste visual",
+      "paleta_cores": "Neon-Noir com preto profundo e neon vibrante, ou Hyper-Bloom com cores pastéis oníricas",
+      "teoria_do_clique": "O contraste agressivo e a estética única capturam a atenção do usuário, enquanto a tipografia gigante facilita a leitura rápida e aumenta o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente neon com iluminação agressiva, incorporando elementos de natureza e tecnologia, com uma tipografia gigante e deconstrutivista no primeiro plano",
+    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa em um ambiente urbano noturno, utilizando contraste agressivo de Neon-Noir e tipografia gigante para destacar uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-13T21:15:07.072Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-05-13T22:55:33.760Z",
       "licao": [
@@ -103,6 +96,15 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-05-14T20:22:23.678Z",
+      "licao": [
+        "Adoção do estilo Hyper-Human para fotos",
+        "Incorporação de contraste agressivo com Neon-Noir",
+        "Uso de Design Deconstrutivista para quebrar regras de layout",
+        "Implementação de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
