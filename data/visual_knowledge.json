@@ -1,18 +1,21 @@
 {
-  "ultima_atualizacao": "2026-05-13T23:49:11.803Z",
+  "ultima_atualizacao": "2026-05-14T02:01:51.363Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhoria da leitura rápida no mobile"
+      "Foco em fotos reais e cruas com imperfeições humanas",
+      "Uso de contrastes agressivos e estéticas oníricas",
+      "Quebra de regras de layout para parar o scroll",
+      "Implementação de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir para contraste",
-      "foco_composicao": "Enquadre a foto de forma desequilibrada, com elementos fora do centro, para criar uma sensação de movimento e quebra de regras",
-      "paleta_cores": "Preto profundo com neon vibrante para criar contraste agressivo e chamar atenção",
-      "teoria_do_clique": "A combinação de elementos humanos reais com contraste agressivo e layout deconstrutivista gera curiosidade e pausa no scroll, aumentando o engajamento"
+      "estilo_imagem": "Realismo Sujo com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou dinamismo, com elementos principais desalinhados e fora do centro",
+      "paleta_cores": "Preto, neon e cores pastéis para criar contrastes agressivos e atmosferas oníricas",
+      "teoria_do_clique": "O uso de imagens reais e cruas com imperfeições humanas gera engajamento por criar uma conexão emocional mais forte com o público, enquanto a estética onírica e os contrastes agressivos atraem a atenção e incentivam a interação"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa real em um ambiente sombrio com neon, utilizando uma composição desequilibrada e cores vibrantes, com texto gigante sobreposto para transmitir uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Realismo Sujo com toques de Neon-Noir, com uma composição desalinhada e fora do centro, utilizando preto, neon e cores pastéis para criar contrastes agressivos e atmosferas oníricas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-13T01:59:30.910Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para leitura rápida no mobile",
-        "Foco em estética crua e humana para rejeitar o 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-05-13T05:49:47.207Z",
       "licao": [
@@ -99,6 +94,16 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhoria da leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-14T02:01:51.363Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Foco em fotos reais e cruas com imperfeições humanas",
+        "Uso de contrastes agressivos e estéticas oníricas",
+        "Quebra de regras de layout para parar o scroll",
+        "Implementação de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
