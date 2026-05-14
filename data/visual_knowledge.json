@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-14T22:57:58.350Z",
+  "ultima_atualizacao": "2026-05-14T23:54:35.146Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estilos visuais que geram interação",
+      "Inclusão de diretrizes para layout e composição"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de intimidade e vulnerabilidade, com foco em detalhes humanos e imperfeições",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com tons pastéis para criar uma atmosfera onírica",
-      "teoria_do_clique": "A combinação de estética humana e elementos visuais ousados gera curiosidade e engajamento, pois desafia as expectativas do usuário e cria uma conexão emocional"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human para criar uma estética única",
+      "foco_composicao": "Enquadre a imagem com contraste agressivo, destacando o tema principal com iluminação neon e sombras profundas",
+      "paleta_cores": "Preto, neon verde, azul e rosa para criar um ambiente onírico e atraente",
+      "teoria_do_clique": "A combinação de cores neon e sombras profundas cria um contraste visual que chama a atenção, enquanto a inclusão de elementos humanos aumenta a conexão emocional do público"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência humana em um ambiente sombrio, com detalhes neon e uma atmosfera onírica, utilizando uma paleta de cores que inclua preto, neon e tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano no centro, incorporando elementos de Hyper-Human e Design Deconstrutivista, com texto dominante em Tipografia Gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-14T02:01:51.363Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Foco em fotos reais e cruas com imperfeições humanas",
-        "Uso de contrastes agressivos e estéticas oníricas",
-        "Quebra de regras de layout para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-14T06:14:06.525Z",
       "licao": [
@@ -105,6 +95,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-05-14T23:54:35.146Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos visuais que geram interação",
+        "Inclusão de diretrizes para layout e composição"
       ]
     }
   ]
