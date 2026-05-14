@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-14T02:01:51.363Z",
+  "ultima_atualizacao": "2026-05-14T06:14:06.525Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Foco em fotos reais e cruas com imperfeições humanas",
-      "Uso de contrastes agressivos e estéticas oníricas",
-      "Quebra de regras de layout para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Realismo Sujo com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou dinamismo, com elementos principais desalinhados e fora do centro",
-      "paleta_cores": "Preto, neon e cores pastéis para criar contrastes agressivos e atmosferas oníricas",
-      "teoria_do_clique": "O uso de imagens reais e cruas com imperfeições humanas gera engajamento por criar uma conexão emocional mais forte com o público, enquanto a estética onírica e os contrastes agressivos atraem a atenção e incentivam a interação"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom com toques de realismo sujo",
+      "foco_composicao": "Enquadre a foto com uma perspectiva irregular, quebrando as regras de layout tradicionais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma atmosfera onírica",
+      "teoria_do_clique": "O uso de imagens reais e cruas, com imperfeições humanas, gera engajamento por ser mais autêntico e relatable"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Realismo Sujo com toques de Neon-Noir, com uma composição desalinhada e fora do centro, utilizando preto, neon e cores pastéis para criar contrastes agressivos e atmosferas oníricas",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa em primeiro plano, utilizando uma paleta de cores agressivas e uma tipografia gigante para destacar uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-13T05:49:47.207Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human e Neon-Noir",
-        "Inclusão de elementos de Design Deconstrutivista",
-        "Uso de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-05-13T08:32:06.790Z",
       "licao": [
@@ -104,6 +94,14 @@
         "Uso de contrastes agressivos e estéticas oníricas",
         "Quebra de regras de layout para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-14T06:14:06.525Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
