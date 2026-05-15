@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-05-15T22:43:02.125Z",
+  "ultima_atualizacao": "2026-05-15T23:43:44.273Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de elementos de design deconstrutivista para parar o scroll",
-      "Uso de tipografia gigante para leitura rápida no mobile"
+      "Inclusão de estilos de imagem mais cruas e humanas",
+      "Uso de contrates agressivos e estéticas oníricas",
+      "Quebra de regras de layout para parar o scroll",
+      "Implementação de tipografia gigante para leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com fotos reais e cruas",
-      "foco_composicao": "Enquadre a imagem de forma a destacar o tema principal, com elementos imperfeitos e humanos em evidência",
-      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrastes agressivos entre preto e neon, ou estéticas oníricas",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com design deconstrutivista e tipografia gigante, visa criar uma experiência visual impactante que pare o scroll e estimule o engajamento"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a destacar o tema principal, utilizando a regra dos terços e considerando a quebra de regras de layout deconstrutivista",
+      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrastes agressivos entre preto e neon, ou estéticas oníricas pastéis",
+      "teoria_do_clique": "O uso de imagens reais e cruas gera engajamento pois cria uma conexão emocional mais forte com o público, que busca autenticidade e humanidade nas redes sociais"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com uma pessoa ou objeto em foco, utilizando uma paleta de cores Neon-Noir ou Hyper-Bloom, e adicione elementos de design deconstrutivista para criar uma composição única",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com um tema principal destacado em uma composição deconstrutivista, utilizando uma paleta de cores Neon-Noir e tipografia gigante para título e legendas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-15T06:22:23.746Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estética Hyper-Human para aumentar engajamento",
-        "Inclusão de elementos Neon-Noir e Hyper-Bloom para contraste",
-        "Quebra de regras de layout para parar o scroll",
-        "Uso de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-15T09:37:20.192Z",
       "licao": [
@@ -99,6 +90,15 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de elementos de design deconstrutivista para parar o scroll",
         "Uso de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-15T23:43:44.273Z",
+      "licao": [
+        "Inclusão de estilos de imagem mais cruas e humanas",
+        "Uso de contrates agressivos e estéticas oníricas",
+        "Quebra de regras de layout para parar o scroll",
+        "Implementação de tipografia gigante para leitura rápida"
       ]
     }
   ]
