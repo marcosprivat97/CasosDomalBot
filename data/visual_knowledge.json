@@ -1,21 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-15T06:22:23.746Z",
+  "ultima_atualizacao": "2026-05-15T09:37:20.192Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética Hyper-Human para aumentar engajamento",
-      "Inclusão de elementos Neon-Noir e Hyper-Bloom para contraste",
-      "Quebra de regras de layout para parar o scroll",
-      "Uso de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estética Hyper-Human para atrair mais usuários"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos imperfeitos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "A combinação de elementos humanos imperfeitos com contraste agressivo e cores vibrantes gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem para destacar imperfeições humanas e contrastes agressivos",
+      "paleta_cores": "Preto/neon ou tons pastéis com contraste alto",
+      "teoria_do_clique": "O uso de imagens reais e cruas com contraste agressivo gera curiosidade e paralisa o scroll"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência humana imperfeita, com contraste agressivo entre luz e sombra, e inclua elementos neon vibrantes e tons pastéis para criar uma estética onírica",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno com iluminação neon, destacando as imperfeições humanas e com um contraste agressivo entre preto e neon",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-14T11:42:27.197Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026 para melhorar o engajamento",
-        "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
-        "Incorporação de contraste agressivo e estéticas oníricas"
-      ]
-    },
     {
       "data": "2026-05-14T13:26:40.736Z",
       "licao": [
@@ -106,6 +95,13 @@
         "Inclusão de elementos Neon-Noir e Hyper-Bloom para contraste",
         "Quebra de regras de layout para parar o scroll",
         "Uso de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-15T09:37:20.192Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estética Hyper-Human para atrair mais usuários"
       ]
     }
   ]
