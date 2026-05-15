@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-15T19:14:36.684Z",
+  "ultima_atualizacao": "2026-05-15T20:49:21.470Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human e Neon-Noir",
-      "Incorporação do Design Deconstrutivista para melhorar o engajamento",
-      "Uso de Tipografia Gigante para melhor legibilidade no mobile"
+      "Ajustes para incorporar tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Otimização para melhorar o engajamento em uma página com baixo desempenho",
+      "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos humanos cruos e imperfeitos",
-      "foco_composicao": "Enquadre a imagem com um objeto ou pessoa no centro, utilizando contraste agressivo entre preto e neon para chamar a atenção",
-      "paleta_cores": "Preto profundo, neon verde, azul e rosa, com texturas e imperfeições visíveis",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estética neon Noir gera curiosidade e provoca o usuário a parar o scroll e interagir com a publicação"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, destacando imperfeições humanas e contraste agressivo",
+      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, com o sujeito principal fora do centro da imagem",
+      "paleta_cores": "Preto profundo com neon vibrante, criando um contraste agressivo que chame a atenção",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica, combinado com a autenticidade do Hyper-Human, gera curiosidade e atrai o olhar do usuário, aumentando a probabilidade de cliques e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de um ser humano em um ambiente urbano noturno, com iluminação neon verde e rosa, e uma paleta de cores escuras, utilizando texturas e imperfeições para dar um toque de realismo",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, iluminada por luzes neon, contra um fundo preto profundo, com texturas e imperfeições visíveis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-14T22:57:58.350Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-05-14T23:54:35.146Z",
       "licao": [
@@ -100,6 +92,14 @@
         "Adaptação às tendências de Hyper-Human e Neon-Noir",
         "Incorporação do Design Deconstrutivista para melhorar o engajamento",
         "Uso de Tipografia Gigante para melhor legibilidade no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-15T20:49:21.470Z",
+      "licao": [
+        "Ajustes para incorporar tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Otimização para melhorar o engajamento em uma página com baixo desempenho",
+        "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
       ]
     }
   ]
