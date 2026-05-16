@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-16T12:55:35.729Z",
+  "ultima_atualizacao": "2026-05-16T14:18:13.195Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de elementos visuais que geram engajamento"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor legibilidade no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a destacar a imperfeição humana, com um foco principal em uma pessoa ou objeto, mas permita que o olhar se desvie para elementos secundários que criem curiosidade",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um equilíbrio visual",
-      "teoria_do_clique": "A combinação de elementos humanos reais com toques de Neon-Noir e Design Deconstrutivista gera curiosidade e convida o usuário a parar o scroll e interagir com a publicação"
+      "estilo_imagem": "Realismo Sujo com toques de Neon-Noir para contraste agressivo",
+      "foco_composicao": "Enquadre a foto com foco em elementos humanos imperfeitos, utilizando regras de terço para criar tensão visual",
+      "paleta_cores": "Preto profundo com acertos de neon para criar um contraste impactante",
+      "teoria_do_clique": "A combinação de realismo sujo com toques de neon e uma composição desconstrutivista parará o scroll e gerará curiosidade, enquanto a tipografia gigante garantirá a leitura rápida e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que misture elementos humanos reais com neon e sombras escuras, com uma tipografia gigante que domine a cena e uma composição quebra-regras que desafie o olhar do espectador",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo realismo sujo com toques de neon, foco em elementos humanos imperfeitos, utilizando preto profundo e acertos de neon, com uma composição que quebre as regras de layout e inclua tipografia gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-15T21:47:47.653Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhorar o engajamento e alcance da página"
-      ]
-    },
     {
       "data": "2026-05-15T22:43:02.125Z",
       "licao": [
@@ -98,6 +91,13 @@
       "licao": [
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de elementos visuais que geram engajamento"
+      ]
+    },
+    {
+      "data": "2026-05-16T14:18:13.195Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor legibilidade no mobile"
       ]
     }
   ]
