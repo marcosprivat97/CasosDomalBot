@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-16T16:43:42.445Z",
+  "ultima_atualizacao": "2026-05-16T17:44:59.396Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir & Hyper-Bloom",
+      "Integração do Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento em redes sociais"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, valorizando imperfeições e autenticidade",
-      "foco_composicao": "Enquadre a foto com foco em detalhes humanos, como expressões faciais ou mãos, e use a regra dos terços para criar tensão visual",
-      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contraste agressivo e estéticas oníricas atrai a atenção do usuário e gera curiosidade, aumentando as chances de engajamento"
+      "estilo_imagem": "Realismo Sujo com toques de Neon",
+      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre luz e sombra, destacando o assunto principal",
+      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual atraente",
+      "teoria_do_clique": "O uso de imagens reais e imperfeitas, combinado com contraste agressivo e tipografia gigante, visa parar o scroll e gerar curiosidade no usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com um tema humano, com foco em detalhes faciais ou corporais, utilizando uma paleta de cores neon e preto, com um layout deconstrutivista que quebre as regras de composição tradicionais",
+    "prompt_padrao_atualizado": "Crie uma imagem de um assunto humano real, com iluminação dramática e contraste agressivo, utilizando tons de neon e preto, com textos gigantes em primeiro plano",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-16T01:53:10.422Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
-      ]
-    },
     {
       "data": "2026-05-16T05:18:44.282Z",
       "licao": [
@@ -99,6 +91,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-05-16T17:44:59.396Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir & Hyper-Bloom",
+        "Integração do Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento em redes sociais"
       ]
     }
   ]
