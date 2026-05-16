@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-16T19:55:47.429Z",
+  "ultima_atualizacao": "2026-05-16T20:38:11.202Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão de estilos visuais que seguem as tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Adaptação da tipografia para melhorar a leitura rápida no mobile",
-      "Foco em criar contraste e quebra de regras de layout para parar o scroll"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, priorizando fotos reais e cruas com imperfeições humanas",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, ou use estéticas oníricas para gerar curiosidade",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um equilíbrio visual",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo, gera engajamento pois desafia a monotonia visual e estimula a curiosidade do usuário"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, valorizando a estética onírica e contrastes agressivos",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras de layout tradicionais, criando um ponto focal único e atraente",
+      "paleta_cores": "Preto profundo com neon vibrante, com possíveis toques de cores pastéis para adicionar um toque de sonho",
+      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout capturam a atenção imediata do usuário, enquanto a estética onírica e as cores neon estimulam a curiosidade e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma cena urbana noturna com pessoas reais, iluminadas por luzes neon, utilizando um estilo Hyper-Human e Neon-Noir, com uma tipografia gigante destacando uma mensagem crítica ou reflexiva",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos de Neon-Noir com toques de Hyper-Bloom, com uma composição que quebre as regras de layout tradicionais e inclua textos dominantes em Tipografia Gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,12 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-16T09:20:03.664Z",
-      "licao": [
-        "Ajustes para combinar tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista"
-      ]
-    },
     {
       "data": "2026-05-16T10:53:34.356Z",
       "licao": [
@@ -99,6 +92,13 @@
         "Inclusão de estilos visuais que seguem as tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Adaptação da tipografia para melhorar a leitura rápida no mobile",
         "Foco em criar contraste e quebra de regras de layout para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-05-16T20:38:11.202Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
