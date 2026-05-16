@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-05-16T01:53:10.422Z",
+  "ultima_atualizacao": "2026-05-16T05:18:44.282Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      "Adoção de estética Hyper-Human para fotos mais autênticas",
+      "Incorporação de contraste agressivo com Neon-Noir e Hyper-Bloom",
+      "Uso de Design Deconstrutivista para quebrar regras de layout",
+      "Implementação de Tipografia Gigante para melhor legibilidade"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, buscando criar uma atmosfera única e atraente",
-      "foco_composicao": "Enquadramento quebrado, desafiando as regras tradicionais de layout para parar o scroll do usuário",
-      "paleta_cores": "Preto profundo com neon vibrante, criando contraste agressivo e chamativo",
-      "teoria_do_clique": "O uso de imagens reais e cruas, com imperfeições humanas, gera mais engajamento devido à conexão emocional e à autenticidade percebida"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma descentrada, com elementos fora de foco para criar uma sensação de movimento e imperfeição",
+      "paleta_cores": "Preto profundo com neon vibrante, criando contraste agressivo",
+      "teoria_do_clique": "A combinação de autenticidade humana com contraste visual chama a atenção e gera curiosidade, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, utilizando uma paleta de cores vibrantes e contrastantes, com foco em composições quebradas e autênticas",
+    "prompt_padrao_atualizado": "Crie uma imagem Hyper-Human com uma pessoa em movimento, com iluminação neon e fundo preto, destacando detalhes imperfeitos e autênticos",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-15T11:45:52.878Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
-        "Incorporação de contraste agressivo e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-05-15T13:25:44.066Z",
       "licao": [
@@ -99,6 +92,15 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      ]
+    },
+    {
+      "data": "2026-05-16T05:18:44.282Z",
+      "licao": [
+        "Adoção de estética Hyper-Human para fotos mais autênticas",
+        "Incorporação de contraste agressivo com Neon-Noir e Hyper-Bloom",
+        "Uso de Design Deconstrutivista para quebrar regras de layout",
+        "Implementação de Tipografia Gigante para melhor legibilidade"
       ]
     }
   ]
