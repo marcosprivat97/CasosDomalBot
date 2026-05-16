@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-05-16T17:44:59.396Z",
+  "ultima_atualizacao": "2026-05-16T18:46:40.003Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.4",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human e Neon-Noir & Hyper-Bloom",
-      "Integração do Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhorar o engajamento em redes sociais"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Incorporação de contraste agressivo e estética onírica",
+      "Uso de design deconstrutivista para parar o scroll",
+      "Implementação de tipografia gigante para leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Realismo Sujo com toques de Neon",
-      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre luz e sombra, destacando o assunto principal",
-      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual atraente",
-      "teoria_do_clique": "O uso de imagens reais e imperfeitas, combinado com contraste agressivo e tipografia gigante, visa parar o scroll e gerar curiosidade no usuário"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a cena de forma a criar um contraste agressivo entre luz e sombra, com elementos humanos imperfeitos no centro",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de imperfeições humanas gera empatia e interesse"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de um assunto humano real, com iluminação dramática e contraste agressivo, utilizando tons de neon e preto, com textos gigantes em primeiro plano",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana no centro, iluminada por neon, com tons de preto e cores pastéis ao fundo, e um layout quebrado que desafia as regras tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-16T05:18:44.282Z",
-      "licao": [
-        "Adoção de estética Hyper-Human para fotos mais autênticas",
-        "Incorporação de contraste agressivo com Neon-Noir e Hyper-Bloom",
-        "Uso de Design Deconstrutivista para quebrar regras de layout",
-        "Implementação de Tipografia Gigante para melhor legibilidade"
-      ]
-    },
     {
       "data": "2026-05-16T07:47:12.418Z",
       "licao": [
@@ -99,6 +92,16 @@
         "Adaptação às tendências de Hyper-Human e Neon-Noir & Hyper-Bloom",
         "Integração do Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhorar o engajamento em redes sociais"
+      ]
+    },
+    {
+      "data": "2026-05-16T18:46:40.003Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Incorporação de contraste agressivo e estética onírica",
+        "Uso de design deconstrutivista para parar o scroll",
+        "Implementação de tipografia gigante para leitura rápida"
       ]
     }
   ]
