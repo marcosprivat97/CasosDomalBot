@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-16T21:38:34.606Z",
+  "ultima_atualizacao": "2026-05-16T22:35:22.725Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Foco em aumento do engajamento com base na performance atual da página"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante",
+      "Foco em melhorar o engajamento e alcance da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e contrastes agressivos",
-      "foco_composicao": "Enquadre a foto de forma a quebrar as regras tradicionais de layout, utilizando elementos diagonais e simetrias irregulares",
-      "paleta_cores": "Preto profundo com neon em cores vibrantes, promovendo contraste e atração visual",
-      "teoria_do_clique": "O uso de contrastes agressivos e a quebra de regras de layout paralisam o scroll, enquanto a estética Hyper-Human gera empatia e conexão emocional com o público"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, destacando imperfeições e contrastes agressivos",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, criando um design deconstrutivista que chame a atenção",
+      "paleta_cores": "Preto profundo como base, com neon vibrantes e saturados para criar contraste",
+      "teoria_do_clique": "A combinação de contrastes agressivos e estética onírica irá parar o scroll e estimular a curiosidade do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos humanos reais, incorporando imperfeições e contrastes agressivos, com uma paleta de cores que inclui preto profundo e neon vibrante",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine Neon-Noir com Hyper-Human, com uma composição deconstrutivista e tipografia gigante, destacando a beleza das imperfeições e contrastes agressivos",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-16T11:42:03.659Z",
-      "licao": [
-        "Adoção de estilos mais humanos e cruas",
-        "Incorporação de contrastes agressivos e estéticas oníricas",
-        "Quebra de regras de layout para parar o scroll",
-        "Uso de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-16T12:55:35.729Z",
       "licao": [
@@ -98,6 +90,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Foco em aumento do engajamento com base na performance atual da página"
+      ]
+    },
+    {
+      "data": "2026-05-16T22:35:22.725Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante",
+        "Foco em melhorar o engajamento e alcance da página"
       ]
     }
   ]
