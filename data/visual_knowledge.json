@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-18T06:43:19.882Z",
+  "ultima_atualizacao": "2026-05-18T10:55:48.967Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhorar o engajamento médio e alcance total da página"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
+      "Incorporação de contrastes agressivos e estéticas oníricas"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
-      "foco_composicao": "Enquadre sujeitos em ângulos inusitados, destacando contrastes agressivos e texturas",
-      "paleta_cores": "Preto profundo com neon vibrantes e tons pastéis suaves para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas captura a atenção do usuário, enquanto a presença de imperfeições humanas gera empatia e conexão"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, com elementos principais fora do centro",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com elementos de Hyper-Bloom para criar uma atmosfera onírica",
+      "teoria_do_clique": "A combinação de estilos humanos com contrastes agressivos e elementos de surpresa gera curiosidade e estimula o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um sujeito humano em primeiro plano, destacando imperfeições e texturas, com uma paleta de cores que inclua preto profundo, neon vibrantes e tons pastéis suaves, e uma composição que desafie as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Hyper-Human, com uma figura humana em movimento, iluminada por neon e contrastada com um fundo escuro, incorporando elementos de Design Deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-17T16:43:28.831Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e Neon-Noir",
-        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-05-17T17:46:48.712Z",
       "licao": [
@@ -98,6 +91,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhorar o engajamento médio e alcance total da página"
+      ]
+    },
+    {
+      "data": "2026-05-18T10:55:48.967Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
+        "Incorporação de contrastes agressivos e estéticas oníricas"
       ]
     }
   ]
