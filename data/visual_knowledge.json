@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-18T21:01:08.396Z",
+  "ultima_atualizacao": "2026-05-18T22:46:02.504Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026 para melhorar o engajamento",
-      "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
-      "Incorporação de contraste agressivo e estéticas oníricas para parar o scroll",
-      "Uso de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop'",
+      "Uso de contrastes agressivos e estéticas oníricas"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou tensão, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com tons pastéis e brilhantes",
-      "teoria_do_clique": "O uso de imagens reais e cruas, com imperfeições humanas, gera engajamento por ser mais autêntico e relatable, enquanto os contrastes agressivos e a tipografia gigante capturam a atenção do usuário"
+      "foco_composicao": "Enquadre a imagem de forma a destacar os detalhes humanos, com foco em texturas e imperfeições naturais",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis oníricos para criar contraste",
+      "teoria_do_clique": "O uso de estilos que rejeitam a perfeição 'AI' e incorporam imperfeições humanas gera mais empatia e conexão com o público"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Hyper-Human, com uma pessoa em movimento ou em uma cena intensa, utilizando contraste agressivo entre preto e neon, e incorporando textos dominantes em fonte gigante",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Hyper-Humanismo, com contrastes agressivos e detalhes que destacam a humanidade, utilizando uma paleta de cores que inclua neon vibrante ou tons pastéis oníricos",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-17T21:43:44.597Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-05-17T22:42:04.763Z",
       "licao": [
@@ -101,6 +92,14 @@
         "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
         "Incorporação de contraste agressivo e estéticas oníricas para parar o scroll",
         "Uso de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-18T22:46:02.504Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop'",
+        "Uso de contrastes agressivos e estéticas oníricas"
       ]
     }
   ]
