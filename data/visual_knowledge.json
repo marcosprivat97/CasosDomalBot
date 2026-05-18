@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-18T02:07:05.355Z",
+  "ultima_atualizacao": "2026-05-18T06:43:19.882Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Implementação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento médio e alcance total da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom com texturas orgânicas",
-      "foco_composicao": "Enquadre a imagem de forma assimétrica, com foco em elementos humanos e imperfeições",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis",
-      "teoria_do_clique": "O engajamento é gerado pela combinação de estética onírica e elementos humanos reais, criando uma conexão emocional com o público"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre sujeitos em ângulos inusitados, destacando contrastes agressivos e texturas",
+      "paleta_cores": "Preto profundo com neon vibrantes e tons pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas captura a atenção do usuário, enquanto a presença de imperfeições humanas gera empatia e conexão"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano, com uma pessoa real em primeiro plano, utilizando iluminação neon e texturas orgânicas, com um fundo preto ou escuro e elementos de Design Deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um sujeito humano em primeiro plano, destacando imperfeições e texturas, com uma paleta de cores que inclua preto profundo, neon vibrantes e tons pastéis suaves, e uma composição que desafie as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-17T15:49:22.030Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-05-17T16:43:28.831Z",
       "licao": [
@@ -100,6 +91,13 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Implementação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-05-18T06:43:19.882Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento médio e alcance total da página"
       ]
     }
   ]
