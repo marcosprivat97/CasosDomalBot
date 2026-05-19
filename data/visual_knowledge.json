@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-05-19T02:07:17.155Z",
+  "ultima_atualizacao": "2026-05-19T06:38:25.896Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos de imagem e composição mais atraentes para o público-alvo",
-      "Otimização da paleta de cores para maior contraste e visibilidade"
+      "Adaptação das tendências globais de 2026 para melhorar o desempenho da página",
+      "Inclusão de estilos de imagem que rejeitam o 'AI Slop' e valorizam a estética humana",
+      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+      "Aplicação de design deconstrutivista para parar o scroll",
+      "Incorporação de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, misturando contraste agressivo com elementos oníricos",
-      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras de layout tradicionais, utilizando elementos diagonais ou assimétricos para parar o scroll",
-      "paleta_cores": "Preto profundo como base, com acordes de neon verde, rosa e azul para criar um contraste agressivo e atraente",
-      "teoria_do_clique": "O uso de contraste agressivo e estilos oníricos gera curiosidade e atrai a atenção do usuário, levando a um maior engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste e tensão visual, com elementos humanos em primeiro plano",
+      "paleta_cores": "Preto, neon e tons pastéis para criar um ambiente onírico e atraente",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos e estéticas oníricas, gera curiosidade e engajamento, pois o cérebro humano está programado para responder a estímulos visuais que combinam surpresa e familiaridade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem neon-noir com um tema de fundo escuro, elementos brilhantes em verde, rosa e azul, e uma composição que quebre as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon e tons pastéis, usando uma abordagem cinematográfica e realista, com foco em detalhes humanos e texturas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-18T02:07:05.356Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Implementação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-05-18T06:43:19.882Z",
       "licao": [
@@ -100,6 +94,16 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos de imagem e composição mais atraentes para o público-alvo",
         "Otimização da paleta de cores para maior contraste e visibilidade"
+      ]
+    },
+    {
+      "data": "2026-05-19T06:38:25.896Z",
+      "licao": [
+        "Adaptação das tendências globais de 2026 para melhorar o desempenho da página",
+        "Inclusão de estilos de imagem que rejeitam o 'AI Slop' e valorizam a estética humana",
+        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+        "Aplicação de design deconstrutivista para parar o scroll",
+        "Incorporação de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
