@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-20T16:43:20.183Z",
+  "ultima_atualizacao": "2026-05-20T19:12:08.367Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Ajustes para seguir tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em criar imagens que gerem engajamento com base na teoria do clique"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir para contraste agressivo",
-      "foco_composicao": "Enquadramento descentrado com elementos humanos em foco, utilizando regras de terços para criar tensão visual",
-      "paleta_cores": "Preto profundo e neon vibrante para contraste, com toques de cores pastéis para suavizar",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout param o scroll, enquanto a tipografia gigante e o foco em elementos humanos facilitam a conexão emocional e geram engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom e elementos humanos imperfeitos",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras de layout tradicionais, criando um contraste agressivo entre luz e sombra",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas, combinado com contrastes agressivos e estéticas oníricas, pode gerar curiosidade e engajamento, pois desafia a percepção do usuário e o convida a parar o scroll"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa em um ambiente urbano noturno, com luzes neon refletidas em superfícies molhadas, utilizando uma paleta de cores que inclua preto, neon verde e rosa pastel. A imagem deve ter um texto gigante sobreposta, com fonte sans-serif e tamanho mínimo de 48 pontos.",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente noturno, com iluminação neon vibrante e sombras profundas, utilizando uma tipografia gigante para destacar uma mensagem ou palavra-chave",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-19T16:43:43.424Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e Design Deconstrutivista"
-      ]
-    },
     {
       "data": "2026-05-19T18:51:32.320Z",
       "licao": [
@@ -98,6 +92,14 @@
       "licao": [
         "Ajustes para seguir tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-05-20T19:12:08.367Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em criar imagens que gerem engajamento com base na teoria do clique"
       ]
     }
   ]
