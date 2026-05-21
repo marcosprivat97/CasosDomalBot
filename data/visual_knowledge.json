@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-05-21T06:41:18.126Z",
+  "ultima_atualizacao": "2026-05-21T10:29:17.090Z",
   "licao_atual": {
-    "versao_logica": "1.4",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Incorporação de Tipografia Gigante para melhor leitura no mobile",
-      "Foco em composições que quebram regras de layout para parar o scroll"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação do estilo Hyper-Human para fotos mais autênticas",
+      "Uso de contrates agressivos e estéticas oníricas para chamar a atenção",
+      "Aplicação do Design Deconstrutivista para quebrar regras de layout e parar o scroll",
+      "Implementação da Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Realismo Sujo com toques de Neon para um contraste agressivo",
-      "foco_composicao": "Enquadre a cena de forma desequilibrada, com elementos fora do centro e uso de linhas diagonais",
-      "paleta_cores": "Preto profundo e neon vibrante para criar um ambiente onírico e atraente",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout vão chamar a atenção do usuário e estimular o engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto de forma a criar contrates agressivos entre preto e neon, com elementos oníricos e imperfeições humanas",
+      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual atraente",
+      "teoria_do_clique": "O uso de contrates agressivos e estéticas oníricas chama a atenção do usuário e gera curiosidade, enquanto a autenticidade das fotos humanas cria uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma cena urbana noturna com iluminação neon, pessoas reais em movimento e elementos de design deconstrutivista, com textos gigantes destacando mensagens impactantes",
+    "prompt_padrao_atualizado": "Crie uma imagem com um tema urbano noturno, com contrates agressivos entre preto e neon, e elementos oníricos que quebrem as regras de layout, incorporando textos gigantes em tons pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-20T02:05:38.730Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais usuários",
-        "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
-      ]
-    },
     {
       "data": "2026-05-20T06:38:18.340Z",
       "licao": [
@@ -100,6 +94,16 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Incorporação de Tipografia Gigante para melhor leitura no mobile",
         "Foco em composições que quebram regras de layout para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-05-21T10:29:17.090Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
+        "Uso de contrates agressivos e estéticas oníricas para chamar a atenção",
+        "Aplicação do Design Deconstrutivista para quebrar regras de layout e parar o scroll",
+        "Implementação da Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
