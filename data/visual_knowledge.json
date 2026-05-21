@@ -1,21 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-21T10:29:17.090Z",
+  "ultima_atualizacao": "2026-05-21T13:53:31.490Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-      "Uso de contrates agressivos e estéticas oníricas para chamar a atenção",
-      "Aplicação do Design Deconstrutivista para quebrar regras de layout e parar o scroll",
-      "Implementação da Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026: Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para performance da página com alcance zero e engajamento médio zero"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a criar contrates agressivos entre preto e neon, com elementos oníricos e imperfeições humanas",
-      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual atraente",
-      "teoria_do_clique": "O uso de contrates agressivos e estéticas oníricas chama a atenção do usuário e gera curiosidade, enquanto a autenticidade das fotos humanas cria uma conexão emocional"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais, cruas e com imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, ou estética onírica, utilizando a técnica de quebra de regras de layout para parar o scroll",
+      "paleta_cores": "Neon-Noir & Hyper-Bloom, com cores vibrantes e agressivas para chamar a atenção",
+      "teoria_do_clique": "O uso de fotos reais e cruas gera engajamento por causa da conexão emocional com o público, enquanto a estética onírica e o contraste agressivo estimulam a curiosidade e a interação"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com um tema urbano noturno, com contrates agressivos entre preto e neon, e elementos oníricos que quebrem as regras de layout, incorporando textos gigantes em tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com estética onírica e contraste agressivo, utilizando cores neon e preto, e inclua texto gigante para leitura rápida no mobile",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-20T06:38:18.340Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-05-20T10:16:39.182Z",
       "licao": [
@@ -104,6 +94,13 @@
         "Uso de contrates agressivos e estéticas oníricas para chamar a atenção",
         "Aplicação do Design Deconstrutivista para quebrar regras de layout e parar o scroll",
         "Implementação da Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-21T13:53:31.490Z",
+      "licao": [
+        "Adaptação às tendências de 2026: Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para performance da página com alcance zero e engajamento médio zero"
       ]
     }
   ]
