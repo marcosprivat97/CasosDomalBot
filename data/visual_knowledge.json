@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-05-21T20:29:29.936Z",
+  "ultima_atualizacao": "2026-05-21T22:09:46.384Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em Hyper-Human e Neon-Noir para melhorar o engajamento",
-      "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Foco em imagens reais e cruas com imperfeições humanas",
+      "Inclusão de contrates agressivos e estéticas oníricas",
+      "Quebra de regras de layout para parar o scroll",
+      "Uso de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem com contraste agressivo entre preto e neon, destacando o tema principal",
-      "paleta_cores": "Preto, neon e cores pastéis para criar um efeito onírico",
-      "teoria_do_clique": "O contraste agressivo e as cores neon chamam a atenção do usuário, enquanto o tema principal é destacado de forma clara e objetiva, gerando curiosidade e engajamento"
+      "estilo_imagem": "Realismo Cru com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma desequilibrada, com elementos fora do centro, para criar tensão e interesse",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar contraste agressivo",
+      "teoria_do_clique": "O uso de imagens reais e cruas com imperfeições humanas gera empatia e conexão com o espectador, enquanto os contrastes agressivos e a tipografia gigante capturam a atenção e incentivam a interação"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um tema principal destacado em neon, sobre um fundo preto com texturas e elementos que remetam a um ambiente onírico, com uma tipografia gigante e deconstrutivista para chamar a atenção do usuário",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais e imperfeições, usando neon vibrante e tons pastéis, com uma composição desequilibrada e uma tipografia gigante que domine a imagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-20T19:12:08.367Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-        "Foco em criar imagens que gerem engajamento com base na teoria do clique"
-      ]
-    },
     {
       "data": "2026-05-20T21:29:29.518Z",
       "licao": [
@@ -100,6 +94,16 @@
         "Adaptação às tendências de 2026",
         "Foco em Hyper-Human e Neon-Noir para melhorar o engajamento",
         "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-05-21T22:09:46.384Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Foco em imagens reais e cruas com imperfeições humanas",
+        "Inclusão de contrates agressivos e estéticas oníricas",
+        "Quebra de regras de layout para parar o scroll",
+        "Uso de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
