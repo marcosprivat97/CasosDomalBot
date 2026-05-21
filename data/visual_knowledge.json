@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-21T18:51:29.819Z",
+  "ultima_atualizacao": "2026-05-21T20:29:29.936Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026",
-      "Foco em Hyper-Human e Neon-Noir para melhorar engajamento",
+      "Foco em Hyper-Human e Neon-Noir para melhorar o engajamento",
       "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom com toques de realismo sujo",
-      "foco_composicao": "Enquadre a imagem de forma irregular, quebrando regras de layout tradicionais",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com cores pastéis para equilíbrio",
-      "teoria_do_clique": "A combinação de cores vibrantes e composição irregular gera curiosidade e paralisa o scroll, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom",
+      "foco_composicao": "Enquadre a imagem com contraste agressivo entre preto e neon, destacando o tema principal",
+      "paleta_cores": "Preto, neon e cores pastéis para criar um efeito onírico",
+      "teoria_do_clique": "O contraste agressivo e as cores neon chamam a atenção do usuário, enquanto o tema principal é destacado de forma clara e objetiva, gerando curiosidade e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um objeto ou pessoa em primeiro plano, utilizando cores neon e preto, com uma composição irregular e texto gigante em destaque",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um tema principal destacado em neon, sobre um fundo preto com texturas e elementos que remetam a um ambiente onírico, com uma tipografia gigante e deconstrutivista para chamar a atenção do usuário",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-20T16:43:20.183Z",
-      "licao": [
-        "Ajustes para seguir tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-05-20T19:12:08.367Z",
       "licao": [
@@ -98,6 +91,14 @@
       "licao": [
         "Adaptação às tendências de 2026",
         "Foco em Hyper-Human e Neon-Noir para melhorar engajamento",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-05-21T20:29:29.936Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e Neon-Noir para melhorar o engajamento",
         "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
