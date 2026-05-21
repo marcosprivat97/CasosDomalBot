@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-21T16:33:41.294Z",
+  "ultima_atualizacao": "2026-05-21T18:51:29.819Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
-      "Uso de contraste e tipografia para parar o scroll"
+      "Adaptação às tendências de 2026",
+      "Foco em Hyper-Human e Neon-Noir para melhorar engajamento",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar um equilíbrio entre o sujeito e o ambiente, com atenção às linhas diagonais e à profundidade de campo",
-      "paleta_cores": "Preto profundo com neon verde ou rosa, para um contraste agressivo e atraente",
-      "teoria_do_clique": "A combinação de elementos humanos reais com um toque de surrealismo neon atrai a atenção do usuário e gera curiosidade, aumentando as chances de engajamento"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom com toques de realismo sujo",
+      "foco_composicao": "Enquadre a imagem de forma irregular, quebrando regras de layout tradicionais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com cores pastéis para equilíbrio",
+      "teoria_do_clique": "A combinação de cores vibrantes e composição irregular gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um toque de Neon-Noir, focando em um sujeito real com expressão autêntica, sobre um fundo preto profundo com neon verde ou rosa, e utilize tipografia gigante para destacar uma mensagem breve e impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um objeto ou pessoa em primeiro plano, utilizando cores neon e preto, com uma composição irregular e texto gigante em destaque",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-20T13:28:48.911Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Foco em estilos de imagem que rejeitam o 'AI Slop' e destacam a essência humana",
-        "Incorporação de contrastes agressivos e estéticas oníricas para chamar a atenção",
-        "Quebra de regras de layout para parar o scroll dos usuários"
-      ]
-    },
     {
       "data": "2026-05-20T16:43:20.183Z",
       "licao": [
@@ -100,6 +91,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
         "Uso de contraste e tipografia para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-05-21T18:51:29.819Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e Neon-Noir para melhorar engajamento",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
   ]
