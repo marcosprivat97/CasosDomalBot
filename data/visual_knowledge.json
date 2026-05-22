@@ -1,32 +1,26 @@
 {
-  "ultima_atualizacao": "2026-05-22T13:22:09.313Z",
+  "ultima_atualizacao": "2026-05-22T16:13:27.365Z",
   "licao_atual": {
-    "versao_logica": "2.0",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026, incluindo Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Foco em melhorar a performance da página com alcance total de 0 usuários únicos e engajamento médio de 0 por post"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas",
-      "foco_composicao": "Enquadramento irregular, quebrando regras de layout tradicionais para parar o scroll",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "A combinação de elementos humanos com estética futurista e contrastes agressivos gera curiosidade e incentiva o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos imperfeitos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves",
+      "teoria_do_clique": "A combinação de contraste agressivo e estética onírica atrai a atenção do usuário e gera curiosidade, enquanto a presença de imperfeições humanas cria uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa real em um ambiente urbano noturno, com luzes neon refletindo em superfícies irregulares, e um texto gigante sobrepondo a cena, destacando uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, iluminada por uma fonte de luz neon, com um fundo escuro e detalhes em tons pastéis",
     "config_layout": {
-      "font_size_mult": 2.5,
+      "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-21T13:53:31.490Z",
-      "licao": [
-        "Adaptação às tendências de 2026: Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para performance da página com alcance zero e engajamento médio zero"
-      ]
-    },
     {
       "data": "2026-05-21T16:33:41.294Z",
       "licao": [
@@ -101,6 +95,14 @@
       "licao": [
         "Adaptação às tendências de 2026, incluindo Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Foco em melhorar a performance da página com alcance total de 0 usuários únicos e engajamento médio de 0 por post"
+      ]
+    },
+    {
+      "data": "2026-05-22T16:13:27.365Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
