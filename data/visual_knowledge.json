@@ -1,37 +1,25 @@
 {
-  "ultima_atualizacao": "2026-05-22T10:14:30.429Z",
+  "ultima_atualizacao": "2026-05-22T13:22:09.313Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "2.0",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estilo de imagem mais cru e imperfeito",
-      "Inclusão de contraste agressivo e estética onírica",
-      "Uso de design deconstrutivista e tipografia gigante"
+      "Adaptação às tendências de 2026, incluindo Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Foco em melhorar a performance da página com alcance total de 0 usuários únicos e engajamento médio de 0 por post"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto com ângulos e perspectivas inusitadas, destacando imperfeições humanas",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O uso de imagens crues e imperfeitas gera engajamento pois cria uma conexão emocional mais profunda com o espectador, além de parar o scroll devido ao design deconstrutivista"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas",
+      "foco_composicao": "Enquadramento irregular, quebrando regras de layout tradicionais para parar o scroll",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de elementos humanos com estética futurista e contrastes agressivos gera curiosidade e incentiva o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon e sombras profundas, destacando a textura e as imperfeições da pele e do ambiente",
+    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa real em um ambiente urbano noturno, com luzes neon refletindo em superfícies irregulares, e um texto gigante sobrepondo a cena, destacando uma mensagem impactante",
     "config_layout": {
-      "font_size_mult": 1.5,
+      "font_size_mult": 2.5,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-21T10:29:17.090Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-        "Uso de contrates agressivos e estéticas oníricas para chamar a atenção",
-        "Aplicação do Design Deconstrutivista para quebrar regras de layout e parar o scroll",
-        "Implementação da Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-21T13:53:31.490Z",
       "licao": [
@@ -106,6 +94,13 @@
         "Foco em estilo de imagem mais cru e imperfeito",
         "Inclusão de contraste agressivo e estética onírica",
         "Uso de design deconstrutivista e tipografia gigante"
+      ]
+    },
+    {
+      "data": "2026-05-22T13:22:09.313Z",
+      "licao": [
+        "Adaptação às tendências de 2026, incluindo Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Foco em melhorar a performance da página com alcance total de 0 usuários únicos e engajamento médio de 0 por post"
       ]
     }
   ]
