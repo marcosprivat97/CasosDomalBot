@@ -1,17 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-23T10:20:33.116Z",
+  "ultima_atualizacao": "2026-05-23T11:53:21.374Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento na página do Facebook"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom'",
+      "Incorporação de 'Design Deconstrutivista' e 'Tipografia Gigante'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos reais e imperfeitos",
-      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste onírico",
-      "teoria_do_clique": "O uso de contraste agressivo e elementos humanos reais gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, enfatizando contrastes agressivos e cores vibrantes",
+      "foco_composicao": "Enquadre a foto de forma a criar um layout desequilibrado, quebrando as regras tradicionais de simetria e equilíbrio",
+      "paleta_cores": "Preto, neon e cores pastéis em tons vibrantes, com um foco em contraste agressivo",
+      "teoria_do_clique": "O uso de contrastes agressivos e cores vibrantes atrai a atenção do usuário, enquanto a quebra de regras de layout cria curiosidade e estimula o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com um primeiro plano de uma pessoa real, com expressão autêntica, sobre um fundo preto com neon sutil, incorporando elementos de Design Deconstrutivista e Tipografia Gigante",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos de Neon-Noir com toques de Hyper-Bloom, utilizando uma paleta de cores vibrantes e contrastes agressivos. A composição deve ser desequilibrada e quebrar as regras tradicionais de layout.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -19,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-22T16:13:27.365Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-05-22T18:27:21.707Z",
       "licao": [
@@ -95,6 +89,14 @@
       "data": "2026-05-23T10:20:33.116Z",
       "licao": [
         "Adaptação às tendências de 2026 para melhorar o engajamento na página do Facebook"
+      ]
+    },
+    {
+      "data": "2026-05-23T11:53:21.374Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom'",
+        "Incorporação de 'Design Deconstrutivista' e 'Tipografia Gigante'"
       ]
     }
   ]
