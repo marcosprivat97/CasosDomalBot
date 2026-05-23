@@ -1,20 +1,20 @@
 {
-  "ultima_atualizacao": "2026-05-23T17:53:17.777Z",
+  "ultima_atualizacao": "2026-05-23T18:52:54.500Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adoção do estilo Hyper-Human para fotos mais autênticas",
-      "Incorporação da estética Neon-Noir e Hyper-Bloom para contraste agressivo",
-      "Aplicação do Design Deconstrutivista para quebrar regras de layout",
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética Hyper-Human para melhorar engajamento",
+      "Incorporação de Design Deconstrutivista para parar o scroll",
       "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas",
-      "foco_composicao": "Enquadre a foto de forma a destacar o sujeito principal, com atenção ao uso de luz e sombra para criar contraste",
-      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com ênfase em cores vibrantes e contrastantes",
-      "teoria_do_clique": "O uso de imagens autênticas e contraste agressivo gera engajamento por criar uma conexão emocional imediata com o espectador"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto com elementos humanos reais e imperfeições, quebrando regras de layout tradicionais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estética Neon-Noir e Hyper-Bloom gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com um sujeito principal destacado em uma paleta de cores Neon-Noir, utilizando luz e sombra para criar contraste agressivo",
+    "prompt_padrao_atualizado": "Crie uma imagem com um elemento humano real no centro, cercado por neon e contraste agressivo, com texto gigante sobreposta em uma fonte destrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-23T02:14:59.728Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e estéticas visuais impactantes",
-        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-05-23T05:57:30.995Z",
       "licao": [
@@ -100,6 +92,15 @@
         "Adoção do estilo Hyper-Human para fotos mais autênticas",
         "Incorporação da estética Neon-Noir e Hyper-Bloom para contraste agressivo",
         "Aplicação do Design Deconstrutivista para quebrar regras de layout",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-23T18:52:54.500Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética Hyper-Human para melhorar engajamento",
+        "Incorporação de Design Deconstrutivista para parar o scroll",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
