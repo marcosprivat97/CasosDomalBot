@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-05-24T12:56:49.276Z",
+  "ultima_atualizacao": "2026-05-24T14:21:36.980Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação das tendências globais de 2026 para melhorar a performance da página",
-      "Inclusão de elementos visuais que geram engajamento",
-      "Ajustes no layout para parar o scroll"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilo de imagem realista e cru para atrair a atenção do usuário",
+      "Uso de contraste agressivo e estética onírica para parar o scroll",
+      "Implementação de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos imperfeitos",
-      "paleta_cores": "Preto, neon e tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica geram curiosidade e paralisam o scroll, enquanto os elementos humanos imperfeitos criam uma conexão emocional com o usuário"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas com imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a destacar o tema principal, utilizando a regra dos terços e deixando espaço em branco para direcionar a atenção do usuário",
+      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contraste agressivo entre preto e neon ou estética onírica para chamar a atenção",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e estética onírica, gera engajamento pois atrai a atenção do usuário e o faz parar o scroll para entender melhor a imagem"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano imperfeito no centro, utilizando uma paleta de cores que inclua preto, neon e tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem com um tema humano, utilizando um estilo Hyper-Human, com contraste agressivo e cores neon ou estética onírica, e inclua textos dominantes para leitura rápida no mobile",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-23T18:52:54.500Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estética Hyper-Human para melhorar engajamento",
-        "Incorporação de Design Deconstrutivista para parar o scroll",
-        "Uso de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-23T20:00:21.232Z",
       "licao": [
@@ -102,6 +94,15 @@
         "Adaptação das tendências globais de 2026 para melhorar a performance da página",
         "Inclusão de elementos visuais que geram engajamento",
         "Ajustes no layout para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-05-24T14:21:36.980Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilo de imagem realista e cru para atrair a atenção do usuário",
+        "Uso de contraste agressivo e estética onírica para parar o scroll",
+        "Implementação de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
