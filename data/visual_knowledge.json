@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-25T16:57:46.558Z",
+  "ultima_atualizacao": "2026-05-25T18:23:22.842Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão de tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Ajustes para melhorar o engajamento com base na performance atual da página"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante",
+      "Foco em melhorar o engajamento com base na performance atual"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Realismo Sujo",
-      "foco_composicao": "Enquadre a cena de forma irregular, quebrando regras de layout tradicionais, e destaque os elementos humanos com imperfeições naturais",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "A combinação de elementos humanos reais com um toque de surrealismo atrai a atenção do usuário e gera curiosidade, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, buscando contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar regras de layout tradicionais, utilizando elementos que interrompam o scroll",
+      "paleta_cores": "Preto profundo e neon vibrante, com áreas de alta saturação para destacar elementos importantes",
+      "teoria_do_clique": "A combinação de Hyper-Human com Neon-Noir e Design Deconstrutivista gera curiosidade e paralisa o scroll, enquanto a Tipografia Gigante facilita a leitura rápida e aumenta o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em primeiro plano, utilizando iluminação neon e tons de preto profundo, com textos gigantes sobrepostos de forma irregular",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon, em um ambiente escuro e onírico, com texto gigante destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-24T18:58:58.499Z",
-      "licao": [
-        "Ajustes para melhorar o engajamento com base nas tendências de 2026",
-        "Inclusão de estilos visuais que buscam a autenticidade e a quebra de regras",
-        "Otimaização para dispositivos móveis com tipografia gigante"
-      ]
-    },
     {
       "data": "2026-05-24T20:04:51.629Z",
       "licao": [
@@ -94,6 +87,14 @@
       "licao": [
         "Inclusão de tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Ajustes para melhorar o engajamento com base na performance atual da página"
+      ]
+    },
+    {
+      "data": "2026-05-25T18:23:22.842Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante",
+        "Foco em melhorar o engajamento com base na performance atual"
       ]
     }
   ]
