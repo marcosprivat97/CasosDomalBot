@@ -1,20 +1,21 @@
 {
-  "ultima_atualizacao": "2026-05-25T22:00:34.572Z",
+  "ultima_atualizacao": "2026-05-25T23:54:46.736Z",
   "licao_atual": {
-    "versao_logica": "2.0",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências globais de 2026",
-      "Inclusão de estilos de imagem mais críticos e humanos",
-      "Foco em design deconstrutivista para parar o scroll",
-      "Uso de tipografia gigante para leitura rápida no mobile"
+      "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
+      "Incorporação de contraste agressivo e estéticas oníricas",
+      "Uso de design deconstrutivista para parar o scroll",
+      "Implementação de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos e imperfeições",
-      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste onírico",
-      "teoria_do_clique": "O uso de contraste agressivo e estética onírica gera curiosidade e paralisa o scroll, enquanto a presença de elementos humanos e imperfeições cria uma conexão emocional com o espectador"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos e imperfeições",
+      "paleta_cores": "Preto profundo e neon vibrante, com tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O uso de imagens reais e cruas, com contraste agressivo e estéticas oníricas, gera engajamento por ser mais autêntico e atraente para o olhar humano"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Neon-Noir com toques de Hyper-Human, com um fundo preto e elementos neon que criem um contraste agressivo, e inclua uma pessoa ou elemento humano com imperfeições para criar uma conexão emocional",
+    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa em um ambiente sombrio, com luzes neon vibrantes destacando detalhes humanos e imperfeições, utilizando uma paleta de cores preto profundo e neon, com tons pastéis para criar uma atmosfera onírica",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,13 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-24T22:45:16.620Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhorar o engajamento na página do Facebook"
-      ]
-    },
     {
       "data": "2026-05-24T23:50:19.244Z",
       "licao": [
@@ -98,6 +92,16 @@
         "Inclusão de estilos de imagem mais críticos e humanos",
         "Foco em design deconstrutivista para parar o scroll",
         "Uso de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-25T23:54:46.736Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
+        "Incorporação de contraste agressivo e estéticas oníricas",
+        "Uso de design deconstrutivista para parar o scroll",
+        "Implementação de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
