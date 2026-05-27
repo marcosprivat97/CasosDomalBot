@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-27T12:18:56.377Z",
+  "ultima_atualizacao": "2026-05-27T16:31:53.750Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em Hyper-Human e estéticas visuais disruptivas",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências globais de 2026 para melhorar o engajamento",
+      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Inclusão de elementos de design que quebram regras de layout para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom",
-      "foco_composicao": "Enquadre sujeitos em cenários urbanos noturnos, com contraste agressivo entre luzes neon e sombras",
-      "paleta_cores": "Preto, neon verde, rosa e azul, com toques de branco e cinza para criar profundidade",
-      "teoria_do_clique": "O contraste agressivo e as cores vibrantes capturam a atenção do usuário, enquanto a estética onírica gera curiosidade e desejo de explorar"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto com um sujeito central, mas com elementos desfocados ou imperfeições ao redor para dar um toque humano",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com possíveis toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O uso de imagens reais e imperfeitas, combinado com contrastes visuais fortes, atrai a atenção do usuário e gera curiosidade, aumentando a probabilidade de cliques e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com um sujeito humano em primeiro plano, iluminado por luzes neon, com uma paleta de cores vibrantes e sombras profundas, e adicione textos gigantes com fontes disruptivas",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um sujeito central em um ambiente sombrio, iluminado por neon, com texturas e imperfeições visíveis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-26T10:39:56.136Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a estética 'Hyper-Human'",
-        "Introdução de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
-      ]
-    },
     {
       "data": "2026-05-26T13:45:30.654Z",
       "licao": [
@@ -103,6 +95,14 @@
         "Adaptação às tendências de 2026",
         "Foco em Hyper-Human e estéticas visuais disruptivas",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-05-27T16:31:53.750Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026 para melhorar o engajamento",
+        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Inclusão de elementos de design que quebram regras de layout para parar o scroll"
       ]
     }
   ]
