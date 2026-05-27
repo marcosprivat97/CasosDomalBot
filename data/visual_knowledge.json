@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-27T19:12:36.478Z",
+  "ultima_atualizacao": "2026-05-27T21:44:23.627Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estéticas que geram engajamento",
-      "Ajustes para melhorar a performance da página"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento médio e alcance total"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
-      "foco_composicao": "Enquadre a cena de forma desestruturada, quebrando regras de layout tradicionais, e destaque imperfeições humanas",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "O uso de estéticas desestruturadas e contrastes agressivos parará o scroll dos usuários, enquanto a inclusão de elementos humanos imperfeitos gerará uma conexão emocional mais forte"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadre a imagem com elementos humanos reais, destacando imperfeições e momentos autênticos, quebrando regras de layout tradicionais",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis suaves para um efeito Hyper-Bloom",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas, combinado com momentos humanos autênticos, gera curiosidade e estimula o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais, imperfeições incluídas, em um ambiente neon iluminado, com textos gigantes destacando a mensagem principal",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com pessoas reais, iluminadas por neon, com tons de preto profundo e cores vibrantes, utilizando uma tipografia gigante para destacar uma mensagem poderosa",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-26T17:19:07.904Z",
-      "licao": [
-        "Incorporação das tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Adaptação do estilo de imagem para melhorar o engajamento",
-        "Inclusão de tipografia gigante para facilitar a leitura no mobile"
-      ]
-    },
     {
       "data": "2026-05-26T19:53:30.313Z",
       "licao": [
@@ -104,6 +95,13 @@
         "Adaptação às tendências de 2026",
         "Foco em estéticas que geram engajamento",
         "Ajustes para melhorar a performance da página"
+      ]
+    },
+    {
+      "data": "2026-05-27T21:44:23.627Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento médio e alcance total"
       ]
     }
   ]
