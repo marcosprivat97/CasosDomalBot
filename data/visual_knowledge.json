@@ -1,20 +1,21 @@
 {
-  "ultima_atualizacao": "2026-05-26T22:59:42.160Z",
+  "ultima_atualizacao": "2026-05-27T00:05:47.963Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.4",
     "mudancas_aplicadas": [
-      "Ajuste no estilo de imagem para atender à tendência Hyper-Human",
-      "Implementação de contraste agressivo com Neon-Noir e Hyper-Bloom",
-      "Aplicação de Design Deconstrutivista para quebrar regras de layout",
-      "Uso de Tipografia Gigante para melhor leitura no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Foco em fotos reais e cruas com imperfeições humanas",
+      "Inclusão de contraste agressivo e estéticas oníricas",
+      "Quebra de regras de layout para parar o scroll",
+      "Uso de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com um toque de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma composição assimétrica, com elementos fora do centro e uma profundidade de campo curta para destacar o sujeito",
-      "paleta_cores": "Preto e neon, com tons pastéis para criar um contraste agressivo e onírico",
-      "teoria_do_clique": "O uso de imagens reais e cruas gera engajamento por criar uma conexão emocional com o público, enquanto o contraste agressivo e a composição assimétrica mantêm o usuário engajado"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom e imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, destacando os detalhes humanos",
+      "paleta_cores": "Preto, neon e cores pastéis para criar um efeito onírico",
+      "teoria_do_clique": "O contraste agressivo e as imperfeições humanas criam uma sensação de autenticidade e curiosidade, levando a um maior engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com uma iluminação neon agressiva e uma composição assimétrica, utilizando uma paleta de cores preto e neon com tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Bloom, destacando as imperfeições humanas e criando um contraste agressivo entre luz e sombra, com uma paleta de cores que inclua preto, neon e cores pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-25T22:00:34.572Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Inclusão de estilos de imagem mais críticos e humanos",
-        "Foco em design deconstrutivista para parar o scroll",
-        "Uso de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-25T23:54:46.736Z",
       "licao": [
@@ -107,6 +99,16 @@
         "Implementação de contraste agressivo com Neon-Noir e Hyper-Bloom",
         "Aplicação de Design Deconstrutivista para quebrar regras de layout",
         "Uso de Tipografia Gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-27T00:05:47.963Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Foco em fotos reais e cruas com imperfeições humanas",
+        "Inclusão de contraste agressivo e estéticas oníricas",
+        "Quebra de regras de layout para parar o scroll",
+        "Uso de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
