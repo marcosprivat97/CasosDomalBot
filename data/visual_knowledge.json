@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-27T00:05:47.963Z",
+  "ultima_atualizacao": "2026-05-27T05:08:04.316Z",
   "licao_atual": {
-    "versao_logica": "1.4",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Foco em fotos reais e cruas com imperfeições humanas",
-      "Inclusão de contraste agressivo e estéticas oníricas",
-      "Quebra de regras de layout para parar o scroll",
-      "Uso de tipografia gigante para leitura rápida no mobile"
+      "Adaptação para tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom e imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, destacando os detalhes humanos",
-      "paleta_cores": "Preto, neon e cores pastéis para criar um efeito onírico",
-      "teoria_do_clique": "O contraste agressivo e as imperfeições humanas criam uma sensação de autenticidade e curiosidade, levando a um maior engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a imagem de forma assimétrica, com sujeitos ou objetos fora do centro, para criar um layout deconstrutivista",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves",
+      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout capturam a atenção do usuário, enquanto a estética onírica e humana gera conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Bloom, destacando as imperfeições humanas e criando um contraste agressivo entre luz e sombra, com uma paleta de cores que inclua preto, neon e cores pastéis",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais em primeiro plano, iluminados por neon, com um fundo preto profundo e tons pastéis suaves, usando uma composição assimétrica e tipografia gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-25T23:54:46.736Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
-        "Incorporação de contraste agressivo e estéticas oníricas",
-        "Uso de design deconstrutivista para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-26T02:02:50.815Z",
       "licao": [
@@ -109,6 +97,14 @@
         "Inclusão de contraste agressivo e estéticas oníricas",
         "Quebra de regras de layout para parar o scroll",
         "Uso de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-27T05:08:04.316Z",
+      "licao": [
+        "Adaptação para tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
