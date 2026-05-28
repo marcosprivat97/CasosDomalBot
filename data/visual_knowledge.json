@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-28T01:53:59.461Z",
+  "ultima_atualizacao": "2026-05-28T06:00:33.271Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para leitura rápida no mobile",
-      "Foco em composições que rejeitam o 'AI Slop' e destacam imperfeições humanas"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Inclusão de elementos de Hyper-Human, Neon-Noir e Design Deconstrutivista"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando fotos reais e cruas",
-      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras tradicionais de layout, utilizando espaços negativos e composições assimétricas",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com cores pastéis suaves para criar um ambiente onírico",
-      "teoria_do_clique": "O uso de contrastes visuais fortes e a quebra das regras de layout capturam a atenção do usuário, enquanto as imperfeições humanas criam uma conexão emocional"
+      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos em primeiro plano",
+      "paleta_cores": "Preto, neon e tons pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença humana gera empatia e curiosidade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com Hyper-Bloom, com uma figura humana imperfeita no centro, utilizando uma tipografia gigante para destacar uma mensagem poderosa",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com um ambiente neon e onírico, com contraste agressivo e textos dominantes",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-26T22:59:42.160Z",
-      "licao": [
-        "Ajuste no estilo de imagem para atender à tendência Hyper-Human",
-        "Implementação de contraste agressivo com Neon-Noir e Hyper-Bloom",
-        "Aplicação de Design Deconstrutivista para quebrar regras de layout",
-        "Uso de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-05-27T00:05:47.963Z",
       "licao": [
@@ -101,6 +91,13 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para leitura rápida no mobile",
         "Foco em composições que rejeitam o 'AI Slop' e destacam imperfeições humanas"
+      ]
+    },
+    {
+      "data": "2026-05-28T06:00:33.271Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Inclusão de elementos de Hyper-Human, Neon-Noir e Design Deconstrutivista"
       ]
     }
   ]
