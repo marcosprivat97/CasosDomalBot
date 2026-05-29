@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-29T21:43:01.480Z",
+  "ultima_atualizacao": "2026-05-29T23:02:07.621Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026",
       "Foco em estética Hyper-Human e Neon-Noir",
       "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos imperfeitos no centro",
-      "paleta_cores": "Preto, neon verde, rosa e azul, com tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "A combinação de cores neon, a presença de imperfeições humanas e a quebra de regras de layout criarão uma experiência visual impactante, parando o scroll e gerando engajamento"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos cruas e imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem de forma irregular, quebrando as regras tradicionais de layout, para chamar a atenção do usuário",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de elementos visuais inovadores e a quebra de regras de layout criam uma experiência visual única, capaz de parar o scroll e gerar engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa imperfeita no centro, com tons de verde neon e rosa pastel, e uma tipografia gigante com texto 'Descubra o Segredo' em preto",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Neon-Noir com elementos humanos imperfeitos, utilizando contraste agressivo e cores pastéis, e quebre as regras de layout para criar uma composição única",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-28T17:55:37.601Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estilos visuais que rejeitam o 'AI Slop'",
-        "Inclusão de elementos de design deconstrutivista e tipografia gigante"
-      ]
-    },
     {
       "data": "2026-05-28T20:03:27.602Z",
       "licao": [
@@ -97,6 +89,14 @@
     },
     {
       "data": "2026-05-29T21:43:01.480Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-05-29T23:02:07.621Z",
       "licao": [
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
