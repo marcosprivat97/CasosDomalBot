@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-30T22:45:01.847Z",
+  "ultima_atualizacao": "2026-05-30T23:51:20.567Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais mais atraentes e humanos",
-      "Otimização do layout para melhor leitura no mobile"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhor engajamento com base na performance atual da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos reais e imperfeições humanas",
-      "foco_composicao": "Enquadre a imagem com contraste agressivo, destacando o tema principal com iluminação Neon e sombras profundas",
-      "paleta_cores": "Preto, neon verde, azul ou rosa, com toques de cores naturais para humanizar a imagem",
-      "teoria_do_clique": "A combinação de elementos reais com estética Neon-Noir gera curiosidade e interação, pois o contraste agressivo e as cores vibrantes atraem a atenção do usuário"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
+      "foco_composicao": "Enquadre a foto com contraste agressivo, destacando elementos humanos imperfeitos em primeiro plano",
+      "paleta_cores": "Preto profundo com neon vibrante, com toques de cores pastéis para suavizar a estética",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a presença humana imperfeita gera empatia e curiosidade, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um tema humano real, incorporando elementos naturais e imperfeições, com textos gigantes em neon verde ou azul para destacar a mensagem",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa em primeiro plano, destacando suas imperfeições humanas, com uma tipografia gigante e deconstrutivista ao fundo, utilizando cores neon vibrantes e preto profundo",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-30T08:14:25.980Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-30T10:42:58.345Z",
       "licao": [
@@ -95,6 +88,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais mais atraentes e humanos",
         "Otimização do layout para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-30T23:51:20.567Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhor engajamento com base na performance atual da página"
       ]
     }
   ]
