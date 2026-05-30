@@ -1,18 +1,20 @@
 {
-  "ultima_atualizacao": "2026-05-30T20:01:34.285Z",
+  "ultima_atualizacao": "2026-05-30T21:49:02.451Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhoria da legibilidade no mobile"
+      "Adaptação às tendências de 2026 para melhorar o desempenho da página",
+      "Incorporação do estilo Hyper-Human para atrair mais engajamento",
+      "Uso de contraste agressivo e estética onírica para parar o scroll",
+      "Implementação de design deconstrutivista para quebrar regras de layout"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos humanos reais e imperfeições",
-      "foco_composicao": "Enquadre a imagem de forma assimétrica, com foco em elementos humanos e contrastes agressivos",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves para criar contraste",
-      "teoria_do_clique": "O uso de imagens reais e imperfeitas, combinado com contrastes agressivos, gera curiosidade e paralisa o scroll, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a imagem de forma assimétrica, com foco em detalhes humanos imperfeitos",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica geram curiosidade e paralisam o scroll, enquanto a representação humana imperfeita promove empatia e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa real em um ambiente noturno, com iluminação neon e tons pastéis, enfatizando a textura e as imperfeições humanas",
+    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa em primeiro plano, com uma expressão intensa, sobre um fundo preto com neon azul e rosa, e adicione textos gigantes em fonte sans-serif para transmitir uma mensagem poderosa",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,13 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-30T01:57:22.100Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhorar o engajamento e alcance da página"
-      ]
-    },
     {
       "data": "2026-05-30T05:44:08.407Z",
       "licao": [
@@ -93,6 +88,15 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhoria da legibilidade no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-30T21:49:02.451Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
+        "Incorporação do estilo Hyper-Human para atrair mais engajamento",
+        "Uso de contraste agressivo e estética onírica para parar o scroll",
+        "Implementação de design deconstrutivista para quebrar regras de layout"
       ]
     }
   ]
