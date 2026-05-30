@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-30T18:02:10.097Z",
+  "ultima_atualizacao": "2026-05-30T20:01:34.285Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em Hyper-Human e estéticas visuais impactantes",
-      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhoria da legibilidade no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos imperfeitos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de elementos humanos imperfeitos gera identificação e engajamento"
+      "estilo_imagem": "Neon-Noir com elementos humanos reais e imperfeições",
+      "foco_composicao": "Enquadre a imagem de forma assimétrica, com foco em elementos humanos e contrastes agressivos",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves para criar contraste",
+      "teoria_do_clique": "O uso de imagens reais e imperfeitas, combinado com contrastes agressivos, gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, iluminada por luzes neon, sobre um fundo preto profundo com detalhes de cidade ou natureza onírica",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa real em um ambiente noturno, com iluminação neon e tons pastéis, enfatizando a textura e as imperfeições humanas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-29T23:02:07.621Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-05-30T01:57:22.100Z",
       "licao": [
@@ -95,6 +86,13 @@
         "Adaptação às tendências globais de 2026",
         "Foco em Hyper-Human e estéticas visuais impactantes",
         "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-05-30T20:01:34.285Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhoria da legibilidade no mobile"
       ]
     }
   ]
