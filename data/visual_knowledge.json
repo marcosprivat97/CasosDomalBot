@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-30T21:49:02.451Z",
+  "ultima_atualizacao": "2026-05-30T22:45:01.847Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-      "Incorporação do estilo Hyper-Human para atrair mais engajamento",
-      "Uso de contraste agressivo e estética onírica para parar o scroll",
-      "Implementação de design deconstrutivista para quebrar regras de layout"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos visuais mais atraentes e humanos",
+      "Otimização do layout para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem de forma assimétrica, com foco em detalhes humanos imperfeitos",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica geram curiosidade e paralisam o scroll, enquanto a representação humana imperfeita promove empatia e engajamento"
+      "estilo_imagem": "Neon-Noir com elementos reais e imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem com contraste agressivo, destacando o tema principal com iluminação Neon e sombras profundas",
+      "paleta_cores": "Preto, neon verde, azul ou rosa, com toques de cores naturais para humanizar a imagem",
+      "teoria_do_clique": "A combinação de elementos reais com estética Neon-Noir gera curiosidade e interação, pois o contraste agressivo e as cores vibrantes atraem a atenção do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa em primeiro plano, com uma expressão intensa, sobre um fundo preto com neon azul e rosa, e adicione textos gigantes em fonte sans-serif para transmitir uma mensagem poderosa",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um tema humano real, incorporando elementos naturais e imperfeições, com textos gigantes em neon verde ou azul para destacar a mensagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-30T05:44:08.407Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estética Hyper-Human e Neon-Noir para aumentar o interesse",
-        "Inclusão de Design Deconstrutivista para parar o scroll",
-        "Uso de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-05-30T08:14:25.980Z",
       "licao": [
@@ -97,6 +87,14 @@
         "Incorporação do estilo Hyper-Human para atrair mais engajamento",
         "Uso de contraste agressivo e estética onírica para parar o scroll",
         "Implementação de design deconstrutivista para quebrar regras de layout"
+      ]
+    },
+    {
+      "data": "2026-05-30T22:45:01.847Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais mais atraentes e humanos",
+        "Otimização do layout para melhor leitura no mobile"
       ]
     }
   ]
