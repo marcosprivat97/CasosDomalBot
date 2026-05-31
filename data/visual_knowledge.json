@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-05-31T19:00:25.089Z",
+  "ultima_atualizacao": "2026-05-31T20:46:11.026Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais para atrair mais engajamento",
-      "Otimização do layout para melhor legibilidade em dispositivos móveis"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Foco em melhorar o engajamento com imagens mais autênticas e estéticas ousadas"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
-      "foco_composicao": "Enquadre a imagem com um objeto ou pessoa em primeiro plano, com um fundo contrastante e neon",
-      "paleta_cores": "Preto, neon verde, rosa e azul, com contraste agressivo para chamar a atenção",
-      "teoria_do_clique": "O uso de cores neon e contrastes agressivos gera curiosidade e atrai o olhar do usuário, enquanto o toque de humanidade faz a imagem mais relatable e compartilhável"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, destacando imperfeições humanas e contrastes agressivos",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, utilizando ângulos inusitados e foco seletivo para chamar a atenção",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar contraste e profundidade visual",
+      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas gera empatia e conexão emocional, enquanto os contrastes agressivos e a tipografia gigante capturam a atenção do usuário, aumentando as chances de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa ou objeto em primeiro plano, com um fundo contrastante e neon, incorporando elementos de Hyper-Human e Design Deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano, com pessoas reais e imperfeições visíveis, utilizando uma paleta de cores que inclua neon e preto profundo, com uma composição que quebre as regras de layout tradicionais e inclua textos gigantes para leitura rápida",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-30T23:51:20.567Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhor engajamento com base na performance atual da página"
-      ]
-    },
     {
       "data": "2026-05-31T02:12:10.152Z",
       "licao": [
@@ -99,6 +90,13 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos visuais para atrair mais engajamento",
         "Otimização do layout para melhor legibilidade em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-05-31T20:46:11.026Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Foco em melhorar o engajamento com imagens mais autênticas e estéticas ousadas"
       ]
     }
   ]
