@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-05-31T17:53:10.421Z",
+  "ultima_atualizacao": "2026-05-31T19:00:25.089Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação do estilo Hyper-Human e Neon-Noir para atrair engajamento",
-      "Uso de Design Deconstrutivista para parar o scroll",
-      "Implementação de Tipografia Gigante para leitura rápida no mobile"
+      "Inclusão de estilos visuais para atrair mais engajamento",
+      "Otimização do layout para melhor legibilidade em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, destacando os detalhes humanos",
-      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um contraste onírico",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera curiosidade e atrai o olhar do usuário, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
+      "foco_composicao": "Enquadre a imagem com um objeto ou pessoa em primeiro plano, com um fundo contrastante e neon",
+      "paleta_cores": "Preto, neon verde, rosa e azul, com contraste agressivo para chamar a atenção",
+      "teoria_do_clique": "O uso de cores neon e contrastes agressivos gera curiosidade e atrai o olhar do usuário, enquanto o toque de humanidade faz a imagem mais relatable e compartilhável"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um toque de Neon-Noir, destacando a textura e os detalhes humanos, com uma paleta de cores que inclua preto profundo e neon vibrante",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa ou objeto em primeiro plano, com um fundo contrastante e neon, incorporando elementos de Hyper-Human e Design Deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-05-30T22:45:01.847Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais mais atraentes e humanos",
-        "Otimização do layout para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-05-30T23:51:20.567Z",
       "licao": [
@@ -100,6 +91,14 @@
         "Incorporação do estilo Hyper-Human e Neon-Noir para atrair engajamento",
         "Uso de Design Deconstrutivista para parar o scroll",
         "Implementação de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-05-31T19:00:25.089Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Inclusão de estilos visuais para atrair mais engajamento",
+        "Otimização do layout para melhor legibilidade em dispositivos móveis"
       ]
     }
   ]
