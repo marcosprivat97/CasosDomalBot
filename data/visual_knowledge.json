@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-06-02T18:29:48.967Z",
+  "ultima_atualizacao": "2026-06-02T21:39:58.044Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais mais atraentes e humanos",
-      "Uso de contraste e tipografia para aumentar o engajamento"
+      "Incorporação do estilo Hyper-Human para fotos mais autênticas",
+      "Uso de contraste agressivo e estética onírica para chamar a atenção",
+      "Quebra de regras de layout para parar o scroll",
+      "Implementação de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
-      "foco_composicao": "Enquadre a foto com um foco central forte e elementos ao redor que criem movimento e dinamismo",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves para criar contraste",
-      "teoria_do_clique": "O uso de cores neon e composições dinâmicas gera curiosidade e pausa no scroll, enquanto a presença de elementos humanos aumenta a conexão emocional"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre elementos, utilizando preto e neon de forma estratégica",
+      "paleta_cores": "Preto, neon e tons pastéis para criar uma estética onírica e atraente",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica gera engajamento porque chama a atenção do usuário e o faz parar o scroll para entender melhor a imagem"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna vibrante com elementos neon, uma figura humana no centro e textos gigantes em primeiro plano",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, utilizando preto e neon de forma estratégica para criar contraste agressivo, e incorporando tons pastéis para uma estética onírica",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-01T02:39:37.621Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e estética crua",
-        "Incorporação de Neon-Noir e Hyper-Bloom",
-        "Uso de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-06-01T08:23:06.859Z",
       "licao": [
@@ -103,6 +96,16 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação de estilos visuais mais atraentes e humanos",
         "Uso de contraste e tipografia para aumentar o engajamento"
+      ]
+    },
+    {
+      "data": "2026-06-02T21:39:58.044Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
+        "Uso de contraste agressivo e estética onírica para chamar a atenção",
+        "Quebra de regras de layout para parar o scroll",
+        "Implementação de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
