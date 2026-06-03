@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-06-03T07:30:14.309Z",
+  "ultima_atualizacao": "2026-06-03T12:29:07.945Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Inclusão de estilos visuais para melhorar o engajamento",
-      "Otimização do layout para dispositivos móveis"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Incorporação de contraste agressivo e estéticas oníricas",
+      "Uso de tipografia gigante para facilitar a leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto para criar contraste agressivo entre luz e sombra, com foco em detalhes humanos imperfeitos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um equilíbrio visual atraente",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas oníricas e contrastes agressivos gera curiosidade e estimula o engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre preto e neon, ou use estéticas oníricas para capturar a atenção",
+      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e tipografia gigante, gera engajamento por ser autêntico e fácil de ler no mobile"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com um toque de Neon-Noir, utilizando uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis suaves. Enquadre a foto para criar contraste agressivo entre luz e sombra.",
+    "prompt_padrao_atualizado": "Crie uma cena com um fundo preto e elementos neon, use uma tipografia gigante para destacar a mensagem principal e incorpore elementos humanos reais e imperfeitos",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-01T22:29:03.398Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
-      ]
-    },
     {
       "data": "2026-06-02T00:05:08.026Z",
       "licao": [
@@ -102,6 +95,15 @@
         "Adaptação às tendências de 2026",
         "Inclusão de estilos visuais para melhorar o engajamento",
         "Otimização do layout para dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-06-03T12:29:07.945Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Incorporação de contraste agressivo e estéticas oníricas",
+        "Uso de tipografia gigante para facilitar a leitura no mobile"
       ]
     }
   ]
