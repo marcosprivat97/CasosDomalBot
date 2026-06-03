@@ -1,21 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-03T20:45:54.361Z",
+  "ultima_atualizacao": "2026-06-03T22:57:19.650Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de design deconstrutivista para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em Hyper-Human e Neon-Noir para melhorar engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a foto com um foco em elementos humanos reais, com imperfeições e texturas naturais, e utilize contrastes agressivos para chamar a atenção",
-      "paleta_cores": "Preto profundo com neon vibrante, ou estéticas oníricas com tons pastéis e brilhos sutis",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos e estéticas oníricas, gera engajamento porque cria uma conexão emocional imediata com o espectador, rompendo com a monotonia das imagens perfeitas e artificiais"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem com sujeitos reais, com imperfeições e contrastes agressivos entre preto e neon",
+      "paleta_cores": "Preto profundo, neon verde, rosa e azul para criar contraste e atrair a atenção",
+      "teoria_do_clique": "O uso de imagens reais com toques de neon e contraste agressivo gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em primeiro plano, iluminadas por neon, contra um fundo escuro e mistério, com texturas e imperfeições visíveis",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa real em um ambiente noturno com iluminação neon, utilizando contraste agressivo e cores vibrantes",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-02T09:59:56.321Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estéticas que rejeitam o 'AI Slop'",
-        "Incorporação de contrastes agressivos e tipografia gigante"
-      ]
-    },
     {
       "data": "2026-06-02T14:04:47.470Z",
       "licao": [
@@ -106,6 +95,13 @@
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de design deconstrutivista para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-03T22:57:19.650Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e Neon-Noir para melhorar engajamento"
       ]
     }
   ]
