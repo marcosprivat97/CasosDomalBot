@@ -1,34 +1,26 @@
 {
-  "ultima_atualizacao": "2026-06-04T12:36:53.607Z",
+  "ultima_atualizacao": "2026-06-04T16:16:08.384Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Foco em estilos que rejeitam o 'AI Slop' e buscam um visual mais humano e crú",
-      "Incorporação de contrastes agressivos e estéticas oníricas para chamar a atenção do usuário"
+      "Adaptação às tendências de 2026",
+      "Foco em Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre o preto e neon, ou use cores vibrantes para criar uma estética onírica",
-      "paleta_cores": "Preto, neon e cores pastéis para criar um visual único e atraente",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas pode parar o scroll do usuário e gerar engajamento devido à sua natureza única e atraente"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
+      "foco_composicao": "Enquadre a foto com elementos humanos reais e imperfeições, utilizando contraste agressivo entre preto e neon",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estética neon-noir gera curiosidade e interação, pois rompe com a monotonia e chama a atenção do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir e Hyper-Bloom, utilizando contrastes agressivos e cores vibrantes para criar um visual único e atraente",
+    "prompt_padrao_atualizado": "Crie uma cena neon-noir com uma pessoa real ao centro, rodeada por luzes neon vibrantes e tons pastéis suaves, com uma tipografia gigante destacando uma palavra-chave relacionada à cena",
     "config_layout": {
-      "font_size_mult": 1.2,
+      "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-03T02:39:17.945Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-06-03T07:30:14.309Z",
       "licao": [
@@ -99,6 +91,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Foco em estilos que rejeitam o 'AI Slop' e buscam um visual mais humano e crú",
         "Incorporação de contrastes agressivos e estéticas oníricas para chamar a atenção do usuário"
+      ]
+    },
+    {
+      "data": "2026-06-04T16:16:08.384Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
