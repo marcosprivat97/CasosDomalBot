@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-04T05:49:07.267Z",
+  "ultima_atualizacao": "2026-06-04T09:41:14.391Z",
   "licao_atual": {
-    "versao_logica": "1.0",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-      "Foco em composição que quebra regras de layout para parar o scroll"
+      "Inclusão de Tipografia Gigante para melhoria da leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com texturas reais e imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma assimétrica, com elementos principais fora do centro e uso de linhas diagonais",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com destaque para cores pastéis em elementos secundários",
-      "teoria_do_clique": "A combinação de estilos visuais que desafiam a perfeição e a simetria, junto com a inclusão de elementos humanos reais, gera curiosidade e engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com elementos humanos imperfeitos no centro",
+      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com destaque para cores vivas e saturadas",
+      "teoria_do_clique": "A combinação de Hyper-Human com Neon-Noir gera curiosidade e atração, enquanto a quebra de regras de layout (Design Deconstrutivista) e a tipografia gigante garantem a parada do scroll e a leitura rápida"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem Neon-Noir de uma cena urbana noturna com pessoas reais e imperfeições, utilizando contraste agressivo e texturas, com texto gigante destacando uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente sombrio com iluminação neon, com elementos de Design Deconstrutivista e texto gigante destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-02T21:39:58.044Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-        "Uso de contraste agressivo e estética onírica para chamar a atenção",
-        "Quebra de regras de layout para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-06-02T23:25:52.641Z",
       "licao": [
@@ -102,6 +91,13 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura no mobile",
         "Foco em composição que quebra regras de layout para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-06-04T09:41:14.391Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhoria da leitura rápida no mobile"
       ]
     }
   ]
