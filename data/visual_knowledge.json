@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-04T00:27:35.015Z",
+  "ultima_atualizacao": "2026-06-04T05:49:07.267Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.0",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor legibilidade no mobile"
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em composição que quebra regras de layout para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotografia Crua e Imperfeita com elementos de Neon-Noir",
-      "foco_composicao": "Enquadrar a foto com elementos humanos em primeiro plano, utilizando regras quebradas de layout para chamar a atenção",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores vibrantes para criar uma estética onírica",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com elementos de surpresa e quebra de regras, gera curiosidade e engajamento, pois o cérebro humano está programado para responder a estímulos novos e diferentes"
+      "estilo_imagem": "Neon-Noir com texturas reais e imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma assimétrica, com elementos principais fora do centro e uso de linhas diagonais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com destaque para cores pastéis em elementos secundários",
+      "teoria_do_clique": "A combinação de estilos visuais que desafiam a perfeição e a simetria, junto com a inclusão de elementos humanos reais, gera curiosidade e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon e sombras profundas, utilizando uma paleta de cores vibrantes e contrastantes, e inclua textos grandes e destacados para transmitir uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem Neon-Noir de uma cena urbana noturna com pessoas reais e imperfeições, utilizando contraste agressivo e texturas, com texto gigante destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-02T18:29:48.967Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação de estilos visuais mais atraentes e humanos",
-        "Uso de contraste e tipografia para aumentar o engajamento"
-      ]
-    },
     {
       "data": "2026-06-02T21:39:58.044Z",
       "licao": [
@@ -101,6 +94,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor legibilidade no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-04T05:49:07.267Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em composição que quebra regras de layout para parar o scroll"
       ]
     }
   ]
