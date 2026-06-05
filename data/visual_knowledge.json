@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-05T15:47:16.909Z",
+  "ultima_atualizacao": "2026-06-05T17:45:48.111Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em conteúdo 'Hyper-Human' para melhorar o engajamento",
-      "Incorporação de estilos visuais 'Neon-Noir' e 'Hyper-Bloom' para maior impacto",
-      "Aplicação de 'Design Deconstrutivista' para quebrar a monotonia",
-      "Uso de 'Tipografia Gigante' para facilitar a leitura em dispositivos móveis"
+      "Adaptação às tendências de 2026",
+      "Foco em Hyper-Human e Neon-Noir para melhorar engajamento",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste e surpresa, utilizando espaços negativos e elementos humanos imperfeitos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um ambiente onírico e atraente",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout capturam a atenção imediatamente, enquanto a presença humana e as imperfeições criam uma conexão emocional com o espectador"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
+      "foco_composicao": "Enquadre com contraste agressivo, destacando o assunto principal com iluminação neon e texto gigante",
+      "paleta_cores": "Preto profundo com neon vibrante e toques de cores pastéis para criar um contraste onírico",
+      "teoria_do_clique": "O uso de contraste agressivo e cores neon chama a atenção, enquanto a inclusão de elementos humanos imperfeitos aumenta a empatia e o engajamento do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal humano em primeiro plano, utilizando luzes neon para realçar as características faciais e emocionais, em um ambiente sombrio com elementos de Hyper-Bloom",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Human, destacando um assunto principal com iluminação neon e texto gigante, sobre um fundo preto profundo com toques de cores pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-04T12:36:53.607Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Foco em estilos que rejeitam o 'AI Slop' e buscam um visual mais humano e crú",
-        "Incorporação de contrastes agressivos e estéticas oníricas para chamar a atenção do usuário"
-      ]
-    },
     {
       "data": "2026-06-04T16:16:08.384Z",
       "licao": [
@@ -105,6 +95,14 @@
         "Incorporação de estilos visuais 'Neon-Noir' e 'Hyper-Bloom' para maior impacto",
         "Aplicação de 'Design Deconstrutivista' para quebrar a monotonia",
         "Uso de 'Tipografia Gigante' para facilitar a leitura em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-06-05T17:45:48.111Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e Neon-Noir para melhorar engajamento",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
   ]
