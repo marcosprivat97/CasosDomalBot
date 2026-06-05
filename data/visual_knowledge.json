@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-06-05T19:29:33.982Z",
+  "ultima_atualizacao": "2026-06-05T21:15:32.046Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o desempenho da página",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
+      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+      "Implementação de design deconstrutivista para parar o scroll",
+      "Inclusão de tipografia gigante para facilitar a leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto com contraste agressivo entre luz e sombra, destacando o sujeito principal",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contraste agressivo e cores neon chama a atenção do usuário, enquanto a estética onírica e a quebra de regras de layout mantêm o interesse, gerando engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, destacando imperfeições e autenticidade",
+      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, utilizando elementos que criem tensão visual e estimulem a curiosidade",
+      "paleta_cores": "Preto e neon, com toques de cores pastéis para criar contraste e profundidade",
+      "teoria_do_clique": "O uso de imagens reais, cruas e com imperfeições humanas, juntamente com contraste agressivo, estimula a curiosidade e o engajamento do usuário, pois oferece uma experiência visual única e memorável"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com uma figura humana em um ambiente noturno, com iluminação neon e sombras profundas, utilizando uma paleta de cores vibrantes e pastéis, com texto gigante sobreposto",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais em um ambiente urbano, utilizando luzes neon e sombras escuras para criar contraste. Inclua elementos de design deconstrutivista e tipografia gigante para destacar a mensagem.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-04T19:11:50.334Z",
-      "licao": [
-        "Adoção de estilos de imagem mais cruas e imperfeitas para alinhar com a tendência Hyper-Human",
-        "Incorporação de contrastes agressivos e estéticas oníricas para atrair a atenção do usuário",
-        "Quebra de regras de layout para parar o scroll e aumentar o engajamento",
-        "Uso de tipografia gigante para facilitar a leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-06-04T21:21:51.434Z",
       "licao": [
@@ -103,6 +96,16 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-06-05T21:15:32.046Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
+        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+        "Implementação de design deconstrutivista para parar o scroll",
+        "Inclusão de tipografia gigante para facilitar a leitura rápida no mobile"
       ]
     }
   ]
