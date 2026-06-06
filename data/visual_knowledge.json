@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-06T09:17:06.209Z",
+  "ultima_atualizacao": "2026-06-06T11:15:00.660Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais engajamento"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos imperfeitos",
-      "paleta_cores": "Preto, neon e tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a imperfeição humana criam curiosidade e paralisam o scroll, aumentando o engajamento"
+      "foco_composicao": "Enquadre a cena de forma a destacar a imperfeição humana, com ângulos e luzes naturais",
+      "paleta_cores": "Preto profundo com neon em verdes, azuis ou rosas, para criar contraste agressivo",
+      "teoria_do_clique": "O uso de Hyper-Human e Neon-Noir gera curiosidade e atrai a atenção do usuário, aumentando as chances de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com um humano em primeiro plano, com iluminação neon e sombras profundas, em um ambiente onírico e imperfeito",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais, iluminadas por neon, com tons de preto profundo e cores vibrantes, incorporando textos gigantes em primeira plano",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-05T12:30:19.103Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhorar o engajamento e alcance da página"
-      ]
-    },
     {
       "data": "2026-06-05T15:47:16.909Z",
       "licao": [
@@ -101,6 +93,13 @@
         "Adaptação às tendências globais de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-06-06T11:15:00.660Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais engajamento"
       ]
     }
   ]
