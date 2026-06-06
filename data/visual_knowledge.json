@@ -1,21 +1,20 @@
 {
-  "ultima_atualizacao": "2026-06-06T15:04:32.530Z",
+  "ultima_atualizacao": "2026-06-06T16:57:43.350Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026 para melhorar o engajamento",
-      "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-      "Uso de contraste agressivo com Neon-Noir e Hyper-Bloom",
-      "Aplicação do Design Deconstrutivista para layout inovador",
-      "Implementação de Tipografia Gigante para melhor legibilidade"
+      "Adoção do estilo Hyper-Human",
+      "Incorporação de Neon-Noir e Hyper-Bloom",
+      "Implementação de Design Deconstrutivista",
+      "Uso de Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a destacar imperfeições humanas e detalhes únicos, quebrando regras tradicionais de composição",
-      "paleta_cores": "Preto profundo com neon vibrante ou estética onírica com Hyper-Bloom",
-      "teoria_do_clique": "O contraste agressivo e a autenticidade das imagens capturam a atenção do usuário, enquanto a quebra de regras de layout estimula a curiosidade e o engajamento"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais, cruas e com imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre elementos, utilizando regras de layout não convencionais para parar o scroll",
+      "paleta_cores": "Contrastes agressivos de preto e neon, ou estéticas oníricas com tons pastéis",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e tipografia gigante, gera engajamento por criar uma experiência visual impactante e fácil de ler no mobile"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com detalhes neon, destacando a beleza das imperfeições e utilizando um layout deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com contraste agressivo de preto e neon, e elementos de composição que quebram as regras de layout convencionais. Adicione texto com fonte gigante para leitura rápida no mobile.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-05T19:29:33.982Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-06-05T21:15:32.046Z",
       "licao": [
@@ -104,6 +95,15 @@
         "Uso de contraste agressivo com Neon-Noir e Hyper-Bloom",
         "Aplicação do Design Deconstrutivista para layout inovador",
         "Implementação de Tipografia Gigante para melhor legibilidade"
+      ]
+    },
+    {
+      "data": "2026-06-06T16:57:43.350Z",
+      "licao": [
+        "Adoção do estilo Hyper-Human",
+        "Incorporação de Neon-Noir e Hyper-Bloom",
+        "Implementação de Design Deconstrutivista",
+        "Uso de Tipografia Gigante"
       ]
     }
   ]
