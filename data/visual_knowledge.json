@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-06T18:02:36.396Z",
+  "ultima_atualizacao": "2026-06-06T20:02:51.048Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de elementos 'Hyper-Human' e 'Neon-Noir' para atrair o público",
-      "Uso de 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll e aumentar o engajamento"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Implementação de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em estética cruas e imperfeições humanas para rejeitar o 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com texturas e imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e escuridão, com o sujeito principal em destaque",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O uso de contraste e texturas gera curiosidade e atrai o olhar, enquanto a tipografia gigante facilita a leitura rápida e aumenta o engajamento"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos de Hyper-Human",
+      "foco_composicao": "Enquadre a cena de forma a destacar a imperfeição humana, com contraste agressivo entre preto e neon, e elementos oníricos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas oníricas e contraste agressivo gera curiosidade e atrai o olhar, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de um sujeito humano em um ambiente sombrio, com neon vibrante e texturas humanas, utilizando uma paleta de cores que inclua preto profundo e tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma pessoa real, iluminada por neon, com tons pastéis e contraste agressivo, incluindo textos gigantes em primeiro plano",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,12 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-05T22:56:14.199Z",
-      "licao": [
-        "Adaptação às tendências atuais de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-06-06T00:00:10.858Z",
       "licao": [
@@ -101,6 +95,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação de elementos 'Hyper-Human' e 'Neon-Noir' para atrair o público",
         "Uso de 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll e aumentar o engajamento"
+      ]
+    },
+    {
+      "data": "2026-06-06T20:02:51.048Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Implementação de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em estética cruas e imperfeições humanas para rejeitar o 'AI Slop'"
       ]
     }
   ]
