@@ -1,17 +1,20 @@
 {
-  "ultima_atualizacao": "2026-06-05T22:56:14.199Z",
+  "ultima_atualizacao": "2026-06-06T00:00:10.858Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências atuais de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante"
+      "Adoção do estilo Hyper-Human para fotos mais autênticas",
+      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+      "Aplicação de Design Deconstrutivista para quebra de regras de layout",
+      "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, com elementos humanos imperfeitos no centro",
-      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves",
-      "teoria_do_clique": "O contraste agressivo e a presença de elementos humanos imperfeitos criam uma conexão emocional com o espectador, aumentando o engajamento"
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, com foco em detalhes humanos e imperfeições",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com tons pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O contraste agressivo e a autenticidade das imagens geram curiosidade e paralisam o scroll, enquanto a tipografia gigante facilita a leitura e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano, com uma pessoa real, imperfeita, em um ambiente urbano ao entardecer, com luzes neon refletindo em superfícies molhadas, e um texto gigante sobrepondo a cena",
+    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com elementos Neon-Noir, com uma pessoa em movimento ou ação, e adicione textos gigantes em fonte sans-serif para descrever a cena",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -19,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-04T23:00:02.324Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
-        "Incorporação de contrastes agressivos e estéticas oníricas"
-      ]
-    },
     {
       "data": "2026-06-05T00:10:05.193Z",
       "licao": [
@@ -99,6 +94,15 @@
       "data": "2026-06-05T22:56:14.199Z",
       "licao": [
         "Adaptação às tendências atuais de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-06-06T00:00:10.858Z",
+      "licao": [
+        "Adoção do estilo Hyper-Human para fotos mais autênticas",
+        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+        "Aplicação de Design Deconstrutivista para quebra de regras de layout",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
