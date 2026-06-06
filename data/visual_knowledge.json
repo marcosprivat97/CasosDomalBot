@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-06T03:41:21.482Z",
+  "ultima_atualizacao": "2026-06-06T06:45:27.301Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estilos de imagem que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Incorporação de contraste agressivo e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em estética cruas e imperfeições humanas para rejeitar o 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com fotos reais, cruas e imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma desestruturada, quebrando regras de layout tradicionais para criar um impacto visual",
-      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contraste agressivo entre preto e neon, ou tons pastéis para uma estética onírica",
-      "teoria_do_clique": "O uso de imagens autênticas e composições desestruturadas gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando contrates agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadre a imagem de forma a desafiar as regras tradicionais de layout, utilizando ângulos inusitados e espaços negativos para parar o scroll",
+      "paleta_cores": "Preto profundo como base, com toques de neon em cores como rosa, azul ou verde para criar contraste",
+      "teoria_do_clique": "O uso de imagens crúas e imperfeitas, combinado com a estética de Neon-Noir, gera curiosidade e engajamento devido à sua capacidade de capturar a atenção do usuário em um feed de mídia social saturado"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com contraste agressivo entre preto e neon, e uma composição desestruturada que quebre as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, utilizando uma paleta de cores escuras e neon, e inclua textos gigantes em fontes despojadas para transmitir uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-05T05:08:29.652Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais mais cruos e humanos",
-        "Uso de contrastes agressivos e tipografia gigante"
-      ]
-    },
     {
       "data": "2026-06-05T09:27:12.258Z",
       "licao": [
@@ -102,6 +94,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Foco em estilos de imagem que rejeitam o 'AI Slop' e valorizam a autenticidade",
         "Incorporação de contraste agressivo e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-06-06T06:45:27.301Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em estética cruas e imperfeições humanas para rejeitar o 'AI Slop'"
       ]
     }
   ]
