@@ -1,19 +1,17 @@
 {
-  "ultima_atualizacao": "2026-06-06T20:02:51.048Z",
+  "ultima_atualizacao": "2026-06-06T21:54:50.682Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Implementação de Tipografia Gigante para melhor leitura no mobile",
-      "Foco em estética cruas e imperfeições humanas para rejeitar o 'AI Slop'"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar a performance da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos de Hyper-Human",
-      "foco_composicao": "Enquadre a cena de forma a destacar a imperfeição humana, com contraste agressivo entre preto e neon, e elementos oníricos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas oníricas e contraste agressivo gera curiosidade e atrai o olhar, aumentando o engajamento"
+      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contraste agressivo entre preto e neon ou estética onírica",
+      "foco_composicao": "Enquadre a foto de maneira a quebrar as regras de layout tradicionais, criando um design deconstrutivista que pare o scroll",
+      "paleta_cores": "Use uma paleta de cores que combine preto profundo com neon vibrante ou cores pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens reais e cruas, juntamente com um design deconstrutivista e uma tipografia gigante, gera engajamento porque desafia a monotonia visual e cria uma experiência única para o usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma pessoa real, iluminada por neon, com tons pastéis e contraste agressivo, incluindo textos gigantes em primeiro plano",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com um toque de neon ou estética onírica, utilizando um design deconstrutivista e uma tipografia gigante para destacar a mensagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +19,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-06T00:00:10.858Z",
-      "licao": [
-        "Adoção do estilo Hyper-Human para fotos mais autênticas",
-        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
-        "Aplicação de Design Deconstrutivista para quebra de regras de layout",
-        "Uso de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-06-06T03:41:21.482Z",
       "licao": [
@@ -103,6 +92,12 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Implementação de Tipografia Gigante para melhor leitura no mobile",
         "Foco em estética cruas e imperfeições humanas para rejeitar o 'AI Slop'"
+      ]
+    },
+    {
+      "data": "2026-06-06T21:54:50.682Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar a performance da página"
       ]
     }
   ]
