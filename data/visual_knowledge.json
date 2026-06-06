@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-06T16:57:43.350Z",
+  "ultima_atualizacao": "2026-06-06T18:02:36.396Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adoção do estilo Hyper-Human",
-      "Incorporação de Neon-Noir e Hyper-Bloom",
-      "Implementação de Design Deconstrutivista",
-      "Uso de Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação de elementos 'Hyper-Human' e 'Neon-Noir' para atrair o público",
+      "Uso de 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll e aumentar o engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com foco em fotos reais, cruas e com imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre elementos, utilizando regras de layout não convencionais para parar o scroll",
-      "paleta_cores": "Contrastes agressivos de preto e neon, ou estéticas oníricas com tons pastéis",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e tipografia gigante, gera engajamento por criar uma experiência visual impactante e fácil de ler no mobile"
+      "estilo_imagem": "Neon-Noir com texturas e imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e escuridão, com o sujeito principal em destaque",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O uso de contraste e texturas gera curiosidade e atrai o olhar, enquanto a tipografia gigante facilita a leitura rápida e aumenta o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com contraste agressivo de preto e neon, e elementos de composição que quebram as regras de layout convencionais. Adicione texto com fonte gigante para leitura rápida no mobile.",
+    "prompt_padrao_atualizado": "Crie uma imagem de um sujeito humano em um ambiente sombrio, com neon vibrante e texturas humanas, utilizando uma paleta de cores que inclua preto profundo e tons pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-05T21:15:32.046Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
-        "Implementação de design deconstrutivista para parar o scroll",
-        "Inclusão de tipografia gigante para facilitar a leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-06-05T22:56:14.199Z",
       "licao": [
@@ -104,6 +93,14 @@
         "Incorporação de Neon-Noir e Hyper-Bloom",
         "Implementação de Design Deconstrutivista",
         "Uso de Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-06-06T18:02:36.396Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação de elementos 'Hyper-Human' e 'Neon-Noir' para atrair o público",
+        "Uso de 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll e aumentar o engajamento"
       ]
     }
   ]
