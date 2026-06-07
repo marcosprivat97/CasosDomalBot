@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-07T17:03:13.867Z",
+  "ultima_atualizacao": "2026-06-07T19:03:48.491Z",
   "licao_atual": {
-    "versao_logica": "1.0",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-      "Foco em estética cruas e imperfeições humanas para maior engajamento"
+      "Adaptação às tendências de 2026",
+      "Foco em estilos que rejeitam o 'AI Slop'",
+      "Inclusão de elementos visuais que geram engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando contrastes agressivos e estéticas oníricas",
-      "foco_composicao": "Enquadre a imagem para destacar o assunto principal, utilizando regras de terço e quebrando a simetria para criar tensão visual",
-      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um contraste visual atraente",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera curiosidade e atrai a atenção do usuário, aumentando a probabilidade de cliques e engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, destacando os aspectos humanos e imperfeições",
+      "paleta_cores": "Preto profundo com neon vibrante e alguns tons pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contraste agressivo e cores neon gera curiosidade e paralisa o scroll, enquanto a estética humana e imperfeita aumenta a conexão emocional do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com toques de Hyper-Bloom, destacando um assunto principal em um ambiente onírico e com contrastes agressivos, utilizando uma paleta de cores que inclua preto profundo e neon vibrante",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon, tons pastéis suaves e sombras profundas, destacando a textura e as imperfeições da pele e do ambiente",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,12 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-06T21:54:50.682Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar a performance da página"
-      ]
-    },
     {
       "data": "2026-06-06T22:54:20.067Z",
       "licao": [
@@ -97,6 +91,14 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura no mobile",
         "Foco em estética cruas e imperfeições humanas para maior engajamento"
+      ]
+    },
+    {
+      "data": "2026-06-07T19:03:48.491Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estilos que rejeitam o 'AI Slop'",
+        "Inclusão de elementos visuais que geram engajamento"
       ]
     }
   ]
