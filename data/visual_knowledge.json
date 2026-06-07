@@ -1,18 +1,21 @@
 {
-  "ultima_atualizacao": "2026-06-07T02:33:42.280Z",
+  "ultima_atualizacao": "2026-06-07T06:57:11.152Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Incorporação de Tipografia Gigante para melhor legibilidade no mobile"
+      "Adaptação às tendências globais de 2026 para melhorar a performance da página",
+      "Incorporação do estilo Hyper-Human para aumentar a autenticidade",
+      "Uso de contraste agressivo e estéticas oníricas para chamar a atenção",
+      "Quebra de regras de layout para parar o scroll",
+      "Implementação de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Realismo Sujo com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, com elementos humanos imperfeitos no centro",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar contraste visual",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença humana imperfeita gera empatia e compartilhamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, destacando os detalhes humanos",
+      "paleta_cores": "Preto e neon, com toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O contraste agressivo e a autenticidade das imagens criam um choque visual que impulsiona o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens humanos reais, iluminados por neon, em um ambiente sombrio e com textos gigantes destacando uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Hyper-Human, com um contraste agressivo entre preto e neon, e uma composição que desafie as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,13 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-06T11:15:00.660Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais engajamento"
-      ]
-    },
     {
       "data": "2026-06-06T13:04:50.628Z",
       "licao": [
@@ -97,6 +93,16 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Incorporação de Tipografia Gigante para melhor legibilidade no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-07T06:57:11.152Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human para aumentar a autenticidade",
+        "Uso de contraste agressivo e estéticas oníricas para chamar a atenção",
+        "Quebra de regras de layout para parar o scroll",
+        "Implementação de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
