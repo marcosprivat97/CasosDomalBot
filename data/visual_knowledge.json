@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-08T21:41:38.586Z",
+  "ultima_atualizacao": "2026-06-08T23:06:25.788Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos de imagem e composição que geram mais engajamento",
-      "Atualização da paleta de cores para seguir as tendências atuais"
+      "Inclusão de estilos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
+      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem com foco em elementos humanos reais, destacando imperfeições e texturas, e utilize contraste agressivo com neon para criar um efeito visual impactante",
-      "paleta_cores": "Preto profundo e neon vibrante, com tons pastéis para criar um contraste suave e atraente",
-      "teoria_do_clique": "A combinação de elementos humanos reais com contraste agressivo e cores neon gera curiosidade e atrai a atenção do usuário, aumentando a probabilidade de cliques e engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar uma composição desequilibrada, quebrando regras de layout tradicionais, e inclua textos gigantes para leitura rápida",
+      "paleta_cores": "Preto profundo com neon vibrante ou estéticas oníricas com Hyper-Bloom",
+      "teoria_do_clique": "O uso de imagens reais, cruas e com imperfeições humanas, aliado a contrastes agressivos, gera curiosidade e estimula o engajamento, pois a mente humana busca entender e processar informações visuais complexas e autênticas"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa real em um ambiente urbano noturno, com iluminação neon e sombras profundas, utilizando uma paleta de cores preto/neon e tons pastéis, e adicione textos dominantes com fonte gigante para transmitir uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com neon vibrante, utilizando uma paleta de cores escuras e vibrantes, com textos gigantes e composição desequilibrada",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-07T19:03:48.491Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop'",
-        "Inclusão de elementos visuais que geram engajamento"
-      ]
-    },
     {
       "data": "2026-06-07T20:58:54.040Z",
       "licao": [
@@ -104,6 +96,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos de imagem e composição que geram mais engajamento",
         "Atualização da paleta de cores para seguir as tendências atuais"
+      ]
+    },
+    {
+      "data": "2026-06-08T23:06:25.788Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Inclusão de estilos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
+        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
       ]
     }
   ]
