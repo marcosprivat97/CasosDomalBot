@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-07T23:56:49.288Z",
+  "ultima_atualizacao": "2026-06-08T02:54:20.094Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.4",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
-      "Implementação de design deconstrutivista e tipografia gigante para melhor leitura no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a destacar a imperfeição humana, utilizando ângulos e composições não convencionais",
-      "paleta_cores": "Preto profundo ou branco puro como base, com acenos de neon ou cores vibrantes para criar contraste",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com estéticas oníricas, gera curiosidade e encoraja o engajamento, pois o cérebro humano está programado para reconhecer e se conectar com a autenticidade"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos reais e imperfeições humanas",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, com foco em elementos humanos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de imperfeições humanas cria uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, utilizando iluminação neon e sombras profundas, com uma tipografia gigante e deconstrutivista sobreposta",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoa real, iluminada por neon, em um ambiente sombrio, com texto gigante sobrepondo a imagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-07T06:57:11.152Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human para aumentar a autenticidade",
-        "Uso de contraste agressivo e estéticas oníricas para chamar a atenção",
-        "Quebra de regras de layout para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-06-07T09:57:06.321Z",
       "licao": [
@@ -103,6 +92,14 @@
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
         "Implementação de design deconstrutivista e tipografia gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-08T02:54:20.094Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
