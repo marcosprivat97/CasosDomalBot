@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-08T19:14:16.439Z",
+  "ultima_atualizacao": "2026-06-08T21:41:38.586Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estilos mais humanos e cruas",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de tipografia gigante para melhor leitura no mobile"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Inclusão de estilos de imagem e composição que geram mais engajamento",
+      "Atualização da paleta de cores para seguir as tendências atuais"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma desestruturada, quebrando regras de layout tradicionais para capturar a atenção do usuário",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma atmosfera onírica",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos e estéticas oníricas, gera curiosidade e engajamento por ser mais autêntico e humano"
+      "foco_composicao": "Enquadre a imagem com foco em elementos humanos reais, destacando imperfeições e texturas, e utilize contraste agressivo com neon para criar um efeito visual impactante",
+      "paleta_cores": "Preto profundo e neon vibrante, com tons pastéis para criar um contraste suave e atraente",
+      "teoria_do_clique": "A combinação de elementos humanos reais com contraste agressivo e cores neon gera curiosidade e atrai a atenção do usuário, aumentando a probabilidade de cliques e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em primeiro plano, utilizando luzes neon para criar contrastes agressivos e uma atmosfera onírica. Adicione textos gigantes em fontes sans-serif para destacar a mensagem principal.",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa real em um ambiente urbano noturno, com iluminação neon e sombras profundas, utilizando uma paleta de cores preto/neon e tons pastéis, e adicione textos dominantes com fonte gigante para transmitir uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-07T17:03:13.867Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-        "Foco em estética cruas e imperfeições humanas para maior engajamento"
-      ]
-    },
     {
       "data": "2026-06-07T19:03:48.491Z",
       "licao": [
@@ -105,6 +96,14 @@
         "Foco em estilos mais humanos e cruas",
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de tipografia gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-08T21:41:38.586Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Inclusão de estilos de imagem e composição que geram mais engajamento",
+        "Atualização da paleta de cores para seguir as tendências atuais"
       ]
     }
   ]
