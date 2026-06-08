@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-06-08T16:42:53.712Z",
+  "ultima_atualizacao": "2026-06-08T19:14:16.439Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estilos que geram engajamento em redes sociais",
-      "Inclusão de elementos de design que param o scroll"
+      "Adaptação às tendências de 2026",
+      "Foco em estilos mais humanos e cruas",
+      "Incorporação de contrastes agressivos e estéticas oníricas",
+      "Uso de tipografia gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo, utilizando preto e neon, e inclua elementos humanos reais e imperfeitos",
-      "paleta_cores": "Preto, neon e tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "A combinação de contraste agressivo e elementos humanos reais gera curiosidade e faz com que o usuário pare o scroll para entender melhor a imagem"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma desestruturada, quebrando regras de layout tradicionais para capturar a atenção do usuário",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma atmosfera onírica",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos e estéticas oníricas, gera curiosidade e engajamento por ser mais autêntico e humano"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Human, utilizando contraste agressivo e paleta de cores oníricas, com um texto gigante que domine a imagem",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em primeiro plano, utilizando luzes neon para criar contrastes agressivos e uma atmosfera onírica. Adicione textos gigantes em fontes sans-serif para destacar a mensagem principal.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-07T15:17:01.475Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-06-07T17:03:13.867Z",
       "licao": [
@@ -103,6 +96,15 @@
         "Adaptação às tendências globais de 2026",
         "Foco em estilos que geram engajamento em redes sociais",
         "Inclusão de elementos de design que param o scroll"
+      ]
+    },
+    {
+      "data": "2026-06-08T19:14:16.439Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estilos mais humanos e cruas",
+        "Incorporação de contrastes agressivos e estéticas oníricas",
+        "Uso de tipografia gigante para melhor leitura no mobile"
       ]
     }
   ]
