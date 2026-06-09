@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-08T23:06:25.788Z",
+  "ultima_atualizacao": "2026-06-09T02:00:47.041Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
+      "Foco em conteúdo crú e autêntico para rejeitar o 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma composição desequilibrada, quebrando regras de layout tradicionais, e inclua textos gigantes para leitura rápida",
-      "paleta_cores": "Preto profundo com neon vibrante ou estéticas oníricas com Hyper-Bloom",
-      "teoria_do_clique": "O uso de imagens reais, cruas e com imperfeições humanas, aliado a contrastes agressivos, gera curiosidade e estimula o engajamento, pois a mente humana busca entender e processar informações visuais complexas e autênticas"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma desequilibrada, com elementos fora do centro e uso de linhas diagonais para criar tensão",
+      "paleta_cores": "Preto profundo com neon vibrante, mantendo um contraste agressivo",
+      "teoria_do_clique": "O uso de imagens cruas e autênticas, aliado a uma estética visualmente impactante, gera engajamento por ser mais relatable e humano, além de parar o scroll devido à sua natureza disruptiva"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com neon vibrante, utilizando uma paleta de cores escuras e vibrantes, com textos gigantes e composição desequilibrada",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com pessoas reais em movimento, iluminadas por neon, usando uma paleta de preto profundo e cores neon vibrantes, com linhas diagonais e composição desequilibrada",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-07T20:58:54.040Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhor engajamento e alcance",
-        "Foco em estética crua e humana"
-      ]
-    },
     {
       "data": "2026-06-07T22:02:58.047Z",
       "licao": [
@@ -104,6 +96,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-06-09T02:00:47.041Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
+        "Foco em conteúdo crú e autêntico para rejeitar o 'AI Slop'"
       ]
     }
   ]
