@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-09T21:28:39.592Z",
+  "ultima_atualizacao": "2026-06-09T23:08:47.449Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Ajuste para incorporar tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhorar a leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+      "Implementação de Design Deconstrutivista para parar o scroll",
+      "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos humanos reais e imperfeições",
-      "foco_composicao": "Enquadre a cena com contraste agressivo, destacando o sujeito principal com neon ou cores vibrantes em um ambiente escuro",
-      "paleta_cores": "Preto profundo, neon verde, rosa ou azul, com toques de cores quentes para criar um contraste intenso",
-      "teoria_do_clique": "O uso de contraste agressivo e cores neon chama a atenção do usuário, enquanto a inclusão de elementos humanos reais gera empatia e identificação, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a foto com um objeto ou pessoa no centro, utilizando contraste agressivo entre preto e neon",
+      "paleta_cores": "Preto, neon verde, azul e rosa, com contraste agressivo para chamar a atenção",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estética neon chama a atenção e gera curiosidade, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal iluminado por uma luz neon, em um ambiente sombrio com tons de preto profundo, e inclua uma tipografia gigante com uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente escuro com neon verde, azul e rosa, utilizando um estilo Hyper-Human e composição deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-08T19:14:16.439Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estilos mais humanos e cruas",
-        "Incorporação de contrastes agressivos e estéticas oníricas",
-        "Uso de tipografia gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-06-08T21:41:38.586Z",
       "licao": [
@@ -97,6 +89,14 @@
       "licao": [
         "Ajuste para incorporar tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhorar a leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-09T23:08:47.449Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+        "Implementação de Design Deconstrutivista para parar o scroll",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
