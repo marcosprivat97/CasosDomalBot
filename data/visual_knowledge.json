@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-09T10:26:12.595Z",
+  "ultima_atualizacao": "2026-06-09T13:35:35.834Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em Hyper-Human e Neon-Noir para aumento do engajamento",
-      "Implementação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
-      "foco_composicao": "Enquadre a foto com um objeto ou pessoa no centro, utilizando contraste agressivo entre preto e neon",
-      "paleta_cores": "Preto profundo, neon verde, azul ou rosa para criar um contraste intenso",
-      "teoria_do_clique": "A combinação de elementos humanos com estética neon chama a atenção do usuário e gera curiosidade, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir, priorizando momentos reais e imperfeições humanas",
+      "foco_composicao": "Enquadre a cena de maneira descentrada, com elementos principais fora do centro, criando um layout instigante e quebra de regras",
+      "paleta_cores": "Preto profundo com neon vibrante ou estética onírica com Hyper-Bloom, para contraste agressivo e visualmente atraente",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e layout deconstrutivista, paralisa o scroll e gera curiosidade, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa ou objeto no centro, com iluminação neon verde em um fundo preto, utilizando uma tipografia gigante e deconstrutivista para destacar o texto",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em movimento, utilizando luzes neon como fonte de iluminação, com texto gigante destacando uma mensagem impactante sobre a vida urbana",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-08T02:54:20.094Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-06-08T07:22:02.583Z",
       "licao": [
@@ -103,6 +94,13 @@
         "Adaptação às tendências de 2026",
         "Foco em Hyper-Human e Neon-Noir para aumento do engajamento",
         "Implementação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-06-09T13:35:35.834Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
       ]
     }
   ]
