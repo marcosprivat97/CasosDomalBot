@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-09T16:24:08.589Z",
+  "ultima_atualizacao": "2026-06-09T19:05:33.893Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante",
-      "Foco em melhorar o engajamento com base na performance atual"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir para aumentar engajamento",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, destacando imperfeições e contrastes agressivos",
-      "foco_composicao": "Enquadre a foto de forma a quebrar as regras tradicionais de layout, criando um ponto focal único e atraente",
-      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O uso de contrastes agressivos e composições desestruturadas paralisa o scroll, enquanto a autenticidade da estética Hyper-Human gera uma conexão emocional mais forte com o público"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas reais",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos no centro",
+      "paleta_cores": "Preto profundo, neon verde ou rosa, e tons pastéis para criar um contraste onírico",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de elementos humanos reais cria uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com elementos Neon-Noir, utilizando uma paleta de preto e neon, com foco em uma composição desestruturada e uma tipografia gigante para título",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano no centro, destacando imperfeições e texturas reais, com uma paleta de cores que inclua preto profundo, neon verde e tons pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-08T12:20:23.441Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-        "Uso de contraste agressivo com Neon-Noir e Hyper-Bloom",
-        "Aplicação do Design Deconstrutivista para quebrar regras de layout",
-        "Inclusão de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-06-08T16:42:53.712Z",
       "licao": [
@@ -101,6 +91,14 @@
         "Adaptação às tendências de Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante",
         "Foco em melhorar o engajamento com base na performance atual"
+      ]
+    },
+    {
+      "data": "2026-06-09T19:05:33.893Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir para aumentar engajamento",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
   ]
