@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-10T14:15:55.546Z",
+  "ultima_atualizacao": "2026-06-10T17:49:37.698Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Foco em melhorar o engajamento com estilos mais cruas e humanos",
+      "Inclusão de contrates agressivos e estéticas oníricas"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
-      "foco_composicao": "Enquadre a foto com um foco principal bem definido, mas permita que o resto da imagem seja um pouco desfocado ou com ruído, criando um efeito de 'cru' e autenticidade",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com cores pastéis suaves para criar um efeito onírico",
-      "teoria_do_clique": "O uso de imagens reais, imperfeitas e com contraste agressivo gera engajamento porque atrai a atenção do usuário e o faz parar o scroll, enquanto a tipografia gigante facilita a leitura rápida em dispositivos móveis"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir para criar contrates agressivos",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout, utilizando ângulos não convencionais e foco em detalhes",
+      "paleta_cores": "Preto e neon, com toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de elementos humanos com contrates agressivos e estéticas oníricas gera curiosidade e atrai o olhar do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com toques de Hyper-Bloom, destacando uma cena ou objeto com imperfeições humanas, com contraste agressivo e cores pastéis suaves, e inclua uma tipografia gigante para destacar a mensagem principal",
+    "prompt_padrao_atualizado": "Crie uma imagem com um tema humano, utilizando contrates agressivos e estéticas oníricas, com uma paleta de cores que inclua preto e neon, e adicione textos dominantes com fontes gigantes",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-09T10:26:12.595Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e Neon-Noir para aumento do engajamento",
-        "Implementação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-06-09T13:35:35.834Z",
       "licao": [
@@ -95,6 +88,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-06-10T17:49:37.698Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Foco em melhorar o engajamento com estilos mais cruas e humanos",
+        "Inclusão de contrates agressivos e estéticas oníricas"
       ]
     }
   ]
