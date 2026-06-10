@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-10T02:09:39.303Z",
+  "ultima_atualizacao": "2026-06-10T06:56:57.078Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "2.0",
     "mudancas_aplicadas": [
-      "Implementação de tendências de 2026 para melhorar a performance da página",
-      "Foco em estilos de imagem que geram engajamento"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em contraste agressivo e estética onírica para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com foco em detalhes humanos reais e imperfeições",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual atraente",
-      "teoria_do_clique": "O uso de imagens reais com imperfeições e contraste agressivo gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando contraste agressivo e cores vibrantes",
+      "foco_composicao": "Enquadre a imagem de forma a criar um centro de interesse claro, com elementos que quebrem as regras tradicionais de layout",
+      "paleta_cores": "Preto profundo, neon verde, azul e rosa, com toques de cores pastéis para equilíbrio",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a quebra de regras de layout mantém o usuário engajado"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente sombrio, com iluminação neon que destaque suas características humanas e imperfeições, utilizando uma paleta de cores vibrantes e contrastantes",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, utilizando uma paleta de cores vibrantes e contraste agressivo. Inclua textos gigantes em fontes bold e cores neon para destacar a mensagem.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-08T23:06:25.788Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-06-09T02:00:47.041Z",
       "licao": [
@@ -95,6 +88,14 @@
       "licao": [
         "Implementação de tendências de 2026 para melhorar a performance da página",
         "Foco em estilos de imagem que geram engajamento"
+      ]
+    },
+    {
+      "data": "2026-06-10T06:56:57.078Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em contraste agressivo e estética onírica para parar o scroll"
       ]
     }
   ]
