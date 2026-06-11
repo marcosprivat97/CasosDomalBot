@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-11T00:07:11.320Z",
+  "ultima_atualizacao": "2026-06-11T05:19:19.420Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
-      "Foco em composições que quebram regras de layout para parar o scroll"
+      "Implementação de Tipografia Gigante para melhoria da legibilidade em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, destacando contrates agressivos e estéticas oníricas",
-      "foco_composicao": "Enquadre a imagem de forma a quebrar a simetria, criando um ponto focal dominante que atrai a atenção do usuário",
-      "paleta_cores": "Preto profundo com neon vibrante, criando um contraste visual intenso que chama a atenção",
-      "teoria_do_clique": "O uso de contrates agressivos e estéticas oníricas gera engajamento porque estimula a curiosidade do usuário e o convida a explorar a imagem"
+      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contraste agressivo entre preto e neon",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras tradicionais de layout, utilizando espaços negativos e diagonais para criar tensão visual",
+      "paleta_cores": "Neon vivos sobre fundos escuros ou estéticas oníricas com tons pastéis",
+      "teoria_do_clique": "A combinação de elementos humanos cruos com estéticas visuais impactantes gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Neon-Noir com elementos de Hyper-Bloom, destacando contrates agressivos e estéticas oníricas, com uma tipografia gigante que domine a composição e quebre a simetria",
+    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa em primeiro plano, com expressão intensa e imperfeições visíveis, sobre um fundo neon escuro com textura onírica, e adicione texto gigante em fonte sans-serif com uma mensagem que provoque reflexão",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-09T21:28:39.592Z",
-      "licao": [
-        "Ajuste para incorporar tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhorar a leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-06-09T23:08:47.449Z",
       "licao": [
@@ -98,6 +90,13 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
         "Foco em composições que quebram regras de layout para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-06-11T05:19:19.420Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Implementação de Tipografia Gigante para melhoria da legibilidade em dispositivos móveis"
       ]
     }
   ]
