@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-11T21:10:10.067Z",
+  "ultima_atualizacao": "2026-06-11T23:12:36.119Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação das tendências globais de 2026 para melhorar a performance da página",
-      "Inclusão de elementos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento e alcance da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com foco em fotos reais, cruas e com imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a destacar a imperfeição humana, utilizando ângulos e iluminação naturais",
-      "paleta_cores": "Neon-Noir & Hyper-Bloom, com contraste agressivo entre preto e neon, ou estéticas oníricas",
-      "teoria_do_clique": "O uso de imagens reais e cruas gera engajamento pois cria uma conexão emocional com o espectador, que busca autenticidade em um mundo cada vez mais digital"
+      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contraste agressivo entre preto e neon",
+      "foco_composicao": "Enquadramento desestruturado, quebrando regras de layout tradicionais para parar o scroll",
+      "paleta_cores": "Neon vibrante sobre fundo preto ou estética onírica com cores pastéis",
+      "teoria_do_clique": "O uso de imagens reais e cruas gera empatia e identificação, enquanto o contraste agressivo e a quebra de regras de layout capturam a atenção do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com um tema que explore a imperfeição humana, utilizando uma paleta de cores Neon-Noir & Hyper-Bloom e uma composição que quebre as regras de layout",
+    "prompt_padrao_atualizado": "Criar uma imagem que misture elementos humanos reais com neon vibrante, utilizando uma composição desestruturada e cores que sejam ao mesmo tempo vibrantes e oníricas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-10T14:15:55.546Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-06-10T17:49:37.698Z",
       "licao": [
@@ -100,6 +92,13 @@
         "Adaptação das tendências globais de 2026 para melhorar a performance da página",
         "Inclusão de elementos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-06-11T23:12:36.119Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento e alcance da página"
       ]
     }
   ]
