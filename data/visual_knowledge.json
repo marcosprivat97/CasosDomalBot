@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-12T19:49:52.459Z",
+  "ultima_atualizacao": "2026-06-12T21:22:39.296Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos de imagem que rejeitam o 'AI Slop'",
-      "Uso de contrastes agressivos e estéticas oníricas"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Foco em melhorar o engajamento e alcance da página com base na performance atual"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, com elementos que quebram as regras de layout tradicionais",
-      "paleta_cores": "Preto e neon, com tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos, gera um engajamento maior por criar uma conexão emocional mais forte com o público"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, destacando contraste agressivo e estética onírica",
+      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, utilizando composições assimétricas e elementos que 'saem' da moldura",
+      "paleta_cores": "Preto profundo como base, com elementos neon destacados em cores vibrantes, como rosa, azul ou verde",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a quebra de regras de layout estimula a curiosidade e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, mostrando uma cena urbana noturna com pessoas em movimento, utilizando uma paleta de cores preto e neon, e uma tipografia gigante para destacar a mensagem principal",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, utilizando contraste agressivo e estética onírica, com uma composição que quebre regras de layout tradicionais e inclua textos dominantes em Tipografia Gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-11T14:28:15.150Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-        "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais engajamento",
-        "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
-      ]
-    },
     {
       "data": "2026-06-11T18:00:33.997Z",
       "licao": [
@@ -104,6 +95,13 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos de imagem que rejeitam o 'AI Slop'",
         "Uso de contrastes agressivos e estéticas oníricas"
+      ]
+    },
+    {
+      "data": "2026-06-12T21:22:39.296Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Foco em melhorar o engajamento e alcance da página com base na performance atual"
       ]
     }
   ]
