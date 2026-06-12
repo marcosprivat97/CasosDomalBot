@@ -1,18 +1,20 @@
 {
-  "ultima_atualizacao": "2026-06-11T23:12:36.119Z",
+  "ultima_atualizacao": "2026-06-12T02:27:32.531Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhorar o engajamento e alcance da página"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estética Hyper-Human e Neon-Noir para contraste agressivo",
+      "Incorporação de Design Deconstrutivista para quebrar regras de layout",
+      "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contraste agressivo entre preto e neon",
-      "foco_composicao": "Enquadramento desestruturado, quebrando regras de layout tradicionais para parar o scroll",
-      "paleta_cores": "Neon vibrante sobre fundo preto ou estética onírica com cores pastéis",
-      "teoria_do_clique": "O uso de imagens reais e cruas gera empatia e identificação, enquanto o contraste agressivo e a quebra de regras de layout capturam a atenção do usuário"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos Hyper-Human",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos imperfeitos",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis para criar um contraste onírico",
+      "teoria_do_clique": "O uso de cores neon e contraste agressivo chama a atenção, enquanto a estética Hyper-Human cria uma conexão emocional e autêntica com o espectador"
     },
-    "prompt_padrao_atualizado": "Criar uma imagem que misture elementos humanos reais com neon vibrante, utilizando uma composição desestruturada e cores que sejam ao mesmo tempo vibrantes e oníricas",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em primeiro plano, iluminado por luzes neon, com um fundo escuro e detalhes humanos imperfeitos",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-10T17:49:37.698Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Foco em melhorar o engajamento com estilos mais cruas e humanos",
-        "Inclusão de contrates agressivos e estéticas oníricas"
-      ]
-    },
     {
       "data": "2026-06-10T20:08:42.934Z",
       "licao": [
@@ -99,6 +93,15 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhorar o engajamento e alcance da página"
+      ]
+    },
+    {
+      "data": "2026-06-12T02:27:32.531Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estética Hyper-Human e Neon-Noir para contraste agressivo",
+        "Incorporação de Design Deconstrutivista para quebrar regras de layout",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
