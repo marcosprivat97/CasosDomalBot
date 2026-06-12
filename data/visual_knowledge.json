@@ -1,20 +1,21 @@
 {
-  "ultima_atualizacao": "2026-06-12T02:27:32.531Z",
+  "ultima_atualizacao": "2026-06-12T07:10:45.456Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estética Hyper-Human e Neon-Noir para contraste agressivo",
-      "Incorporação de Design Deconstrutivista para quebrar regras de layout",
-      "Uso de Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Foco em estética 'Hyper-Human' para aumentar a conexão com o público",
+      "Incorporação de 'Neon-Noir & Hyper-Bloom' para contraste visual atraente",
+      "Uso de 'Design Deconstrutivista' para quebrar a monotonia do layout",
+      "Implementação de 'Tipografia Gigante' para facilitar a leitura em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos imperfeitos",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis para criar um contraste onírico",
-      "teoria_do_clique": "O uso de cores neon e contraste agressivo chama a atenção, enquanto a estética Hyper-Human cria uma conexão emocional e autêntica com o espectador"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma a criar um contraste agressivo entre luz e sombra, destacando as imperfeições humanas",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves para criar uma estética onírica",
+      "teoria_do_clique": "O contraste agressivo e as imperfeições humanas criam uma conexão emocional com o espectador, aumentando a probabilidade de cliques e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em primeiro plano, iluminado por luzes neon, com um fundo escuro e detalhes humanos imperfeitos",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma pessoa em primeiro plano, iluminada por luzes neon, com um fundo preto profundo e tons pastéis suaves, utilizando uma composição deconstrutivista e tipografia gigante para destacar a mensagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,13 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-10T20:08:42.934Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estilos visuais que rejeitam o 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-06-10T22:46:09.386Z",
       "licao": [
@@ -102,6 +96,16 @@
         "Foco em estética Hyper-Human e Neon-Noir para contraste agressivo",
         "Incorporação de Design Deconstrutivista para quebrar regras de layout",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-12T07:10:45.456Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Foco em estética 'Hyper-Human' para aumentar a conexão com o público",
+        "Incorporação de 'Neon-Noir & Hyper-Bloom' para contraste visual atraente",
+        "Uso de 'Design Deconstrutivista' para quebrar a monotonia do layout",
+        "Implementação de 'Tipografia Gigante' para facilitar a leitura em dispositivos móveis"
       ]
     }
   ]
