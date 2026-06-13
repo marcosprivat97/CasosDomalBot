@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-13T09:49:16.432Z",
+  "ultima_atualizacao": "2026-06-13T11:45:39.835Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
-      "Incorporação de contrates agressivos e estéticas oníricas",
-      "Uso de design deconstrutivista para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
+      "Foco em estéticas crues e imperfeitas para rejeitar o 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos reais e imperfeições",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O uso de contrates agressivos e estéticas oníricas gera engajamento pois chama a atenção do usuário e o faz parar o scroll"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições e texturas",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, utilizando a regra dos terços e quebrando a simetria",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis sutis para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera engajamento por criar uma experiência visual única e memorável, além de refletir a rejeição ao 'AI Slop' e a busca por autenticidade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com um humano real, com imperfeições, em um cenário neon-noir com contrates agressivos e tons pastéis, use tipografia gigante para destacar uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Neon-Noir com toques de Hyper-Bloom, destacando imperfeições e texturas, com uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis sutis. A composição deve quebrar a simetria e criar contraste agressivo entre luz e sombra.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-12T07:10:45.456Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Foco em estética 'Hyper-Human' para aumentar a conexão com o público",
-        "Incorporação de 'Neon-Noir & Hyper-Bloom' para contraste visual atraente",
-        "Uso de 'Design Deconstrutivista' para quebrar a monotonia do layout",
-        "Implementação de 'Tipografia Gigante' para facilitar a leitura em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-06-12T11:32:57.974Z",
       "licao": [
@@ -107,6 +95,14 @@
         "Incorporação de contrates agressivos e estéticas oníricas",
         "Uso de design deconstrutivista para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-13T11:45:39.835Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
+        "Foco em estéticas crues e imperfeitas para rejeitar o 'AI Slop'"
       ]
     }
   ]
