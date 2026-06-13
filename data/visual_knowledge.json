@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-13T11:45:39.835Z",
+  "ultima_atualizacao": "2026-06-13T13:21:48.395Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
-      "Foco em estéticas crues e imperfeitas para rejeitar o 'AI Slop'"
+      "Ajustes para melhorar a performance da página com base nas tendências atuais",
+      "Inclusão de estilos visuais que contrastam com o 'AI Slop'",
+      "Implementação de design deconstrutivista para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições e texturas",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, utilizando a regra dos terços e quebrando a simetria",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis sutis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera engajamento por criar uma experiência visual única e memorável, além de refletir a rejeição ao 'AI Slop' e a busca por autenticidade"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma a destacar a imperfeição humana e o contraste agressivo entre cores",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual atraente",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrates visuais, gera curiosidade e atrai a atenção do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Neon-Noir com toques de Hyper-Bloom, destacando imperfeições e texturas, com uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis sutis. A composição deve quebrar a simetria e criar contraste agressivo entre luz e sombra.",
+    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com um toque de Neon-Noir, destacando a imperfeição humana e o contraste agressivo entre cores, com uma paleta que inclua preto profundo, neon vibrante e tons pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-12T11:32:57.974Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estilos que geram engajamento em redes sociais",
-        "Inclusão de diretrizes para melhorar a performance da página"
-      ]
-    },
     {
       "data": "2026-06-12T14:30:27.988Z",
       "licao": [
@@ -103,6 +95,14 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
         "Foco em estéticas crues e imperfeitas para rejeitar o 'AI Slop'"
+      ]
+    },
+    {
+      "data": "2026-06-13T13:21:48.395Z",
+      "licao": [
+        "Ajustes para melhorar a performance da página com base nas tendências atuais",
+        "Inclusão de estilos visuais que contrastam com o 'AI Slop'",
+        "Implementação de design deconstrutivista para parar o scroll"
       ]
     }
   ]
