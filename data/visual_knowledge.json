@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-14T15:04:42.741Z",
+  "ultima_atualizacao": "2026-06-14T17:06:42.537Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura no mobile"
+      "Inclusão de Tipografia Gigante para melhoria da leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, realçando imperfeições humanas",
-      "foco_composicao": "Enquadre a foto com um ângulo desconstrutivista, quebrando regras de layout tradicionais",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com elementos de cores pastéis para criar um efeito onírico",
-      "teoria_do_clique": "O uso de contraste e cores vibrantes, aliado à quebra de regras de layout, parará o scroll e gerará curiosidade, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir, destacando contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadramento irregular, quebrando regras de layout tradicionais para parar o scroll, com foco em elementos humanos reais e imperfeitos",
+      "paleta_cores": "Preto/neon com tons pastéis suaves para criar um contraste visual atraente e onírico",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas, combinado com a autenticidade do Hyper-Human, gera curiosidade e encoraja o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente noturno, com iluminação neon, utilizando uma paleta de cores vibrantes e contrastantes, e um layout deconstrutivista que quebre as regras tradicionais de composição",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com neon, em um ambiente onírico e com contraste agressivo, utilizando tons pastéis e preto/neon, com texto gigante destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-13T17:08:23.027Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human e Neon-Noir",
-        "Incorporação do Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-06-13T19:05:44.591Z",
       "licao": [
@@ -96,6 +89,13 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-14T17:06:42.537Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhoria da leitura no mobile"
       ]
     }
   ]
