@@ -1,17 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-14T02:52:27.975Z",
+  "ultima_atualizacao": "2026-06-14T07:14:30.991Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento da página"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Foco em criar imagens que gerem engajamento com base na performance atual da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, destacando contrates agressivos e estéticas oníricas",
-      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, utilizando elementos de Design Deconstrutivista para parar o scroll",
-      "paleta_cores": "Preto e neon, com destaque para cores vibrantes e contrastantes",
-      "teoria_do_clique": "O uso de contrates agressivos e estéticas oníricas gera curiosidade e atrai a atenção do usuário, enquanto a quebra das regras de layout tradicionais estimula a interação"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos reais e imperfeições",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um contraste onírico",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica gera curiosidade e pausa no scroll, enquanto a presença de elementos humanos reais aumenta a empatia e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, utilizando contrates agressivos e estéticas oníricas, com texto dominante em Tipografia Gigante",
+    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano com pessoas reais, utilizando contraste agressivo entre preto e neon, e adicione textos gigantes em fontes degradê para destacar a mensagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -19,16 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-13T09:49:16.432Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
-        "Incorporação de contrates agressivos e estéticas oníricas",
-        "Uso de design deconstrutivista para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-06-13T11:45:39.835Z",
       "licao": [
@@ -98,6 +89,13 @@
       "data": "2026-06-14T02:52:27.975Z",
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento da página"
+      ]
+    },
+    {
+      "data": "2026-06-14T07:14:30.991Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Foco em criar imagens que gerem engajamento com base na performance atual da página"
       ]
     }
   ]
