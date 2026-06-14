@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-14T12:56:21.310Z",
+  "ultima_atualizacao": "2026-06-14T15:04:42.741Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Focalização em Hyper-Human e Neon-Noir para melhorar o engajamento",
-      "Implementação de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, misturando contrastes agressivos com elementos humanos reais",
-      "foco_composicao": "Enquadre a imagem de forma a criar um equilíbrio desequilibrado, com elementos principais fora do centro e uso de linhas diagonais",
-      "paleta_cores": "Preto profundo como base, com neon verde, azul ou rosa para criar contrastes agressivos e atraentes",
-      "teoria_do_clique": "O uso de contrastes agressivos e elementos humanos reais gera curiosidade e atrai a atenção do usuário, aumentando a probabilidade de cliques e engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, realçando imperfeições humanas",
+      "foco_composicao": "Enquadre a foto com um ângulo desconstrutivista, quebrando regras de layout tradicionais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com elementos de cores pastéis para criar um efeito onírico",
+      "teoria_do_clique": "O uso de contraste e cores vibrantes, aliado à quebra de regras de layout, parará o scroll e gerará curiosidade, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Neon-Noir com um toque de Hyper-Human, com uma paleta de cores que inclua preto profundo e neon verde, e um layout que quebre as regras de composição tradicionais",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente noturno, com iluminação neon, utilizando uma paleta de cores vibrantes e contrastantes, e um layout deconstrutivista que quebre as regras tradicionais de composição",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-13T15:24:37.537Z",
-      "licao": [
-        "Ajuste no estilo de imagem para Hyper-Human",
-        "Incorporação de Neon-Noir e Hyper-Bloom para contraste",
-        "Adoção de Design Deconstrutivista para layout",
-        "Uso de Tipografia Gigante para melhor leitura"
-      ]
-    },
     {
       "data": "2026-06-13T17:08:23.027Z",
       "licao": [
@@ -99,6 +89,13 @@
         "Adaptação às tendências globais de 2026",
         "Focalização em Hyper-Human e Neon-Noir para melhorar o engajamento",
         "Implementação de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-06-14T15:04:42.741Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
