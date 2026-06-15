@@ -1,20 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-15T16:11:52.562Z",
+  "ultima_atualizacao": "2026-06-15T20:20:03.720Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-      "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento e alcance da página no Facebook"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, destacando os elementos humanos e imperfeições",
-      "paleta_cores": "Preto e neon, com toques de cores pastéis para criar uma atmosfera onírica",
-      "teoria_do_clique": "O uso de contraste agressivo e estéticas oníricas captura a atenção do usuário, enquanto a autenticidade e imperfeições humanas criam uma conexão emocional"
+      "estilo_imagem": "Fotografia Crua com elementos de Neon-Noir, enfatizando contrastes agressivos e imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem de forma a criar uma composição desequilibrada, quebrando regras tradicionais de layout para capturar a atenção do usuário",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de elementos humanos cruos com contrates agressivos e uma paleta de cores ousada gera curiosidade e estimula o engajamento, pois contrasta com o 'AI Slop' e é mais atraente para o olho humano"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem humano principal, destacando as imperfeições e texturas da pele, com um fundo preto e neon, e inclua elementos de design deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento humano autêntico, com iluminação dramática e cores neon, em um ambiente que mistura elementos urbanos e naturais, com uma tipografia gigante que domine a cena",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-14T12:56:21.310Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Focalização em Hyper-Human e Neon-Noir para melhorar o engajamento",
-        "Implementação de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
-      ]
-    },
     {
       "data": "2026-06-14T15:04:42.741Z",
       "licao": [
@@ -100,6 +90,13 @@
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
         "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-06-15T20:20:03.720Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento e alcance da página no Facebook"
       ]
     }
   ]
