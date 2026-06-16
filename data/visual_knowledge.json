@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-06-15T22:53:52.556Z",
+  "ultima_atualizacao": "2026-06-16T00:21:55.010Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human e Neon-Noir",
-      "Inclusão de Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhorar o engajamento e alcance"
+      "Adoção do estilo Hyper-Human para maior autenticidade",
+      "Incorporação do contraste Neon-Noir para chamar atenção",
+      "Uso de Design Deconstrutivista para parar o scroll",
+      "Implementação de Tipografia Gigante para leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
-      "foco_composicao": "Enquadre a cena de forma irregular, quebrando as regras tradicionais de layout, e destaque o sujeito principal com contraste agressivo",
-      "paleta_cores": "Preto profundo e neon vibrante, com acenos a cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "A combinação de imagens cruas e imperfeitas com contraste agressivo e estética onírica gera curiosidade e pausa no scroll, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre luz e sombra, destacando o tema principal",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "A combinação de autenticidade humana com contraste visual agressivo e estética onírica gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um sujeito humano em destaque, utilizando luzes neon para realçar as imperfeições e texturas da pele, com uma tipografia gigante sobreposta que diz 'Descubra o Invisível'",
+    "prompt_padrao_atualizado": "Crie uma imagem com um tema humano autêntico, incorporando neon e contraste agressivo, com texto dominante em primeiro plano",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-14T17:06:42.537Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhoria da leitura no mobile"
-      ]
-    },
     {
       "data": "2026-06-14T19:06:24.093Z",
       "licao": [
@@ -99,6 +93,15 @@
         "Adaptação às tendências de Hyper-Human e Neon-Noir",
         "Inclusão de Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhorar o engajamento e alcance"
+      ]
+    },
+    {
+      "data": "2026-06-16T00:21:55.010Z",
+      "licao": [
+        "Adoção do estilo Hyper-Human para maior autenticidade",
+        "Incorporação do contraste Neon-Noir para chamar atenção",
+        "Uso de Design Deconstrutivista para parar o scroll",
+        "Implementação de Tipografia Gigante para leitura rápida"
       ]
     }
   ]
