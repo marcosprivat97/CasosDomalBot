@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-16T12:01:22.108Z",
+  "ultima_atualizacao": "2026-06-16T17:52:42.900Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Incorporação das tendências globais de 2026",
-      "Adaptação para melhorar a performance da página no Facebook"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação de estilo Hyper-Human e Neon-Noir para aumentar a atratividade visual",
+      "Implementação de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a destacar a imperfeição humana, com um foco em contrates agressivos entre preto e neon",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrates agressivos, gera curiosidade e atrai o olhar do usuário, aumentando o engajamento"
+      "foco_composicao": "Enquadre a foto com uma composição desequilibrada e elementos que quebram a regra dos terços",
+      "paleta_cores": "Preto profundo e neon vibrante para criar contraste agressivo",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a tipografia gigante facilita a leitura rápida e aumenta a probabilidade de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, destacando uma pessoa ou cena com imperfeições humanas, utilizando uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis suaves",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, com uma composição desequilibrada e elementos que quebram a regra dos terços, utilizando uma paleta de cores preto profundo e neon vibrante, e adicione uma tipografia gigante para destacar a mensagem principal",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-14T22:06:34.185Z",
-      "licao": [
-        "Ajuste no estilo de imagem para seguir a tendência Hyper-Human",
-        "Inclusão de contraste agressivo com Neon-Noir",
-        "Uso de Design Deconstrutivista para quebrar regras de layout",
-        "Implementação de Tipografia Gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-06-14T23:59:54.558Z",
       "licao": [
@@ -98,6 +90,14 @@
       "licao": [
         "Incorporação das tendências globais de 2026",
         "Adaptação para melhorar a performance da página no Facebook"
+      ]
+    },
+    {
+      "data": "2026-06-16T17:52:42.900Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação de estilo Hyper-Human e Neon-Noir para aumentar a atratividade visual",
+        "Implementação de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
   ]
