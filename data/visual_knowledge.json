@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-16T06:22:54.243Z",
+  "ultima_atualizacao": "2026-06-16T12:01:22.108Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em Hyper-Human e estéticas visuais impactantes"
+      "Incorporação das tendências globais de 2026",
+      "Adaptação para melhorar a performance da página no Facebook"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem com contraste agressivo, destacando o tema principal com iluminação dramática",
-      "paleta_cores": "Preto profundo com neon vibrante, evitando cores pastéis e suaves",
-      "teoria_do_clique": "O uso de contraste agressivo e iluminação dramática atrai a atenção do usuário, fazendo com que ele pare o scroll e interaja com a publicação"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a destacar a imperfeição humana, com um foco em contrates agressivos entre preto e neon",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrates agressivos, gera curiosidade e atrai o olhar do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com iluminação neon, destacando um elemento humano em primeiro plano, com uma paleta de cores vibrantes e agressivas",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, destacando uma pessoa ou cena com imperfeições humanas, utilizando uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis suaves",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-14T20:58:10.545Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-        "Foco em estética onírica e contraste agressivo para parar o scroll"
-      ]
-    },
     {
       "data": "2026-06-14T22:06:34.185Z",
       "licao": [
@@ -99,6 +91,13 @@
       "licao": [
         "Adaptação às tendências globais de 2026",
         "Foco em Hyper-Human e estéticas visuais impactantes"
+      ]
+    },
+    {
+      "data": "2026-06-16T12:01:22.108Z",
+      "licao": [
+        "Incorporação das tendências globais de 2026",
+        "Adaptação para melhorar a performance da página no Facebook"
       ]
     }
   ]
