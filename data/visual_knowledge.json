@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-17T21:54:25.633Z",
+  "ultima_atualizacao": "2026-06-17T23:15:32.253Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
-      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de tipografia gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas que destacam imperfeições humanas",
-      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre preto e neon, ou utilize uma estética onírica com Hyper-Bloom",
-      "paleta_cores": "Neon-Noir, com tons de preto profundo e neon vibrante, ou uma paleta pastel para a estética onírica",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos, gera engajamento por criar uma conexão emocional imediata com o espectador, além de parar o scroll devido à sua natureza impactante"
+      "estilo_imagem": "Fotografias reais, cruas e com imperfeições humanas, com contraste agressivo entre preto e neon",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras de layout tradicionais, utilizando elementos que interrompam o scroll",
+      "paleta_cores": "Utilize uma paleta de cores que combine tons neon com preto profundo, criando um contraste visual impactante",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estética onírica e contraste agressivo gera curiosidade e estimula o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com uma paleta neon-noir, incorporando textos gigantes para uma leitura rápida e impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com estética neon-noir, utilizando uma composição que quebre as regras de layout tradicionais e inclua textos dominantes em uma fonte grande e ousada",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-16T17:52:42.900Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação de estilo Hyper-Human e Neon-Noir para aumentar a atratividade visual",
-        "Implementação de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
-      ]
-    },
     {
       "data": "2026-06-16T20:35:16.409Z",
       "licao": [
@@ -97,6 +88,13 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
         "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-06-17T23:15:32.253Z",
+      "licao": [
+        "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de tipografia gigante para melhor leitura no mobile"
       ]
     }
   ]
