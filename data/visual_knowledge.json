@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-17T19:56:57.913Z",
+  "ultima_atualizacao": "2026-06-17T21:54:25.633Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de elementos visuais que quebram a monotonia",
-      "Foco em estética mais humana e menos artificial"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
+      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a cena de maneira irregular, com objetos ou pessoas cortadas parcialmente, para criar uma sensação de movimento e quebra de regras",
-      "paleta_cores": "Preto profundo com explosões de neon em verde, azul ou rosa, e iluminação suave para criar contraste",
-      "teoria_do_clique": "A combinação de cores fortes e composição irregular paralisa o scroll e atrai a atenção do usuário devido ao contraste agressivo e à quebra de expectativas"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas que destacam imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre preto e neon, ou utilize uma estética onírica com Hyper-Bloom",
+      "paleta_cores": "Neon-Noir, com tons de preto profundo e neon vibrante, ou uma paleta pastel para a estética onírica",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos, gera engajamento por criar uma conexão emocional imediata com o espectador, além de parar o scroll devido à sua natureza impactante"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens em primeiro plano, iluminados por neon, e um fundo escuro com elementos quebrados ou irregulares, utilizando uma paleta de cores neon e preto",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com uma paleta neon-noir, incorporando textos gigantes para uma leitura rápida e impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-16T12:01:22.108Z",
-      "licao": [
-        "Incorporação das tendências globais de 2026",
-        "Adaptação para melhorar a performance da página no Facebook"
-      ]
-    },
     {
       "data": "2026-06-16T17:52:42.900Z",
       "licao": [
@@ -96,6 +89,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de elementos visuais que quebram a monotonia",
         "Foco em estética mais humana e menos artificial"
+      ]
+    },
+    {
+      "data": "2026-06-17T21:54:25.633Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
+        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
       ]
     }
   ]
