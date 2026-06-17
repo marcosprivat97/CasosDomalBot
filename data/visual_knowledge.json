@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-17T17:43:19.006Z",
+  "ultima_atualizacao": "2026-06-17T19:56:57.913Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estética Hyper-Human e Neon-Noir para aumentar a atratividade visual",
-      "Incorporação de Design Deconstrutivista para quebrar a monotonia",
-      "Uso de Tipografia Gigante para facilitar a leitura e captar atenção"
+      "Inclusão de elementos visuais que quebram a monotonia",
+      "Foco em estética mais humana e menos artificial"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando contraste e cores vivas",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, utilizando a regra dos terços e explorando a profundidade de campo",
-      "paleta_cores": "Preto profundo, neon verde, azul e rosa, com toques de branco e cinza para criar contraste",
-      "teoria_do_clique": "O uso de cores vibrantes e composições dinâmicas gera engajamento por chamar a atenção do usuário e estimular a curiosidade"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a cena de maneira irregular, com objetos ou pessoas cortadas parcialmente, para criar uma sensação de movimento e quebra de regras",
+      "paleta_cores": "Preto profundo com explosões de neon em verde, azul ou rosa, e iluminação suave para criar contraste",
+      "teoria_do_clique": "A combinação de cores fortes e composição irregular paralisa o scroll e atrai a atenção do usuário devido ao contraste agressivo e à quebra de expectativas"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens em movimento, iluminados por luzes neon, utilizando uma paleta de cores vibrantes e um estilo cinematográfico",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens em primeiro plano, iluminados por neon, e um fundo escuro com elementos quebrados ou irregulares, utilizando uma paleta de cores neon e preto",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-16T06:22:54.243Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em Hyper-Human e estéticas visuais impactantes"
-      ]
-    },
     {
       "data": "2026-06-16T12:01:22.108Z",
       "licao": [
@@ -96,6 +88,14 @@
         "Foco em estética Hyper-Human e Neon-Noir para aumentar a atratividade visual",
         "Incorporação de Design Deconstrutivista para quebrar a monotonia",
         "Uso de Tipografia Gigante para facilitar a leitura e captar atenção"
+      ]
+    },
+    {
+      "data": "2026-06-17T19:56:57.913Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de elementos visuais que quebram a monotonia",
+        "Foco em estética mais humana e menos artificial"
       ]
     }
   ]
