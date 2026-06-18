@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-18T07:25:17.581Z",
+  "ultima_atualizacao": "2026-06-18T11:43:12.094Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em composições que quebram regras de layout para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições humanas e autenticidade",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos no centro da composição",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "A combinação de contraste agressivo e autenticidade humana gera curiosidade e engajamento, pois o cérebro humano é atraído por padrões complexos e histórias reais"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, destacando imperfeições humanas e contrastes agressivos",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, com elementos fora do centro para atrair o olhar",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis suaves para criar um ambiente onírico",
+      "teoria_do_clique": "A combinação de elementos humanos reais com contrastes agressivos e estéticas oníricas gera curiosidade e estimula o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma pessoa real, iluminada por neon, com sombras profundas e um fundo preto. Inclua elementos de Hyper-Bloom e texturas orgânicas para dar um toque de autenticidade",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em movimento, com neon refletido em um ambiente escuro, utilizando uma paleta de cores vibrantes e tipografia gigante para destacar uma mensagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-17T00:07:44.517Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Uso de contraste e tipografia para aumentar o engajamento"
-      ]
-    },
     {
       "data": "2026-06-17T05:58:01.115Z",
       "licao": [
@@ -94,6 +87,14 @@
       "licao": [
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade"
+      ]
+    },
+    {
+      "data": "2026-06-18T11:43:12.094Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em composições que quebram regras de layout para parar o scroll"
       ]
     }
   ]
