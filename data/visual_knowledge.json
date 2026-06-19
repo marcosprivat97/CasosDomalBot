@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-19T06:06:19.220Z",
+  "ultima_atualizacao": "2026-06-19T11:12:08.889Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      "Incorporação de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contraste agressivo Neon-Noir ou estética onírica Hyper-Bloom",
-      "foco_composicao": "Quebrar regras de layout tradicionais, utilizando composições assimétricas e elementos fora do centro para parar o scroll",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, ou cores pastéis em estética onírica",
-      "teoria_do_clique": "A combinação de elementos humanos reais, contraste agressivo e layout deconstrutivista gera curiosidade e engajamento, pois desafia a expectativa do usuário e cria uma experiência visual única"
+      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com destaque para contraste agressivo preto/neon",
+      "foco_composicao": "Enquadre a foto de forma irregular, quebrando regras de layout tradicionais, para chamar a atenção do usuário",
+      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com a estética onírica e contraste agressivo, gera curiosidade e interação, pois o cérebro humano está programado para reconhecer e se conectar com a imperfeição e a autenticidade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais, com contraste agressivo Neon-Noir ou estética onírica Hyper-Bloom, e uma composição que quebre as regras de layout tradicionais, com texto gigante e cores que desafiem a expectativa do usuário",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon e sombras profundas, usando uma composição irregular e textos gigantes em primeiro plano",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-17T23:15:32.253Z",
-      "licao": [
-        "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de tipografia gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-06-18T02:33:53.824Z",
       "licao": [
@@ -96,6 +89,13 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-06-19T11:12:08.889Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
