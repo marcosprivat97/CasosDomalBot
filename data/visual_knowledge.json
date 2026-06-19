@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-19T11:12:08.889Z",
+  "ultima_atualizacao": "2026-06-19T14:39:10.246Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Incorporação de Tipografia Gigante para melhor leitura no mobile"
+      "Implementação de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com destaque para contraste agressivo preto/neon",
-      "foco_composicao": "Enquadre a foto de forma irregular, quebrando regras de layout tradicionais, para chamar a atenção do usuário",
-      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com a estética onírica e contraste agressivo, gera curiosidade e interação, pois o cérebro humano está programado para reconhecer e se conectar com a imperfeição e a autenticidade"
+      "estilo_imagem": "Neon-Noir com toques de realismo sujo e imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com elementos que quebram a regra de terceiros",
+      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com toques de cores pastéis para criar um contraste onírico",
+      "teoria_do_clique": "A combinação de cores agressivas e a quebra de regras de layout criam uma imagem que para o scroll e estimula a curiosidade, enquanto a presença de imperfeições humanas gera empatia e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon e sombras profundas, usando uma composição irregular e textos gigantes em primeiro plano",
+    "prompt_padrao_atualizado": "Crie uma imagem neon-noir com uma pessoa real, imperfeições incluídas, em um ambiente sombrio com toques de neon verde e rosa, com textos gigantes em fonte sans-serif branca",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-18T02:33:53.824Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a autenticidade",
-        "Uso de contraste agressivo e estéticas oníricas para aumentar o engajamento"
-      ]
-    },
     {
       "data": "2026-06-18T07:25:17.581Z",
       "licao": [
@@ -96,6 +88,13 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Incorporação de Tipografia Gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-19T14:39:10.246Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Implementação de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
