@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-19T00:19:04.390Z",
+  "ultima_atualizacao": "2026-06-19T06:06:19.220Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estilos de imagem mais autênticos e cruas",
-      "Incorporação de contrastes agressivos e tipografia gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a destacar imperfeições humanas e contrastes agressivos",
-      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual atraente",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos, gera curiosidade e paralisa o scroll"
+      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contraste agressivo Neon-Noir ou estética onírica Hyper-Bloom",
+      "foco_composicao": "Quebrar regras de layout tradicionais, utilizando composições assimétricas e elementos fora do centro para parar o scroll",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, ou cores pastéis em estética onírica",
+      "teoria_do_clique": "A combinação de elementos humanos reais, contraste agressivo e layout deconstrutivista gera curiosidade e engajamento, pois desafia a expectativa do usuário e cria uma experiência visual única"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir, destacando imperfeições humanas e contrastes agressivos, utilizando uma paleta de cores que inclua preto, neon e tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais, com contraste agressivo Neon-Noir ou estética onírica Hyper-Bloom, e uma composição que quebre as regras de layout tradicionais, com texto gigante e cores que desafiem a expectativa do usuário",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-17T21:54:25.633Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-06-17T23:15:32.253Z",
       "licao": [
@@ -98,6 +89,13 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Foco em estilos de imagem mais autênticos e cruas",
         "Incorporação de contrastes agressivos e tipografia gigante"
+      ]
+    },
+    {
+      "data": "2026-06-19T06:06:19.220Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis"
       ]
     }
   ]
