@@ -1,35 +1,25 @@
 {
-  "ultima_atualizacao": "2026-06-20T12:22:14.272Z",
+  "ultima_atualizacao": "2026-06-20T14:58:22.034Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop' e buscam por fotos mais humanas e cruas",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de design deconstrutivista para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Otimização para melhor engajamento com base na performance atual da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom e toques de realismo sujo",
-      "foco_composicao": "Enquadre a imagem de forma a criar um centro de interesse claro, mas com elementos que quebram a simetria e atraem a atenção do espectador",
-      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves para criar contrastes agressivos e uma atmosfera onírica",
-      "teoria_do_clique": "O uso de imagens com contrastes agressivos e estéticas oníricas gera engajamento por criar uma experiência visual única e memorável, enquanto a tipografia gigante facilita a leitura e compreensão do conteúdo"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições e autenticidade",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos imperfeitos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contraste agressivo e elementos humanos imperfeitos gera curiosidade e convidação à interação, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Neon-Noir com elementos de Hyper-Bloom, toques de realismo sujo e uma paleta de cores que inclua preto profundo, neon vibrante e cores pastéis suaves. Adicione textos dominantes com fonte sans-serif e tamanho mínimo de 48px.",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais, iluminadas por neon, com tons de preto profundo e pastéis suaves, destacando imperfeições humanas e autenticidade",
     "config_layout": {
-      "font_size_mult": 1.2,
+      "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-19T14:39:10.246Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Implementação de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-06-19T17:10:05.730Z",
       "licao": [
@@ -97,6 +87,13 @@
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de design deconstrutivista para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-20T14:58:22.034Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Otimização para melhor engajamento com base na performance atual da página"
       ]
     }
   ]
