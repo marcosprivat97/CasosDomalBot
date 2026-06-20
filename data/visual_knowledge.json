@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-20T14:58:22.034Z",
+  "ultima_atualizacao": "2026-06-20T16:15:09.156Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.4",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Otimização para melhor engajamento com base na performance atual da página"
+      "Adaptação às tendências de 2026",
+      "Foco em hyper-humanismo e estética neon-noir",
+      "Incorporação de design deconstrutivista e tipografia gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições e autenticidade",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos imperfeitos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contraste agressivo e elementos humanos imperfeitos gera curiosidade e convidação à interação, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom com toques de realismo sujo",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, com elementos humanos imperfeitos no centro",
+      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves para criar um ambiente onírico",
+      "teoria_do_clique": "A combinação de elementos humanos imperfeitos com estética neon-noir e design deconstrutivista gera engajamento por criar uma sensação de autenticidade e surpresa"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais, iluminadas por neon, com tons de preto profundo e pastéis suaves, destacando imperfeições humanas e autenticidade",
+    "prompt_padrao_atualizado": "Crie uma imagem neon-noir com uma pessoa real no centro, rodeada por luzes neon vibrantes e sombras profundas, com uma tipografia gigante sobreposta com uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-19T17:10:05.730Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
-        "Quebra de regras de layout para parar o scroll e aumentar o engajamento"
-      ]
-    },
     {
       "data": "2026-06-19T19:23:18.592Z",
       "licao": [
@@ -94,6 +86,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Otimização para melhor engajamento com base na performance atual da página"
+      ]
+    },
+    {
+      "data": "2026-06-20T16:15:09.156Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em hyper-humanismo e estética neon-noir",
+        "Incorporação de design deconstrutivista e tipografia gigante"
       ]
     }
   ]
