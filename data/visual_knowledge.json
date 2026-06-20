@@ -1,19 +1,17 @@
 {
-  "ultima_atualizacao": "2026-06-20T07:40:50.324Z",
+  "ultima_atualizacao": "2026-06-20T10:24:42.957Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.4",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor legibilidade",
-      "Otimização para melhor engajamento e alcance"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre sujeitos ou objetos de forma irregular, quebrando regras de layout tradicionais",
-      "paleta_cores": "Contrastes agressivos com preto e neon, ou estéticas oníricas com tons pastéis",
-      "teoria_do_clique": "O uso de imagens reais e imperfeitas, aliado a contrastes visuais fortes, gera curiosidade e parada do scroll"
+      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, criando um design deconstrutivista que pare o scroll",
+      "paleta_cores": "Utilize cores neon e preto para criar contraste agressivo, ou estéticas oníricas com cores pastéis e brilhantes",
+      "teoria_do_clique": "O uso de imagens reais e cruas, com contraste agressivo e design deconstrutivista, gera engajamento pois chama a atenção do usuário e cria uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de um sujeito humano real, com expressão natural e imperfeições, em um ambiente com iluminação neon ou tons pastéis, com texto gigante sobreposto, desafiando as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com contraste agressivo e design deconstrutivista, utilizando cores neon e preto, e uma tipografia gigante para leitura rápida no mobile",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +19,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-19T06:06:19.220Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-06-19T11:12:08.889Z",
       "licao": [
@@ -93,6 +84,12 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor legibilidade",
         "Otimização para melhor engajamento e alcance"
+      ]
+    },
+    {
+      "data": "2026-06-20T10:24:42.957Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
