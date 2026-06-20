@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-19T23:58:16.193Z",
+  "ultima_atualizacao": "2026-06-20T03:25:09.608Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
+      "Foco em imagens reais e cruas para aumentar a autenticidade"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, com foco em detalhes humanos e imperfeições",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com tons pastéis e brilhantes",
-      "teoria_do_clique": "O uso de imagens reais e cruas, com toques de neon ou estéticas oníricas, gera engajamento por criar uma conexão emocional autêntica com o espectador"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, destacando contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadre a foto de maneira a quebrar as regras de layout tradicionais, criando um design deconstrutivista que chame a atenção",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis suaves para uma estética onírica",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera curiosidade e pausa no scroll, aumentando a probabilidade de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento autêntico e humano, com um toque de neon ou estética onírica, e uma composição que pare o scroll",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, utilizando uma paleta de cores vibrante e contrastes agressivos, com uma composição que quebre as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-18T22:50:25.122Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estilos visuais que rejeitam o 'AI Slop'",
-        "Incorporação de elementos de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-06-19T00:19:04.390Z",
       "licao": [
@@ -93,6 +85,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-06-20T03:25:09.608Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
+        "Foco em imagens reais e cruas para aumentar a autenticidade"
       ]
     }
   ]
