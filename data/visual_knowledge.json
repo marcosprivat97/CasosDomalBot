@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-21T19:12:04.973Z",
+  "ultima_atualizacao": "2026-06-21T21:03:06.185Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adoção de estilo Hyper-Human para fotos mais autênticas",
-      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
-      "Aplicação de Design Deconstrutivista para layout mais atraente",
-      "Uso de Tipografia Gigante para melhor legibilidade no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em composição que quebra regras de layout para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar uma narrativa, com personagens ou objetos em primeiro plano e um fundo minimalista ou contrastante",
-      "paleta_cores": "Preto e neon, com tons pastéis ou fluorescentes para criar um contraste agressivo e atraente",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com elementos de contraste e layout inovador, gera curiosidade e encoraja o engajamento do usuário"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando contraste agressivo e estética onírica",
+      "foco_composicao": "Enquadramento off-center, com objetos ou elementos principais fora do centro da imagem, e uso de linhas diagonais para criar tensão visual",
+      "paleta_cores": "Preto profundo como base, com acertos de neon em cores vibrantes como rosa, azul ou verde, para criar contraste e atração",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica, combinado com a quebra de regras de layout, cria uma experiência visual impactante que pára o scroll e incentiva o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena com personagens reais em um ambiente urbano noturno, com iluminação neon e tons pastéis, e uma tipografia gigante destacando uma mensagem ou tema principal",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com um personagem principal em primeiro plano, iluminado por neon, com uma paleta de cores que inclua preto, rosa neon e azul escuro, e um design deconstrutivista que quebre as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,12 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-20T20:09:31.783Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página"
-      ]
-    },
     {
       "data": "2026-06-20T21:58:15.554Z",
       "licao": [
@@ -93,6 +86,14 @@
         "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
         "Aplicação de Design Deconstrutivista para layout mais atraente",
         "Uso de Tipografia Gigante para melhor legibilidade no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-21T21:03:06.185Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em composição que quebra regras de layout para parar o scroll"
       ]
     }
   ]
