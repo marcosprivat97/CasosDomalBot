@@ -1,17 +1,17 @@
 {
-  "ultima_atualizacao": "2026-06-21T15:44:38.278Z",
+  "ultima_atualizacao": "2026-06-21T17:16:44.366Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contraste agressivo (preto/neon) ou estética onírica",
-      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, criando uma composição desequilibrada e atraente",
-      "paleta_cores": "Utilize cores neon ou pastéis suaves em contraste com preto ou cores escuras para criar um efeito visual impactante",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e design deconstrutivista, gera engajamento por criar uma sensação de autenticidade e surpresa"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir para criar contraste agressivo",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, utilizando elementos que interrompam o scroll",
+      "paleta_cores": "Preto profundo com neon vibrante para criar um contraste intenso e chamar a atenção",
+      "teoria_do_clique": "O uso de imagens cruas e com imperfeições humanas, aliado a um design deconstrutivista e tipografia gigante, aumenta a probabilidade de parar o scroll e gerar engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com contraste agressivo e design deconstrutivista, utilizando tipografia gigante para transmitir uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir, utilizando uma paleta de cores escura com toques de neon, e uma composição que quebre as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -19,14 +19,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-20T16:15:09.156Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em hyper-humanismo e estética neon-noir",
-        "Incorporação de design deconstrutivista e tipografia gigante"
-      ]
-    },
     {
       "data": "2026-06-20T18:03:33.792Z",
       "licao": [
@@ -91,6 +83,12 @@
       "data": "2026-06-21T15:44:38.278Z",
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-06-21T17:16:44.366Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento"
       ]
     }
   ]
