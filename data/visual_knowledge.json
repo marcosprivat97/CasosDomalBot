@@ -1,17 +1,20 @@
 {
-  "ultima_atualizacao": "2026-06-21T17:16:44.366Z",
+  "ultima_atualizacao": "2026-06-21T19:12:04.973Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento"
+      "Adoção de estilo Hyper-Human para fotos mais autênticas",
+      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+      "Aplicação de Design Deconstrutivista para layout mais atraente",
+      "Uso de Tipografia Gigante para melhor legibilidade no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir para criar contraste agressivo",
-      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, utilizando elementos que interrompam o scroll",
-      "paleta_cores": "Preto profundo com neon vibrante para criar um contraste intenso e chamar a atenção",
-      "teoria_do_clique": "O uso de imagens cruas e com imperfeições humanas, aliado a um design deconstrutivista e tipografia gigante, aumenta a probabilidade de parar o scroll e gerar engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma a criar uma narrativa, com personagens ou objetos em primeiro plano e um fundo minimalista ou contrastante",
+      "paleta_cores": "Preto e neon, com tons pastéis ou fluorescentes para criar um contraste agressivo e atraente",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com elementos de contraste e layout inovador, gera curiosidade e encoraja o engajamento do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir, utilizando uma paleta de cores escura com toques de neon, e uma composição que quebre as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma cena com personagens reais em um ambiente urbano noturno, com iluminação neon e tons pastéis, e uma tipografia gigante destacando uma mensagem ou tema principal",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -19,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-20T18:03:33.792Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor legibilidade",
-        "Foco em composições que quebram regras de layout para parar o scroll"
-      ]
-    },
     {
       "data": "2026-06-20T20:09:31.783Z",
       "licao": [
@@ -89,6 +84,15 @@
       "data": "2026-06-21T17:16:44.366Z",
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento"
+      ]
+    },
+    {
+      "data": "2026-06-21T19:12:04.973Z",
+      "licao": [
+        "Adoção de estilo Hyper-Human para fotos mais autênticas",
+        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+        "Aplicação de Design Deconstrutivista para layout mais atraente",
+        "Uso de Tipografia Gigante para melhor legibilidade no mobile"
       ]
     }
   ]
