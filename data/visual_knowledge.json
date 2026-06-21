@@ -1,17 +1,20 @@
 {
-  "ultima_atualizacao": "2026-06-20T23:04:48.911Z",
+  "ultima_atualizacao": "2026-06-21T02:34:25.949Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar a performance da página"
+      "Inclusão do estilo Hyper-Human para fotos mais autênticas",
+      "Adoção de contraste agressivo com Neon-Noir e Hyper-Bloom",
+      "Implementação de Design Deconstrutivista para quebrar regras de layout",
+      "Uso de Tipografia Gigante para leitura rápida em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Realismo Sujo com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, destacando o tema principal",
-      "paleta_cores": "Preto profundo e neon vibrante para criar um efeito de Hyper-Bloom",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a autenticidade do Realismo Sujo gera empatia e conexão"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma a destacar imperfeições humanas e contraste agressivo, quebrando regras tradicionais de composição",
+      "paleta_cores": "Preto profundo com neon vibrante ou tons pastéis suaves para Hyper-Bloom",
+      "teoria_do_clique": "A combinação de autenticidade humana com estéticas vibrantes ou oníricas gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Realismo Sujo com toques de Neon-Noir, destacando um tema humano autêntico em um ambiente sombrio com detalhes neon vibrantes",
+    "prompt_padrao_atualizado": "Crie uma cena Hyper-Human com elementos Neon-Noir, destacando contraste agressivo e composição deconstrutivista, com textos gigantes em primeiro plano",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -19,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-20T03:25:09.608Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
-        "Foco em imagens reais e cruas para aumentar a autenticidade"
-      ]
-    },
     {
       "data": "2026-06-20T07:40:50.324Z",
       "licao": [
@@ -92,6 +87,15 @@
       "data": "2026-06-20T23:04:48.911Z",
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar a performance da página"
+      ]
+    },
+    {
+      "data": "2026-06-21T02:34:25.949Z",
+      "licao": [
+        "Inclusão do estilo Hyper-Human para fotos mais autênticas",
+        "Adoção de contraste agressivo com Neon-Noir e Hyper-Bloom",
+        "Implementação de Design Deconstrutivista para quebrar regras de layout",
+        "Uso de Tipografia Gigante para leitura rápida em dispositivos móveis"
       ]
     }
   ]
