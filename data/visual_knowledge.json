@@ -1,21 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-22T12:41:30.564Z",
+  "ultima_atualizacao": "2026-06-22T17:23:53.148Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.4",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilo de imagem mais cru e humano",
-      "Uso de contraste agressivo e estética onírica",
-      "Quebra de regras de layout para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma assimétrica, com foco em elementos humanos e imperfeições",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar contraste",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a tipografia gigante facilita a leitura e o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre preto e neon, com elementos humanos no centro",
+      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com toques de cores pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "A combinação de contraste agressivo e estética onírica, junto com a ênfase em imperfeições humanas, gera curiosidade e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, com uma pessoa ou objeto em foco, em um ambiente sombrio com iluminação neon, e adicione texto gigante com uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem humano no centro, utilizando luzes neon para criar um contraste agressivo com o preto do fundo, e adicione elementos que destaquem imperfeições humanas, como rugas ou expressões faciais intensas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,12 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-21T10:58:16.103Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento"
-      ]
-    },
     {
       "data": "2026-06-21T13:03:26.526Z",
       "licao": [
@@ -99,6 +90,13 @@
         "Uso de contraste agressivo e estética onírica",
         "Quebra de regras de layout para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-22T17:23:53.148Z",
+      "licao": [
+        "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
