@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-22T17:23:53.148Z",
+  "ultima_atualizacao": "2026-06-22T20:31:40.938Z",
   "licao_atual": {
-    "versao_logica": "1.4",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis",
+      "Foco em criar imagens que rejeitem o 'AI Slop' e busquem imperfeições humanas"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre preto e neon, com elementos humanos no centro",
-      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com toques de cores pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "A combinação de contraste agressivo e estética onírica, junto com a ênfase em imperfeições humanas, gera curiosidade e engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, buscando contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento ou ação, com objetos ou pessoas fora de foco para dar um toque de realismo",
+      "paleta_cores": "Preto profundo e neon vibrante, com possíveis toques de cores pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "O engajamento será gerado pela combinação de elementos visuais impactantes, como contrastes fortes e composições desestruturadas, que param o scroll do usuário e o levam a querer saber mais"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem humano no centro, utilizando luzes neon para criar um contraste agressivo com o preto do fundo, e adicione elementos que destaquem imperfeições humanas, como rugas ou expressões faciais intensas",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoa(s) em movimento, iluminada(s) por luzes neon que criam um contraste agressivo com o fundo escuro, com texto gigante sobrepondo a imagem com uma mensagem curta e impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-21T13:03:26.526Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de elementos de Design Deconstrutivista para parar o scroll",
-        "Uso de Tipografia Gigante para leitura rápida no mobile",
-        "Incorporação de estética Hyper-Human para maior autenticidade"
-      ]
-    },
     {
       "data": "2026-06-21T15:44:38.278Z",
       "licao": [
@@ -97,6 +89,14 @@
       "licao": [
         "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-06-22T20:31:40.938Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis",
+        "Foco em criar imagens que rejeitem o 'AI Slop' e busquem imperfeições humanas"
       ]
     }
   ]
