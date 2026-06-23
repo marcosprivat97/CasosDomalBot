@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-23T03:25:22.485Z",
+  "ultima_atualizacao": "2026-06-23T07:37:14.608Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-      "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento e alcance da página",
+      "Inclusão de elementos que quebram regras de layout para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma descentrada, com atenção a detalhes e imperfeições humanas",
-      "paleta_cores": "Preto profundo e neon vibrante, com possíveis toques de cores pastéis para estética onírica",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e layout inovador, atrai a atenção do usuário e estimula a interação"
+      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contraste agressivo (preto/neon) ou estéticas oníricas",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou tensão, com elementos fora do centro e regras de layout quebradas",
+      "paleta_cores": "Preto, neon e cores pastéis para criar contrastes agressivos e estéticas oníricas",
+      "teoria_do_clique": "O uso de imagens reais e cruas, com contraste agressivo e estéticas oníricas, gera engajamento por criar uma sensação de autenticidade e surpresa"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento autêntico e imperfeito, com um contraste agressivo entre preto e neon, e um layout que desafia as convenções",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano, com iluminação neon e contraste agressivo, e inclua texto gigante com uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-21T21:03:06.185Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-        "Foco em composição que quebra regras de layout para parar o scroll"
-      ]
-    },
     {
       "data": "2026-06-21T22:58:40.787Z",
       "licao": [
@@ -102,6 +93,14 @@
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
         "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-06-23T07:37:14.608Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento e alcance da página",
+        "Inclusão de elementos que quebram regras de layout para parar o scroll"
       ]
     }
   ]
