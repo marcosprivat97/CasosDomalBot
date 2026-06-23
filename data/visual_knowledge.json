@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-06-22T23:58:44.211Z",
+  "ultima_atualizacao": "2026-06-23T03:25:22.485Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
-      "Implementação de design deconstrutivista e tipografia gigante para parar o scroll"
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
+      "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
+      "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto com um foco principal claro, mas inclua elementos que quebrem a simetria e criem contraste",
-      "paleta_cores": "Preto profundo com neon vibrante ou tons pastéis suaves para criar um contraste agressivo e onírico",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo, gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma descentrada, com atenção a detalhes e imperfeições humanas",
+      "paleta_cores": "Preto profundo e neon vibrante, com possíveis toques de cores pastéis para estética onírica",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e layout inovador, atrai a atenção do usuário e estimula a interação"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com pessoas reais, iluminada por neon, com uma paleta de cores que inclua preto, rosa neon e azul claro, e um texto gigante que domine a composição",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento autêntico e imperfeito, com um contraste agressivo entre preto e neon, e um layout que desafia as convenções",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-21T19:12:04.973Z",
-      "licao": [
-        "Adoção de estilo Hyper-Human para fotos mais autênticas",
-        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
-        "Aplicação de Design Deconstrutivista para layout mais atraente",
-        "Uso de Tipografia Gigante para melhor legibilidade no mobile"
-      ]
-    },
     {
       "data": "2026-06-21T21:03:06.185Z",
       "licao": [
@@ -101,6 +93,15 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
         "Implementação de design deconstrutivista e tipografia gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-06-23T03:25:22.485Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
+        "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
+        "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
       ]
     }
   ]
