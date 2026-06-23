@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-23T10:52:17.961Z",
+  "ultima_atualizacao": "2026-06-23T13:34:45.288Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a autenticidade",
-      "Implementação de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a estética humana",
+      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma desequilibrada, com elementos fora do centro, para criar um layout deconstrutivista",
-      "paleta_cores": "Preto profundo com neon vibrante e detalhes suaves em tons pastéis para um efeito Hyper-Bloom",
-      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas e contrastes agressivos gera engajamento por ser mais autêntico e cativante, além de parar o scroll devido à quebra de regras de layout"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human para criar uma estética única e atraente",
+      "foco_composicao": "Enquadre a foto para destacar o elemento principal com um espaço negativo significativo ao redor, criando um contraste visual impactante",
+      "paleta_cores": "Preto profundo como base, com neon ou cores vibrantes em elementos específicos para criar um contraste agressivo",
+      "teoria_do_clique": "O uso de contraste agressivo e estéticas oníricas atrai a atenção do usuário, enquanto a inclusão de elementos humanos reais aumenta a conexão emocional e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com pessoas reais, iluminada por neon, com cores vibrantes e sombras profundas, e um texto gigante sobrepondo a cena",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um elemento humano em primeiro plano, iluminado por uma fonte de luz neon, sobre um fundo preto profundo com detalhes em neon ou cores vibrantes",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-22T00:10:12.077Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
-        "Implementação de design deconstrutivista para parar o scroll",
-        "Incorporação de tipografia gigante para facilitar a leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-06-22T06:18:48.843Z",
       "licao": [
@@ -101,6 +91,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a autenticidade",
         "Implementação de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      ]
+    },
+    {
+      "data": "2026-06-23T13:34:45.288Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a estética humana",
+        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
       ]
     }
   ]
