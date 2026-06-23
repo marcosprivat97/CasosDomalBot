@@ -1,20 +1,20 @@
 {
-  "ultima_atualizacao": "2026-06-23T19:00:25.432Z",
+  "ultima_atualizacao": "2026-06-23T21:22:01.453Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão de estilos de imagem mais cruas e humanas",
-      "Uso de contraste agressivo para chamar a atenção",
-      "Adoção de design deconstrutivista para layout",
-      "Implementação de tipografia gigante para facilitar leitura"
+      "Adoção do estilo Hyper-Human para fotos",
+      "Incorporação de Neon-Noir e Hyper-Bloom para contraste",
+      "Uso de Design Deconstrutivista para layout",
+      "Implementação de Tipografia Gigante para textos"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, com foco em detalhes humanos como expressões faciais ou texturas",
-      "paleta_cores": "Preto profundo com neon vibrante, criando um contraste agressivo que chama a atenção",
-      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas e contraste agressivo gera curiosidade e engajamento, pois é mais relatable e visceral"
+      "estilo_imagem": "Hyper-Human, com foco em imperfeições e autenticidade",
+      "foco_composicao": "Enquadre a foto de forma a destacar a imperfeição humana, com ângulos inusitados e composição desequilibrada",
+      "paleta_cores": "Neon-Noir com tons pastéis ou Hyper-Bloom com cores vibrantes, para criar contraste e chamar a atenção",
+      "teoria_do_clique": "O Design Deconstrutivista e a Tipografia Gigante param o scroll, enquanto o Hyper-Human cria uma conexão emocional com o usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir, mostrando uma cena urbana noturna com pessoas em movimento, utilizando uma paleta de cores preto/neon e adotando um design deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem Hyper-Human com Neon-Noir, destacando uma pessoa em um ambiente urbano, com textos gigantes em primeiro plano e uma composição desequilibrada",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,13 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-22T17:23:53.148Z",
-      "licao": [
-        "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-06-22T20:31:40.938Z",
       "licao": [
@@ -103,6 +96,15 @@
         "Uso de contraste agressivo para chamar a atenção",
         "Adoção de design deconstrutivista para layout",
         "Implementação de tipografia gigante para facilitar leitura"
+      ]
+    },
+    {
+      "data": "2026-06-23T21:22:01.453Z",
+      "licao": [
+        "Adoção do estilo Hyper-Human para fotos",
+        "Incorporação de Neon-Noir e Hyper-Bloom para contraste",
+        "Uso de Design Deconstrutivista para layout",
+        "Implementação de Tipografia Gigante para textos"
       ]
     }
   ]
