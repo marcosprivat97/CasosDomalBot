@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-24T22:06:10.306Z",
+  "ultima_atualizacao": "2026-06-24T23:56:48.379Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhorar o engajamento e alcance da página"
+      "Foco em criar imagens que rejeitam o 'AI Slop' e buscam por estéticas mais cruas e humanas",
+      "Inclusão de contraste agressivo e quebra de regras de layout para aumentar o engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, destacando contrastes agressivos e estéticas oníricas",
-      "foco_composicao": "Quebrar regras de layout tradicionais, utilizando elementos diagonais e sobreposições para parar o scroll",
-      "paleta_cores": "Preto profundo como base, com acembros neon em cores vibrantes para criar contraste",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas estimula a curiosidade do usuário, aumentando a probabilidade de clique"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento e imperfeição, utilizando ângulos e focos não convencionais",
+      "paleta_cores": "Neon vibrante sobre fundo preto ou estética onírica para criar contraste agressivo e chamar a atenção",
+      "teoria_do_clique": "A combinação de elementos humanos com estética futurista e a quebra de regras de layout criarão uma curiosidade imediata no usuário, aumentando as chances de clique e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, utilizando uma paleta de preto profundo e neon vibrante, com uma composição que quebre as regras tradicionais de layout e inclua textos gigantes para leitura rápida",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma cena urbana noturna com pessoas reais em movimento, utilizando neon vibrante e contraste agressivo, com texto gigante sobrepondo a cena com uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-23T22:58:10.339Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Implementação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-06-23T23:53:32.715Z",
       "licao": [
@@ -99,6 +92,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhorar o engajamento e alcance da página"
+      ]
+    },
+    {
+      "data": "2026-06-24T23:56:48.379Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Foco em criar imagens que rejeitam o 'AI Slop' e buscam por estéticas mais cruas e humanas",
+        "Inclusão de contraste agressivo e quebra de regras de layout para aumentar o engajamento"
       ]
     }
   ]
