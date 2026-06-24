@@ -1,33 +1,26 @@
 {
-  "ultima_atualizacao": "2026-06-24T10:12:09.207Z",
+  "ultima_atualizacao": "2026-06-24T13:10:07.435Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de elementos visuais que seguem as diretrizes de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Implementação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contraste agressivo entre preto e neon",
-      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, criando assimetrias e surpresas visuais",
-      "paleta_cores": "Neon vibrante sobre fundo preto ou escuro, com elementos que remetam à estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras visuais capturam a atenção do usuário, enquanto a autenticidade e a imperfeição humana geram conexão emocional"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos no centro",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de contraste agressivo, cores vibrantes e elementos humanos reais gera curiosidade e parada do scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com detalhes neon vibrantes, em um ambiente escuro e onírico, com textos gigantes que dominam a composição",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa no centro, destacando imperfeições humanas, com um fundo preto e neon vibrante, utilizando Design Deconstrutivista e Tipografia Gigante",
     "config_layout": {
-      "font_size_mult": 2.5,
+      "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-23T10:52:17.961Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a autenticidade",
-        "Implementação de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
-      ]
-    },
     {
       "data": "2026-06-23T13:34:45.288Z",
       "licao": [
@@ -101,6 +94,14 @@
       "licao": [
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de elementos visuais que seguem as diretrizes de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista"
+      ]
+    },
+    {
+      "data": "2026-06-24T13:10:07.435Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Implementação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
