@@ -1,21 +1,17 @@
 {
-  "ultima_atualizacao": "2026-06-25T18:59:58.431Z",
+  "ultima_atualizacao": "2026-06-25T20:58:36.222Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026 para melhorar a performance da página",
-      "Foco em estética Hyper-Human para aumentar a conexão emocional",
-      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste visual",
-      "Aplicação do Design Deconstrutivista para quebrar a monotonia",
-      "Uso de Tipografia Gigante para facilitar a leitura rápida"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem de forma a incluir elementos imperfeitos e humanos, como texturas naturais ou expressões faciais autênticas, com contraste agressivo entre preto e neon ou estéticas oníricas",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
-      "teoria_do_clique": "A combinação de elementos humanos, contrastes agressivos e layouts inovadores gera curiosidade e paralisa o scroll, aumentando a probabilidade de engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, enfatizando contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadramento descentrado, com elementos principais posicionados em terços da imagem, quebrando regras de layout tradicionais",
+      "paleta_cores": "Predominância de tons escuros e neon, com destaque para cores vibrantes em elementos-chave",
+      "teoria_do_clique": "A combinação de contrastes agressivos e estéticas oníricas captura a atenção do usuário, enquanto a quebra de regras de layout estimula a curiosidade e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem Hyper-Human com um fundo preto profundo, inclua elementos neon vibrantes e tons pastéis suaves, com uma composição que quebre as regras de layout tradicionais e inclua textos gigantes para leitura rápida",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos vibrantes e uma composição descentrada, incorporando textos gigantes e contrastes agressivos, inspirada nas tendências Hyper-Human e Design Deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,13 +19,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-24T18:26:30.601Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-06-24T20:26:18.625Z",
       "licao": [
@@ -107,6 +96,12 @@
         "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste visual",
         "Aplicação do Design Deconstrutivista para quebrar a monotonia",
         "Uso de Tipografia Gigante para facilitar a leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-06-25T20:58:36.222Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento"
       ]
     }
   ]
