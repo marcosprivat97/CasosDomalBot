@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-26T16:16:23.977Z",
+  "ultima_atualizacao": "2026-06-26T18:21:11.669Z",
   "licao_atual": {
     "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhorar o engajamento e alcance da página"
+      "Adaptação para tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor legibilidade"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Realismo Sujo com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com foco em detalhes humanos reais e imperfeições",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "A combinação de realismo sujo e contraste agressivo cria uma imagem que chama a atenção e estimula a curiosidade do usuário, aumentando o engajamento"
+      "estilo_imagem": "Estilo Hyper-Human com toques de Neon-Noir, destacando contraste agressivo e imperfeições humanas",
+      "foco_composicao": "Enquadramento não convencional, quebrando regras de layout tradicionais para chamar a atenção do usuário",
+      "paleta_cores": "Preto profundo com neon vibrante e nuances de cores pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas e contraste agressivo gera engajamento por ser mais autêntico e visualmente atraente, interrompendo o scroll do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento humano real, com imperfeições e detalhes cruas, em um ambiente neon-noir com contraste agressivo e tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em primeiro plano, utilizando iluminação neon para realçar detalhes e texturas, com um fundo preto profundo e elementos de design deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,16 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-25T16:14:06.201Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026 para melhorar engajamento",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam um look mais humano e cru",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
-        "Implementação de design deconstrutivista para quebrar regras de layout",
-        "Uso de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-06-25T18:59:58.431Z",
       "licao": [
@@ -102,6 +92,13 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhorar o engajamento e alcance da página"
+      ]
+    },
+    {
+      "data": "2026-06-26T18:21:11.669Z",
+      "licao": [
+        "Adaptação para tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor legibilidade"
       ]
     }
   ]
