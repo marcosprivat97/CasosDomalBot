@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-27T21:52:25.484Z",
+  "ultima_atualizacao": "2026-06-27T22:52:30.669Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão de elementos visuais que rejeitam o 'AI Slop' para melhorar a autenticidade",
-      "Adoção de estilos de imagem que seguem as tendências de Hyper-Human e Neon-Noir",
-      "Implementação de design deconstrutivista para aumentar o engajamento",
-      "Uso de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, priorizando fotos reais e cruas com imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, com atenção a detalhes que contam histórias",
-      "paleta_cores": "Preto profundo e neon vibrante, com uma paleta de cores que remetam a uma estética onírica e ao mesmo tempo crua",
-      "teoria_do_clique": "O uso de imagens reais, com uma estética que desafia a perfeição, gera engajamento pois ressoa com a humanidade do espectador, além de parar o scroll devido ao seu caráter disruptivo"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto com uma abordagem desconstrutivista, quebrando regras de layout tradicionais para chamar a atenção",
+      "paleta_cores": "Preto profundo com neon vibrante, evocando um contraste agressivo e uma atmosfera onírica",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com a estética neon e a tipografia gigante, visa criar um choque visual que pare o scroll e estimule o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com toques de Neon-Noir, com uma pessoa em um ambiente urbano à noite, utilizando uma paleta de cores preto/neon e incorporando elementos de design deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon vibrante em um ambiente sombrio, utilizando uma composição desconstrutivista e tipografia gigante para transmitir uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-27T06:19:35.189Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human para melhorar engajamento",
-        "Incorporação de Design Deconstrutivista para parar o scroll"
-      ]
-    },
     {
       "data": "2026-06-27T09:21:12.508Z",
       "licao": [
@@ -98,6 +89,14 @@
         "Adoção de estilos de imagem que seguem as tendências de Hyper-Human e Neon-Noir",
         "Implementação de design deconstrutivista para aumentar o engajamento",
         "Uso de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-06-27T22:52:30.669Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
