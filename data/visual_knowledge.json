@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-06-27T22:52:30.669Z",
+  "ultima_atualizacao": "2026-06-27T23:52:33.940Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      "Inclusão de estilos de imagem que seguem a tendência Hyper-Human",
+      "Adaptação da paleta de cores para Neon-Noir e Hyper-Bloom",
+      "Implementação de Design Deconstrutivista para quebra de regras de layout",
+      "Uso de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto com uma abordagem desconstrutivista, quebrando regras de layout tradicionais para chamar a atenção",
-      "paleta_cores": "Preto profundo com neon vibrante, evocando um contraste agressivo e uma atmosfera onírica",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com a estética neon e a tipografia gigante, visa criar um choque visual que pare o scroll e estimule o engajamento"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas que destacam imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, destacando elementos neon ou com tons pastéis",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis oníricos para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens cruas e reais, combinado com contraste agressivo e estética onírica, gera engajamento por ser mais autêntico e chamativo"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon vibrante em um ambiente sombrio, utilizando uma composição desconstrutivista e tipografia gigante para transmitir uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem que misture elementos neon com um ambiente sombrio, utilizando uma tipografia gigante e cores pastéis para transmitir uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,12 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-27T09:21:12.508Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-06-27T11:18:28.517Z",
       "licao": [
@@ -97,6 +92,15 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-06-27T23:52:33.940Z",
+      "licao": [
+        "Inclusão de estilos de imagem que seguem a tendência Hyper-Human",
+        "Adaptação da paleta de cores para Neon-Noir e Hyper-Bloom",
+        "Implementação de Design Deconstrutivista para quebra de regras de layout",
+        "Uso de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
