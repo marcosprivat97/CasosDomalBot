@@ -1,20 +1,20 @@
 {
-  "ultima_atualizacao": "2026-06-28T16:56:35.853Z",
+  "ultima_atualizacao": "2026-06-28T17:59:46.021Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adoção do estilo Hyper-Human para fotos",
-      "Incorporação de Neon-Noir e Hyper-Bloom para contraste",
-      "Uso de Design Deconstrutivista para layout",
-      "Implementação de Tipografia Gigante para leitura rápida"
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' para melhorar a autenticidade",
+      "Uso de contrastes agressivos e estéticas oníricas para aumentar o engajamento",
+      "Implementação de design deconstrutivista para parar o scroll",
+      "Adoção de tipografia gigante para facilitar a leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Realismo Cru com toques de Neon para contraste",
-      "foco_composicao": "Enquadre a cena de forma desequilibrada, com elementos principais fora do centro, para criar tensão visual",
-      "paleta_cores": "Preto profundo com neon verde ou rosa para contraste agressivo",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout capturam a atenção do usuário, enquanto a estética onírica e o realismo cru evocam emoções e curiosidade"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, misturando elementos reais e cruas com iluminação neon intensa",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras tradicionais de layout, com elementos importantes cortados ou fora do centro, criando uma sensação de movimento e dinamismo",
+      "paleta_cores": "Preto profundo com neon vibrantes e explosões de cor pastel, criando contraste e atração visual",
+      "teoria_do_clique": "O uso de imagens cruas e autênticas, combinado com estéticas oníricas e tipografia dominante, gera curiosidade e pausa no scroll, aumentando as chances de engajamento"
     },
-    "prompt_padrao_atualizado": "Gere uma imagem de uma cena urbana noturna com neon verde destacado em um edifício, pessoas passando apressadas em primeiro plano, e um texto gigante sobreposto dizendo 'NOITE' em fonte bold, com um estilo realista cru e uma paleta de preto profundo com neon",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos Hyper-Bloom, incorporando uma tipografia gigante e um design deconstrutivista que desafia as regras de layout tradicionais, com uma paleta de cores que inclui preto profundo, neon vibrantes e toques de pastel",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-27T21:52:25.484Z",
-      "licao": [
-        "Inclusão de elementos visuais que rejeitam o 'AI Slop' para melhorar a autenticidade",
-        "Adoção de estilos de imagem que seguem as tendências de Hyper-Human e Neon-Noir",
-        "Implementação de design deconstrutivista para aumentar o engajamento",
-        "Uso de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-06-27T22:52:30.669Z",
       "licao": [
@@ -104,6 +95,15 @@
         "Incorporação de Neon-Noir e Hyper-Bloom para contraste",
         "Uso de Design Deconstrutivista para layout",
         "Implementação de Tipografia Gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-06-28T17:59:46.021Z",
+      "licao": [
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' para melhorar a autenticidade",
+        "Uso de contrastes agressivos e estéticas oníricas para aumentar o engajamento",
+        "Implementação de design deconstrutivista para parar o scroll",
+        "Adoção de tipografia gigante para facilitar a leitura rápida no mobile"
       ]
     }
   ]
