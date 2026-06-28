@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-28T02:14:01.547Z",
+  "ultima_atualizacao": "2026-06-28T06:52:43.307Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Introdução de contraste agressivo e estéticas oníricas para chamar a atenção",
-      "Uso de design deconstrutivista e tipografia gigante para interrupção do scroll"
+      "Incorporação das tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Ajustes para melhorar o engajamento e alcance da página",
+      "Implementação de Tipografia Gigante para melhor leitura em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de maneira a criar uma sensação de profundidade e movimento, com foco em detalhes humanos e imperfeições",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo, gera curiosidade e estimula o engajamento devido à busca do público por autenticidade e experiências visuais únicas"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
+      "foco_composicao": "Enquadre a cena de forma a criar contrastes agressivos e quebrar as regras tradicionais de layout",
+      "paleta_cores": "Preto profundo com neon vibrante e possíveis toques de Hyper-Bloom para criar uma estética onírica",
+      "teoria_do_clique": "O uso de contrastes agressivos e estética onírica atrai a atenção do usuário, enquanto a inclusão de elementos humanos reais aumenta a conexão emocional e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir, focando em detalhes humanos e imperfeições, com uma paleta de cores que inclui contraste agressivo entre preto e neon",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em primeiro plano, iluminadas por neons vibrantes, com fundo escuro e contrastes agressivos. Inclua textos gigantes com mensagens impactantes.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-27T13:05:38.176Z",
-      "licao": [
-        "Inclusão de estilos de imagem mais cruas e humanas",
-        "Uso de contraste agressivo e cores neon",
-        "Quebra de regras de layout para parar o scroll",
-        "Tipografia gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-06-27T15:06:54.103Z",
       "licao": [
@@ -103,6 +93,14 @@
         "Foco em estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Introdução de contraste agressivo e estéticas oníricas para chamar a atenção",
         "Uso de design deconstrutivista e tipografia gigante para interrupção do scroll"
+      ]
+    },
+    {
+      "data": "2026-06-28T06:52:43.307Z",
+      "licao": [
+        "Incorporação das tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Ajustes para melhorar o engajamento e alcance da página",
+        "Implementação de Tipografia Gigante para melhor leitura em dispositivos móveis"
       ]
     }
   ]
