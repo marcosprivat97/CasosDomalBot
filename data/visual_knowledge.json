@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-06-28T13:11:22.990Z",
+  "ultima_atualizacao": "2026-06-28T15:09:56.167Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.4",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Foco em melhorar o engajamento com estilos de imagem mais cruas e humanas",
-      "Inclusão de contrastes agressivos e estéticas oníricas"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis",
+      "Foco em composições que quebram regras de layout para aumentar o engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre luz e sombra, com foco em detalhes humanos reais",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um clima onírico",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a representação humana crua gera empatia e curiosidade"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e autenticidade",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, utilizando elementos que quebram a simetria e criam movimento",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contrastes agressivos e estética onírica captura a atenção do usuário, enquanto a autenticidade e imperfeições humanas criam uma conexão emocional, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, destacando detalhes humanos reais em contraste agressivo com um fundo onírico",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em primeiro plano, utilizando luz neon para realçar detalhes e criar sombras profundas, com uma tipografia gigante sobrepondo a imagem com uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-27T19:01:40.829Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e Neon-Noir"
-      ]
-    },
     {
       "data": "2026-06-27T20:47:58.152Z",
       "licao": [
@@ -100,6 +93,14 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Foco em melhorar o engajamento com estilos de imagem mais cruas e humanas",
         "Inclusão de contrastes agressivos e estéticas oníricas"
+      ]
+    },
+    {
+      "data": "2026-06-28T15:09:56.167Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis",
+        "Foco em composições que quebram regras de layout para aumentar o engajamento"
       ]
     }
   ]
