@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-30T10:23:15.002Z",
+  "ultima_atualizacao": "2026-06-30T13:02:27.769Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a humanidade",
-      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estilos que promovam engajamento com base na performance atual da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a destacar imperfeições humanas e contraste com fundos neutros ou neon",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um equilíbrio entre o sombrio e o sonho",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas futuristas e oníricas gera curiosidade e estimula o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
+      "foco_composicao": "Enquadre a foto de forma a destacar contrastes agressivos e imperfeições humanas",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de Neon-Noir com elementos humanos cruos gera curiosidade e pausa no scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno com iluminação neon, utilizando sombras profundas e cores pastéis para realçar a humanidade e o contraste",
+    "prompt_padrao_atualizado": "Crie uma cena noturna neon com pessoa real em foco, destacando imperfeições e contrastes agressivos, em um estilo que mistura realismo sujo com elementos oníricos",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-29T08:48:11.242Z",
-      "licao": [
-        "Inclusão de estilos de imagem mais cruas e com imperfeições humanas",
-        "Adoção de contraste agressivo com Neon-Noir e Hyper-Bloom",
-        "Uso de Design Deconstrutivista para quebrar regras de layout",
-        "Implementação de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-06-29T12:55:59.053Z",
       "licao": [
@@ -98,6 +88,13 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a humanidade",
         "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-06-30T13:02:27.769Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estilos que promovam engajamento com base na performance atual da página"
       ]
     }
   ]
