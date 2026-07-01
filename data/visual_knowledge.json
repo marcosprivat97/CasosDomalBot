@@ -1,18 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-01T21:15:14.863Z",
+  "ultima_atualizacao": "2026-07-01T23:00:26.541Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop'"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Inclusão do estilo Hyper-Human e Neon-Noir para capturar a atenção do usuário",
+      "Implementação do Design Deconstrutivista para parar o scroll",
+      "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma não convencional, quebrando regras de layout tradicionais para capturar a atenção do usuário",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com tons pastéis para criar um visual único",
-      "teoria_do_clique": "O uso de imagens cruas e reais, aliado a contrastes visuais agressivos, aumenta a probabilidade de parar o scroll e gerar engajamento devido à rejeição ao 'AI Slop' e à busca por autenticidade"
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo e quebre as regras de layout tradicionais",
+      "paleta_cores": "Preto e neon, com cores vivas e vibrantes para criar um efeito de Hyper-Bloom",
+      "teoria_do_clique": "O contraste agressivo e a quebra das regras de layout vão parar o scroll e gerar curiosidade, enquanto a tipografia gigante vai facilitar a leitura rápida e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa em um ambiente urbano noturno, utilizando luzes neon para realçar a cena, com um foco em texturas e imperfeições para um visual Hyper-Human",
+    "prompt_padrao_atualizado": "Crie uma imagem com um tema urbano noturno, com contraste agressivo entre preto e neon, e uma composição que quebre as regras de layout tradicionais, utilizando tipografia gigante para destacar a mensagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,16 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-30T20:49:36.304Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a estética humana",
-        "Implementação de contrastes agressivos e estéticas oníricas",
-        "Uso de design deconstrutivista para parar o scroll",
-        "Incorporação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-06-30T22:07:13.096Z",
       "licao": [
@@ -95,6 +87,15 @@
       "licao": [
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop'"
+      ]
+    },
+    {
+      "data": "2026-07-01T23:00:26.541Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Inclusão do estilo Hyper-Human e Neon-Noir para capturar a atenção do usuário",
+        "Implementação do Design Deconstrutivista para parar o scroll",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
