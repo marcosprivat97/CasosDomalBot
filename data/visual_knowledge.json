@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-06-30T23:56:52.636Z",
+  "ultima_atualizacao": "2026-07-01T02:49:11.010Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Incorporação de Tipografia Gigante para melhor legibilidade no mobile",
-      "Foco em estética crua e humana para rejeitar o 'AI Slop'"
+      "Adaptação às tendências de 2026",
+      "Foco em Hyper-Human e estéticas visuais disruptivas"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, destacando contrastes agressivos e cores vibrantes",
-      "foco_composicao": "Enquadre a imagem de forma desestruturada, quebrando regras tradicionais de layout para capturar a atenção do usuário",
-      "paleta_cores": "Preto profundo como base, com aczentos neon em verde, azul ou rosa para criar um contraste intenso",
-      "teoria_do_clique": "O uso de contrastes agressivos e cores vibrantes, aliado à quebra de regras de layout, visa parar o scroll do usuário e estimular o engajamento através da curiosidade e do impacto visual"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom",
+      "foco_composicao": "Enquadramento desalinhado, com foco em detalhes humanos imperfeitos e expressivos",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para suavizar",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas oníricas e disruptivas gera curiosidade e paralisa o scroll"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, utilizando uma paleta de cores que inclua preto profundo e aczentos neon, com uma composição desestruturada que quebre as regras tradicionais de layout",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano central, incorporando elementos de Hyper-Bloom e texturas orgânicas, com um texto gigante sobreposto que destaque uma palavra-chave",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-29T23:51:59.746Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar engajamento",
-        "Inclusão de elementos visuais para parar o scroll"
-      ]
-    },
     {
       "data": "2026-06-30T02:08:39.530Z",
       "licao": [
@@ -99,6 +91,13 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Incorporação de Tipografia Gigante para melhor legibilidade no mobile",
         "Foco em estética crua e humana para rejeitar o 'AI Slop'"
+      ]
+    },
+    {
+      "data": "2026-07-01T02:49:11.010Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e estéticas visuais disruptivas"
       ]
     }
   ]
