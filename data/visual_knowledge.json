@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-02T02:05:33.246Z",
+  "ultima_atualizacao": "2026-07-02T06:28:39.335Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de design deconstrutivista para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de maneira a criar uma sensação de intimidade e autenticidade, quebrando regras de layout tradicionais",
-      "paleta_cores": "Preto profundo com neon vibrante, ou estéticas oníricas com Hyper-Bloom",
-      "teoria_do_clique": "A combinação de autenticidade humana com contrastes agressivos e estéticas oníricas gera curiosidade e engajamento, pois o cérebro humano é atraído por padrões que combinam familiaridade com surpresa"
+      "foco_composicao": "Enquadre a cena de forma desequilibrada, com elementos fora do centro, para criar uma sensação de dinamismo e quebra de regras",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com tons pastéis suaves para criar um ambiente onírico",
+      "teoria_do_clique": "O uso de estética Hyper-Human e Neon-Noir, combinado com a quebra de regras de layout, parará o scroll e gerará curiosidade no usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com Neon-Noir, com foco em um elemento central que pareça quase tangível, mas com uma atmosfera onírica ao redor, incorporando tipografia gigante de forma orgânica",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais, iluminados por neon, em um ambiente urbano desolado, com texto gigante sobrepondo a imagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-06-30T23:56:52.636Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Incorporação de Tipografia Gigante para melhor legibilidade no mobile",
-        "Foco em estética crua e humana para rejeitar o 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-07-01T02:49:11.010Z",
       "licao": [
@@ -99,6 +89,14 @@
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de design deconstrutivista para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-02T06:28:39.335Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
