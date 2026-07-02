@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-02T17:24:33.491Z",
+  "ultima_atualizacao": "2026-07-02T19:06:38.134Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão de estilos de imagem baseados em tendências atuais",
-      "Adaptação da paleta de cores para contraste agressivo",
-      "Implementação de tipografia gigante para leitura rápida"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, com o sujeito principal desfocado ou em movimento para destacar a emoção",
-      "paleta_cores": "Preto profundo com neon verde ou rosa, criando contraste agressivo e atraente",
-      "teoria_do_clique": "A combinação de elementos reais com toques de neon e composições quebradas gera curiosidade e estimula o engajamento, pois o cérebro humano é atraído por padrões que desafiam a normalidade"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, destacando contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadre a foto com foco em elementos humanos reais, destacando imperfeições e情感, quebrando regras de layout tradicionais",
+      "paleta_cores": "Preto profundo com neon vibrante, ou estéticas pastéis suaves para Hyper-Bloom, garantindo contraste e visibilidade",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção imediata, enquanto a autenticidade humana gera conexão emocional e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em movimento, utilizando luzes neon para realçar a ação e emoção, com uma paleta de cores escura e vibrante",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, destacando um momento humano autêntico e imperfeito, com tipografia gigante em fonte sans-serif branca ou neon",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-01T17:04:26.295Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-07-01T19:27:57.796Z",
       "licao": [
@@ -104,6 +95,13 @@
         "Inclusão de estilos de imagem baseados em tendências atuais",
         "Adaptação da paleta de cores para contraste agressivo",
         "Implementação de tipografia gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-07-02T19:06:38.134Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
