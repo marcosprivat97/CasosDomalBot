@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-07-03T00:06:04.969Z",
+  "ultima_atualizacao": "2026-07-03T04:34:46.464Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.4",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
+      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+      "Implementação de design deconstrutivista para parar o scroll",
+      "Inclusão de tipografia gigante para facilitar a leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre com ângulos desconstrutivistas, destacando imperfeições humanas",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estética onírica e contrastes agressivos gera curiosidade e paralisa o scroll"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom para criar uma atmosfera única",
+      "foco_composicao": "Enquadre a cena de forma a quebrar as regras tradicionais de layout, utilizando espaços negativos e elementos que saem da moldura",
+      "paleta_cores": "Preto profundo como base, com acenos de neon verde, rosa e azul para criar contrastes agressivos",
+      "teoria_do_clique": "O uso de imagens cruas e com imperfeições humanas, combinado com estéticas oníricas, gera curiosidade e encoraja o engajamento, pois oferece uma experiência visual mais autêntica e memorável"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna neon com pessoas reais em primeiro plano, destacando imperfeições e texturas, com letras gigantes em neon ao fundo",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com iluminação neon que destaque elementos humanos imperfeitos, utilizando uma paleta de cores escuras e neon, e quebre as regras de layout tradicionais para criar uma composição única",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-02T06:28:39.335Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-07-02T09:50:38.142Z",
       "licao": [
@@ -102,6 +96,16 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-07-03T04:34:46.464Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
+        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+        "Implementação de design deconstrutivista para parar o scroll",
+        "Inclusão de tipografia gigante para facilitar a leitura rápida no mobile"
       ]
     }
   ]
