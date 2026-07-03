@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-03T07:54:10.258Z",
+  "ultima_atualizacao": "2026-07-03T10:25:09.428Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e favorecem a autenticidade",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre preto e neon, com foco em elementos humanos reais e imperfeitos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "O contraste agressivo e a autenticidade humana geram curiosidade e conexão emocional, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, buscando contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras tradicionais de layout, utilizando elementos diagonais e assimetrias para parar o scroll",
+      "paleta_cores": "Preto profundo com neon vibrantes, destacando detalhes em cores pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estética neon e contraste agressivo gera curiosidade e atrai o olhar, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com um toque de Neon-Noir, onde um elemento humano real e imperfeito é o foco principal, contra um fundo preto com detalhes neon vibrantes",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais em primeiro plano, iluminados por neon de cores vibrantes, sobre um fundo preto profundo com detalhes em pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-02T12:00:33.694Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estética Hyper-Human e Neon-Noir para atrair a atenção do usuário",
-        "Incorporação de Design Deconstrutivista para parar o scroll",
-        "Uso de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-07-02T15:03:43.500Z",
       "licao": [
@@ -102,6 +93,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e favorecem a autenticidade",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-03T10:25:09.429Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
