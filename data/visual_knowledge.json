@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-04T20:03:43.436Z",
+  "ultima_atualizacao": "2026-07-04T21:45:51.708Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação das tendências globais de 2026 para melhorar a performance da página",
-      "Incorporação do estilo Hyper-Human para maior engajamento",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      "Ajustes para incorporar tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Melhorias para atender à necessidade de aumento de engajamento na página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre preto e neon, utilizando a regra dos terços para direcionar o olhar do espectador",
-      "paleta_cores": "Preto profundo, neon verde, azul ou rosa, com toques de branco ou cinza para criar profundidade",
-      "teoria_do_clique": "O uso de contraste agressivo e estéticas oníricas atrai a atenção do usuário e o faz parar o scroll, enquanto a presença de imperfeições humanas cria uma conexão emocional com o espectador"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições e contraste agressivo",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar regras tradicionais de layout, utilizando elementos que pareçam fora de lugar ou sobrepostos para parar o scroll",
+      "paleta_cores": "Preto profundo como base, com acertos de neon em tons quentes e frios para criar contraste",
+      "teoria_do_clique": "O uso de imagens com contraste agressivo e estética onírica, combinado com a quebra de regras de layout, atrai a atenção do usuário e estimula o engajamento devido à novidade e surpresa"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com toques de Hyper-Bloom, utilizando uma paleta de cores que inclua preto profundo, neon verde e branco, e enquadrando a cena de forma a criar um contraste agressivo",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com personagens reais, mas com elementos neon iluminando partes do corpo ou objetos, e uma tipografia gigante sobreposto à cena com uma frase provocativa",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-04T05:35:48.486Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e estética Neon-Noir"
-      ]
-    },
     {
       "data": "2026-07-04T08:21:00.194Z",
       "licao": [
@@ -102,6 +94,13 @@
         "Adaptação das tendências globais de 2026 para melhorar a performance da página",
         "Incorporação do estilo Hyper-Human para maior engajamento",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-04T21:45:51.708Z",
+      "licao": [
+        "Ajustes para incorporar tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Melhorias para atender à necessidade de aumento de engajamento na página"
       ]
     }
   ]
