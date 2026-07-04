@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-04T22:45:06.478Z",
+  "ultima_atualizacao": "2026-07-04T23:51:49.570Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-      "Implementação de design deconstrutivista e tipografia gigante para melhor legibilidade"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, destacando os aspectos humanos e imperfeições",
-      "paleta_cores": "Preto profundo com neon vibrante para contraste agressivo ou tons pastéis para estética onírica",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste visual agressivo, atrai a atenção do usuário e gera curiosidade, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
+      "foco_composicao": "Enquadre a foto com contraste agressivo entre preto e neon, destacando imperfeições humanas",
+      "paleta_cores": "Preto, neon rosa, azul e verde, com tons pastéis para criar contraste",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estética neon chama a atenção e gera curiosidade, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena urbana noturna com pessoas reais em movimento, iluminadas por neon, com tons de preto profundo e cores vibrantes, utilizando uma composição que quebre as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente noturno, com iluminação neon e sombras profundas, destacando a textura e as imperfeições da pele",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-04T10:47:36.693Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir"
-      ]
-    },
     {
       "data": "2026-07-04T12:00:19.614Z",
       "licao": [
@@ -102,6 +94,14 @@
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
         "Implementação de design deconstrutivista e tipografia gigante para melhor legibilidade"
+      ]
+    },
+    {
+      "data": "2026-07-04T23:51:49.570Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
