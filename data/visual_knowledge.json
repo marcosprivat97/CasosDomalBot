@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-07-04T12:00:19.614Z",
+  "ultima_atualizacao": "2026-07-04T14:22:09.290Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e focam no 'Hyper-Human'",
+      "Implementação de contraste agressivo e estética onírica",
+      "Uso de design deconstrutivista para parar o scroll",
+      "Incorporação de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a imagem com foco em contrastes agressivos e composição desequilibrada",
-      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar contraste",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a tipografia gigante facilita a leitura rápida e aumenta o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, focando em contraste agressivo e estética onírica",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras de layout tradicionais, utilizando espaços negativos e composições assimétricas para chamar a atenção",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica, combinado com a quebra de regras de layout, paralisa o scroll e estimula a curiosidade do usuário, levando a um engajamento maior"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos Hyper-Human, incorporando Design Deconstrutivista e Tipografia Gigante, com foco em contraste agressivo e composição desequilibrada",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais, iluminados por neons vibrantes, em um ambiente urbano deconstruído, com textos gigantes destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-03T18:59:00.239Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Inclusão de estilos de imagem mais cruas e humanas",
-        "Uso de contrastes agressivos e estéticas oníricas",
-        "Implementação de design deconstrutivista e tipografia gigante"
-      ]
-    },
     {
       "data": "2026-07-03T20:13:11.246Z",
       "licao": [
@@ -98,6 +91,16 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-07-04T14:22:09.290Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e focam no 'Hyper-Human'",
+        "Implementação de contraste agressivo e estética onírica",
+        "Uso de design deconstrutivista para parar o scroll",
+        "Incorporação de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
