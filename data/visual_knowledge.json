@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-04T01:48:55.012Z",
+  "ultima_atualizacao": "2026-07-04T05:35:48.486Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human e Neon-Noir",
-      "Incorporação do Design Deconstrutivista e Tipografia Gigante",
-      "Foco em melhorar o engajamento com conteúdo mais autêntico e visualmente atraente"
+      "Adaptação às tendências de 2026",
+      "Foco em Hyper-Human e estética Neon-Noir"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, buscando autenticidade e contraste",
-      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, utilizando espaços negativos e composições assimétricas para parar o scroll",
-      "paleta_cores": "Preto profundo com neon vibrante, criando contraste agressivo e estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a autenticidade das imagens geram curiosidade e engajamento, pois o cérebro humano é atraído por padrões quebrados e informações visuais intensas"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luzes neon e trechos em sombra profunda, destacando imperfeições humanas",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um ambiente onírico",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção imediata, enquanto a presença de imperfeições humanas promove uma conexão emocional com o espectador"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com personagens reais e autênticos, incorporando elementos neon e espaços negativos, com uma tipografia gigante destacando uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais em um ambiente urbano neon, com foco em detalhes humanos imperfeitos e uma paleta de cores que mistura neon vibrante com tons pastéis suaves",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-03T10:25:09.429Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-07-03T12:51:11.094Z",
       "licao": [
@@ -101,6 +92,13 @@
         "Adaptação às tendências de Hyper-Human e Neon-Noir",
         "Incorporação do Design Deconstrutivista e Tipografia Gigante",
         "Foco em melhorar o engajamento com conteúdo mais autêntico e visualmente atraente"
+      ]
+    },
+    {
+      "data": "2026-07-04T05:35:48.486Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e estética Neon-Noir"
       ]
     }
   ]
