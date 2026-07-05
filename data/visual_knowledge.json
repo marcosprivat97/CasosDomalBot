@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-05T15:59:28.179Z",
+  "ultima_atualizacao": "2026-07-05T17:11:21.612Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
-      "Foco em imagens reais e cruas para rejeitar o 'AI Slop'"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos imperfeitos no centro",
-      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com destaque para cores quentes e frias em contraste",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de elementos humanos imperfeitos gera empatia e curiosidade"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em detalhes humanos reais e imperfeições",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual atraente",
+      "teoria_do_clique": "O uso de imagens reais e cruas com contraste agressivo e estéticas oníricas atrai a atenção do usuário e gera engajamento devido à novidade e à autenticidade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente noturno, com iluminação neon verde e rosa, usando uma tipografia gigante e deconstrutivista para destacar uma mensagem provocativa",
+    "prompt_padrao_atualizado": "Crie uma imagem com um tema urbano noturno, incorporando elementos humanos reais e imperfeições, com um contraste agressivo entre preto e neon, e uma tipografia gigante que destaque uma mensagem poderosa",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-04T21:45:51.708Z",
-      "licao": [
-        "Ajustes para incorporar tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Melhorias para atender à necessidade de aumento de engajamento na página"
-      ]
-    },
     {
       "data": "2026-07-04T22:45:06.478Z",
       "licao": [
@@ -100,6 +92,13 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
         "Foco em imagens reais e cruas para rejeitar o 'AI Slop'"
+      ]
+    },
+    {
+      "data": "2026-07-05T17:11:21.612Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop'"
       ]
     }
   ]
