@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-05T21:49:47.205Z",
+  "ultima_atualizacao": "2026-07-05T22:49:32.167Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação de elementos visuais que rejeitam o 'AI Slop' e promovem a estética 'Hyper-Human'",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human",
+      "Incorporação de Neon-Noir e Hyper-Bloom",
+      "Uso de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, misturando realismo sujo com toques de iluminação dramática",
-      "foco_composicao": "Enquadre a foto de forma a criar tensão ou surpresa, quebrando as regras tradicionais de layout para chamar a atenção do usuário",
-      "paleta_cores": "Preto profundo com neon vibrante, ou inversamente, cores pastéis suaves com contrastes agressivos",
-      "teoria_do_clique": "O uso de imagens cruas e com imperfeições humanas, combinado com estéticas visuais ousadas, gera curiosidade e estimula o engajamento, pois os usuários buscam autenticidade e experiências visuais únicas"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre sujeitos em ambientes urbanos noturnos com iluminação neon, destacando imperfeições humanas",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para Hyper-Bloom",
+      "teoria_do_clique": "O uso de estética Hyper-Human e Neon-Noir gera engajamento por ser autêntico e visualmente atraente, enquanto o Design Deconstrutivista e a Tipografia Gigante param o scroll e facilitam a leitura rápida"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que mistura realismo sujo com neon vibrante, com um foco principal desfocado e um background agressivamente contrastado, incorporando elementos que quebram as regras tradicionais de layout",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um beco urbano noturno, com neon refletido em seu rosto e roupas, usando fontes gigantes para destacar uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-05T05:54:07.706Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Incorporação de elementos visuais para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-05T08:38:23.507Z",
       "licao": [
@@ -101,6 +94,15 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Incorporação de elementos visuais que rejeitam o 'AI Slop' e promovem a estética 'Hyper-Human'",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-05T22:49:32.167Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human",
+        "Incorporação de Neon-Noir e Hyper-Bloom",
+        "Uso de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
