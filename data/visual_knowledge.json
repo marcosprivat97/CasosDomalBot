@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-05T05:54:07.706Z",
+  "ultima_atualizacao": "2026-07-05T08:38:23.507Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Incorporação de elementos visuais para parar o scroll"
+      "Adaptação às tendências globais de 2026",
+      "Foco em Hyper-Human e Neon-Noir para melhor engajamento",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, destacando a textura e as imperfeições dos elementos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contrastes agressivos e cores neon chama a atenção imediatamente, enquanto a estética Hyper-Human cria uma conexão emocional com o espectador, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, destacando imperfeições humanas",
+      "paleta_cores": "Preto profundo com neon vibrantes, garantindo contraste e visibilidade",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de imperfeições humanas cria uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem Hyper-Human com elementos Neon-Noir, onde o contraste entre luz e sombra é agressivo, e as cores são uma mistura de preto profundo e neon vibrante, com toques de tons pastéis, e inclua texturas e imperfeições para dar uma sensação de autenticidade",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Human, destacando contraste agressivo e imperfeições humanas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-04T15:52:47.724Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-07-04T16:50:57.297Z",
       "licao": [
@@ -102,6 +94,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Incorporação de elementos visuais para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-05T08:38:23.507Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em Hyper-Human e Neon-Noir para melhor engajamento",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
