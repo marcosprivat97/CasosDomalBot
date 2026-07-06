@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-06T11:27:20.879Z",
+  "ultima_atualizacao": "2026-07-06T14:54:27.100Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências globais de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop' e destacam a beleza das imperfeições humanas",
-      "Incorporação de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
+      "Incorporação de contrastes agressivos e estéticas oníricas",
+      "Uso de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre sujeitos em ambientes naturais ou urbanos com foco em texturas e detalhes que mostrem a realidade crua",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "A combinação de elementos humanos reais com toques de neon e um layout desafiador captura a atenção do usuário, gerando engajamento através da curiosidade e do apelo estético"
+      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, com sujeitos em posições dinâmicas e uso de linhas diagonais",
+      "paleta_cores": "Preto profundo com acenos de neon verde, azul ou rosa, para criar contraste agressivo e chamar a atenção",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos e tipografia gigante, visa parar o scroll do usuário e gerar engajamento através da surpresa e da curiosidade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon que destaque as texturas e imperfeições da cena, utilizando uma paleta de cores que misture tons quentes e frios",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em movimento, com linhas diagonais e contraste agressivo entre preto e neon, utilizando tipografia gigante para destacar uma palavra-chave relacionada à ação",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-05T15:59:28.179Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
-        "Foco em imagens reais e cruas para rejeitar o 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-07-05T17:11:21.612Z",
       "licao": [
@@ -101,6 +94,15 @@
         "Adaptação às tendências globais de 2026",
         "Foco em estilos que rejeitam o 'AI Slop' e destacam a beleza das imperfeições humanas",
         "Incorporação de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      ]
+    },
+    {
+      "data": "2026-07-06T14:54:27.100Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
+        "Incorporação de contrastes agressivos e estéticas oníricas",
+        "Uso de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
