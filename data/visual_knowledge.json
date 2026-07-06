@@ -1,17 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-06T06:59:33.982Z",
+  "ultima_atualizacao": "2026-07-06T11:27:20.879Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estilos que rejeitam o 'AI Slop' e destacam a beleza das imperfeições humanas",
+      "Incorporação de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human e Neon-Noir",
-      "foco_composicao": "Enquadre sujeitos em ambientes reais com iluminação dramática, destacando contrastes agressivos entre preto e neon",
-      "paleta_cores": "Neon vibrante sobre fundos escuros, com toques de cores pastéis para um efeito onírico",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estética neon e contraste agressivo paralisa o scroll e estimula a curiosidade"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre sujeitos em ambientes naturais ou urbanos com foco em texturas e detalhes que mostrem a realidade crua",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "A combinação de elementos humanos reais com toques de neon e um layout desafiador captura a atenção do usuário, gerando engajamento através da curiosidade e do apelo estético"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon e sombras profundas, utilizando uma paleta de cores vibrantes e pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon que destaque as texturas e imperfeições da cena, utilizando uma paleta de cores que misture tons quentes e frios",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -19,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-05T14:24:04.974Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-07-05T15:59:28.179Z",
       "licao": [
@@ -99,6 +93,14 @@
       "data": "2026-07-06T06:59:33.982Z",
       "licao": [
         "Adaptação às tendências de 2026 para melhorar a performance da página"
+      ]
+    },
+    {
+      "data": "2026-07-06T11:27:20.879Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estilos que rejeitam o 'AI Slop' e destacam a beleza das imperfeições humanas",
+        "Incorporação de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
       ]
     }
   ]
