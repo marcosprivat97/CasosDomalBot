@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-05T23:55:01.309Z",
+  "ultima_atualizacao": "2026-07-06T02:01:30.561Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhorar a legibilidade em dispositivos móveis",
+      "Foco em criar imagens que pareçam mais reais e cruas para combater o 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, utilizando a regra dos terços e deixando espaço em branco para direcionar o olhar do observador",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com tons pastéis e brilhantes",
-      "teoria_do_clique": "O uso de imagens cruas e autênticas, combinado com contrastes visuais agressivos, gera engajamento por criar uma sensação de realismo e surpresa, interrompendo o scroll do usuário"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir para contraste agressivo",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras tradicionais de layout, utilizando elementos diagonais ou assimétricos para parar o scroll",
+      "paleta_cores": "Preto profundo com neon vibrante ou estética onírica com Hyper-Bloom para criar um visual único",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos e layouts deconstrutivistas, gera engajamento por ser mais autêntico e capaz de chamar a atenção do usuário em meio a um feed cheio de conteúdo padronizado"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, utilizando uma paleta de cores agressiva e um enquadramento que direcione o olhar do observador para o centro da ação",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Hyper-Human com toques de Neon-Noir, utilizando uma paleta de cores escura com neon vibrante e uma composição que quebre as regras tradicionais de layout",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-05T10:57:47.874Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais mais atraentes e humanos"
-      ]
-    },
     {
       "data": "2026-07-05T12:12:09.232Z",
       "licao": [
@@ -102,6 +95,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção"
+      ]
+    },
+    {
+      "data": "2026-07-06T02:01:30.561Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhorar a legibilidade em dispositivos móveis",
+        "Foco em criar imagens que pareçam mais reais e cruas para combater o 'AI Slop'"
       ]
     }
   ]
