@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-06T21:19:17.666Z",
+  "ultima_atualizacao": "2026-07-06T22:55:18.838Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e favorecem a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção do usuário"
+      "Adoção do estilo Hyper-Human para fotos mais autênticas",
+      "Incorporação de contraste agressivo com Neon-Noir e Hyper-Bloom",
+      "Aplicação de Design Deconstrutivista para layout inovador",
+      "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento ou ação, com elementos principais ligeiramente descentrados para provocar curiosidade",
-      "paleta_cores": "Preto profundo com neon verde ou rosa, para criar um contraste agressivo e moderno",
-      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas, combinado com contrastes agressivos, gera mais engajamento por parecer mais autêntico e cativante"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir e Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, com sujeitos em foco e fundos desfocados ou sobrepostos por elementos gráficos",
+      "paleta_cores": "Preto, neon e tons pastéis para criar contraste agressivo e estética onírica",
+      "teoria_do_clique": "O contraste agressivo e a autenticidade das imagens criam uma conexão emocional imediata com o espectador, aumentando a probabilidade de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com elementos urbanos, iluminada por luzes neon, com uma figura humana em movimento, capturada de forma natural e imperfeita, como se fosse um momento roubado da vida real",
+    "prompt_padrao_atualizado": "Crie uma imagem Hyper-Human com um sujeito em foco, aplicando contraste agressivo com Neon-Noir e Hyper-Bloom, e incorporando elementos gráficos de Design Deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-05T21:49:47.205Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação de elementos visuais que rejeitam o 'AI Slop' e promovem a estética 'Hyper-Human'",
-        "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-05T22:49:32.167Z",
       "licao": [
@@ -100,6 +93,15 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e favorecem a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção do usuário"
+      ]
+    },
+    {
+      "data": "2026-07-06T22:55:18.838Z",
+      "licao": [
+        "Adoção do estilo Hyper-Human para fotos mais autênticas",
+        "Incorporação de contraste agressivo com Neon-Noir e Hyper-Bloom",
+        "Aplicação de Design Deconstrutivista para layout inovador",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
