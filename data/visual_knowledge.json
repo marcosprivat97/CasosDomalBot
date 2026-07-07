@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-07T10:17:13.150Z",
+  "ultima_atualizacao": "2026-07-07T13:10:19.242Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estilos que promovem engajamento em redes sociais",
-      "Inclusão de elementos de design deconstrutivista e tipografia gigante"
+      "Inclusão de estilos de imagem que seguem a tendência Hyper-Human",
+      "Adaptação da paleta de cores para Neon-Noir e Hyper-Bloom",
+      "Introdução de design deconstrutivista para quebrar regras de layout",
+      "Uso de tipografia gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos imperfeitos",
-      "paleta_cores": "Preto profundo com neon vibrante, ou estética onírica com pastéis suaves",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a representação humana imperfeita promove identificação e engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em detalhes humanos reais e imperfeições",
+      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com toques de cores pastéis para criar um efeito onírico",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a representação de imperfeições humanas gera empatia e conexão"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano central, incorporando detalhes imperfeitos e uma paleta de cores vibrante e contrastante",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com uma pessoa em um ambiente sombrio, iluminada por neon, com detalhes reais e imperfeições, e use uma tipografia gigante para destacar uma mensagem poderosa",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-06T11:27:20.879Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop' e destacam a beleza das imperfeições humanas",
-        "Incorporação de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
-      ]
-    },
     {
       "data": "2026-07-06T14:54:27.100Z",
       "licao": [
@@ -99,6 +92,15 @@
         "Adaptação às tendências de 2026",
         "Foco em estilos que promovem engajamento em redes sociais",
         "Inclusão de elementos de design deconstrutivista e tipografia gigante"
+      ]
+    },
+    {
+      "data": "2026-07-07T13:10:19.242Z",
+      "licao": [
+        "Inclusão de estilos de imagem que seguem a tendência Hyper-Human",
+        "Adaptação da paleta de cores para Neon-Noir e Hyper-Bloom",
+        "Introdução de design deconstrutivista para quebrar regras de layout",
+        "Uso de tipografia gigante para melhor leitura no mobile"
       ]
     }
   ]
