@@ -1,20 +1,21 @@
 {
-  "ultima_atualizacao": "2026-07-08T04:57:04.058Z",
+  "ultima_atualizacao": "2026-07-08T07:24:38.309Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão do estilo Hyper-Human para fotos mais reais e cruas",
-      "Adoção do contraste agressivo Neon-Noir para maior visibilidade",
-      "Implementação do Design Deconstrutivista para quebrar regras de layout",
-      "Uso de Tipografia Gigante para melhor legibilidade no mobile"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+      "Aplicação de design deconstrutivista para interromper o scroll",
+      "Implementação de tipografia gigante para facilitar a leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos imperfeitos",
-      "paleta_cores": "Preto profundo e neon vibrante, com possíveis toques de cores pastéis para suavizar",
-      "teoria_do_clique": "O contraste agressivo e a estética humana imperfeita geram engajamento por serem mais relatórios e autênticos, enquanto a tipografia gigante facilita a leitura rápida"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais, cruas e com imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de proximidade e autenticidade, quebrando as regras tradicionais de composição",
+      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrastes agressivos entre preto e neon, ou estéticas oníricas que evocam sonhos",
+      "teoria_do_clique": "O uso de imagens autênticas e estilos visuais ousados gera engajamento por criar uma conexão emocional imediata com o espectador, interrompendo o scroll e estimulando a curiosidade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com um fundo preto profundo, elementos neon vibrantes e uma figura humana imperfeita no centro, com textos dominantes em fonte sans-serif e tamanho gigante",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do humano, com imperfeições e autenticidade, utilizando contrastes agressivos e estéticas oníricas, como se fosse um sonho ou uma realidade distópica",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-07T06:34:57.269Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-07T10:17:13.150Z",
       "licao": [
@@ -102,6 +95,16 @@
         "Adoção do contraste agressivo Neon-Noir para maior visibilidade",
         "Implementação do Design Deconstrutivista para quebrar regras de layout",
         "Uso de Tipografia Gigante para melhor legibilidade no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-08T07:24:38.309Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+        "Aplicação de design deconstrutivista para interromper o scroll",
+        "Implementação de tipografia gigante para facilitar a leitura no mobile"
       ]
     }
   ]
