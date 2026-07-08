@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-08T07:24:38.309Z",
+  "ultima_atualizacao": "2026-07-08T10:05:10.269Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
-      "Aplicação de design deconstrutivista para interromper o scroll",
-      "Implementação de tipografia gigante para facilitar a leitura no mobile"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação do Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com foco em fotos reais, cruas e com imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de proximidade e autenticidade, quebrando as regras tradicionais de composição",
-      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrastes agressivos entre preto e neon, ou estéticas oníricas que evocam sonhos",
-      "teoria_do_clique": "O uso de imagens autênticas e estilos visuais ousados gera engajamento por criar uma conexão emocional imediata com o espectador, interrompendo o scroll e estimulando a curiosidade"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos imperfeitos",
+      "paleta_cores": "Preto profundo com acertos de neon verde, rosa ou azul, para criar um ambiente onírico e atraente",
+      "teoria_do_clique": "A combinação de contraste agressivo, estética onírica e detalhes humanos imperfeitos gera curiosidade e engajamento, pois desafia a percepção do usuário e cria uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do humano, com imperfeições e autenticidade, utilizando contrastes agressivos e estéticas oníricas, como se fosse um sonho ou uma realidade distópica",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um modelo humano no centro, com detalhes imperfeitos e uma paleta de cores que inclua preto, neon verde e rosa, aplicando o Design Deconstrutivista para quebrar as regras de layout e parar o scroll",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-07T10:17:13.150Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estilos que promovem engajamento em redes sociais",
-        "Inclusão de elementos de design deconstrutivista e tipografia gigante"
-      ]
-    },
     {
       "data": "2026-07-07T13:10:19.242Z",
       "licao": [
@@ -105,6 +95,14 @@
         "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
         "Aplicação de design deconstrutivista para interromper o scroll",
         "Implementação de tipografia gigante para facilitar a leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-08T10:05:10.269Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação do Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
