@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-08T21:57:20.030Z",
+  "ultima_atualizacao": "2026-07-08T22:59:10.374Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adoção do estilo Hyper-Human para fotos mais autênticas",
-      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
-      "Aplicação de Design Deconstrutivista para interrupção do scroll",
-      "Uso de Tipografia Gigante para facilitar a leitura em dispositivos móveis"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com elementos Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre cores neon e preto, com elementos que quebram as regras de layout tradicionais",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "A combinação de autenticidade humana, contraste visual e quebra de regras de layout deve parar o scroll e estimular o engajamento"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas",
+      "foco_composicao": "Enquadre a foto de forma a incluir imperfeições humanas e detalhes que contam histórias",
+      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrastes agressivos entre preto e neon, ou estéticas oníricas vibrantes",
+      "teoria_do_clique": "O uso de imagens autênticas e estilos visuais disruptivos gera curiosidade e encoraja o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com um fundo neon vibrante e contraste agressivo, utilizando uma tipografia gigante e quebrando as regras de layout para chamar a atenção",
+    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano, com pessoas reais e imperfeições, utilizando uma paleta de cores Neon-Noir e inclua tipografia gigante para destacar uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-08T01:27:10.805Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
-        "Foco em estética crua e humana para rejeitar o 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-07-08T04:57:04.058Z",
       "licao": [
@@ -112,6 +103,14 @@
         "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
         "Aplicação de Design Deconstrutivista para interrupção do scroll",
         "Uso de Tipografia Gigante para facilitar a leitura em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-07-08T22:59:10.374Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
       ]
     }
   ]
