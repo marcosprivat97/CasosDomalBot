@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-09T21:10:35.091Z",
+  "ultima_atualizacao": "2026-07-09T23:00:53.006Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que promovem interação",
-      "Foco em criar imagens que param o scroll"
+      "Adaptação às tendências de 2026",
+      "Foco em conteúdo mais humano e real",
+      "Inclusão de estilos visuais mais ousados e atraentes"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadrar a foto de forma a criar contraste agressivo, com elementos principais no centro e uso de espaço negativo para direcionar o olhar do espectador",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contraste agressivo e cores neon chama a atenção imediatamente, enquanto a estética onírica do Hyper-Bloom mantém o espectador engajado, explorando a imagem em busca de detalhes"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadramento off-center com elementos humanos imperfeitos em primeiro plano",
+      "paleta_cores": "Contrastes agressivos com preto e neon, ou estéticas oníricas pastéis",
+      "teoria_do_clique": "O uso de imagens reais e cruas com imperfeições humanas gera mais empatia e engajamento, enquanto os contrastes agressivos e estéticas oníricas atraem a atenção do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com elementos neon, incorporando texturas reais e imperfeições, com um objeto ou personagem central em foco e um fundo que mistura preto profundo com tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um toque de Neon-Noir, com um elemento humano imperfeito em primeiro plano e uma paleta de cores que inclua contrastes agressivos entre preto e neon, ou estéticas oníricas pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-08T21:57:20.030Z",
-      "licao": [
-        "Adoção do estilo Hyper-Human para fotos mais autênticas",
-        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
-        "Aplicação de Design Deconstrutivista para interrupção do scroll",
-        "Uso de Tipografia Gigante para facilitar a leitura em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-07-08T22:59:10.374Z",
       "licao": [
@@ -104,6 +95,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que promovem interação",
         "Foco em criar imagens que param o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-09T23:00:53.006Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em conteúdo mais humano e real",
+        "Inclusão de estilos visuais mais ousados e atraentes"
       ]
     }
   ]
