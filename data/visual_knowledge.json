@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-09T08:17:51.631Z",
+  "ultima_atualizacao": "2026-07-09T11:43:43.814Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação das tendências visuais para melhorar o engajamento",
-      "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-      "Uso de contraste agressivo e estética onírica para chamar a atenção",
-      "Implementação de Design Deconstrutivista para quebrar a monotonia",
-      "Introdução de Tipografia Gigante para facilitar a leitura rápida"
+      "Inclusão de estilos de imagem inspirados em tendências de 2026",
+      "Adaptação da composição para destacar textos em mobile",
+      "Uso de contraste agressivo para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementosHyper-Human, incorporando imperfeições e texturas naturais",
-      "foco_composicao": "Enquadramento off-center com sujeitos em movimento ou em ângulos inusitados para criar dinamismo",
-      "paleta_cores": "Preto profundo com neon vibrante, contrastando com tons pastéis suaves para criar um ambiente onírico",
-      "teoria_do_clique": "O uso de contraste agressivo e cores vibrantes, combinado com a autenticidade do estilo Hyper-Human, gera curiosidade e estimula o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human",
+      "foco_composicao": "Enquadramento descentrado com foco em textos gigantes",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis",
+      "teoria_do_clique": "O uso de contraste agressivo e textos dominantes gera engajamento rápido e eficaz, enquanto a inclusão de elementos humanos cruas aumenta a empatia e a conexão do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens em movimento, utilizando luzes neon para realçar a atmosfera. Inclua texturas e imperfeições naturais para dar um toque de autenticidade.",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Neon-Noir com um texto gigante no centro, utilizando contraste agressivo entre preto e neon, e inclua elementos humanos cruas e imperfeições para dar um toque de autenticidade",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-08T12:12:21.929Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
-        "Implementação de tipografia gigante para facilitar a leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-07-08T15:07:09.838Z",
       "licao": [
@@ -112,6 +101,14 @@
         "Uso de contraste agressivo e estética onírica para chamar a atenção",
         "Implementação de Design Deconstrutivista para quebrar a monotonia",
         "Introdução de Tipografia Gigante para facilitar a leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-07-09T11:43:43.814Z",
+      "licao": [
+        "Inclusão de estilos de imagem inspirados em tendências de 2026",
+        "Adaptação da composição para destacar textos em mobile",
+        "Uso de contraste agressivo para parar o scroll"
       ]
     }
   ]
