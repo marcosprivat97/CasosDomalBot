@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-10T05:52:07.308Z",
+  "ultima_atualizacao": "2026-07-10T08:58:41.578Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Foco em melhorar o engajamento com estéticas mais cruas e humanas",
+      "Inclusão de contraste agressivo e estética onírica para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, focando em contrastes agressivos e estéticas oníricas",
-      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, utilizando elementos que interrompam o scroll",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar contraste visual",
-      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas, contrastes agressivos e layouts inovadores gera curiosidade e paralisa o scroll, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, priorizando fotos reais e cruas",
+      "foco_composicao": "Enquadre a foto de forma a criar uma conexão emocional imediata, quebrando regras de layout tradicionais",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar contraste agressivo e estética onírica",
+      "teoria_do_clique": "O contraste agressivo e a estética humana crua geram curiosidade e emoção, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon e contraste agressivo, utilizando uma paleta de cores que inclua preto, neon e tons pastéis, e quebre as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com iluminação neon, pessoas reais em momentos autênticos, com tipografia gigante destacando uma mensagem poderosa",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-09T04:40:48.784Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e Neon-Noir para melhor engajamento",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-07-09T08:17:51.631Z",
       "licao": [
@@ -103,6 +96,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-10T08:58:41.578Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Foco em melhorar o engajamento com estéticas mais cruas e humanas",
+        "Inclusão de contraste agressivo e estética onírica para parar o scroll"
       ]
     }
   ]
