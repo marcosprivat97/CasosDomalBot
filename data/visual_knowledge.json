@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-10T18:15:44.775Z",
+  "ultima_atualizacao": "2026-07-10T20:11:47.859Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "2.0",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade humana"
+      "Adaptação às tendências de 2026",
+      "Foco em conteúdo de alta performance"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luzes e sombras, destacando a imperfeição humana e a autenticidade da cena",
-      "paleta_cores": "Preto profundo com neon vibrante, criando um contraste visual impactante",
-      "teoria_do_clique": "O uso de contraste agressivo e estéticas oníricas atrai a atenção do usuário, enquanto a autenticidade humana gera empatia e conexão, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre sujeitos em ambientes urbanos noturnos com iluminação neon, destacando imperfeições humanas",
+      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com estéticas oníricas",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto as imperfeições humanas criam uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com Neon-Noir, destacando a autenticidade humana em um ambiente urbano noturno com contraste agressivo",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em movimento noturno, com iluminação neon refletida em superfícies molhadas, usando tipografia gigante para destacar uma mensagem emocional",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-09T19:19:22.939Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a estética humana",
-        "Incorporação de contrastes agressivos e tipografia gigante para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-09T21:10:35.091Z",
       "licao": [
@@ -100,6 +92,13 @@
       "licao": [
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade humana"
+      ]
+    },
+    {
+      "data": "2026-07-10T20:11:47.859Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em conteúdo de alta performance"
       ]
     }
   ]
