@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-07-09T23:00:53.006Z",
+  "ultima_atualizacao": "2026-07-10T01:47:16.993Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em conteúdo mais humano e real",
-      "Inclusão de estilos visuais mais ousados e atraentes"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética Hyper-Human para aumentar o engajamento",
+      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+      "Uso de Design Deconstrutivista para quebrar regras de layout",
+      "Implementação de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadramento off-center com elementos humanos imperfeitos em primeiro plano",
-      "paleta_cores": "Contrastes agressivos com preto e neon, ou estéticas oníricas pastéis",
-      "teoria_do_clique": "O uso de imagens reais e cruas com imperfeições humanas gera mais empatia e engajamento, enquanto os contrastes agressivos e estéticas oníricas atraem a atenção do usuário"
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos reais e imperfeitos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O contraste agressivo e a estética humana imperfeita geram curiosidade e conexão emocional, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um toque de Neon-Noir, com um elemento humano imperfeito em primeiro plano e uma paleta de cores que inclua contrastes agressivos entre preto e neon, ou estéticas oníricas pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa real, imperfeita, em um ambiente sombrio com toques de neon, usando uma tipografia gigante e elementos de design deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-08T22:59:10.374Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-09T00:08:29.609Z",
       "licao": [
@@ -103,6 +97,16 @@
         "Adaptação às tendências de 2026",
         "Foco em conteúdo mais humano e real",
         "Inclusão de estilos visuais mais ousados e atraentes"
+      ]
+    },
+    {
+      "data": "2026-07-10T01:47:16.993Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética Hyper-Human para aumentar o engajamento",
+        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+        "Uso de Design Deconstrutivista para quebrar regras de layout",
+        "Implementação de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
