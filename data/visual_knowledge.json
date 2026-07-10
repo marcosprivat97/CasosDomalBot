@@ -1,21 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-10T01:47:16.993Z",
+  "ultima_atualizacao": "2026-07-10T05:52:07.308Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética Hyper-Human para aumentar o engajamento",
-      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
-      "Uso de Design Deconstrutivista para quebrar regras de layout",
-      "Implementação de Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos reais e imperfeitos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a estética humana imperfeita geram curiosidade e conexão emocional, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, focando em contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, utilizando elementos que interrompam o scroll",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar contraste visual",
+      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas, contrastes agressivos e layouts inovadores gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa real, imperfeita, em um ambiente sombrio com toques de neon, usando uma tipografia gigante e elementos de design deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon e contraste agressivo, utilizando uma paleta de cores que inclua preto, neon e tons pastéis, e quebre as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-09T00:08:29.609Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a estética humana",
-        "Implementação de contraste agressivo e design deconstrutivista para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-09T04:40:48.784Z",
       "licao": [
@@ -107,6 +96,13 @@
         "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
         "Uso de Design Deconstrutivista para quebrar regras de layout",
         "Implementação de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-10T05:52:07.308Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
