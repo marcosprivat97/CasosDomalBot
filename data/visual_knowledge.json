@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-11T11:42:46.937Z",
+  "ultima_atualizacao": "2026-07-11T12:51:23.864Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos de imagem que rejeitam o 'AI Slop'",
+      "Uso de contraste agressivo e estéticas oníricas",
+      "Implementação de design deconstrutivista e tipografia gigante"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a destacar a imperfeição humana, com foco em detalhes cruas e autênticas",
-      "paleta_cores": "Preto profundo com acenos de neon vibrante, promovendo contraste e visual impactante",
-      "teoria_do_clique": "O uso de imagens reais e imperfeitas, combinado com contrastes agressivos, gera curiosidade e convidação ao engajamento"
+      "foco_composicao": "Enquadre a cena de forma a criar um contraste agressivo entre luz e sombra, com elementos humanos imperfeitos no centro",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um efeito onírico",
+      "teoria_do_clique": "O uso de imagens reais e imperfeitas, aliado a contraste agressivo, chama a atenção do usuário e gera curiosidade, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais, iluminados por neon, em um ambiente urbano sombrio, com texturas brutais e detalhes autênticos",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma pessoa em primeiro plano, utilizando luz neon para realçar os contornos, com um fundo escuro e elementos de design deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-10T20:11:47.859Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em conteúdo de alta performance"
-      ]
-    },
     {
       "data": "2026-07-10T21:49:56.474Z",
       "licao": [
@@ -103,6 +97,15 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-11T12:51:23.864Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos de imagem que rejeitam o 'AI Slop'",
+        "Uso de contraste agressivo e estéticas oníricas",
+        "Implementação de design deconstrutivista e tipografia gigante"
       ]
     }
   ]
