@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-11T18:42:34.101Z",
+  "ultima_atualizacao": "2026-07-11T19:57:41.444Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação das tendências Hyper-Human e Neon-Noir para melhorar o engajamento",
+      "Incorporação do Design Deconstrutivista para parar o scroll",
+      "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos reais e imperfeitos",
-      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com toques de cores pastéis para criar um contraste onírico",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de elementos humanos reais e imperfeitos gera empatia e curiosidade"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadramento desestruturado, com elementos fora do centro e uso de espaços negativos",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para suavizar",
+      "teoria_do_clique": "O uso de imagens reais e cruas, aliado a contrates agressivos e composições desestruturadas, gera curiosidade e atrai o olhar do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem humano real, iluminado por neon, com fundo preto e toques de cores pastéis, utilizando uma composição deconstrutivista e tipografia gigante para destacar a mensagem",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon, em um ambiente escuro e misterioso, com texto dominante e composição desestruturada",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-11T07:04:26.860Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-        "Uso de contraste agressivo do Neon-Noir para chamar a atenção",
-        "Aplicação do Design Deconstrutivista para quebrar a monotonia",
-        "Implementação da Tipografia Gigante para melhor legibilidade"
-      ]
-    },
     {
       "data": "2026-07-11T09:15:02.097Z",
       "licao": [
@@ -105,6 +95,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-07-11T19:57:41.444Z",
+      "licao": [
+        "Adaptação das tendências Hyper-Human e Neon-Noir para melhorar o engajamento",
+        "Incorporação do Design Deconstrutivista para parar o scroll",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
