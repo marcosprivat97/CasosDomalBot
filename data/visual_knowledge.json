@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-12T15:47:41.775Z",
+  "ultima_atualizacao": "2026-07-12T16:43:18.349Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhorar o engajamento e alcance da página no Facebook"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+      "Incorporação do Design Deconstrutivista para parar o scroll",
+      "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, priorizando fotos reais e cruas com imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, ou use estéticas oníricas com Hyper-Bloom para chamar a atenção",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um equilíbrio visual atraente",
-      "teoria_do_clique": "O contraste agressivo e as estéticas oníricas criam uma curiosidade imediata, enquanto a autenticidade da Hyper-Human gera empatia e conexão com o público"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e contrastes agressivos",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de desconstrução, quebrando regras de layout tradicionais",
+      "paleta_cores": "Preto profundo com neon vibrante, criando contraste e atração visual",
+      "teoria_do_clique": "O uso de contrastes agressivos e elementos humanos imperfeitos gera curiosidade e conexão emocional, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com uma pessoa real ao centro, iluminada por neon, com tons de preto profundo e detalhes suaves em pastel, aplicando princípios de Design Deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Human, incorporando elementos de Design Deconstrutivista e Tipografia Gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-11T22:35:42.759Z",
-      "licao": [
-        "Ajustes para incorporar tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-07-11T23:41:36.743Z",
       "licao": [
@@ -97,6 +90,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhorar o engajamento e alcance da página no Facebook"
+      ]
+    },
+    {
+      "data": "2026-07-12T16:43:18.349Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+        "Incorporação do Design Deconstrutivista para parar o scroll",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
