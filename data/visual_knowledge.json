@@ -1,18 +1,17 @@
 {
-  "ultima_atualizacao": "2026-07-12T21:37:56.798Z",
+  "ultima_atualizacao": "2026-07-12T22:36:36.425Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão de estilos visuais baseados em tendências atuais para melhorar o engajamento",
-      "Ajustes no layout para parar o scroll"
+      "Inclusão de tendências Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a destacar imperfeições humanas e contraste agressivo",
-      "paleta_cores": "Preto profundo com neon vibrante para criar um contraste impactante",
-      "teoria_do_clique": "A combinação de imagens reais com elementos visuais impactantes gera curiosidade e atrai a atenção do usuário"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a destacar imperfeições humanas e utilize contraste agressivo com preto e neon",
+      "paleta_cores": "Preto, neon e tons pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens reais e cruas com imperfeições humanas, aliado a contraste agressivo e cores neon, gera curiosidade e paralisa o scroll"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir, destacando uma cena cotidiana com contraste agressivo e cores vibrantes",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um toque de Neon-Noir, com uma pessoa em primeiro plano e um fundo borrado, utilizando uma tipografia gigante para destacar uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +19,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-12T11:03:14.628Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Implementação do estilo Hyper-Human para conectar com o público",
-        "Incorporação do Design Deconstrutivista para chamar a atenção",
-        "Uso de Tipografia Gigante para facilitar a leitura no mobile"
-      ]
-    },
     {
       "data": "2026-07-12T12:52:20.529Z",
       "licao": [
@@ -99,6 +89,12 @@
       "licao": [
         "Inclusão de estilos visuais baseados em tendências atuais para melhorar o engajamento",
         "Ajustes no layout para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-12T22:36:36.425Z",
+      "licao": [
+        "Inclusão de tendências Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento"
       ]
     }
   ]
