@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-12T07:56:16.292Z",
+  "ultima_atualizacao": "2026-07-12T09:43:50.377Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação à tendência Hyper-Human",
-      "Incorporação de estética Neon-Noir",
-      "Uso de Design Deconstrutivista",
-      "Implementação de Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhor engajamento em redes sociais",
+      "Foco em estética crua e humana para rejeitar o 'AI Slop'"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma irregular, quebrando regras de layout tradicionais, e destaque o elemento central com contraste agressivo",
-      "paleta_cores": "Preto profundo com neon vibrante, criando um contraste intenso",
-      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas, aliado a uma estética onírica e contrastes agressivos, gera curiosidade e paralisa o scroll, aumentando a probabilidade de engajamento"
+      "foco_composicao": "Enquadre a cena de forma assimétrica, com foco em elementos humanos imperfeitos e autênticos",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves para criar contraste agressivo",
+      "teoria_do_clique": "O contraste agressivo e a estética humana imperfeita capturam a atenção do usuário, estimulando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com um toque de Neon-Noir, onde o elemento central é destacado por um contraste agressivo entre preto e neon, utilizando uma composição irregular e quebrando regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com pessoas reais, iluminadas por neon, com tons de preto profundo e cores pastéis. Adicione textos gigantes com frases impactantes",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-11T17:44:20.368Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
-        "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-11T18:42:34.101Z",
       "licao": [
@@ -100,6 +91,14 @@
         "Incorporação de estética Neon-Noir",
         "Uso de Design Deconstrutivista",
         "Implementação de Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-07-12T09:43:50.377Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhor engajamento em redes sociais",
+        "Foco em estética crua e humana para rejeitar o 'AI Slop'"
       ]
     }
   ]
