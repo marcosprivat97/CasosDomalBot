@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-12T14:21:32.527Z",
+  "ultima_atualizacao": "2026-07-12T15:47:41.775Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhorar o engajamento e alcance da página"
+      "Otimização para melhorar o engajamento e alcance da página no Facebook"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e detalhes reais",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos no centro da composição",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual atraente",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estética neon e contraste agressivo gera curiosidade e impulso para interagir"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, priorizando fotos reais e cruas com imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, ou use estéticas oníricas com Hyper-Bloom para chamar a atenção",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um equilíbrio visual atraente",
+      "teoria_do_clique": "O contraste agressivo e as estéticas oníricas criam uma curiosidade imediata, enquanto a autenticidade da Hyper-Human gera empatia e conexão com o público"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano real no centro, destacando imperfeições e detalhes, com uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com uma pessoa real ao centro, iluminada por neon, com tons de preto profundo e detalhes suaves em pastel, aplicando princípios de Design Deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-11T21:37:59.888Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-        "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-        "Implementação de Design Deconstrutivista e Tipografia Gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-07-11T22:35:42.759Z",
       "licao": [
@@ -99,6 +90,13 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhorar o engajamento e alcance da página"
+      ]
+    },
+    {
+      "data": "2026-07-12T15:47:41.775Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento e alcance da página no Facebook"
       ]
     }
   ]
