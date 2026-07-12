@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-12T18:47:06.969Z",
+  "ultima_atualizacao": "2026-07-12T19:59:46.687Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "2.0",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Foco em melhorar o engajamento e alcance da página",
-      "Inclusão de elementos que promovam a interação do usuário"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
+      "Incorporação de contrastes agressivos e estéticas oníricas",
+      "Uso de design deconstrutivista para capturar a atenção do usuário"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos imperfeitos",
-      "paleta_cores": "Preto profundo com neon vibrante, para criar um efeito de Hyper-Bloom",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de elementos humanos imperfeitos gera empatia e curiosidade"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, destacando os elementos principais",
+      "paleta_cores": "Neon-Noir, com o uso de preto e neon para criar um ambiente onírico e hipnótico",
+      "teoria_do_clique": "O uso de estilos que rejeitam o 'AI Slop' e destacam a autenticidade humana gera engajamento pois ressoa com a necessidade do usuário por experiências mais genuínas e menos artificializadas"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma figura humana imperfeita no centro, cercada por elementos que criam um contraste agressivo entre luz e sombra, com texto gigante e deconstrutivista que chame a atenção do usuário",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com um contraste agressivo entre preto e neon, destacando as imperfeições humanas e criando um ambiente onírico",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-12T05:14:43.046Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estilos que rejeitam o 'AI Slop' e buscam um visual mais humano e crú",
-        "Incorporação de contraste agressivo e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-12T07:56:16.292Z",
       "licao": [
@@ -99,6 +92,15 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Foco em melhorar o engajamento e alcance da página",
         "Inclusão de elementos que promovam a interação do usuário"
+      ]
+    },
+    {
+      "data": "2026-07-12T19:59:46.688Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
+        "Incorporação de contrastes agressivos e estéticas oníricas",
+        "Uso de design deconstrutivista para capturar a atenção do usuário"
       ]
     }
   ]
