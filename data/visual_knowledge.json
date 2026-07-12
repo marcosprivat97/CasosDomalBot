@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-12T16:43:18.349Z",
+  "ultima_atualizacao": "2026-07-12T17:49:20.739Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
-      "Incorporação do Design Deconstrutivista para parar o scroll",
-      "Uso de Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor legibilidade no mobile",
+      "Otimização para engajamento com base na rejeição ao 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e contrastes agressivos",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de desconstrução, quebrando regras de layout tradicionais",
-      "paleta_cores": "Preto profundo com neon vibrante, criando contraste e atração visual",
-      "teoria_do_clique": "O uso de contrastes agressivos e elementos humanos imperfeitos gera curiosidade e conexão emocional, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom",
+      "foco_composicao": "Enquadre a imagem com um sujeito principal em primeiro plano, utilizando contraste agressivo entre preto e neon para destacar detalhes",
+      "paleta_cores": "Preto profundo, neon verde, azul e rosa, com toques de Hyper-Bloom para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de contraste agressivo e estética onírica gera curiosidade e paralisa o scroll, aumentando as chances de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Human, incorporando elementos de Design Deconstrutivista e Tipografia Gigante",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, destacando um sujeito principal em primeiro plano com contraste agressivo entre preto e neon, e inclua textos gigantes em fonte sans-serif para transmitir uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-11T23:41:36.743Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de características 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom' nas imagens",
-        "Uso de 'Design Deconstrutivista' e 'Tipografia Gigante' para capturar a atenção do usuário"
-      ]
-    },
     {
       "data": "2026-07-12T01:28:13.821Z",
       "licao": [
@@ -98,6 +90,14 @@
         "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
         "Incorporação do Design Deconstrutivista para parar o scroll",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-12T17:49:20.739Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor legibilidade no mobile",
+        "Otimização para engajamento com base na rejeição ao 'AI Slop'"
       ]
     }
   ]
