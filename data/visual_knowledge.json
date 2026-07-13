@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-13T18:25:37.195Z",
+  "ultima_atualizacao": "2026-07-13T20:06:35.798Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human",
+      "Incorporação de Design Deconstrutivista",
+      "Uso de Tipografia Gigante para melhor legibilidade"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Preto profundo como base, com acenos de neon em cores vibrantes como rosa, verde ou azul",
-      "teoria_do_clique": "O uso de imagens cruas e autênticas, combinado com contrastes agressivos, gera curiosidade e estimula o engajamento, pois o cérebro humano é atraído por padrões que desafiam a norma"
+      "foco_composicao": "Enquadre a imagem de forma desestruturada, quebrando regras tradicionais de layout, e inclua espaços negativos para criar contraste",
+      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves para criar um contraste agressivo e sensual",
+      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas, combinado com estética onírica e contrastes fortes, gera curiosidade e pausa no scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em movimento, iluminado por neon, sobre um fundo preto profundo, com texturas e imperfeições visíveis",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com detalhes neon e uma paleta de cores vibrantes, utilizando espaços negativos e composição desestruturada",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-12T21:37:56.798Z",
-      "licao": [
-        "Inclusão de estilos visuais baseados em tendências atuais para melhorar o engajamento",
-        "Ajustes no layout para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-12T22:36:36.425Z",
       "licao": [
@@ -97,6 +91,15 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-13T20:06:35.798Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human",
+        "Incorporação de Design Deconstrutivista",
+        "Uso de Tipografia Gigante para melhor legibilidade"
       ]
     }
   ]
