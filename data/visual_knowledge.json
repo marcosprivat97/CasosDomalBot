@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-07-13T11:49:26.283Z",
+  "ultima_atualizacao": "2026-07-13T14:00:07.921Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos de imagem mais cruos e humanos",
-      "Uso de contraste agressivo e tipografia gigante para aumentar o engajamento"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estética Hyper-Human para atrair usuários",
+      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+      "Uso de Design Deconstrutivista para quebrar regras de layout",
+      "Implementação de Tipografia Gigante para leitura rápida"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, com sujeitos em posições dinâmicas e ângulos inovadores",
-      "paleta_cores": "Preto profundo com neon vibrante, ou estética onírica com Hyper-Bloom para criar contraste visual impactante",
-      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas, combinado com contraste agressivo e tipografia dominante, atrai a atenção do usuário e estimula o engajamento devido à sua natureza única e memorável"
+      "foco_composicao": "Enquadre a cena de forma irregular, com elementos fora de foco para criar um senso de movimento e humanidade",
+      "paleta_cores": "Preto profundo e neon vibrante, com tons pastéis suaves para criar contraste",
+      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas, aliado a contrastes agressivos e estética onírica, gera curiosidade e atrai o usuário para uma leitura mais profunda"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, focando em um sujeito em movimento com uma paleta de cores que combine preto profundo com neon vibrante, e inclua uma tipografia gigante com texto relevante para o tema",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em movimento, com neon refletido em superfícies molhadas e textos gigantes destacando uma mensagem de impacto",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-12T18:47:06.969Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Foco em melhorar o engajamento e alcance da página",
-        "Inclusão de elementos que promovam a interação do usuário"
-      ]
-    },
     {
       "data": "2026-07-12T19:59:46.688Z",
       "licao": [
@@ -100,6 +94,16 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos de imagem mais cruos e humanos",
         "Uso de contraste agressivo e tipografia gigante para aumentar o engajamento"
+      ]
+    },
+    {
+      "data": "2026-07-13T14:00:07.921Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estética Hyper-Human para atrair usuários",
+        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+        "Uso de Design Deconstrutivista para quebrar regras de layout",
+        "Implementação de Tipografia Gigante para leitura rápida"
       ]
     }
   ]
