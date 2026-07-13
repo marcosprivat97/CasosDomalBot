@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-13T01:29:35.760Z",
+  "ultima_atualizacao": "2026-07-13T05:23:47.422Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir para melhor engajamento",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais visualizações",
+      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll e facilitar a leitura"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom com toques de realismo sujo",
-      "foco_composicao": "Enquadre com ângulos não convencionais, destacando elementos humanos e imperfeições",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para equilíbrio",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estética onírica e contrastes agressivos gera curiosidade e paralisa o scroll"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e autenticidade",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, com foco em elementos humanos ou naturais",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "A combinação de Hyper-Human com Neon-Noir e Design Deconstrutivista gera curiosidade e atrai a atenção do usuário, aumentando as chances de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de realismo sujo, destacando uma pessoa em um ambiente onírico, com textos gigantes em primeiro plano",
+    "prompt_padrao_atualizado": "Crie uma imagem com um homem ou mulher em um ambiente noturno, com iluminação neon vibrante e sombras profundas, incorporando elementos naturais ou urbanos de forma desestruturada e com texto gigante sobreposto",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-12T15:47:41.775Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhorar o engajamento e alcance da página no Facebook"
-      ]
-    },
     {
       "data": "2026-07-12T16:43:18.349Z",
       "licao": [
@@ -97,6 +90,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir para melhor engajamento",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-07-13T05:23:47.422Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais visualizações",
+        "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll e facilitar a leitura"
       ]
     }
   ]
