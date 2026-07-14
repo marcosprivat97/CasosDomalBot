@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-14T21:44:59.461Z",
+  "ultima_atualizacao": "2026-07-14T22:44:41.323Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a estética humana",
+      "Incorporação de contraste agressivo e design deconstrutivista"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, priorizando fotos reais e cruas",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos imperfeitos no centro",
-      "paleta_cores": "Preto profundo, neon verde, rosa ou azul, com texturas e reflexos para dar profundidade",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a imperfeição humana gera conexão emocional"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento ou instabilidade, quebrando as regras tradicionais de composição",
+      "paleta_cores": "Preto profundo com neon vibrante ou estética onírica com Hyper-Bloom",
+      "teoria_do_clique": "O contraste agressivo e a quebra de regras visuais capturam a atenção do usuário, enquanto a estética humana e crua promove uma conexão emocional mais forte"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem Neon-Noir de uma cena urbana noturna com uma pessoa real no centro, utilizando contrastes agressivos e cores neon, com texturas e reflexos",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com personagens reais, iluminação neon intensa e sombras profundas, utilizando uma paleta de cores que combine preto e neon. Inclua textos gigantes para destacar uma mensagem impactante.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-14T04:38:46.499Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhorar o engajamento e alcance da página no Facebook"
-      ]
-    },
     {
       "data": "2026-07-14T07:01:59.970Z",
       "licao": [
@@ -100,6 +93,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-07-14T22:44:41.323Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a estética humana",
+        "Incorporação de contraste agressivo e design deconstrutivista"
       ]
     }
   ]
