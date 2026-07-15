@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-15T07:05:02.760Z",
+  "ultima_atualizacao": "2026-07-15T09:48:04.583Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop'"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhor engajamento com base na performance atual da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com foco em detalhes humanos e imperfeições",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de imagens cruas e humanas, aliado a contrastes agressivos, paralisa o scroll e gera curiosidade, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, enfatizando a autenticidade e imperfeições",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos cruas e autênticos no centro",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica captura a atenção do usuário, enquanto a autenticidade e imperfeições humanas geram empatia e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, com um foco em detalhes humanos e imperfeições, utilizando uma paleta de cores que inclua preto profundo, neon vibrante e tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um humano autêntico no centro, com elementos de Hyper-Bloom e uma paleta de cores que inclua preto, neon e tons pastéis. Adicione textos dominantes com fonte gigante para transmitir uma mensagem impactante.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-14T15:14:55.715Z",
-      "licao": [
-        "Adoção do estilo Hyper-Human para aumentar a autenticidade",
-        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
-        "Aplicação de Design Deconstrutivista para quebrar regras de layout",
-        "Uso de Tipografia Gigante para facilitar a leitura no mobile"
-      ]
-    },
     {
       "data": "2026-07-14T17:00:41.791Z",
       "licao": [
@@ -100,6 +92,14 @@
       "licao": [
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop'"
+      ]
+    },
+    {
+      "data": "2026-07-15T09:48:04.583Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhor engajamento com base na performance atual da página"
       ]
     }
   ]
