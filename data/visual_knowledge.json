@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-15T17:03:09.631Z",
+  "ultima_atualizacao": "2026-07-15T18:52:35.912Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de elementos visuais para quebrar a monotonia e atrair a atenção do usuário",
+      "Uso de cores e contrastes para aumentar a visibilidade e o impacto das imagens"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma irregular, quebrando regras de layout tradicionais, para parar o scroll",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para equilíbrio",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estética neon e layout deconstrutivista gera curiosidade e engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom para criar contraste e profundidade",
+      "foco_composicao": "Enquadre a cena de forma a criar uma narrativa, com elementos principais no centro e detalhes ao redor, utilizando a regra dos terços",
+      "paleta_cores": "Preto, neon e tons pastéis para criar um ambiente onírico e atraente",
+      "teoria_do_clique": "O uso de cores vibrantes e contrastes agressivos aumenta a probabilidade de parar o scroll e gerar engajamento, pois chama a atenção do usuário e desperta sua curiosidade"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em um ambiente urbano, incorporando neon e elementos de design deconstrutivista, com textos gigantes destacando a ação principal",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com toques de Hyper-Bloom, com uma cena urbana noturna, elementos neon iluminados e uma figura humana em primeiro plano, utilizando uma tipografia gigante para destacar uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-14T22:44:41.323Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a estética humana",
-        "Incorporação de contraste agressivo e design deconstrutivista"
-      ]
-    },
     {
       "data": "2026-07-14T23:40:51.432Z",
       "licao": [
@@ -101,6 +93,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-07-15T18:52:35.912Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de elementos visuais para quebrar a monotonia e atrair a atenção do usuário",
+        "Uso de cores e contrastes para aumentar a visibilidade e o impacto das imagens"
       ]
     }
   ]
