@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-16T15:24:08.444Z",
+  "ultima_atualizacao": "2026-07-16T17:01:06.084Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco na estética Hyper-Human e Neon-Noir para melhorar o engajamento",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Foco em criação de conteúdo que rejeite o 'AI Slop' e valorize a autenticidade",
+      "Incorporação de estética onírica e contrastes agressivos para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, destacando imperfeições e autenticidade",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luzes e sombras, com foco em elementos humanos ou naturais",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma atmosfera onírica e atraente",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica criam uma experiência visual única, enquanto a autenticidade e as imperfeições humanas geram conexão emocional e engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, priorizando fotos reais e cruas com imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de maneira a criar uma sensação de movimento ou tensão, quebrando regras tradicionais de layout",
+      "paleta_cores": "Preto profundo com neon vibrante ou estéticas oníricas pastéis, criando contrastes agressivos",
+      "teoria_do_clique": "O engajamento é gerado pela combinação de autenticidade, contraste visual agressivo e tipografia dominante, que juntos criam uma experiência visual impactante e memorável"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal iluminado por luzes neon, em um ambiente sombrio com tons pastéis, destacando a textura e as imperfeições da pele e do ambiente",
+    "prompt_padrao_atualizado": "Crie uma imagem híbrida que combine elementos humanos reais com toques de neon vibrante, em um ambiente onírico e com uma tipografia gigante que domine a cena",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,12 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-15T21:45:16.990Z",
-      "licao": [
-        "Inclusão de tendências Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-07-15T22:46:27.701Z",
       "licao": [
@@ -98,6 +92,14 @@
         "Adaptação às tendências globais de 2026",
         "Foco na estética Hyper-Human e Neon-Noir para melhorar o engajamento",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-16T17:01:06.084Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Foco em criação de conteúdo que rejeite o 'AI Slop' e valorize a autenticidade",
+        "Incorporação de estética onírica e contrastes agressivos para parar o scroll"
       ]
     }
   ]
