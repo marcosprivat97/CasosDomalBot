@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-07-16T23:46:57.618Z",
+  "ultima_atualizacao": "2026-07-17T01:28:05.035Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estéticas que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Incorporação de contrastes agressivos e tipografia gigante"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética Hyper-Human para aumento do engajamento",
+      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+      "Aplicação de Design Deconstrutivista para parar o scroll",
+      "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com fotos reais e imperfeições naturais",
-      "foco_composicao": "Enquadre a foto de forma a destacar a autenticidade e a crueza da cena, quebrando regras de layout tradicionais para parar o scroll",
-      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrastes agressivos entre preto e neon, ou estéticas oníricas com cores pastéis",
-      "teoria_do_clique": "O uso de imagens autênticas e imperfeitas, combinado com contrastes agressivos e tipografia gigante, gera engajamento pois atrai a atenção do usuário e o faz parar o scroll para entender melhor a mensagem"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto com foco em elementos humanos reais, imperfeições incluídas, e utilize contraste agressivo para destacar",
+      "paleta_cores": "Neon vibrante sobre fundo escuro ou pastel suave para Hyper-Bloom",
+      "teoria_do_clique": "O uso de imagens reais e cruas gera empatia e curiosidade, enquanto o contraste agressivo e a tipografia gigante capturam a atenção do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com uma cena urbana noturna em Neon-Noir, destacando uma pessoa comum em um momento cotidiano, com tipografia gigante destacando uma frase que ressoe com a autenticidade da cena",
+    "prompt_padrao_atualizado": "Crie uma imagem que mistura elementos humanos reais com toques de neon, em um ambiente escuro ou com tons pastéis, com texto gigante destacando uma mensagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-16T11:25:23.490Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-07-16T13:15:18.703Z",
       "licao": [
@@ -100,6 +95,16 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Foco em estéticas que rejeitam o 'AI Slop' e valorizam a autenticidade",
         "Incorporação de contrastes agressivos e tipografia gigante"
+      ]
+    },
+    {
+      "data": "2026-07-17T01:28:05.035Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética Hyper-Human para aumento do engajamento",
+        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+        "Aplicação de Design Deconstrutivista para parar o scroll",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
