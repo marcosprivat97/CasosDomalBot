@@ -1,17 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-17T20:44:57.055Z",
+  "ultima_atualizacao": "2026-07-17T21:40:01.242Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar a performance da página"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de elementos de design deconstrutivista e tipografia gigante",
+      "Foco em estética Hyper-Human para conectar com o público"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Realismo Cru com toques de Neon para contraste",
-      "foco_composicao": "Enquadre a imagem de forma a criar tensão ou surpresa, quebrando regras de layout tradicionais",
-      "paleta_cores": "Preto profundo com neon vibrante para contrastar e chamar atenção",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout criam curiosidade e param o scroll, enquanto a estética realista e imperfeita gera identificação e engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a cena de forma a quebrar as regras tradicionais de layout, incorporando elementos que pareçam fora de lugar ou desalinhados",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de elementos visuais disruptivos e a estética humana crua gera curiosidade e estimula o engajamento, pois desafia a percepção do usuário e o convida a parar o scroll"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, com uma composição que quebre regras de layout e inclua tipografia gigante para chamar atenção",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana real, incorporando elementos neon e desalinhamentos composicionais, com textos gigantes que dominam a cena",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -19,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-17T07:08:47.536Z",
-      "licao": [
-        "Introdução do estilo Hyper-Human para aumentar a autenticidade",
-        "Incorporação de contraste agressivo com Neon-Noir para chamar atenção",
-        "Uso de Design Deconstrutivista para interromper o scroll",
-        "Implementação de Tipografia Gigante para melhor leitura em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-07-17T09:44:34.859Z",
       "licao": [
@@ -97,6 +90,14 @@
       "data": "2026-07-17T20:44:57.055Z",
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar a performance da página"
+      ]
+    },
+    {
+      "data": "2026-07-17T21:40:01.242Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de elementos de design deconstrutivista e tipografia gigante",
+        "Foco em estética Hyper-Human para conectar com o público"
       ]
     }
   ]
