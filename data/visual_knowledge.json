@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-07-17T14:44:13.918Z",
+  "ultima_atualizacao": "2026-07-17T16:06:56.663Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
-      "Foco em criar conteúdo que rejeite o 'AI Slop' e valorize a autenticidade"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' em favor de uma abordagem mais humana",
+      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+      "Implementação de design deconstrutivista para interromper o scroll",
+      "Inclusão de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, destacando imperfeições humanas e contrates agressivos",
-      "foco_composicao": "Enquadre o sujeito de forma irregular, quebrando as regras tradicionais de layout, com foco em texturas e detalhes",
-      "paleta_cores": "Preto profundo e neon vibrante, com uma paleta de cores limitada para criar contraste visual",
-      "teoria_do_clique": "O engajamento será gerado pela combinação de autenticidade, contraste visual e tipografia dominante, que chama a atenção do usuário em meio ao fluxo de conteúdo"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human para criar uma estética única e atraente",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou drama, quebrando regras tradicionais de layout",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com tons pastéis e neon para criar uma atmosfera hipnótica",
+      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas, combinado com contrastes agressivos e design deconstrutivista, gera engajamento porque é mais autêntico e chamativo, interrompendo o scroll do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa real, com expressão autêntica, em um ambiente sombrio com detalhes neon, utilizando uma tipografia gigante e irregular para destacar uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos Hyper-Human, incorporando design deconstrutivista e tipografia gigante, onde o foco da composição é um elemento surpreendente que quebra as regras tradicionais de layout",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-16T21:54:06.770Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilo de imagem mais cru e humano",
-        "Uso de contraste agressivo e estética onírica",
-        "Quebra de regras de layout para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-07-16T22:46:10.732Z",
       "licao": [
@@ -103,6 +95,16 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
         "Foco em criar conteúdo que rejeite o 'AI Slop' e valorize a autenticidade"
+      ]
+    },
+    {
+      "data": "2026-07-17T16:06:56.663Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' em favor de uma abordagem mais humana",
+        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+        "Implementação de design deconstrutivista para interromper o scroll",
+        "Inclusão de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
       ]
     }
   ]
