@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-17T01:28:05.035Z",
+  "ultima_atualizacao": "2026-07-17T04:51:57.884Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética Hyper-Human para aumento do engajamento",
-      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
-      "Aplicação de Design Deconstrutivista para parar o scroll",
-      "Uso de Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto com foco em elementos humanos reais, imperfeições incluídas, e utilize contraste agressivo para destacar",
-      "paleta_cores": "Neon vibrante sobre fundo escuro ou pastel suave para Hyper-Bloom",
-      "teoria_do_clique": "O uso de imagens reais e cruas gera empatia e curiosidade, enquanto o contraste agressivo e a tipografia gigante capturam a atenção do usuário"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, destacando imperfeições humanas e contraste agressivo",
+      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, utilizando espaços negativos e elementos fora de foco para criar tensão visual",
+      "paleta_cores": "Preto profundo e neon, com toques de cores pastéis para criar uma estética onírica e hipnótica",
+      "teoria_do_clique": "A combinação de estética crua e humana com elementos visuais disruptivos aumenta a curiosidade e o engajamento do usuário, parando o scroll e estimulando a interação"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que mistura elementos humanos reais com toques de neon, em um ambiente escuro ou com tons pastéis, com texto gigante destacando uma mensagem",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência humana em um ambiente urbano noturno, com luzes neon refletindo em superfícies molhadas e pessoas com expressões autênticas, utilizando uma paleta de cores que inclua preto, neon e tons pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-16T13:15:18.703Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-        "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-07-16T15:24:08.444Z",
       "licao": [
@@ -105,6 +94,14 @@
         "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
         "Aplicação de Design Deconstrutivista para parar o scroll",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-17T04:51:57.884Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
