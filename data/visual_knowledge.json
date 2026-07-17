@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-17T18:55:14.372Z",
+  "ultima_atualizacao": "2026-07-17T19:56:54.110Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
-      "Incorporação do Design Deconstrutivista para quebrar regras de layout e parar o scroll",
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética Hyper-Human para maior engajamento",
+      "Inclusão de elementos de Design Deconstrutivista para parar o scroll",
       "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de realismo cru",
-      "foco_composicao": "Enquadre a imagem de forma assimétrica, com foco no centro, mas com elementos que escapam dos limites da frame",
-      "paleta_cores": "Preto profundo com neon vibrante, contrastando com tons pastéis suaves",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera curiosidade e estimula o engajamento, pois o cérebro humano é atraído por padrões incomuns e cores vibrantes"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a cena de forma assimétrica, com elementos fora do centro e uso de diagonais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para suavizar",
+      "teoria_do_clique": "O uso de contrastes agressivos e composições desestruturadas gera curiosidade e pausa no scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com personagens reais, incorporando elementos neon e uma atmosfera onírica, com textos gigantes destacando uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com iluminação neon, pessoa ou objeto central em foco desfocado, com texto gigante sobreposto em fonte sans-serif",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-17T01:28:05.035Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estética Hyper-Human para aumento do engajamento",
-        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
-        "Aplicação de Design Deconstrutivista para parar o scroll",
-        "Uso de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-07-17T04:51:57.884Z",
       "licao": [
@@ -101,6 +92,15 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
         "Incorporação do Design Deconstrutivista para quebrar regras de layout e parar o scroll",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-17T19:56:54.110Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética Hyper-Human para maior engajamento",
+        "Inclusão de elementos de Design Deconstrutivista para parar o scroll",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
