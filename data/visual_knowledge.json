@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-17T07:08:47.536Z",
+  "ultima_atualizacao": "2026-07-17T09:44:34.859Z",
   "licao_atual": {
-    "versao_logica": "1.4",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Introdução do estilo Hyper-Human para aumentar a autenticidade",
-      "Incorporação de contraste agressivo com Neon-Noir para chamar atenção",
-      "Uso de Design Deconstrutivista para interromper o scroll",
-      "Implementação de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      "Adaptação às tendências de 2026",
+      "Foco em conteúdo mais humano e autêntico",
+      "Incorporação de estilos visuais disruptivos"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre sujeitos de forma despretensiosa, com foco em momentos cotidianos e autênticos, quebrando as regras de layout tradicionais",
-      "paleta_cores": "Preto profundo com acenos de neon, promovendo um contraste agressivo e uma estética onírica",
-      "teoria_do_clique": "O uso de imagens reais e imperfeitas, combinado com contraste agressivo, gera curiosidade e convidação à interação, aumentando o engajamento"
+      "foco_composicao": "Enquadre a cena de forma a criar contraste e tensão visual, quebrando regras de layout tradicionais",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves para criar um contraste agressivo",
+      "teoria_do_clique": "O uso de imagens cruas e humanas, combinado com estéticas oníricas e disruptivas, gera curiosidade e paralisa o scroll"
     },
-    "prompt_padrao_atualizado": "Crie uma cena cotidiana com pessoas reais, em um ambiente urbano noturno, com iluminação neon, e incorpore textos gigantes que dialoguem com o observador",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais em primeiro plano, utilizando luzes neon para realçar detalhes, e um fundo sombrio com tons pastéis. Adicione textos gigantes com mensagens impactantes.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-16T17:01:06.084Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Foco em criação de conteúdo que rejeite o 'AI Slop' e valorize a autenticidade",
-        "Incorporação de estética onírica e contrastes agressivos para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-16T18:53:42.777Z",
       "licao": [
@@ -104,6 +95,14 @@
         "Incorporação de contraste agressivo com Neon-Noir para chamar atenção",
         "Uso de Design Deconstrutivista para interromper o scroll",
         "Implementação de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-07-17T09:44:34.859Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em conteúdo mais humano e autêntico",
+        "Incorporação de estilos visuais disruptivos"
       ]
     }
   ]
