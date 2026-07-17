@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-17T12:59:51.430Z",
+  "ultima_atualizacao": "2026-07-17T14:44:13.918Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-      "Foco em performance de engajamento com rejeição ao 'AI Slop'"
+      "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
+      "Foco em criar conteúdo que rejeite o 'AI Slop' e valorize a autenticidade"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando fotos reais e cruas",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com elementos humanos imperfeitos no centro",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um ambiente onírico",
-      "teoria_do_clique": "A combinação de contrastes agressivos e estética onírica captura a atenção do usuário, enquanto a presença de elementos humanos imperfeitos gera empatia e curiosidade"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, destacando imperfeições humanas e contrates agressivos",
+      "foco_composicao": "Enquadre o sujeito de forma irregular, quebrando as regras tradicionais de layout, com foco em texturas e detalhes",
+      "paleta_cores": "Preto profundo e neon vibrante, com uma paleta de cores limitada para criar contraste visual",
+      "teoria_do_clique": "O engajamento será gerado pela combinação de autenticidade, contraste visual e tipografia dominante, que chama a atenção do usuário em meio ao fluxo de conteúdo"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem humano realista no centro, iluminado por neon, com um fundo preto profundo e detalhes em tons pastéis, aplicando um estilo Neon-Noir & Hyper-Bloom",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa real, com expressão autêntica, em um ambiente sombrio com detalhes neon, utilizando uma tipografia gigante e irregular para destacar uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-16T20:43:40.549Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop' e destacam a estética humana",
-        "Incorporação de contraste agressivo e design deconstrutivista"
-      ]
-    },
     {
       "data": "2026-07-16T21:54:06.770Z",
       "licao": [
@@ -103,6 +95,14 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura no mobile",
         "Foco em performance de engajamento com rejeição ao 'AI Slop'"
+      ]
+    },
+    {
+      "data": "2026-07-17T14:44:13.918Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
+        "Foco em criar conteúdo que rejeite o 'AI Slop' e valorize a autenticidade"
       ]
     }
   ]
