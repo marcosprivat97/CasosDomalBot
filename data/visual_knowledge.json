@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-17T23:41:12.884Z",
+  "ultima_atualizacao": "2026-07-18T01:19:33.077Z",
   "licao_atual": {
-    "versao_logica": "1.4",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
-      "Uso de contraste agressivo e tipografia gigante para parar o scroll"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento e alcance da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma composição desequilibrada, com elementos fora do centro, para gerar curiosidade",
-      "paleta_cores": "Preto profundo com neon vibrante para criar contraste agressivo",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estética onírica e contraste agressivo gera curiosidade e paralisa o scroll, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom, com contraste agressivo e estética onírica",
+      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, utilizando o Design Deconstrutivista para parar o scroll",
+      "paleta_cores": "Preto e neon, com tons pastéis suaves para criar um contraste visual atraente",
+      "teoria_do_clique": "O uso de cores neon e contraste agressivo chama a atenção do usuário, enquanto a quebra de regras de layout cria curiosidade e estimula o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com toques de Neon-Noir, com uma composição desequilibrada e uma paleta de cores preto profundo com neon vibrante",
+    "prompt_padrao_atualizado": "Crie uma imagem com um fundo preto e neon, com um objeto ou pessoa em destaque, utilizando uma tipografia gigante e cores pastéis suaves para criar um contraste visual atraente",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-17T12:59:51.430Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-        "Foco em performance de engajamento com rejeição ao 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-07-17T14:44:13.918Z",
       "licao": [
@@ -100,6 +91,13 @@
         "Adaptação às tendências de 2026 para melhorar o desempenho da página",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
         "Uso de contraste agressivo e tipografia gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-18T01:19:33.078Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento e alcance da página"
       ]
     }
   ]
