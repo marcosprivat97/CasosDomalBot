@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-19T16:42:26.683Z",
+  "ultima_atualizacao": "2026-07-19T17:46:34.501Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll",
+      "Foco em imagens reais e cruas para rejeitar o 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos reais e imperfeições",
-      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com toques de cores pastéis para equilíbrio",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a presença de elementos humanos reais gera conexão emocional e aumenta o engajamento"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom com toques de realismo sujo",
+      "foco_composicao": "Enquadre a foto de forma irregular, quebrando regras de layout tradicionais, e destaque elementos humanos imperfeitos",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos e layouts deconstrutivistas, gera engajamento por criar uma sensação de autenticidade e surpresa"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa real em um ambiente escuro, iluminada por neon, com texto gigante em primeiro plano",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de realismo sujo, destacando um elemento humano imperfeito, com uma tipografia gigante e um layout deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-18T23:40:52.162Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
-        "Incorporação do Design Deconstrutivista para quebrar regras de layout",
-        "Uso de Tipografia Gigante para melhor legibilidade no mobile"
-      ]
-    },
     {
       "data": "2026-07-19T01:26:25.567Z",
       "licao": [
@@ -103,6 +95,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-07-19T17:46:34.501Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll",
+        "Foco em imagens reais e cruas para rejeitar o 'AI Slop'"
       ]
     }
   ]
