@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-07-19T22:39:41.287Z",
+  "ultima_atualizacao": "2026-07-19T23:44:58.077Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em Hyper-Human e Neon-Noir para melhorar engajamento",
-      "Implementação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética Hyper-Human",
+      "Incorporação de contrates agressivos e estéticas oníricas",
+      "Uso de Design Deconstrutivista para parar o scroll",
+      "Implementação de Tipografia Gigante para leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em detalhes humanos imperfeitos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "A combinação de contraste agressivo e elementos humanos imperfeitos gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto de forma a criar contrates agressivos e destacar a presença humana, quebrando regras de layout tradicionais",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens cruas e humanas, combinado com contrates agressivos e estéticas oníricas, gera engajamento por criar uma conexão emocional imediata e parar o scroll do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano imperfeito no centro, utilizando uma paleta de cores vibrantes e tons pastéis, com texto dominante em fonte sans-serif",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, iluminada por neon vibrante, sobre um fundo preto profundo com tons pastéis suaves, com texto gigante e deconstrutivista sobrepondo a imagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-19T11:02:37.179Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que buscam rejeitar o 'AI Slop' e adotar uma abordagem mais humana"
-      ]
-    },
     {
       "data": "2026-07-19T12:49:26.939Z",
       "licao": [
@@ -100,6 +95,16 @@
         "Adaptação às tendências de 2026",
         "Foco em Hyper-Human e Neon-Noir para melhorar engajamento",
         "Implementação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-07-19T23:44:58.077Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética Hyper-Human",
+        "Incorporação de contrates agressivos e estéticas oníricas",
+        "Uso de Design Deconstrutivista para parar o scroll",
+        "Implementação de Tipografia Gigante para leitura rápida"
       ]
     }
   ]
