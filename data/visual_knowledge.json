@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-19T11:02:37.179Z",
+  "ultima_atualizacao": "2026-07-19T12:49:26.939Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais que buscam rejeitar o 'AI Slop' e adotar uma abordagem mais humana"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
+      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadramento próximo com atenção a detalhes humanos e imperfeições, utilizando contraste agressivo para chamar a atenção",
-      "paleta_cores": "Preto profundo com neon vibrante para criar um contraste impactante",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo, visa criar uma conexão emocional imediata com o espectador, aumentando a probabilidade de engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, mesclando contraste agressivo com estética onírica",
+      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, quebrando as regras tradicionais de layout",
+      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "A combinação de elementos humanos cruos com estética futurista e contrastes agressivos atrai a atenção do usuário e gera curiosidade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento humano íntimo e cru, com um fundo preto e detalhes em neon, utilizando uma tipografia gigante para transmitir uma mensagem poderosa",
+    "prompt_padrao_atualizado": "Crie uma imagem que misture neon vibrante com cena urbana noturna, incorporando elementos humanos imperfeitos e uma tipografia gigante que domine a cena",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-18T19:57:40.719Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação de estilos visuais mais críticos e humanos",
-        "Melhoria na legibilidade com tipografia gigante"
-      ]
-    },
     {
       "data": "2026-07-18T20:41:01.878Z",
       "licao": [
@@ -102,6 +95,14 @@
       "licao": [
         "Adaptação às tendências globais de 2026 para melhorar a performance da página",
         "Inclusão de estilos visuais que buscam rejeitar o 'AI Slop' e adotar uma abordagem mais humana"
+      ]
+    },
+    {
+      "data": "2026-07-19T12:49:26.939Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
+        "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
   ]
