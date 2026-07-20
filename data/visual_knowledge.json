@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-20T17:17:05.054Z",
+  "ultima_atualizacao": "2026-07-20T19:22:21.844Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
-      "Foco em criar imagens que rejeitam o 'AI Slop' e destacam a estética humana"
+      "Introdução do estilo Hyper-Human para fotos mais cruas e reais",
+      "Incorporação de Neon-Noir e Hyper-Bloom para contrastes agressivos",
+      "Aplicação de Design Deconstrutivista para quebra de regras de layout",
+      "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando contrastes agressivos e estéticas oníricas",
-      "foco_composicao": "Enquadramento desestruturado, quebrando regras tradicionais de layout para capturar a atenção do usuário",
-      "paleta_cores": "Preto profundo com neon vibrante, evocando uma atmosfera única e atraente",
-      "teoria_do_clique": "A combinação de elementos visuais impactantes e a quebra de padrões conhecidos estimulam a curiosidade e o engajamento do usuário"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos reais e imperfeições",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste onírico",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica chama a atenção do usuário e gera engajamento devido à novidade e surpresa"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com iluminação neon intensa, destacando personagens ou objetos de maneira desestruturada e vibrante, com textos gigantes em primeiro plano",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais e imperfeições, utilizando contraste agressivo entre preto e neon, com elementos de Hyper-Bloom e Tipografia Gigante para destacar a mensagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-19T21:39:57.695Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-07-19T22:39:41.287Z",
       "licao": [
@@ -101,6 +94,15 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
         "Foco em criar imagens que rejeitam o 'AI Slop' e destacam a estética humana"
+      ]
+    },
+    {
+      "data": "2026-07-20T19:22:21.844Z",
+      "licao": [
+        "Introdução do estilo Hyper-Human para fotos mais cruas e reais",
+        "Incorporação de Neon-Noir e Hyper-Bloom para contrastes agressivos",
+        "Aplicação de Design Deconstrutivista para quebra de regras de layout",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
