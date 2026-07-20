@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-20T05:28:17.000Z",
+  "ultima_atualizacao": "2026-07-20T08:36:06.372Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
-      "Foco em composições que quebram regras de layout para parar o scroll"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de elementos visuais que seguem as diretrizes de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, priorizando fotos reais e cruas com imperfeições",
-      "foco_composicao": "Enquadramento off-center, com sujeitos em movimento ou em ângulos inusitados, destacando contraste e texturas",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com tons pastéis sobre fundos escuros",
-      "teoria_do_clique": "A combinação de elementos humanos, com imperfeições e contraste agressivo, gera curiosidade e convidação ao engajamento"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas naturais",
+      "foco_composicao": "Enquadramento off-center, com sujeitos ou objetos principais ligeiramente descentrados para criar tensão visual",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um equilíbrio onírico",
+      "teoria_do_clique": "O uso de contraste e elementos humanos imperfeitos gera curiosidade e convidam o usuário a parar o scroll e explorar a imagem"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem Hyper-Human com um sujeito em movimento, utilizando contraste agressivo entre preto e neon, com uma tipografia gigante destacando uma palavra-chave relacionada ao tema",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em primeiro plano, iluminado por luzes neon, contra um fundo sombrio e com texturas visíveis, incorporando elementos que quebram as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-19T15:44:40.931Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
-        "Foco em estética cruas e imperfeições humanas para rejeitar o 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-07-19T16:42:26.683Z",
       "licao": [
@@ -102,6 +93,13 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
         "Foco em composições que quebram regras de layout para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-20T08:36:06.372Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de elementos visuais que seguem as diretrizes de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista"
       ]
     }
   ]
