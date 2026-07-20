@@ -1,36 +1,26 @@
 {
-  "ultima_atualizacao": "2026-07-19T23:44:58.077Z",
+  "ultima_atualizacao": "2026-07-20T01:51:55.307Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética Hyper-Human",
-      "Incorporação de contrates agressivos e estéticas oníricas",
-      "Uso de Design Deconstrutivista para parar o scroll",
-      "Implementação de Tipografia Gigante para leitura rápida"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação do estilo Hyper-Human para aumento do engajamento",
+      "Uso de contrates agressivos e estéticas oníricas para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a criar contrates agressivos e destacar a presença humana, quebrando regras de layout tradicionais",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de imagens cruas e humanas, combinado com contrates agressivos e estéticas oníricas, gera engajamento por criar uma conexão emocional imediata e parar o scroll do usuário"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom para criar contrates agressivos e uma atmosfera única",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou tensão, utilizando a regra dos terços e quebrando as regras de layout tradicionais",
+      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves para criar um equilíbrio entre o sombrio e o onírico",
+      "teoria_do_clique": "O uso de imagens cruas e com imperfeições humanas, combinado com contrates agressivos e estéticas oníricas, gera engajamento por criar uma conexão emocional imediata com o espectador"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, iluminada por neon vibrante, sobre um fundo preto profundo com tons pastéis suaves, com texto gigante e deconstrutivista sobrepondo a imagem",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em foco, utilizando luzes neon para realçar a textura e a atmosfera, e incorporando elementos de natureza ou arquitetura para criar profundidade",
     "config_layout": {
-      "font_size_mult": 1.5,
+      "font_size_mult": 1.2,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-19T12:49:26.939Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento",
-        "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-19T14:18:35.259Z",
       "licao": [
@@ -105,6 +95,14 @@
         "Incorporação de contrates agressivos e estéticas oníricas",
         "Uso de Design Deconstrutivista para parar o scroll",
         "Implementação de Tipografia Gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-07-20T01:51:55.307Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human para aumento do engajamento",
+        "Uso de contrates agressivos e estéticas oníricas para parar o scroll"
       ]
     }
   ]
