@@ -1,21 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-20T21:58:37.898Z",
+  "ultima_atualizacao": "2026-07-20T22:58:05.259Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human para melhorar engajamento",
-      "Incorporação de elementos Neon-Noir e Hyper-Bloom para aumento de alcance",
-      "Aplicação de Design Deconstrutivista para parar o scroll",
-      "Uso de Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para engajamento em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de maneira a criar contraste agressivo entre preto e neon, com foco em detalhes humanos imperfeitos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um equilíbrio onírico",
-      "teoria_do_clique": "O contraste agressivo e a estética humana imperfeita capturam a atenção do usuário, enquanto a tipografia gigante facilita a leitura e o engajamento"
+      "estilo_imagem": "Neo-Realismo Cru com toques de Neon",
+      "foco_composicao": "Enquadre sujeitos em ambientes urbanos noturnos, com luzes neon destacadas, e explore ângulos inovadores para quebrar a monotonia",
+      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com toques de branco para criar contraste",
+      "teoria_do_clique": "O contraste agressivo e as estéticas oníricas capturam a atenção rapidamente, enquanto a autenticidade do Neo-Realismo gera identificação e compartilhamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos Neon-Noir, utilizando uma paleta de cores que combine preto profundo com neon vibrante e tons pastéis, e aplique uma tipografia gigante para o texto principal",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com um sujeito humano realista, iluminado por luzes neon verdes e rosas, com um fundo preto profundo e texto gigante em branco sobreposto, dizendo 'Descubra o Inesperado'",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-20T01:51:55.307Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human para aumento do engajamento",
-        "Uso de contrates agressivos e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-20T05:28:17.000Z",
       "licao": [
@@ -104,6 +93,13 @@
         "Incorporação de elementos Neon-Noir e Hyper-Bloom para aumento de alcance",
         "Aplicação de Design Deconstrutivista para parar o scroll",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-20T22:58:05.259Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para engajamento em dispositivos móveis"
       ]
     }
   ]
