@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-20T19:22:21.844Z",
+  "ultima_atualizacao": "2026-07-20T20:59:06.502Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Introdução do estilo Hyper-Human para fotos mais cruas e reais",
-      "Incorporação de Neon-Noir e Hyper-Bloom para contrastes agressivos",
-      "Aplicação de Design Deconstrutivista para quebra de regras de layout",
+      "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+      "Incorporação de Design Deconstrutivista para parar o scroll",
       "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos reais e imperfeições",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste onírico",
-      "teoria_do_clique": "O uso de contraste agressivo e estética onírica chama a atenção do usuário e gera engajamento devido à novidade e surpresa"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando contraste agressivo e estética onírica",
+      "foco_composicao": "Enquadre a foto com elementos humanos reais e imperfeições, quebrando regras de layout tradicionais",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica gera curiosidade e pausa no scroll, enquanto a presença de elementos humanos reais aumenta a empatia e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais e imperfeições, utilizando contraste agressivo entre preto e neon, com elementos de Hyper-Bloom e Tipografia Gigante para destacar a mensagem",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Bloom, destacando uma pessoa real em um ambiente urbano noturno, com uma tipografia gigante e deconstrutivista que domine a cena",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-19T22:39:41.287Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e Neon-Noir para melhorar engajamento",
-        "Implementação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-07-19T23:44:58.077Z",
       "licao": [
@@ -102,6 +93,14 @@
         "Introdução do estilo Hyper-Human para fotos mais cruas e reais",
         "Incorporação de Neon-Noir e Hyper-Bloom para contrastes agressivos",
         "Aplicação de Design Deconstrutivista para quebra de regras de layout",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-20T20:59:06.502Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+        "Incorporação de Design Deconstrutivista para parar o scroll",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
