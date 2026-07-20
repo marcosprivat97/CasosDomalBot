@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-20T11:34:06.566Z",
+  "ultima_atualizacao": "2026-07-20T13:44:46.514Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.0",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Foco em performance para página com baixo engajamento",
-      "Inclusão de elementos que promovam interação e parada do scroll"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human",
+      "Incorporação de Neon-Noir e Hyper-Bloom",
+      "Uso de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições e realismo",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com elementos humanos no centro",
-      "paleta_cores": "Preto profundo, neon verde, azul e rosa, com alto contraste para chamar a atenção",
-      "teoria_do_clique": "O uso de contraste agressivo e elementos humanos reais gera curiosidade e promove o engajamento, pois o cérebro humano é atraído por padrões e anomalias"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
+      "foco_composicao": "Enquadre a foto de forma a destacar a imperfeição humana, com contraste agressivo e cores vibrantes",
+      "paleta_cores": "Preto, neon e cores pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens reais e imperfeitas, combinado com cores e contrastes agressivos, gera engajamento por ser mais autêntico e atraente"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano real no centro, aplicando um estilo Hyper-Human e elementos de Design Deconstrutivista, com tipografia gigante e cores neon para destacar a mensagem",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Hyper-Human, com um toque de Neon-Noir e Hyper-Bloom, destacando a imperfeição humana de forma autêntica e atraente",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-19T17:46:34.501Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
-        "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll",
-        "Foco em imagens reais e cruas para rejeitar o 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-07-19T18:46:47.801Z",
       "licao": [
@@ -101,6 +94,15 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Foco em performance para página com baixo engajamento",
         "Inclusão de elementos que promovam interação e parada do scroll"
+      ]
+    },
+    {
+      "data": "2026-07-20T13:44:46.514Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human",
+        "Incorporação de Neon-Noir e Hyper-Bloom",
+        "Uso de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
