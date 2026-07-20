@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-20T22:58:05.259Z",
+  "ultima_atualizacao": "2026-07-20T23:54:29.413Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para engajamento em dispositivos móveis"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
+      "Incorporação de elementos visuais que promovam a interação"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neo-Realismo Cru com toques de Neon",
-      "foco_composicao": "Enquadre sujeitos em ambientes urbanos noturnos, com luzes neon destacadas, e explore ângulos inovadores para quebrar a monotonia",
-      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com toques de branco para criar contraste",
-      "teoria_do_clique": "O contraste agressivo e as estéticas oníricas capturam a atenção rapidamente, enquanto a autenticidade do Neo-Realismo gera identificação e compartilhamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, destacando o tema principal",
+      "paleta_cores": "Preto profundo e neon vibrante para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de cores neon e a estética onírica combinados com a autenticidade do Hyper-Human geram curiosidade e atraem a atenção do usuário, aumentando as chances de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com um sujeito humano realista, iluminado por luzes neon verdes e rosas, com um fundo preto profundo e texto gigante em branco sobreposto, dizendo 'Descubra o Inesperado'",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir, onde o tema principal esteja enquadrado de forma a criar um contraste agressivo entre luz e sombra, com uma paleta de cores que inclua preto profundo e neon vibrante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-20T05:28:17.000Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
-        "Foco em composições que quebram regras de layout para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-20T08:36:06.372Z",
       "licao": [
@@ -100,6 +93,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para engajamento em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-07-20T23:54:29.413Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
+        "Incorporação de elementos visuais que promovam a interação"
       ]
     }
   ]
