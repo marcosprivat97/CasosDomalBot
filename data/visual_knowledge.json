@@ -1,20 +1,17 @@
 {
-  "ultima_atualizacao": "2026-07-21T22:43:07.773Z",
+  "ultima_atualizacao": "2026-07-21T23:46:18.368Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de elementos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-      "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar tensão ou movimento, quebrando regras tradicionais de layout",
-      "paleta_cores": "Preto profundo com neon agressivo ou tons pastéis em Hyper-Bloom para criar contraste",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas atrai a atenção do usuário, enquanto a autenticidade e imperfeições humanas criam conexão emocional"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, incorporando imperfeições e texturas reais",
+      "foco_composicao": "Enquadre a cena de forma a criar contrastes agressivos entre luz e sombra, com foco em elementos humanos imperfeitos",
+      "paleta_cores": "Paleta preta e neon, com tons pastéis para criar uma estética onírica e atraente",
+      "teoria_do_clique": "O uso de contrastes agressivos e estética onírica captura a atenção do usuário, enquanto a presença de imperfeições humanas gera empatia e aumenta o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena urbana noturna com pessoas reais, iluminada por neon agressivo, com textos gigantes destacando uma mensagem poderosa",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano central, incorporando imperfeições e texturas reais, com uma paleta de cores preta e neon e tons pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +19,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-21T04:56:56.721Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
-        "Foco em rejeição ao 'AI Slop' para fotos mais autênticas e cruas"
-      ]
-    },
     {
       "data": "2026-07-21T07:28:44.030Z",
       "licao": [
@@ -102,6 +91,12 @@
         "Inclusão de elementos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
         "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-07-21T23:46:18.368Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento"
       ]
     }
   ]
