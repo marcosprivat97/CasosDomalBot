@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-21T18:07:24.430Z",
+  "ultima_atualizacao": "2026-07-21T20:11:44.909Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhoria do engajamento e alcance"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições e texturas reais",
-      "foco_composicao": "Enquadre a cena de forma assimétrica, com elementos fora de foco e uma área de interesse clara no centro",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout vão parar o scroll, enquanto a tipografia gigante facilita a leitura rápida e gera curiosidade"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, destacando a textura e as imperfeições humanas",
+      "paleta_cores": "Preto profundo e neon vibrante para contrastar com a estética onírica do Hyper-Bloom",
+      "teoria_do_clique": "O uso de imagens cruas e reais, combinado com contrastes agressivos, atrai a atenção do usuário e estimula o engajamento devido à sua autenticidade e impacto visual"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa real, imperfeições incluídas, em um ambiente sombrio com toques de neon. Adicione textos gigantes com fontes desordenadas e cores neon para criar contraste.",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em primeiro plano, utilizando iluminação neon para realçar as feições e as texturas, e um fundo preto profundo para maximizar o contraste",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,13 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-20T22:58:05.259Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para engajamento em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-07-20T23:54:29.413Z",
       "licao": [
@@ -98,6 +91,13 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhoria do engajamento e alcance"
+      ]
+    },
+    {
+      "data": "2026-07-21T20:11:44.909Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop'"
       ]
     }
   ]
