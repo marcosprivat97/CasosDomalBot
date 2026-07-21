@@ -1,20 +1,21 @@
 {
-  "ultima_atualizacao": "2026-07-21T12:17:44.000Z",
+  "ultima_atualizacao": "2026-07-21T14:53:42.857Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão de estilos de imagem mais cruas e imperfeitas",
-      "Uso de contrastes agressivos e estéticas oníricas",
-      "Quebra de regras de layout para parar o scroll",
-      "Incorporação de tipografia gigante para leitura rápida"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human",
+      "Incorporação de Neon-Noir e Hyper-Bloom",
+      "Uso de Design Deconstrutivista",
+      "Implementação de Tipografia Gigante"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, com foco em detalhes humanos e imperfeições",
-      "paleta_cores": "Preto e neon, com toques de cores pastéis para criar um contraste agressivo e atraente",
-      "teoria_do_clique": "O uso de imagens cruas e imperfeitas, combinado com contrastes agressivos e tipografia gigante, gera engajamento por criar uma sensação de autenticidade e surpresa"
+      "foco_composicao": "Enquadre a imagem de forma a destacar imperfeições humanas e contraste agressivo",
+      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves para Hyper-Bloom",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a autenticidade Hyper-Human gera empatia e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em movimento, com iluminação neon e sombras escuras, utilizando uma paleta de cores preto e neon, com toques de cores pastéis, e incorpore texto gigante com uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem que misture elementos humanos reais com toques de neon vibrante, em um ambiente com contraste agressivo e cores pastéis suaves, destacando a autenticidade e imperfeições da cena",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-20T19:22:21.844Z",
-      "licao": [
-        "Introdução do estilo Hyper-Human para fotos mais cruas e reais",
-        "Incorporação de Neon-Noir e Hyper-Bloom para contrastes agressivos",
-        "Aplicação de Design Deconstrutivista para quebra de regras de layout",
-        "Uso de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-07-20T20:59:06.502Z",
       "licao": [
@@ -102,6 +94,16 @@
         "Uso de contrastes agressivos e estéticas oníricas",
         "Quebra de regras de layout para parar o scroll",
         "Incorporação de tipografia gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-07-21T14:53:42.857Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human",
+        "Incorporação de Neon-Noir e Hyper-Bloom",
+        "Uso de Design Deconstrutivista",
+        "Implementação de Tipografia Gigante"
       ]
     }
   ]
