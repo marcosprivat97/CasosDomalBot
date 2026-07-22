@@ -1,20 +1,21 @@
 {
-  "ultima_atualizacao": "2026-07-22T20:04:48.063Z",
+  "ultima_atualizacao": "2026-07-22T21:55:01.140Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop'",
-      "Inclusão de elementos de 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom'",
-      "Uso de 'Design Deconstrutivista' e 'Tipografia Gigante' para melhor engajamento"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética Hyper-Human para aumentar a autenticidade",
+      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+      "Uso de Design Deconstrutivista para chamar atenção",
+      "Implementação de Tipografia Gigante para facilitar leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, priorizando fotos reais e cruas com imperfeições humanas",
-      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras tradicionais de layout, utilizando contrastes agressivos e estéticas oníricas para parar o scroll",
-      "paleta_cores": "Preto profundo e neon vibrante, com foco em contrastes agressivos que chamem a atenção",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com estéticas visuais impactantes, gera engajamento por ser mais autêntico e humano, rompendo com a monotonia do 'AI Slop'"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir e Hyper-Bloom",
+      "foco_composicao": "Enquadre a imagem de forma desestruturada, quebrando regras tradicionais de layout, com foco em elementos humanos reais e autênticos",
+      "paleta_cores": "Preto profundo e neon vibrante, com alguns toques de cores pastéis para criar contraste",
+      "teoria_do_clique": "A combinação de autenticidade humana, contraste agressivo e layout desestruturado gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento humano crú e autêntico, com iluminação neon vibrante em um ambiente escuro, utilizando textos gigantes para destacar a emoção do momento",
+    "prompt_padrao_atualizado": "Crie uma imagem Hyper-Human com elementos Neon-Noir e Hyper-Bloom, utilizando uma paleta de cores que combine preto profundo e neon vibrante, com um layout desestruturado e tipografia gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,12 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-21T23:46:18.368Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar o engajamento"
-      ]
-    },
     {
       "data": "2026-07-22T01:24:48.595Z",
       "licao": [
@@ -99,6 +94,16 @@
         "Foco em estilos que rejeitam o 'AI Slop'",
         "Inclusão de elementos de 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom'",
         "Uso de 'Design Deconstrutivista' e 'Tipografia Gigante' para melhor engajamento"
+      ]
+    },
+    {
+      "data": "2026-07-22T21:55:01.140Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética Hyper-Human para aumentar a autenticidade",
+        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+        "Uso de Design Deconstrutivista para chamar atenção",
+        "Implementação de Tipografia Gigante para facilitar leitura no mobile"
       ]
     }
   ]
