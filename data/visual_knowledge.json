@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-22T18:00:24.948Z",
+  "ultima_atualizacao": "2026-07-22T20:04:48.063Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que buscam a rejeição ao 'AI Slop'",
-      "Foco em contraste e tipografia para parar o scroll"
+      "Adaptação às tendências de 2026",
+      "Foco em estilos que rejeitam o 'AI Slop'",
+      "Inclusão de elementos de 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom'",
+      "Uso de 'Design Deconstrutivista' e 'Tipografia Gigante' para melhor engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre com foco em detalhes humanos reais, destacando imperfeições e texturas",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para equilíbrio",
-      "teoria_do_clique": "O uso de imagens cruas e com contraste agressivo gera curiosidade e pausa no scroll, aumentando a probabilidade de engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, priorizando fotos reais e cruas com imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras tradicionais de layout, utilizando contrastes agressivos e estéticas oníricas para parar o scroll",
+      "paleta_cores": "Preto profundo e neon vibrante, com foco em contrastes agressivos que chamem a atenção",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com estéticas visuais impactantes, gera engajamento por ser mais autêntico e humano, rompendo com a monotonia do 'AI Slop'"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais, iluminados por neon, e inclua texturas e detalhes que destaquem a humanidade dos sujeitos",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento humano crú e autêntico, com iluminação neon vibrante em um ambiente escuro, utilizando textos gigantes para destacar a emoção do momento",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-21T22:43:07.773Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de elementos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-        "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-07-21T23:46:18.368Z",
       "licao": [
@@ -98,6 +90,15 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que buscam a rejeição ao 'AI Slop'",
         "Foco em contraste e tipografia para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-22T20:04:48.063Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estilos que rejeitam o 'AI Slop'",
+        "Inclusão de elementos de 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom'",
+        "Uso de 'Design Deconstrutivista' e 'Tipografia Gigante' para melhor engajamento"
       ]
     }
   ]
