@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-22T22:51:44.322Z",
+  "ultima_atualizacao": "2026-07-22T23:53:12.777Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.4",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Implementação de Design Deconstrutivista e Tipografia Gigante"
+      "Inclusão de estilo de imagem inspirado no Hyper-Human",
+      "Adoção de paleta de cores Neon-Noir para aumentar o contraste",
+      "Implementação de Design Deconstrutivista para quebrar regras de layout",
+      "Uso de Tipografia Gigante para facilitar a leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom",
-      "foco_composicao": "Enquadre a cena de forma a criar um contraste agressivo entre luz e sombra, com foco em elementos humanos imperfeitos",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves para criar um ambiente onírico",
-      "teoria_do_clique": "A combinação de contraste agressivo, estética onírica e elementos humanos imperfeitos gera curiosidade e paralisa o scroll, aumentando o engajamento"
+      "estilo_imagem": "Realismo Sujo com toques de Hyper-Human, destacando imperfeições humanas",
+      "foco_composicao": "Enquadramento off-center, com sujeito principal fora do centro, criando tensão visual",
+      "paleta_cores": "Preto profundo e neon vibrante, criando contraste agressivo",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo, gera curiosidade e paralisa o scroll"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem humano em primeiro plano, iluminado por neon, com fundo escuro e elementos de Hyper-Bloom",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Realismo Sujo, com uma pessoa em foco, utilizando uma paleta de cores preto/neon, e uma composição off-center, com texto gigante sobrepondo a cena, destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-22T04:56:31.765Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-07-22T07:30:10.869Z",
       "licao": [
@@ -102,6 +95,15 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Implementação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-07-22T23:53:12.777Z",
+      "licao": [
+        "Inclusão de estilo de imagem inspirado no Hyper-Human",
+        "Adoção de paleta de cores Neon-Noir para aumentar o contraste",
+        "Implementação de Design Deconstrutivista para quebrar regras de layout",
+        "Uso de Tipografia Gigante para facilitar a leitura rápida"
       ]
     }
   ]
