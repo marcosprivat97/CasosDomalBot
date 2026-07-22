@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-22T10:12:26.872Z",
+  "ultima_atualizacao": "2026-07-22T12:20:09.749Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade"
+      "Adaptação às tendências de 2026",
+      "Foco em Hyper-Human e Design Deconstrutivista"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de maneira a destacar os contrastes agressivos entre preto e neon, com foco em texturas e imperfeições humanas",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um equilíbrio visual atraente",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes visuais agressivos, gera engajamento por criar uma sensação de autenticidade e surpresa"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, com foco em detalhes humanos e imperfeições",
+      "paleta_cores": "Contrastes agressivos com preto e neon, ou estéticas oníricas com Hyper-Bloom",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos, gera curiosidade e parada do scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir, destacando texturas e imperfeições humanas, com uma paleta de cores que inclua preto, neon e toques de pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem com um tema humano, incorporando elementos de Neon-Noir e Hyper-Bloom, com uma composição que quebre as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-21T16:13:38.320Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop'",
-        "Incorporação de design deconstrutivista e tipografia gigante"
-      ]
-    },
     {
       "data": "2026-07-21T18:07:24.430Z",
       "licao": [
@@ -95,6 +87,13 @@
       "licao": [
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade"
+      ]
+    },
+    {
+      "data": "2026-07-22T12:20:09.749Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e Design Deconstrutivista"
       ]
     }
   ]
