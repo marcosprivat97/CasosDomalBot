@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-23T20:06:49.525Z",
+  "ultima_atualizacao": "2026-07-23T21:55:09.743Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a estética 'Hyper-Human'",
-      "Uso de contraste agressivo e cores neon para chamar a atenção",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a destacar imperfeições humanas e utilize ângulos inovadores para quebrar a monotonia",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para suavizar a estética",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estética futurista e contrastes agressivos gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos reais",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste onírico",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estética neon e contraste agressivo atrai a atenção do usuário e gera engajamento devido à novidade e ao choque visual"
     },
-    "prompt_padrao_atualizado": "Crie uma cena que combine elementos humanos reais com toques de neon e contraste agressivo, utilizando uma paleta de cores que inclua preto, neon e pastéis, e destaque a imperfeição humana de forma criativa",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais em primeiro plano, iluminados por luzes neon, com um fundo escuro e detalhes em tons pastéis, incorporando textos gigantes em fontes destrutivistas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-22T23:53:12.777Z",
-      "licao": [
-        "Inclusão de estilo de imagem inspirado no Hyper-Human",
-        "Adoção de paleta de cores Neon-Noir para aumentar o contraste",
-        "Implementação de Design Deconstrutivista para quebrar regras de layout",
-        "Uso de Tipografia Gigante para facilitar a leitura rápida"
-      ]
-    },
     {
       "data": "2026-07-23T01:44:17.136Z",
       "licao": [
@@ -106,6 +96,14 @@
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a estética 'Hyper-Human'",
         "Uso de contraste agressivo e cores neon para chamar a atenção",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-23T21:55:09.743Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
