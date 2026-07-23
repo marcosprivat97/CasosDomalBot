@@ -1,20 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-22T23:53:12.777Z",
+  "ultima_atualizacao": "2026-07-23T01:44:17.136Z",
   "licao_atual": {
-    "versao_logica": "1.4",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão de estilo de imagem inspirado no Hyper-Human",
-      "Adoção de paleta de cores Neon-Noir para aumentar o contraste",
-      "Implementação de Design Deconstrutivista para quebrar regras de layout",
-      "Uso de Tipografia Gigante para facilitar a leitura rápida"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' em favor de uma abordagem mais humana",
+      "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
+      "Implementação de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Realismo Sujo com toques de Hyper-Human, destacando imperfeições humanas",
-      "foco_composicao": "Enquadramento off-center, com sujeito principal fora do centro, criando tensão visual",
-      "paleta_cores": "Preto profundo e neon vibrante, criando contraste agressivo",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo, gera curiosidade e paralisa o scroll"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, incorporando elementos reais e imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou tensão, utilizando a regra dos terços e quebrando as convenções de layout",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis para uma estética onírica; uso de cores contrastantes para chamar atenção",
+      "teoria_do_clique": "O uso de contraste agressivo e estéticas oníricas, combinado com a tipografia gigante, visa parar o scroll e estimular a curiosidade do usuário, levando a um maior engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Realismo Sujo, com uma pessoa em foco, utilizando uma paleta de cores preto/neon, e uma composição off-center, com texto gigante sobrepondo a cena, destacando uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos reais e imperfeições humanas, incorporando uma tipografia gigante e cores contrastantes, que transmita movimento ou tensão",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-22T07:30:10.869Z",
-      "licao": [
-        "Adoção do estilo Hyper-Human para fotos mais autênticas",
-        "Incorporação de Neon-Noir e Hyper-Bloom para contraste visual",
-        "Aplicação de Design Deconstrutivista para quebrar regras de layout",
-        "Uso de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-07-22T10:12:26.872Z",
       "licao": [
@@ -104,6 +95,15 @@
         "Adoção de paleta de cores Neon-Noir para aumentar o contraste",
         "Implementação de Design Deconstrutivista para quebrar regras de layout",
         "Uso de Tipografia Gigante para facilitar a leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-07-23T01:44:17.136Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' em favor de uma abordagem mais humana",
+        "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
+        "Implementação de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
