@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-23T21:55:09.743Z",
+  "ultima_atualizacao": "2026-07-23T22:44:58.404Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e buscam uma estética mais humana",
+      "Implementação de contrastes agressivos e estéticas oníricas para chamar a atenção",
+      "Uso de tipografia gigante para facilitar a leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos reais",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste onírico",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estética neon e contraste agressivo atrai a atenção do usuário e gera engajamento devido à novidade e ao choque visual"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, buscando contrastes agressivos e uma atmosfera onírica",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras tradicionais de layout, utilizando o Design Deconstrutivista para parar o scroll",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar uma estética única",
+      "teoria_do_clique": "O contraste agressivo e a quebra das regras de layout chamam a atenção imediata, enquanto a estética onírica e os toques humanos incentivam a curiosidade e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais em primeiro plano, iluminados por luzes neon, com um fundo escuro e detalhes em tons pastéis, incorporando textos gigantes em fontes destrutivistas",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, utilizando um Design Deconstrutivista e tipografia gigante, com um foco em contrastes agressivos e uma atmosfera onírica",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-23T01:44:17.136Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' em favor de uma abordagem mais humana",
-        "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-07-23T05:13:42.465Z",
       "licao": [
@@ -104,6 +96,15 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-07-23T22:44:58.404Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e buscam uma estética mais humana",
+        "Implementação de contrastes agressivos e estéticas oníricas para chamar a atenção",
+        "Uso de tipografia gigante para facilitar a leitura rápida no mobile"
       ]
     }
   ]
