@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-23T16:27:08.441Z",
+  "ultima_atualizacao": "2026-07-23T18:06:00.537Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em Hyper-Human e estéticas visuais impactantes",
-      "Otimização para engajamento em redes sociais"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação do estilo Hyper-Human e Neon-Noir para fotos mais atraentes",
+      "Uso de Design Deconstrutivista para parar o scroll",
+      "Implementação de Tipografia Gigante para leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre sujeitos em ambientes urbanos noturnos com iluminação neon, destacando contrates agressivos e cores vibrantes",
-      "paleta_cores": "Preto, neon verde, rosa e azul, com gradientes suaves para criar profundidade",
-      "teoria_do_clique": "A combinação de cores neon e a estética onírica criam uma sensação de curiosidade e fascínio, aumentando a probabilidade de cliques e engajamento"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas reais",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos ou naturais",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a presença de imperfeições humanas gera empatia e compartilhamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um beco escuro, iluminada por luzes neon, com uma paleta de cores vibrantes e contrastes agressivos, utilizando a tipografia gigante para destacar uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um elemento humano central, incorporando neon e texturas naturais, com um fundo preto profundo e tons pastéis suaves",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-22T21:55:01.140Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estética Hyper-Human para aumentar a autenticidade",
-        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
-        "Uso de Design Deconstrutivista para chamar atenção",
-        "Implementação de Tipografia Gigante para facilitar leitura no mobile"
-      ]
-    },
     {
       "data": "2026-07-22T22:51:44.322Z",
       "licao": [
@@ -105,6 +96,15 @@
         "Adaptação às tendências de 2026",
         "Foco em Hyper-Human e estéticas visuais impactantes",
         "Otimização para engajamento em redes sociais"
+      ]
+    },
+    {
+      "data": "2026-07-23T18:06:00.537Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação do estilo Hyper-Human e Neon-Noir para fotos mais atraentes",
+        "Uso de Design Deconstrutivista para parar o scroll",
+        "Implementação de Tipografia Gigante para leitura rápida"
       ]
     }
   ]
