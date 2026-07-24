@@ -1,20 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-24T12:11:04.071Z",
+  "ultima_atualizacao": "2026-07-24T14:42:41.643Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de design deconstrutivista e tipografia gigante para parar o scroll"
+      "Introdução do estilo Hyper-Human para fotos mais autênticas",
+      "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+      "Aplicação de Design Deconstrutivista para quebra de regras de layout",
+      "Uso de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a destacar as imperfeições humanas e os contrastes agressivos, quebrando regras de layout tradicionais",
-      "paleta_cores": "Preto profundo com neon vibrante e/ou cores pastéis em Hyper-Bloom para criar uma estética onírica",
-      "teoria_do_clique": "O uso de imagens reais, cruas e com imperfeições, aliado a contrastes agressivos, gera curiosidade e convida à interação, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre preto e neon, com o assunto principal no centro, mas com elementos que quebram a simetria",
+      "paleta_cores": "Preto profundo, neon verde, azul ou rosa, com texturas e imperfeições para dar um toque humano",
+      "teoria_do_clique": "O uso de contraste agressivo e cores neon chama a atenção imediatamente, enquanto a quebra de regras de layout mantém o usuário engajado. A autenticidade do estilo Hyper-Human gera confiança e identificação"
     },
-    "prompt_padrao_atualizado": "Crie uma cena urbana noturna com personagens reais, iluminada por neon, com tons de preto profundo e detalhes em neon vibrante, destacando a textura e as imperfeições do ambiente e das pessoas",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon verde e um fundo preto. A pessoa deve estar no centro, mas com um elemento visual que quebra a simetria, como uma sombra ou um reflexo. Inclua texturas e imperfeições para dar um toque humano. Adicione um texto gigante com a frase 'Descubra o Segredo' em uma fonte impactante e colorida",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-23T18:06:00.537Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação do estilo Hyper-Human e Neon-Noir para fotos mais atraentes",
-        "Uso de Design Deconstrutivista para parar o scroll",
-        "Implementação de Tipografia Gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-07-23T20:06:49.525Z",
       "licao": [
@@ -106,6 +97,15 @@
         "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de design deconstrutivista e tipografia gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-24T14:42:41.643Z",
+      "licao": [
+        "Introdução do estilo Hyper-Human para fotos mais autênticas",
+        "Incorporação de elementos Neon-Noir e Hyper-Bloom para contraste",
+        "Aplicação de Design Deconstrutivista para quebra de regras de layout",
+        "Uso de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
