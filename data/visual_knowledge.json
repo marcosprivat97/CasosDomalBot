@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-25T21:42:35.432Z",
+  "ultima_atualizacao": "2026-07-25T22:41:48.059Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Incorporação das tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista para melhorar o engajamento",
-      "Adaptação para atender ao baixo alcance e engajamento atual da página"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
+      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir para criar contraste",
-      "foco_composicao": "Enquadramento desconstrutivista, quebrando regras de layout tradicionais para chamar a atenção",
-      "paleta_cores": "Preto profundo com neon vibrante para criar um contraste agressivo e atraente",
-      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas e estética onírica atrai o usuário por ser mais autêntico e único, enquanto o contraste agressivo e a tipografia gigante facilitam a leitura rápida e param o scroll"
+      "estilo_imagem": "Hyper-Human, com fotos reais, cruas e imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de intimidade e autenticidade, quebrando regras de layout tradicionais",
+      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrastes agressivos entre preto e neon, ou cores pastéis para uma estética onírica",
+      "teoria_do_clique": "O uso de imagens reais e cruas, junto com contrastes agressivos, gera engajamento porque cria uma conexão emocional imediata e chama a atenção do usuário em um feed de notícias lotado"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com elementos Neon-Noir, utilizando uma paleta de cores preto/neon, com foco em composição desconstrutivista e tipografia gigante para texto dominante",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento autêntico e cru da vida, com uma paleta de cores neon ou pastéis, e um layout que quebre as regras tradicionais, incorporando textos dominantes para leitura rápida",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-25T09:25:44.363Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026 para melhorar o engajamento",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
-        "Implementação de design deconstrutivista e tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-07-25T11:00:22.125Z",
       "licao": [
@@ -103,6 +95,14 @@
       "licao": [
         "Incorporação das tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista para melhorar o engajamento",
         "Adaptação para atender ao baixo alcance e engajamento atual da página"
+      ]
+    },
+    {
+      "data": "2026-07-25T22:41:48.059Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
+        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção"
       ]
     }
   ]
