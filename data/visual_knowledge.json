@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-26T22:47:54.561Z",
+  "ultima_atualizacao": "2026-07-26T23:50:52.830Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a estética humana",
-      "Implementação de contraste agressivo e tipografia dominante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento e alcance da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento ou ação, com foco em elementos humanos e imperfeições",
-      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis com contraste alto",
-      "teoria_do_clique": "A combinação de elementos humanos reais com contraste agressivo e cores vibrantes atrai a atenção e estimula a curiosidade, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, incorporando imperfeições naturais",
+      "foco_composicao": "Enquadre a imagem com contraste agressivo, utilizando preto e neon, e quebre as regras de layout tradicionais",
+      "paleta_cores": "Preto profundo, neon vibrante e cores pastéis suaves para criar contraste",
+      "teoria_do_clique": "O uso de imagens cruas e com imperfeições humanas, junto com contraste agressivo e design deconstrutivista, atrai a atenção do usuário e estimula o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em primeiro plano, iluminadas por neon, com uma cidade movimentada ao fundo, utilizando uma paleta de cores que inclua tons de preto, neon verde e rosa, com textos grandes e ousados destacando a ação",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos Hyper-Human, incorporando imperfeições naturais, e quebre as regras de layout tradicionais com Design Deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-26T11:53:25.222Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e buscam uma aparência mais humana",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-26T12:54:29.377Z",
       "licao": [
@@ -105,6 +96,13 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a estética humana",
         "Implementação de contraste agressivo e tipografia dominante"
+      ]
+    },
+    {
+      "data": "2026-07-26T23:50:52.830Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento e alcance da página"
       ]
     }
   ]
