@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-26T05:19:44.660Z",
+  "ultima_atualizacao": "2026-07-26T08:04:40.445Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adoção de estilos visuais inspirados em tendências globais de 2026 para melhorar o engajamento",
-      "Inclusão de elementos de design deconstrutivista para parar o scroll",
-      "Uso de tipografia gigante para facilitar a leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento e alcance da página no Facebook"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições e realismo",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos e imperfeições naturais",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas oníricas e contraste agressivo gera curiosidade e engajamento, pois o cérebro humano é atraído por padrões que desafiam a normalidade"
+      "estilo_imagem": "Realismo Sujo com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto com uma perspectiva desbalanceada, destacando o sujeito principal em meio a uma atmosfera onírica",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente híbrido",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com estéticas oníricas, gera curiosidade e atrai o olhar do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano realista no centro, aplicando um design deconstrutivista e tipografia gigante para o título principal, com uma paleta de cores que inclua preto, neon verde e tons pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem de um sujeito humano em um ambiente noturno, com iluminação neon e sombras profundas, utilizando uma paleta de cores que combine preto, neon e pastéis, e adicione textos dominantes em fonte sans-serif para destacar a mensagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-25T15:56:12.392Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estilos visuais que rejeitam o 'AI Slop' e buscam autenticidade",
-        "Incorporação de contrastes agressivos e estéticas oníricas",
-        "Uso de tipografia gigante para melhor legibilidade em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-07-25T16:43:20.675Z",
       "licao": [
@@ -102,6 +92,13 @@
         "Adoção de estilos visuais inspirados em tendências globais de 2026 para melhorar o engajamento",
         "Inclusão de elementos de design deconstrutivista para parar o scroll",
         "Uso de tipografia gigante para facilitar a leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-26T08:04:40.445Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento e alcance da página no Facebook"
       ]
     }
   ]
