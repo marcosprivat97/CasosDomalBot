@@ -1,20 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-26T16:44:30.716Z",
+  "ultima_atualizacao": "2026-07-26T17:53:46.081Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.4",
     "mudancas_aplicadas": [
-      "Adoção do estilo Hyper-Human para fotos mais cruas e reais",
-      "Incorporação de Neon-Noir e Hyper-Bloom para contraste agressivo",
-      "Aplicação de Design Deconstrutivista para quebra de regras de layout",
-      "Uso de Tipografia Gigante para facilitar leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento e alcance na página do Facebook"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma desequilibrada, destacando o assunto principal com iluminação natural ou neon",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves",
-      "teoria_do_clique": "A combinação de elementos humanos, contraste agressivo e layout deconstrutivista gera curiosidade e paralisa o scroll, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, enfatizando imperfeições humanas e contrates agressivos",
+      "foco_composicao": "Enquadramento off-center, com sujeitos em movimento ou em ângulos inusitados, quebrando regras de layout tradicionais",
+      "paleta_cores": "Paleta contrastante que combine preto profundo com neon vibrante, ou experimente com tons pastéis para um Hyper-Bloom suave",
+      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas e contrates agressivos gera curiosidade e paralisa o scroll, enquanto a tipografia gigante facilita a leitura rápida e chama a atenção"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem Hyper-Human com um toque de Neon-Noir, onde o assunto principal está em um ambiente urbano noturno com iluminação neon, utilizando uma paleta de cores que inclua preto profundo, neon verde e tons pastéis suaves, com uma tipografia gigante destacando uma mensagem breve e impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento íntimo e imperfeito da vida real, com um contraste agressivo entre luz e sombra, e incorpore uma tipografia gigante que domine a cena",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-25T23:49:33.663Z",
-      "licao": [
-        "Inclusão do estilo Hyper-Human para aumentar a autenticidade",
-        "Adoção da estética Neon-Noir para contraste agressivo",
-        "Implementação do Design Deconstrutivista para parar o scroll",
-        "Uso de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-07-26T01:42:40.260Z",
       "licao": [
@@ -105,6 +94,13 @@
         "Incorporação de Neon-Noir e Hyper-Bloom para contraste agressivo",
         "Aplicação de Design Deconstrutivista para quebra de regras de layout",
         "Uso de Tipografia Gigante para facilitar leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-26T17:53:46.081Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento e alcance na página do Facebook"
       ]
     }
   ]
