@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-27T17:27:46.805Z",
+  "ultima_atualizacao": "2026-07-27T19:08:47.589Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adoção do estilo Hyper-Human para conectar com o público",
-      "Incorporação de Neon-Noir e Hyper-Bloom para contraste e estética onírica",
-      "Uso de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
-      "Implementação de Tipografia Gigante para facilitar a leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em estética crua e imperfeita para rejeitar o 'AI Slop'"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma irregular, com sujeitos em posições inusitadas e uso de luz natural",
-      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves",
-      "teoria_do_clique": "A combinação de elementos reais e imperfeições humanas com contraste agressivo gera curiosidade e estimula a interação do usuário"
+      "foco_composicao": "Enquadre a cena de forma irregular, quebrando regras de layout tradicionais, com foco em detalhes humanos e emocionais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas disruptivas e tipografia dominante gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em movimento, iluminadas por neon, com textos gigantes e letras em fontes irregulares",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoa real, iluminada por neon, com tons pastéis ao fundo e texto gigante sobrepondo a imagem, com uma composição que quebre as regras de layout tradicionais",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-26T20:03:04.742Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-        "Foco em composições que quebram regras de layout para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-26T21:47:07.508Z",
       "licao": [
@@ -105,6 +96,14 @@
         "Incorporação de Neon-Noir e Hyper-Bloom para contraste e estética onírica",
         "Uso de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
         "Implementação de Tipografia Gigante para facilitar a leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-27T19:08:47.589Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em estética crua e imperfeita para rejeitar o 'AI Slop'"
       ]
     }
   ]
