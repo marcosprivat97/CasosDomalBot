@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-07-28T19:03:49.318Z",
+  "ultima_atualizacao": "2026-07-28T20:56:51.317Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
-      "Inclusão de Design Deconstrutivista para parar o scroll",
-      "Uso de Tipografia Gigante para leitura rápida no mobile"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Inclusão de estilos de imagem que rejeitam o 'AI Slop' e buscam a autenticidade",
+      "Uso de contraste agressivo e estéticas oníricas para chamar a atenção",
+      "Aplicação de design deconstrutivista para interromper o scroll",
+      "Implementação de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e autenticidade",
-      "foco_composicao": "Enquadre a foto com um sujeito principal em primeiro plano, utilizando regras de terços e deixando espaço para texto dominante",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para suavizar a estética",
-      "teoria_do_clique": "O uso de Hyper-Human e Neon-Noir gera curiosidade e interesse, enquanto o Design Deconstrutivista e a Tipografia Gigante facilitam a leitura e o compartilhamento"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom com toques de Hyper-Human",
+      "foco_composicao": "Enquadre a cena de forma a quebrar as regras tradicionais de layout, utilizando diagonais, ângulos inusitados e espaço negativo de maneira criativa",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com tons pastéis e vibrantes",
+      "teoria_do_clique": "O uso de imagens críveis e imperfeitas, aliado a um design que desafia a norma, gera curiosidade e encoraja a interação, pois o cérebro humano está programado para reconhecer e se conectar com a autenticidade e a originalidade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um sujeito principal em primeiro plano, utilizando regras de terços e deixando espaço para texto dominante, com contraste agressivo entre preto e neon",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com iluminação neon, pessoas reais em pose natural, e inclua elementos que quebram a simetria e a monotonia, com uma tipografia gigante destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-27T22:09:11.686Z",
-      "licao": [
-        "Adoção de estética Hyper-Human",
-        "Incorporação de Neon-Noir e Hyper-Bloom",
-        "Uso de Design Deconstrutivista",
-        "Implementação de Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-07-27T23:53:28.600Z",
       "licao": [
@@ -102,6 +95,16 @@
         "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
         "Inclusão de Design Deconstrutivista para parar o scroll",
         "Uso de Tipografia Gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-28T20:56:51.317Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Inclusão de estilos de imagem que rejeitam o 'AI Slop' e buscam a autenticidade",
+        "Uso de contraste agressivo e estéticas oníricas para chamar a atenção",
+        "Aplicação de design deconstrutivista para interromper o scroll",
+        "Implementação de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
       ]
     }
   ]
