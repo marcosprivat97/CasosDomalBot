@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-28T17:16:52.021Z",
+  "ultima_atualizacao": "2026-07-28T19:03:49.318Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir para melhorar engajamento",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+      "Inclusão de Design Deconstrutivista para parar o scroll",
+      "Uso de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, buscando contrastes agressivos e estéticas oníricas",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou tensão, quebrando regras tradicionais de layout",
-      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis suaves para criar um contraste surpreendente",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas atrai a atenção do usuário, enquanto a quebra de regras de layout estimula a curiosidade e o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e autenticidade",
+      "foco_composicao": "Enquadre a foto com um sujeito principal em primeiro plano, utilizando regras de terços e deixando espaço para texto dominante",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para suavizar a estética",
+      "teoria_do_clique": "O uso de Hyper-Human e Neon-Noir gera curiosidade e interesse, enquanto o Design Deconstrutivista e a Tipografia Gigante facilitam a leitura e o compartilhamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine Neon-Noir com Hyper-Bloom, com uma composição que quebre as regras tradicionais de layout e inclua textos dominantes em Tipografia Gigante",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um sujeito principal em primeiro plano, utilizando regras de terços e deixando espaço para texto dominante, com contraste agressivo entre preto e neon",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-27T21:00:11.170Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento da página",
-        "Inclusão de elementos de design deconstrutivista e tipografia gigante"
-      ]
-    },
     {
       "data": "2026-07-27T22:09:11.686Z",
       "licao": [
@@ -101,6 +94,14 @@
         "Adaptação às tendências globais de 2026",
         "Foco em estética Hyper-Human e Neon-Noir para melhorar engajamento",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-07-28T19:03:49.318Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+        "Inclusão de Design Deconstrutivista para parar o scroll",
+        "Uso de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
