@@ -1,21 +1,17 @@
 {
-  "ultima_atualizacao": "2026-07-28T20:56:51.317Z",
+  "ultima_atualizacao": "2026-07-28T21:56:24.044Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos de imagem que rejeitam o 'AI Slop' e buscam a autenticidade",
-      "Uso de contraste agressivo e estéticas oníricas para chamar a atenção",
-      "Aplicação de design deconstrutivista para interromper o scroll",
-      "Implementação de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
+      "Adaptação às tendências de 2026 para melhorar a performance da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom com toques de Hyper-Human",
-      "foco_composicao": "Enquadre a cena de forma a quebrar as regras tradicionais de layout, utilizando diagonais, ângulos inusitados e espaço negativo de maneira criativa",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com tons pastéis e vibrantes",
-      "teoria_do_clique": "O uso de imagens críveis e imperfeitas, aliado a um design que desafia a norma, gera curiosidade e encoraja a interação, pois o cérebro humano está programado para reconhecer e se conectar com a autenticidade e a originalidade"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
+      "foco_composicao": "Enquadrar a foto com elementos humanos em primeiro plano e contraste agressivo de neon e preto",
+      "paleta_cores": "Preto, neon verde, rosa e azul, com alguns elementos de Hyper-Bloom para criar uma atmosfera onírica",
+      "teoria_do_clique": "O contraste agressivo e a presença de elementos humanos reais geram curiosidade e engajamento, pois a audiência busca por autenticidade e experiências visuais únicas"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com iluminação neon, pessoas reais em pose natural, e inclua elementos que quebram a simetria e a monotonia, com uma tipografia gigante destacando uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa real em primeiro plano, utilizando elementos de Hyper-Bloom e Design Deconstrutivista, com Tipografia Gigante aplicada ao texto",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,16 +19,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-27T23:53:28.600Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-        "Uso de contraste agressivo e estética onírica para parar o scroll",
-        "Implementação de Design Deconstrutivista para quebrar regras de layout",
-        "Introdução de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-07-28T01:24:24.279Z",
       "licao": [
@@ -105,6 +91,12 @@
         "Uso de contraste agressivo e estéticas oníricas para chamar a atenção",
         "Aplicação de design deconstrutivista para interromper o scroll",
         "Implementação de tipografia gigante para facilitar a leitura rápida em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-07-28T21:56:24.044Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página"
       ]
     }
   ]
