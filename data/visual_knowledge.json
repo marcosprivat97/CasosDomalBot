@@ -1,32 +1,27 @@
 {
-  "ultima_atualizacao": "2026-07-29T07:38:42.451Z",
+  "ultima_atualizacao": "2026-07-29T10:27:24.430Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista para melhorar o engajamento",
-      "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
+      "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
+      "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir para contraste agressivo",
-      "foco_composicao": "Enquadre a cena de forma desequilibrada, quebrando regras de layout tradicionais para chamar a atenção",
-      "paleta_cores": "Preto profundo com neon vibrantes para criar um contraste intenso e onírico",
-      "teoria_do_clique": "O uso de imagens cruas e com imperfeições humanas, junto com contrastes agressivos, gera curiosidade e paralisa o scroll, aumentando as chances de engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em detalhes humanos autênticos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O uso de contraste agressivo e estéticas oníricas gera curiosidade e paralisa o scroll, enquanto a autenticidade humana promove conexão emocional e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoa humana real, iluminada por neon, em um ambiente sombrio e desfocado, com texto gigante sobrepondo a imagem",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos autênticos com contraste agressivo de preto e neon, em um ambiente onírico e deconstrutivista",
     "config_layout": {
-      "font_size_mult": 2.5,
+      "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-28T15:09:55.145Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhorar o engajamento e alcance da página"
-      ]
-    },
     {
       "data": "2026-07-28T17:16:52.021Z",
       "licao": [
@@ -98,6 +93,15 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista para melhorar o engajamento",
         "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-07-29T10:27:24.430Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
+        "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
+        "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
       ]
     }
   ]
