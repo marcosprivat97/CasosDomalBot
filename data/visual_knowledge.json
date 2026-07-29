@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-29T01:24:58.524Z",
+  "ultima_atualizacao": "2026-07-29T04:57:12.444Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam a autenticidade",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-      "Implementação de design deconstrutivista e tipografia gigante para melhor leitura no mobile"
+      "Atualização do estilo de imagem para combinar com a tendência Hyper-Human",
+      "Inclusão de diretrizes para aplicar o Design Deconstrutivista e Tipografia Gigante",
+      "Ajuste da paleta de cores para refletir o Neon-Noir & Hyper-Bloom"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com elementos humanos reais e imperfeições naturais",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a autenticidade humana criam curiosidade e convidam ao engajamento, enquanto a estética onírica estimula a imaginação do usuário"
+      "estilo_imagem": "Realismo Sujo com toques de Neon",
+      "foco_composicao": "Enquadre a imagem de forma assimétrica, com objetos ou pessoas fora do centro, e explore a profundidade de campo para criar uma sensação de intimidade",
+      "paleta_cores": "Preto profundo com neon verde, rosa ou azul, criando um contraste agressivo e atraente",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com cores neon e composições desestruturadas, parará o scroll e gerará curiosidade, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem humano realista no centro, rodeado por neon vibrante e tons pastéis suaves, com um fundo preto profundo e elementos de design deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente urbano noturno, com iluminação neon, usando uma estética de realismo sujo e incorporando textos gigantes com fontes desestruturadas",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-28T10:21:29.211Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhor performance em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-07-28T12:29:15.650Z",
       "licao": [
@@ -99,6 +91,14 @@
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam a autenticidade",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
         "Implementação de design deconstrutivista e tipografia gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-29T04:57:12.444Z",
+      "licao": [
+        "Atualização do estilo de imagem para combinar com a tendência Hyper-Human",
+        "Inclusão de diretrizes para aplicar o Design Deconstrutivista e Tipografia Gigante",
+        "Ajuste da paleta de cores para refletir o Neon-Noir & Hyper-Bloom"
       ]
     }
   ]
