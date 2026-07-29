@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-29T20:06:35.321Z",
+  "ultima_atualizacao": "2026-07-29T21:45:22.494Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adoção de estética Hyper-Human para fotos mais reais e cruas",
-      "Incorporação de contrastes agressivos do estilo Neon-Noir",
-      "Utilização de Tipografia Gigante para melhor legibilidade",
-      "Aplicação de princípios de Design Deconstrutivista para quebrar regras de layout"
+      "Adaptação às tendências de 2026",
+      "Foco em estética crua e humana",
+      "Incorporação de contraste agressivo e tipografia gigante"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre sujeitos em ambientes urbanos nocturnos, destacando contrastes agressivos entre luzes neon e sombras profundas",
-      "paleta_cores": "Preto, neon verde, rosa e azul, com predominância de preto para criar um ambiente sombrio e intenso",
-      "teoria_do_clique": "O uso de contrastes agressivos e estética Hyper-Human gera engajamento por criar uma sensação de realismo e autenticidade, além de ser visualmente atraente e disruptiva"
+      "foco_composicao": "Enquadre a cena de forma a criar um contraste agressivo entre luz e sombra, com foco em elementos humanos imperfeitos",
+      "paleta_cores": "Preto profundo com acenos de neon em cores vibrantes, como rosa, azul ou verde",
+      "teoria_do_clique": "A combinação de elementos humanos reais com contraste agressivo gera curiosidade e pausa no scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com um sujeito humano em primeiro plano, utilizando iluminação neon verde e rosa, com sombras profundas e um fundo preto. Adicione textos gigantes em fonte sans-serif branca sobre o sujeito, destacando uma mensagem crítica ou poética.",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoa(s) real(ais) em primeiro plano, utilizando iluminação neon para realçar detalhes e criar contraste. Adicione textos gigantes em fonte sans-serif para transmitir uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-28T23:49:19.003Z",
-      "licao": [
-        "Adoção do estilo Hyper-Human para fotos mais autênticas",
-        "Incorporação de contrastes agressivos do Neon-Noir",
-        "Uso de design deconstrutivista para quebrar regras de layout",
-        "Implementação de tipografia gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-07-29T01:24:58.524Z",
       "licao": [
@@ -106,6 +96,14 @@
         "Incorporação de contrastes agressivos do estilo Neon-Noir",
         "Utilização de Tipografia Gigante para melhor legibilidade",
         "Aplicação de princípios de Design Deconstrutivista para quebrar regras de layout"
+      ]
+    },
+    {
+      "data": "2026-07-29T21:45:22.494Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética crua e humana",
+        "Incorporação de contraste agressivo e tipografia gigante"
       ]
     }
   ]
