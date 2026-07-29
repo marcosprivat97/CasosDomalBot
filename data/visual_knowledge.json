@@ -1,21 +1,20 @@
 {
-  "ultima_atualizacao": "2026-07-29T18:53:07.420Z",
+  "ultima_atualizacao": "2026-07-29T20:06:35.321Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação do estilo Hyper-Human para aumentar a autenticidade",
-      "Uso de contraste agressivo e estética onírica para chamar a atenção",
-      "Quebra de regras de layout para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adoção de estética Hyper-Human para fotos mais reais e cruas",
+      "Incorporação de contrastes agressivos do estilo Neon-Noir",
+      "Utilização de Tipografia Gigante para melhor legibilidade",
+      "Aplicação de princípios de Design Deconstrutivista para quebrar regras de layout"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, destacando o tema principal",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "O uso de contraste agressivo e estética onírica gera engajamento porque chama a atenção do usuário e o faz parar para olhar a imagem"
+      "foco_composicao": "Enquadre sujeitos em ambientes urbanos nocturnos, destacando contrastes agressivos entre luzes neon e sombras profundas",
+      "paleta_cores": "Preto, neon verde, rosa e azul, com predominância de preto para criar um ambiente sombrio e intenso",
+      "teoria_do_clique": "O uso de contrastes agressivos e estética Hyper-Human gera engajamento por criar uma sensação de realismo e autenticidade, além de ser visualmente atraente e disruptiva"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com um estilo Hyper-Human, incorporando elementos de Neon-Noir e Hyper-Bloom, com um foco em contraste agressivo e estética onírica",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com um sujeito humano em primeiro plano, utilizando iluminação neon verde e rosa, com sombras profundas e um fundo preto. Adicione textos gigantes em fonte sans-serif branca sobre o sujeito, destacando uma mensagem crítica ou poética.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-28T22:51:31.127Z",
-      "licao": [
-        "Incorporação de tendências Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Ajustes para melhorar engajamento em dispositivos móveis",
-        "Enfatização de tipografia gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-07-28T23:49:19.003Z",
       "licao": [
@@ -106,6 +97,15 @@
         "Uso de contraste agressivo e estética onírica para chamar a atenção",
         "Quebra de regras de layout para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-07-29T20:06:35.321Z",
+      "licao": [
+        "Adoção de estética Hyper-Human para fotos mais reais e cruas",
+        "Incorporação de contrastes agressivos do estilo Neon-Noir",
+        "Utilização de Tipografia Gigante para melhor legibilidade",
+        "Aplicação de princípios de Design Deconstrutivista para quebrar regras de layout"
       ]
     }
   ]
