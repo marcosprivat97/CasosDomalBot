@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-30T01:17:59.189Z",
+  "ultima_atualizacao": "2026-07-30T04:45:38.674Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026 para melhorar o engajamento",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-      "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em composições que quebram regras de layout para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma desequilibrada, com foco em detalhes humanos e imperfeições naturais",
-      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis para criar uma atmosfera onírica",
-      "teoria_do_clique": "A combinação de autenticidade, contraste agressivo e design inovador gera curiosidade e estimula o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, buscando contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadre a foto de maneira a criar tensão visual, utilizando linhas diagonais e elementos que quebram a simetria",
+      "paleta_cores": "Preto profundo como base, com neon intensos em detalhes específicos para criar contraste",
+      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout criam curiosidade e param o scroll, enquanto a estética onírica gera engajamento emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma cena humana intensa, com luzes neon refletindo em superfícies escuras, e um texto gigante sobrepondo a imagem, como se estivesse gritando uma mensagem",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com elementos neon, utilizando uma paleta de cores escura e contrastes agressivos, com linhas diagonais e uma tipografia gigante que ocupe a maior parte da imagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-29T10:27:24.430Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
-        "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-        "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-07-29T12:54:12.941Z",
       "licao": [
@@ -106,6 +96,14 @@
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
         "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
         "Implementação de design deconstrutivista e tipografia gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-07-30T04:45:38.674Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em composições que quebram regras de layout para parar o scroll"
       ]
     }
   ]
