@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-30T20:10:13.065Z",
+  "ultima_atualizacao": "2026-07-30T21:57:24.745Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para engajamento em dispositivos móveis"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições e texturas reais",
-      "foco_composicao": "Enquadre sujeitos ou objetos de forma irregular, quebrando regras de layout tradicionais, com foco em detalhes e texturas",
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre com ângulos desiguais e use a regra dos terços para criar tensão visual",
       "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "O uso de contraste agressivo e estética onírica captura a atenção do usuário, enquanto a quebra de regras de layout estimula a curiosidade e o engajamento"
+      "teoria_do_clique": "O uso de contrastes agressivos e estética onírica captura a atenção do usuário e gera engajamento devido à novidade e surpresa"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um sujeito humano real, iluminado por neon, com texturas e imperfeições visíveis, sobre um fundo preto mate, com elementos de Design Deconstrutivista e Tipografia Gigante aplicados",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com neon, usando ângulos desiguais e uma paleta de cores que misture preto, neon e pastéis, com texto gigante e deconstrutivista sobreposto",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-29T23:51:58.058Z",
-      "licao": [
-        "Inclusão de tendências atuais para melhorar o engajamento",
-        "Foco em estilos de imagem que rejeitam o 'AI Slop' e valorizam a autenticidade",
-        "Adaptação do layout para parar o scroll com design deconstrutivista"
-      ]
-    },
     {
       "data": "2026-07-30T01:17:59.189Z",
       "licao": [
@@ -99,6 +92,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para engajamento em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-07-30T21:57:24.745Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
