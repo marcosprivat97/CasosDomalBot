@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-07-30T18:08:38.327Z",
+  "ultima_atualizacao": "2026-07-30T20:10:13.065Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Foco em melhorar o engajamento com base na performance atual da página"
+      "Otimização para engajamento em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, incorporando elementos de Hyper-Human para uma estética mais crua e humana",
-      "foco_composicao": "Enquadramento desequilibrado, quebrando regras de simetria para criar uma sensação de dinamismo e parar o scroll",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com cores pastéis suaves em segundo plano para criar um efeito onírico",
-      "teoria_do_clique": "O uso de contrastes agressivos e composições desequilibradas gera curiosidade e atrai o olhar, enquanto a estética humana e imperfeita promove identificação e compartilhamento"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human, destacando imperfeições e texturas reais",
+      "foco_composicao": "Enquadre sujeitos ou objetos de forma irregular, quebrando regras de layout tradicionais, com foco em detalhes e texturas",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica captura a atenção do usuário, enquanto a quebra de regras de layout estimula a curiosidade e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem mista de Neon-Noir e Hyper-Bloom, com uma figura humana imperfeita no centro, incorporando elementos de Design Deconstrutivista e Tipografia Gigante para parar o scroll",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um sujeito humano real, iluminado por neon, com texturas e imperfeições visíveis, sobre um fundo preto mate, com elementos de Design Deconstrutivista e Tipografia Gigante aplicados",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-29T22:46:47.788Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e priorizam a autenticidade",
-        "Uso de contraste agressivo e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-29T23:51:58.058Z",
       "licao": [
@@ -100,6 +92,13 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Foco em melhorar o engajamento com base na performance atual da página"
+      ]
+    },
+    {
+      "data": "2026-07-30T20:10:13.065Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para engajamento em dispositivos móveis"
       ]
     }
   ]
