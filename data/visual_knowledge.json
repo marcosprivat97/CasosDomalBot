@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-07-31T04:15:15.124Z",
+  "ultima_atualizacao": "2026-07-31T07:43:40.456Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor legibilidade"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
+      "Foco em composições que quebram regras de layout para aumentar o engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, com foco em elementos humanos imperfeitos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um ambiente onírico",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de elementos humanos imperfeitos gera empatia e aumenta o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir para contraste agressivo",
+      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou desconstrução, utilizando elementos que quebram a linearidade",
+      "paleta_cores": "Preto profundo com neon vibrante para criar contraste e chamar a atenção",
+      "teoria_do_clique": "O uso de imagens cruas e humanas, combinado com contraste agressivo e layouts inovadores, gera curiosidade e impulsa o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em primeiro plano, iluminado por neon, sobre um fundo preto com elementos de Hyper-Bloom, com textos gigantes destacando uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos Neon-Noir, utilizando uma paleta de cores vibrantes e um layout deconstrutivista que inclua tipografia gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-30T10:10:09.138Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
-        "Foco em composições que quebram regras de layout para parar o scroll"
-      ]
-    },
     {
       "data": "2026-07-30T12:21:44.182Z",
       "licao": [
@@ -98,6 +90,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor legibilidade"
+      ]
+    },
+    {
+      "data": "2026-07-31T07:43:40.456Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor legibilidade em dispositivos móveis",
+        "Foco em composições que quebram regras de layout para aumentar o engajamento"
       ]
     }
   ]
