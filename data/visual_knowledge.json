@@ -1,20 +1,21 @@
 {
-  "ultima_atualizacao": "2026-08-01T15:50:55.078Z",
+  "ultima_atualizacao": "2026-08-01T16:46:28.582Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão de estilos de imagem que seguem a tendência Hyper-Human",
-      "Ajustes na paleta de cores para refletir a estética Neon-Noir & Hyper-Bloom",
-      "Implementação do Design Deconstrutivista para quebrar regras de layout e aumentar o engajamento",
-      "Uso de Tipografia Gigante para facilitar a leitura rápida no mobile"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Inclusão de contrastes agressivos e estéticas oníricas",
+      "Uso de design deconstrutivista para parar o scroll",
+      "Implementação de tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotografia Crua e Imperfeita com Contrastes Agressivos",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma tensão visual, com elementos fora do centro e uma forte profundidade de campo",
-      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis oníricos para criar uma atmosfera única",
-      "teoria_do_clique": "O uso de imagens cruas e imperfeitas, combinado com contraste agressivo e layout desestruturado, paralisa o scroll e estimula a curiosidade do usuário, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human, com fotos reais, cruas e imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre preto e neon, ou use uma estética onírica para capturar a atenção",
+      "paleta_cores": "Use cores neon vibrantes em um fundo preto ou escuro, ou aplique uma paleta pastel em um ambiente onírico",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos e estéticas oníricas, gera engajamento pois cria uma conexão emocional forte com o público e para o scroll devido à sua originalidade e autenticidade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com um tema urbano noturno, utilizando uma paleta de cores neon vibrantes sobre um fundo preto profundo, com um elemento central desfocado e textura granulada, e um texto gigante com a frase 'Despertar para a Noite' em fonte impactante",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em primeiro plano, usando uma paleta de cores neon vibrantes e contrastes agressivos, com uma tipografia gigante destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-31T22:50:11.667Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e enfatizam a autenticidade",
-        "Uso de contraste agressivo e estéticas oníricas para aumentar o engajamento"
-      ]
-    },
     {
       "data": "2026-07-31T23:51:45.992Z",
       "licao": [
@@ -105,6 +98,16 @@
         "Ajustes na paleta de cores para refletir a estética Neon-Noir & Hyper-Bloom",
         "Implementação do Design Deconstrutivista para quebrar regras de layout e aumentar o engajamento",
         "Uso de Tipografia Gigante para facilitar a leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-08-01T16:46:28.582Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Inclusão de contrastes agressivos e estéticas oníricas",
+        "Uso de design deconstrutivista para parar o scroll",
+        "Implementação de tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
