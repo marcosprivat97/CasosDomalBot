@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-08-01T14:20:32.132Z",
+  "ultima_atualizacao": "2026-08-01T15:50:55.078Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a humanidade",
-      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção"
+      "Inclusão de estilos de imagem que seguem a tendência Hyper-Human",
+      "Ajustes na paleta de cores para refletir a estética Neon-Noir & Hyper-Bloom",
+      "Implementação do Design Deconstrutivista para quebrar regras de layout e aumentar o engajamento",
+      "Uso de Tipografia Gigante para facilitar a leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento ou tensão, quebrando regras de layout tradicionais",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis para um contraste agressivo",
-      "teoria_do_clique": "A combinação de elementos humanos reais com contrastes visuais agressivos gera curiosidade e estimula o engajamento"
+      "estilo_imagem": "Fotografia Crua e Imperfeita com Contrastes Agressivos",
+      "foco_composicao": "Enquadre a imagem de forma a criar uma tensão visual, com elementos fora do centro e uma forte profundidade de campo",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis oníricos para criar uma atmosfera única",
+      "teoria_do_clique": "O uso de imagens cruas e imperfeitas, combinado com contraste agressivo e layout desestruturado, paralisa o scroll e estimula a curiosidade do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com pessoas reais em movimento, iluminadas por neon, e incorpore textos gigantes em fontes degradês",
+    "prompt_padrao_atualizado": "Crie uma imagem com um tema urbano noturno, utilizando uma paleta de cores neon vibrantes sobre um fundo preto profundo, com um elemento central desfocado e textura granulada, e um texto gigante com a frase 'Despertar para a Noite' em fonte impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-07-31T21:55:47.060Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhorar o engajamento e alcance na página"
-      ]
-    },
     {
       "data": "2026-07-31T22:50:11.667Z",
       "licao": [
@@ -102,6 +96,15 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a humanidade",
         "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção"
+      ]
+    },
+    {
+      "data": "2026-08-01T15:50:55.078Z",
+      "licao": [
+        "Inclusão de estilos de imagem que seguem a tendência Hyper-Human",
+        "Ajustes na paleta de cores para refletir a estética Neon-Noir & Hyper-Bloom",
+        "Implementação do Design Deconstrutivista para quebrar regras de layout e aumentar o engajamento",
+        "Uso de Tipografia Gigante para facilitar a leitura rápida no mobile"
       ]
     }
   ]
