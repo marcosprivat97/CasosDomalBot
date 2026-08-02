@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-02T14:22:21.335Z",
+  "ultima_atualizacao": "2026-08-02T15:51:11.898Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Foco em melhorar o engajamento com base na performance atual da página"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Otimização para rejeição ao 'AI Slop' e aumento do engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando contraste agressivo e estética onírica",
-      "foco_composicao": "Enquadre a cena de forma a quebrar as regras tradicionais de layout, utilizando elementos de Design Deconstrutivista para capturar a atenção do usuário",
-      "paleta_cores": "Preto profundo com neon vibrante, criando um contraste visual impactante",
-      "teoria_do_clique": "O uso de contraste agressivo e estética onírica, aliado à quebra de regras de layout, visa parar o scroll do usuário e estimular a curiosidade, levando a um maior engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando fotos reais e cruas",
+      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, utilizandoo Design Deconstrutivista para parar o scroll",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com elementos oníricos para criar um ambiente único",
+      "teoria_do_clique": "A combinação de estilos visuais ousados e reais irá capturar a atenção do usuário, aumentando o engajamento devido à novidade e autenticidade"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com iluminação neon vibrante, destacando um elemento central de forma desconstrutivista, com tipografia gigante aplicada em primeiro plano para transmitir uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com elementos neon iluminando um ambiente sombrio, utilizando Tipografia Gigante para destacar uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-01T21:42:50.420Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a estética humana",
-        "Uso de contrastes agressivos e tipografia gigante para parar o scroll"
-      ]
-    },
     {
       "data": "2026-08-01T22:42:41.081Z",
       "licao": [
@@ -98,6 +91,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Foco em melhorar o engajamento com base na performance atual da página"
+      ]
+    },
+    {
+      "data": "2026-08-02T15:51:11.898Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Otimização para rejeição ao 'AI Slop' e aumento do engajamento"
       ]
     }
   ]
