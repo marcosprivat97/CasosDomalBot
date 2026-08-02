@@ -1,21 +1,18 @@
 {
-  "ultima_atualizacao": "2026-08-02T18:52:04.275Z",
+  "ultima_atualizacao": "2026-08-02T20:03:54.645Z",
   "licao_atual": {
-    "versao_logica": "2.0",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Foco em estilos que rejeitam o 'AI Slop' e promovem a autenticidade",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de design deconstrutivista para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida no mobile"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir e Hyper-Bloom",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de movimento ou ação, com elementos humanos reais e imperfeições",
-      "paleta_cores": "Preto profundo com neon, ou tons pastéis com contraste alto",
-      "teoria_do_clique": "O uso de imagens reais e imperfeitas, combinado com contrastes agressivos e estéticas oníricas, gera engajamento porque ressoa com a autenticidade e a individualidade do público"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, com foco em elementos humanos reais e imperfeitos",
+      "paleta_cores": "Preto profundo e neon vibrante, com elementos de Hyper-Bloom para criar uma estética onírica",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de elementos humanos reais gera empatia e engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência humana em um ambiente urbano noturno, com luzes neon refletindo em superfícies molhadas e pessoas reais em movimento, usando uma paleta de cores que misture preto profundo com tons de neon verde e rosa",
+    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano humano, com iluminação neon e sombras profundas, utilizando uma paleta de cores que inclua preto, neon e tons pastéis, com texto gigante destacando uma mensagem emotiva",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,16 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-02T05:15:02.700Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de elementos visuais que rejeitam o 'AI Slop' e promovem a estética 'Hyper-Human'",
-        "Introdução do estilo 'Neon-Noir & Hyper-Bloom' para atrair a atenção do usuário",
-        "Implementação do 'Design Deconstrutivista' para quebrar as regras de layout e parar o scroll",
-        "Uso de 'Tipografia Gigante' para facilitar a leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-08-02T08:02:18.404Z",
       "licao": [
@@ -102,6 +89,13 @@
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de design deconstrutivista para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-08-02T20:03:54.645Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
