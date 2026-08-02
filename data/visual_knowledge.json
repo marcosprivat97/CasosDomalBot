@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-08-02T15:51:11.898Z",
+  "ultima_atualizacao": "2026-08-02T16:44:19.126Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-      "Otimização para rejeição ao 'AI Slop' e aumento do engajamento"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista para melhorar o engajamento",
+      "Incorporação de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando fotos reais e cruas",
-      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, utilizandoo Design Deconstrutivista para parar o scroll",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com elementos oníricos para criar um ambiente único",
-      "teoria_do_clique": "A combinação de estilos visuais ousados e reais irá capturar a atenção do usuário, aumentando o engajamento devido à novidade e autenticidade"
+      "estilo_imagem": "Realismo Sujo com toques de Neon-Noir para criar contraste agressivo",
+      "foco_composicao": "Enquadramento off-center com sujeitos ou objetos em primeiro plano, deixando espaço vazio para criar sensação de movimento",
+      "paleta_cores": "Preto profundo a neon vibrante, com tons pastéis para criar um contraste visual atraente",
+      "teoria_do_clique": "O uso de imagens cruas e com imperfeições humanas, aliado a contrastes agressivos e estética onírica, gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com elementos neon iluminando um ambiente sombrio, utilizando Tipografia Gigante para destacar uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Realismo Sujo com toques de Neon-Noir, com um sujeito ou objeto off-center, utilizando preto profundo a neon vibrante e tons pastéis, e adicione textos dominantes em fonte grande para leitura rápida",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-01T22:42:41.081Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que contrariam o 'AI Slop' para uma aparência mais humana",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-08-01T23:46:07.259Z",
       "licao": [
@@ -99,6 +89,13 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura no mobile",
         "Otimização para rejeição ao 'AI Slop' e aumento do engajamento"
+      ]
+    },
+    {
+      "data": "2026-08-02T16:44:19.126Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista para melhorar o engajamento",
+        "Incorporação de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
