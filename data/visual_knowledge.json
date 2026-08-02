@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-08-02T12:54:30.162Z",
+  "ultima_atualizacao": "2026-08-02T14:22:21.335Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Foco em melhorar o engajamento com base na última performance da página"
+      "Foco em melhorar o engajamento com base na performance atual da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos de Hyper-Human",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos reais e imperfeições",
-      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a inclusão de elementos humanos reais promove a conexão emocional e aumenta a probabilidade de engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando contraste agressivo e estética onírica",
+      "foco_composicao": "Enquadre a cena de forma a quebrar as regras tradicionais de layout, utilizando elementos de Design Deconstrutivista para capturar a atenção do usuário",
+      "paleta_cores": "Preto profundo com neon vibrante, criando um contraste visual impactante",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica, aliado à quebra de regras de layout, visa parar o scroll do usuário e estimular a curiosidade, levando a um maior engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir & Hyper-Bloom com um elemento humano real no centro, utilizando uma paleta de cores que inclua preto profundo, neon vibrante e toques de pastéis, com uma composição que quebre as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com iluminação neon vibrante, destacando um elemento central de forma desconstrutivista, com tipografia gigante aplicada em primeiro plano para transmitir uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-01T20:03:47.611Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Incorporação de estética onírica e contrastes agressivos",
-        "Uso de tipografia gigante para facilitar leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-08-01T21:42:50.420Z",
       "licao": [
@@ -99,6 +91,13 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Foco em melhorar o engajamento com base na última performance da página"
+      ]
+    },
+    {
+      "data": "2026-08-02T14:22:21.335Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Foco em melhorar o engajamento com base na performance atual da página"
       ]
     }
   ]
