@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-02T20:03:54.645Z",
+  "ultima_atualizacao": "2026-08-02T21:43:21.009Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura no mobile"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética hyper-humana e neon-noir",
+      "Incorporação de design deconstrutivista e tipografia gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre luz e sombra, com foco em elementos humanos reais e imperfeitos",
-      "paleta_cores": "Preto profundo e neon vibrante, com elementos de Hyper-Bloom para criar uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de elementos humanos reais gera empatia e engajamento"
+      "estilo_imagem": "Neon-Noir com elementos hyper-humanos, destacando imperfeições e texturas naturais",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras tradicionais de layout, utilizando ângulos e perspectivas inusitadas",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O uso de imagens cruas e com imperfeições humanas, aliado a uma estética visual impactante, gera engajamento por causar curiosidade e provocar emoções fortes no espectador"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano humano, com iluminação neon e sombras profundas, utilizando uma paleta de cores que inclua preto, neon e tons pastéis, com texto gigante destacando uma mensagem emotiva",
+    "prompt_padrao_atualizado": "Crie uma imagem neon-noir com uma pessoa em primeiro plano, utilizando ângulos e perspectivas inusitadas, com texturas naturais e imperfeições destacadas, e uma paleta de cores que combine preto, neon e pastéis",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-02T08:02:18.404Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026 para melhorar a performance da página",
-        "Inclusão de estilos visuais que buscam rejeitar o 'AI Slop' e promover a autenticidade",
-        "Implementação de técnicas de design que visam parar o scroll do usuário"
-      ]
-    },
     {
       "data": "2026-08-02T10:23:58.099Z",
       "licao": [
@@ -96,6 +89,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-08-02T21:43:21.009Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética hyper-humana e neon-noir",
+        "Incorporação de design deconstrutivista e tipografia gigante"
       ]
     }
   ]
