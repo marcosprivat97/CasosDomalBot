@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-08-01T23:46:07.259Z",
+  "ultima_atualizacao": "2026-08-02T01:30:38.640Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de tipografia gigante para melhorar a leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a cena de forma desequilibrada, com sujeitos em posições inusitadas e iluminação dramática",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estética futurista gera curiosidade e paralisa o scroll, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, buscando contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadrar a foto com foco em elementos humanos reais, destacando imperfeições e autenticidade, e quebrando regras de layout tradicionais para parar o scroll",
+      "paleta_cores": "Preto e neon, com tons pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas oníricas e contrastes agressivos gera curiosidade e engajamento, pois desafia a percepção do usuário e o incentiva a parar o scroll para entender melhor a imagem"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais em pose desequilibrada, iluminados por neons vibrantes e contrastados com áreas escuras, incorporando textos gigantes em fontes disruptivas",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos de Hyper-Bloom, destacando um elemento humano real em um ambiente onírico, com texto gigante e contraste agressivo",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-01T12:52:32.497Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e estéticas visuais impactantes",
-        "Otimização para engajamento em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-08-01T14:20:32.132Z",
       "licao": [
@@ -104,6 +95,13 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-08-02T01:30:38.640Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de tipografia gigante para melhorar a leitura rápida no mobile"
       ]
     }
   ]
