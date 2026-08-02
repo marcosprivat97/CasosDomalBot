@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-02T21:43:21.009Z",
+  "ultima_atualizacao": "2026-08-02T22:43:33.471Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética hyper-humana e neon-noir",
-      "Incorporação de design deconstrutivista e tipografia gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação do estilo Hyper-Human e Neon-Noir para atrair a atenção do usuário",
+      "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos hyper-humanos, destacando imperfeições e texturas naturais",
-      "foco_composicao": "Enquadre a foto de forma a quebrar as regras tradicionais de layout, utilizando ângulos e perspectivas inusitadas",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética onírica",
-      "teoria_do_clique": "O uso de imagens cruas e com imperfeições humanas, aliado a uma estética visual impactante, gera engajamento por causar curiosidade e provocar emoções fortes no espectador"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, destacando imperfeições humanas e contrastes agressivos",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras tradicionais de layout, utilizando elementos diagonais ou assimétricos",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis oníricos para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens cruas e humanas, junto com contrastes agressivos, atrai a atenção do usuário e gera curiosidade, aumentando a probabilidade de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem neon-noir com uma pessoa em primeiro plano, utilizando ângulos e perspectivas inusitadas, com texturas naturais e imperfeições destacadas, e uma paleta de cores que combine preto, neon e pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon, em um cenário noturno ou onírico, com texto dominante e composição deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-02T10:23:58.099Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-08-02T11:52:08.232Z",
       "licao": [
@@ -97,6 +89,14 @@
         "Adaptação às tendências globais de 2026",
         "Foco em estética hyper-humana e neon-noir",
         "Incorporação de design deconstrutivista e tipografia gigante"
+      ]
+    },
+    {
+      "data": "2026-08-02T22:43:33.471Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação do estilo Hyper-Human e Neon-Noir para atrair a atenção do usuário",
+        "Uso de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
   ]
