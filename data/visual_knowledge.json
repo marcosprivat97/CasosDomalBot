@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-03T22:54:11.620Z",
+  "ultima_atualizacao": "2026-08-03T23:58:25.793Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Incorporação de contrastes agressivos e estéticas oníricas"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Incorporação de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em composições que quebram regras de layout para aumentar engajamento"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a foto para destacar a textura e as imperfeições humanas, quebrando regras de layout tradicionais",
-      "paleta_cores": "Preto profundo com neon em tons pastéis ou vibrantes para criar contraste",
-      "teoria_do_clique": "O uso de imagens cruas e autênticas, combinado com contrastes agressivos, gera curiosidade e paralisa o scroll"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando contrastes agressivos e estéticas oníricas",
+      "foco_composicao": "Enquadre a foto de forma a criar tensão visual, utilizando ângulos inusitados e quebrando a simetria",
+      "paleta_cores": "Preto profundo com neon vibrante, ou inversamente, para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera curiosidade e atrai a atenção do usuário, aumentando as chances de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem Hyper-Human com um tema urbano noturno, incorporando neon e elementos de Neon-Noir, com texturas e imperfeições naturais",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elemento central em neon verde e fundo preto, com texto em fonte sans-serif gigante na cor rosa neon",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-03T01:44:37.262Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Incorporação de Tipografia Gigante para melhor leitura em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-08-03T05:29:13.006Z",
       "licao": [
@@ -101,6 +94,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
         "Incorporação de contrastes agressivos e estéticas oníricas"
+      ]
+    },
+    {
+      "data": "2026-08-03T23:58:25.793Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Incorporação de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em composições que quebram regras de layout para aumentar engajamento"
       ]
     }
   ]
