@@ -1,18 +1,17 @@
 {
-  "ultima_atualizacao": "2026-08-04T16:04:30.704Z",
+  "ultima_atualizacao": "2026-08-04T18:21:20.207Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Incorporação de Tipografia Gigante para melhor leitura no mobile"
+      "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar a performance da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Human para criar uma estética única e atraente",
-      "foco_composicao": "Enquadramento desestruturado, quebrando regras de simetria e equilíbrio, com foco em elementos humanos imperfeitos",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "A combinação de elementos humanos imperfeitos com uma estética neon-noir gera curiosidade e atrai a atenção do usuário, aumentando o engajamento"
+      "estilo_imagem": "Fotos reais, cruas e com imperfeições humanas, com contraste agressivo e estética onírica",
+      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, criando um ponto focal único e impactante",
+      "paleta_cores": "Preto e neon, com cores vibrantes e contrastantes para chamar a atenção do usuário",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e estética onírica, gera engajamento pois é mais autêntico e cativante, além de parar o scroll devido à quebra de regras de layout"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano imperfeito no centro, utilizando uma paleta de cores agressiva e contrastante, com toques de cores pastéis, e incorporando uma tipografia gigante para destacar a mensagem principal",
+    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa real, em um ambiente urbano noturno, com iluminação neon e contraste agressivo, utilizando uma composição deconstrutivista e tipografia gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +19,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-03T20:52:52.177Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-        "Foco em composições que quebram regras de layout para parar o scroll"
-      ]
-    },
     {
       "data": "2026-08-03T21:56:49.496Z",
       "licao": [
@@ -97,6 +88,12 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Incorporação de Tipografia Gigante para melhor leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-08-04T18:21:20.207Z",
+      "licao": [
+        "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar a performance da página"
       ]
     }
   ]
