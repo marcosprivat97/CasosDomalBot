@@ -1,32 +1,26 @@
 {
-  "ultima_atualizacao": "2026-08-05T15:06:17.135Z",
+  "ultima_atualizacao": "2026-08-05T17:17:17.842Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Foco em melhorar o engajamento com estética mais crua e humana",
+      "Inclusão de elementos de contraste agressivo e estética onírica"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre sujeitos em ambientes urbanos noturnos, com iluminação neon acentuada e contraste agressivo",
-      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com toques de branco e cinza para realçar texturas e detalhes",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a tipografia gigante facilita a leitura e o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, utilizando elementos que quebram as regras de layout tradicionais",
+      "paleta_cores": "Preto profundo com neon vibrante e cores pastéis suaves para criar um equilíbrio entre o sombrio e o sonhador",
+      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas e contraste agressivo atrai a atenção do usuário, enquanto a quebra de regras de layout estimula a curiosidade e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com um sujeito humano ao centro, iluminado por neon, com uma tipografia gigante sobrepondo a cena, com texto 'Descubra o Segredo' em letras garrafais",
+    "prompt_padrao_atualizado": "Crie uma cena noturna em um ambiente urbano com iluminação neon, pessoas reais com expressões autênticas e elementos de design deconstrutivista, utilizando uma paleta de cores que combine preto, neon e tons pastéis",
     "config_layout": {
-      "font_size_mult": 2.5,
+      "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-04T18:21:20.207Z",
-      "licao": [
-        "Adaptação às tendências Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante para melhorar a performance da página"
-      ]
-    },
     {
       "data": "2026-08-04T20:16:36.390Z",
       "licao": [
@@ -101,6 +95,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-08-05T17:17:17.842Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Foco em melhorar o engajamento com estética mais crua e humana",
+        "Inclusão de elementos de contraste agressivo e estética onírica"
       ]
     }
   ]
