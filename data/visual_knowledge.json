@@ -1,20 +1,18 @@
 {
-  "ultima_atualizacao": "2026-08-05T04:53:18.857Z",
+  "ultima_atualizacao": "2026-08-05T07:31:11.363Z",
   "licao_atual": {
-    "versao_logica": "1.4",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
-      "Incorporação de contraste agressivo e estéticas oníricas",
-      "Uso de tipografia dominante para melhor legibilidade"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento ou tensão, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Preto profundo com acenos de neon em cores vibrantes, como rosa, azul ou verde",
-      "teoria_do_clique": "A combinação de elementos humanos autênticos com contraste agressivo e estética onírica atrai a atenção do usuário, parando o scroll e estimulando o engajamento"
+      "foco_composicao": "Enquadre a imagem de maneira a criar contraste agressivo entre preto e neon, com foco em detalhes humanos imperfeitos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a imperfeição humana gera empatia e aumenta a probabilidade de engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture um momento intenso e autêntico, com pessoas reais em um ambiente urbano noturno, incorporando luzes neon e contraste agressivo, com texto em fonte grande e vibrante destacando a emoção do momento",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir, destacando detalhes humanos imperfeitos em um ambiente com contraste agressivo entre preto e neon",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-04T08:14:59.238Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
-        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção do usuário"
-      ]
-    },
     {
       "data": "2026-08-04T11:14:03.062Z",
       "licao": [
@@ -102,6 +92,13 @@
         "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
         "Incorporação de contraste agressivo e estéticas oníricas",
         "Uso de tipografia dominante para melhor legibilidade"
+      ]
+    },
+    {
+      "data": "2026-08-05T07:31:11.363Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento"
       ]
     }
   ]
