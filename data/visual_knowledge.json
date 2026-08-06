@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-08-06T01:22:36.394Z",
+  "ultima_atualizacao": "2026-08-06T04:53:34.445Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação do estilo Hyper-Human para aumentar o engajamento",
+      "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
+      "Implementação de design deconstrutivista e tipografia gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre com contraste agressivo, destacando sujeitos em primeiro plano com imperfeições humanas",
-      "paleta_cores": "Preto profundo com neon vibrante e explosões de cor pastel",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a presença de imperfeições humanas gera empatia e aumenta o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em detalhes humanos imperfeitos",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a imperfeição humana gera empatia e aumenta o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com sujeitos em primeiro plano, iluminados por neon, em um ambiente sombrio com toques de Hyper-Bloom, incorporando texto gigante com mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com contraste agressivo entre preto e neon, destacando detalhes humanos imperfeitos em uma estética onírica",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-05T07:31:11.363Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human e Neon-Noir para aumentar o engajamento"
-      ]
-    },
     {
       "data": "2026-08-05T10:22:43.295Z",
       "licao": [
@@ -102,6 +96,15 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-08-06T04:53:34.445Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human para aumentar o engajamento",
+        "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
+        "Implementação de design deconstrutivista e tipografia gigante para leitura rápida no mobile"
       ]
     }
   ]
