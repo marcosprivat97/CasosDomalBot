@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-06T23:47:34.003Z",
+  "ultima_atualizacao": "2026-08-07T02:02:09.282Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Incorporação de tendências atuais para melhorar a performance da página",
-      "Adaptação do estilo de imagem para o 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom'",
-      "Implementação do 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll e melhorar a leitura no mobile"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, destacando imperfeições humanas e contrastes agressivos",
-      "foco_composicao": "Enquadre a foto de forma a quebrar as regras tradicionais de layout, utilizando espaços negativos e ângulos inovadores",
-      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis suaves com contraste alto para uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras visuais capturam a atenção do usuário, enquanto a autenticidade do 'Hyper-Human' gera conexão emocional"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma a criar tensão ou surpresa, quebrando regras de layout tradicionais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas e contrates agressivos gera curiosidade e pausa no scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com neon vibrante, em um ambiente sombrio e com uma tipografia gigante que domine a cena",
+    "prompt_padrao_atualizado": "Crie uma cena que combine elementos humanos reais com toques de neon, em um ambiente escuro e misterioso, com textos gigantes destacando a ação principal",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-05T20:55:06.521Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
-        "Incorporação de contrastes agressivos e estéticas oníricas",
-        "Uso de tipografia gigante para melhor legibilidade em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-08-05T22:04:30.414Z",
       "licao": [
@@ -102,6 +93,14 @@
         "Incorporação de tendências atuais para melhorar a performance da página",
         "Adaptação do estilo de imagem para o 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom'",
         "Implementação do 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll e melhorar a leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-08-07T02:02:09.282Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
