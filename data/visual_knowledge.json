@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-07T21:26:46.683Z",
+  "ultima_atualizacao": "2026-08-07T22:23:21.323Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências atuais de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Foco em melhorar o engajamento com imagens mais humanas e imperfeitas",
-      "Inclusão de contraste agressivo e estética onírica para parar o scroll"
+      "Adaptação às tendências de 2026",
+      "Foco em Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir, priorizando fotos reais e cruas",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, destacando o tema principal",
-      "paleta_cores": "Preto profundo e neon vibrante, com toques de cor pastel para criar uma estética onírica",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica criam uma curiosidade imediata, enquanto a imperfeição humana gera empatia e conexão"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste entre luzes neon e sombras escuras, destacando imperfeições humanas",
+      "paleta_cores": "Preto profundo com acembros de neon verde, rosa ou azul, para criar um contraste agressivo",
+      "teoria_do_clique": "O uso de Neon-Noir e elementos Hyper-Human gera engajamento por criar uma estética única e atraente, quebrando a monotonia visual e estimulando a curiosidade do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente noturno, com iluminação neon e sombras profundas, utilizando uma paleta de cores preto/neon e pastel",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma cena urbana noturna com pessoas reais, iluminada por luzes neon, utilizando um estilo Neon-Noir e elementos Hyper-Human, com texto gigante sobreposto",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-07T11:36:23.127Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-        "Foco em estética cruas e imperfeições humanas para maior engajamento"
-      ]
-    },
     {
       "data": "2026-08-07T12:36:55.569Z",
       "licao": [
@@ -100,6 +92,14 @@
         "Adaptação às tendências atuais de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Foco em melhorar o engajamento com imagens mais humanas e imperfeitas",
         "Inclusão de contraste agressivo e estética onírica para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-08-07T22:23:21.323Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
