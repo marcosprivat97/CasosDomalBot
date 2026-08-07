@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-08-07T02:02:09.282Z",
+  "ultima_atualizacao": "2026-08-07T04:45:52.528Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
+      "Incorporação de contrastes agressivos e estéticas oníricas",
+      "Uso de tipografia gigante para melhor legibilidade em dispositivos móveis"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar tensão ou surpresa, quebrando regras de layout tradicionais",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "O uso de imagens reais com imperfeições humanas e contrates agressivos gera curiosidade e pausa no scroll, aumentando o engajamento"
+      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de profundidade e movimento, quebrando as regras tradicionais de layout",
+      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis para um contraste agressivo e uma estética onírica",
+      "teoria_do_clique": "O uso de imagens cruas e autênticas, combinado com contrastes visuais fortes, captura a atenção do usuário e gera engajamento devido à sua capacidade de criar uma conexão emocional imediata"
     },
-    "prompt_padrao_atualizado": "Crie uma cena que combine elementos humanos reais com toques de neon, em um ambiente escuro e misterioso, com textos gigantes destacando a ação principal",
+    "prompt_padrao_atualizado": "Crie uma imagem com um estilo Hyper-Human, incorporando elementos de Neon-Noir e Hyper-Bloom, com uma composição que quebre as regras de layout tradicionais e utilize uma tipografia gigante para destacar a mensagem principal",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-05T22:04:30.414Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação do estilo Hyper-Human e Neon-Noir para atrair a atenção do usuário",
-        "Uso de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
-        "Implementação de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-08-05T23:45:45.304Z",
       "licao": [
@@ -101,6 +93,15 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-08-07T04:45:52.528Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
+        "Incorporação de contrastes agressivos e estéticas oníricas",
+        "Uso de tipografia gigante para melhor legibilidade em dispositivos móveis"
       ]
     }
   ]
