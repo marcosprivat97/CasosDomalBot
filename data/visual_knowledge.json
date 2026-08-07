@@ -1,19 +1,21 @@
 {
-  "ultima_atualizacao": "2026-08-07T08:04:37.571Z",
+  "ultima_atualizacao": "2026-08-07T09:48:37.270Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação do estilo Hyper-Human e Design Deconstrutivista",
-      "Uso de contraste agressivo e tipografia gigante para aumentar o engajamento"
+      "Adaptação das tendências de 2026 para melhorar a performance da página",
+      "Inclusão do estilo Hyper-Human para fotos mais reais e cruas",
+      "Uso de contraste agressivo com Neon-Noir e Hyper-Bloom",
+      "Aplicação do Design Deconstrutivista para quebrar regras de layout",
+      "Incorporação de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, quebrando as regras tradicionais de layout",
-      "paleta_cores": "Preto, neon e tons pastéis para criar contraste e uma estética onírica",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contraste agressivo e tipografia dominante, parará o scroll e gerará curiosidade no usuário"
+      "foco_composicao": "Enquadre a imagem de forma a criar um contraste agressivo entre preto e neon, com elementos humanos reais e imperfeitos no centro",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de contraste agressivo e cores neon chama a atenção do usuário, enquanto a presença de elementos humanos reais aumenta a conexão emocional e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon e uma paleta de cores que inclua preto, neon e tons pastéis, com uma composição que quebre as regras de layout tradicionais e inclua texto gigante",
+    "prompt_padrao_atualizado": "Crie uma imagem com um humano real no centro, cercado por uma atmosfera neon e preto, com textos gigantes em primeiro plano e elementos de quebra de layout para chamar a atenção",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +23,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-06T04:53:34.445Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human para aumentar o engajamento",
-        "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-        "Implementação de design deconstrutivista e tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-08-06T07:31:05.103Z",
       "licao": [
@@ -100,6 +93,16 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação do estilo Hyper-Human e Design Deconstrutivista",
         "Uso de contraste agressivo e tipografia gigante para aumentar o engajamento"
+      ]
+    },
+    {
+      "data": "2026-08-07T09:48:37.270Z",
+      "licao": [
+        "Adaptação das tendências de 2026 para melhorar a performance da página",
+        "Inclusão do estilo Hyper-Human para fotos mais reais e cruas",
+        "Uso de contraste agressivo com Neon-Noir e Hyper-Bloom",
+        "Aplicação do Design Deconstrutivista para quebrar regras de layout",
+        "Incorporação de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
