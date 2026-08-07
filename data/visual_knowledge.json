@@ -1,35 +1,26 @@
 {
-  "ultima_atualizacao": "2026-08-07T12:36:55.569Z",
+  "ultima_atualizacao": "2026-08-07T14:03:54.724Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, destacando o tema principal com imperfeições humanas",
-      "paleta_cores": "Preto profundo com neon vibrante, ou estética onírica com Hyper-Bloom",
-      "teoria_do_clique": "O contraste agressivo e a estética humana imperfeita geram curiosidade e paralisam o scroll, enquanto a tipografia gigante facilita a leitura rápida"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, misturando realismo sujo e elementos oníricos",
+      "foco_composicao": "Enquadre a foto para que o sujeito principal esteja desalinhado, criando uma sensação de movimento e quebra de regras",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma estética híbrida",
+      "teoria_do_clique": "O uso de contrastes agressivos e composições desestruturadas gera curiosidade e pausa no scroll, enquanto a autenticidade e o realismo sujo criam uma conexão emocional com o público"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, utilizando uma paleta de cores que inclua preto profundo e neon vibrante, com um tema principal enquadrado de forma a criar contraste agressivo",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com um sujeito principal em primeiro plano, utilizando contrastes agressivos entre preto e neon, e elementos oníricos para criar uma atmosfera única",
     "config_layout": {
-      "font_size_mult": 1.5,
+      "font_size_mult": 1.2,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-06T15:04:57.429Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-        "Incorporação do estilo Hyper-Human e Neon-Noir para atrair mais engajamento",
-        "Uso de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
-        "Implementação de Tipografia Gigante para facilitar a leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-08-06T23:47:34.003Z",
       "licao": [
@@ -101,6 +92,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-08-07T14:03:54.724Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
       ]
     }
   ]
