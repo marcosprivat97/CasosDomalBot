@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-08-08T17:19:17.979Z",
+  "ultima_atualizacao": "2026-08-08T18:20:20.924Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam uma estética mais humana e crua",
-      "Uso de contrates agressivos e estéticas oníricas para capturar a atenção do usuário"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de estilos visuais que rejeitam o 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar um contraste agressivo entre luz e sombra, utilizando a regra dos terços e elementos que quebram a linearidade da composição",
-      "paleta_cores": "Preto profundo e neon vibrante, com tons pastéis em segundo plano para criar uma atmosfera onírica",
-      "teoria_do_clique": "A combinação de elementos humanos, imperfeições e contrates agressivos gera curiosidade e atrai o olhar do usuário, aumentando as chances de engajamento"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir",
+      "foco_composicao": "Enquadramento irregular com foco em detalhes humanos, como mãos, olhos ou expressões faciais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para suavizar a estética",
+      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes visuais agressivos, atrai a atenção do usuário e estimula o engajamento devido à novidade e ao impacto emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um contraste agressivo entre preto e neon, utilizando a tipografia gigante para transmitir uma mensagem impactante e onírica",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com elementos de Neon-Noir, focando em detalhes humanos e utilizando contrastes agressivos entre preto e neon",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-08T08:25:56.841Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação de estilo Hyper-Human para aumentar a autenticidade",
-        "Uso de contraste agressivo e estética onírica para chamar a atenção"
-      ]
-    },
     {
       "data": "2026-08-08T09:25:30.569Z",
       "licao": [
@@ -96,6 +87,13 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam uma estética mais humana e crua",
         "Uso de contrates agressivos e estéticas oníricas para capturar a atenção do usuário"
+      ]
+    },
+    {
+      "data": "2026-08-08T18:20:20.924Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de estilos visuais que rejeitam o 'AI Slop'"
       ]
     }
   ]
