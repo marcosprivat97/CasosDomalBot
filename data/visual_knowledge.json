@@ -1,35 +1,25 @@
 {
-  "ultima_atualizacao": "2026-08-09T13:39:55.833Z",
+  "ultima_atualizacao": "2026-08-09T14:23:01.413Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adoção do estilo Hyper-Human para conectar com o público de forma mais autêntica",
-      "Incorporação do Design Deconstrutivista para quebrar a monotonia e parar o scroll",
-      "Uso de Tipografia Gigante para facilitar a leitura rápida em dispositivos móveis",
-      "Aplicação de Neon-Noir e Hyper-Bloom para criar contraste e estética onírica"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma irregular, com elementos fora de foco para criar uma sensação de movimento e imperfeição",
-      "paleta_cores": "Preto profundo com neon verde ou rosa, para contrastar e criar uma atmosfera única",
-      "teoria_do_clique": "O uso de imagens reais e imperfeitas, combinado com contrates agressivos e layouts desestruturados, gera curiosidade e encoraja o engajamento, pois desafia a monotonia visual e cria uma conexão emocional mais forte com o público"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem com contraste agressivo entre luz e sombra, quebrando regras de layout tradicionais",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout criam uma imagem que pára o scroll, enquanto a tipografia gigante facilita a leitura e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com pessoas reais, luzes neon refletindo em superfícies molhadas, e uma tipografia gigante destacando uma palavra-chave em verde neon sobre um fundo preto",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente noturno, com luzes neon refletidas em uma superfície molhada, utilizando uma paleta de cores preto/neon e pastéis, com texto gigante sobrepondo a cena",
     "config_layout": {
-      "font_size_mult": 1.5,
+      "font_size_mult": 2.5,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-09T04:09:51.055Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-08-09T05:39:32.422Z",
       "licao": [
@@ -105,6 +95,13 @@
         "Incorporação do Design Deconstrutivista para quebrar a monotonia e parar o scroll",
         "Uso de Tipografia Gigante para facilitar a leitura rápida em dispositivos móveis",
         "Aplicação de Neon-Noir e Hyper-Bloom para criar contraste e estética onírica"
+      ]
+    },
+    {
+      "data": "2026-08-09T14:23:01.413Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
       ]
     }
   ]
