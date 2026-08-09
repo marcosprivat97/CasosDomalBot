@@ -1,34 +1,28 @@
 {
-  "ultima_atualizacao": "2026-08-09T14:23:01.413Z",
+  "ultima_atualizacao": "2026-08-09T15:19:53.274Z",
   "licao_atual": {
-    "versao_logica": "1.2",
+    "versao_logica": "1.0",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      "Adaptação às tendências de 2026 para melhorar a performance da página",
+      "Incorporação do estilo Hyper-Human para fotos mais autênticas",
+      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+      "Implementação do Design Deconstrutivista para quebrar regras de layout e parar o scroll",
+      "Inclusão de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
-      "foco_composicao": "Enquadre a imagem com contraste agressivo entre luz e sombra, quebrando regras de layout tradicionais",
-      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um ambiente onírico",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout criam uma imagem que pára o scroll, enquanto a tipografia gigante facilita a leitura e o engajamento"
+      "estilo_imagem": "Neon-Noir & Hyper-Bloom com elementos cruas e imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, destacando elementos humanos imperfeitos",
+      "paleta_cores": "Preto profundo e neon vibrante, com tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "O contraste agressivo e a autenticidade das imagens criam um choque visual que atrai a atenção, enquanto a tipografia gigante facilita a leitura e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente noturno, com luzes neon refletidas em uma superfície molhada, utilizando uma paleta de cores preto/neon e pastéis, com texto gigante sobrepondo a cena",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir & Hyper-Bloom com uma pessoa humana imperfeita no centro, utilizando contraste agressivo e tons pastéis, com textos gigantes destacando uma mensagem impactante",
     "config_layout": {
-      "font_size_mult": 2.5,
+      "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-09T05:39:32.422Z",
-      "licao": [
-        "Adoção de estética Hyper-Human para aumentar a autenticidade",
-        "Incorporação de contraste agressivo com Neon-Noir",
-        "Uso de Design Deconstrutivista para quebrar a monotonia",
-        "Implementação de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-08-09T06:35:48.185Z",
       "licao": [
@@ -102,6 +96,16 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-08-09T15:19:53.274Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar a performance da página",
+        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
+        "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
+        "Implementação do Design Deconstrutivista para quebrar regras de layout e parar o scroll",
+        "Inclusão de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
