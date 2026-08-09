@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-08-09T04:09:51.055Z",
+  "ultima_atualizacao": "2026-08-09T05:39:32.422Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adoção de estética Hyper-Human para aumentar a autenticidade",
+      "Incorporação de contraste agressivo com Neon-Noir",
+      "Uso de Design Deconstrutivista para quebrar a monotonia",
+      "Implementação de Tipografia Gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Estética Neon-Noir com toques de Hyper-Human",
-      "foco_composicao": "Enquadre a foto com contraste agressivo, utilizando preto e neon, e inclua elementos humanos reais e imperfeitos",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a inclusão de elementos humanos reais aumenta a empatia e o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, mantendo a essência do Hyper-Human",
+      "foco_composicao": "Enquadre a cena de forma a desafiar a simetria tradicional, com objetos ou pessoas em posições inusitadas, destacando a imperfeição humana",
+      "paleta_cores": "Preto profundo ou tons escuros contrastando com neon vibrante, com toques sutis de cores pastéis para criar uma atmosfera onírica",
+      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout vão parar o scroll dos usuários, enquanto a autenticidade e imperfeição humana criam uma conexão emocional, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estética Neon-Noir com um elemento humano real e imperfeito no centro, utilizando contraste agressivo e cores vibrantes",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com pessoas reais em movimento, utilizando luzes neon para realçar a atmosfera, com texto gigante sobrepondo a imagem, desafiando a composição tradicional",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-08T17:19:17.979Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e buscam uma estética mais humana e crua",
-        "Uso de contrates agressivos e estéticas oníricas para capturar a atenção do usuário"
-      ]
-    },
     {
       "data": "2026-08-08T18:20:20.924Z",
       "licao": [
@@ -100,6 +93,15 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-08-09T05:39:32.422Z",
+      "licao": [
+        "Adoção de estética Hyper-Human para aumentar a autenticidade",
+        "Incorporação de contraste agressivo com Neon-Noir",
+        "Uso de Design Deconstrutivista para quebrar a monotonia",
+        "Implementação de Tipografia Gigante para melhor leitura no mobile"
       ]
     }
   ]
