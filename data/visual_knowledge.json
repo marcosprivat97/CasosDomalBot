@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-10T07:06:04.029Z",
+  "ultima_atualizacao": "2026-08-10T09:05:25.048Z",
   "licao_atual": {
-    "versao_logica": "1.1",
+    "versao_logica": "1.2",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação de estilos visuais mais atraentes e humanos",
-      "Otimização do layout para parar o scroll"
+      "Ajustes para incorporar tendências de 2026",
+      "Foco em estética 'Hyper-Human' e 'Neon-Noir' para melhor engajamento",
+      "Adoção de 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de maneira que capture imperfeições humanas e contraste agressivo, utilizando a regra dos terços e considerando a quebra de regras de layout para chamar a atenção",
-      "paleta_cores": "Preto profundo e neon vibrante para criar contraste, com toques de cores pastéis para suavizar a estética",
-      "teoria_do_clique": "O uso de imagens cruas e humanas, combinado com contraste agressivo, gera curiosidade e pausa no scroll. A tipografia gigante facilita a leitura rápida e reforça a mensagem"
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com foco em detalhes humanos reais e imperfeições",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar contraste visual",
+      "teoria_do_clique": "A combinação de imagens reais com contraste agressivo e textos dominantes atrai a atenção do usuário e gera engajamento devido à sua natureza única e disruptiva"
     },
-    "prompt_padrao_atualizado": "Crie uma cena urbana noturna com pessoas reais em movimento, utilizando contraste agressivo de preto e neon, com textos gigantes destacando uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem Hyper-Human com um toque de Neon-Noir, com um modelo humano real e imperfeições, em um fundo preto com neon vibrante, e adicione um texto gigante com uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-09T18:22:27.524Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-08-09T19:23:43.814Z",
       "licao": [
@@ -102,6 +94,14 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Incorporação de estilos visuais mais atraentes e humanos",
         "Otimização do layout para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-08-10T09:05:25.048Z",
+      "licao": [
+        "Ajustes para incorporar tendências de 2026",
+        "Foco em estética 'Hyper-Human' e 'Neon-Noir' para melhor engajamento",
+        "Adoção de 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll"
       ]
     }
   ]
