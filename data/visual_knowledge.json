@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-10T16:40:54.329Z",
+  "ultima_atualizacao": "2026-08-10T17:41:55.479Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      "Adaptação das tendências visuais de 2026 para melhorar o engajamento",
+      "Foco em estilos de imagem que rejeitam o 'AI Slop' e buscam uma estética mais humana",
+      "Incorporação de elementos de design deconstrutivista e tipografia gigante"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a quebrar as regras de layout tradicionais, utilizando o Design Deconstrutivista para parar o scroll",
-      "paleta_cores": "Preto profundo com neon vibrante, ou estéticas oníricas com Hyper-Bloom",
-      "teoria_do_clique": "O uso de imagens cruas e autênticas, combinado com contrastes agressivos e layouts inovadores, gera engajamento por criar uma experiência visual única e memorável"
+      "foco_composicao": "Enquadre a imagem de forma a quebrar regras de layout tradicionais, utilizando ângulos inusitados e foco seletivo para direcionar a atenção do espectador",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com tons pastéis e vibrantes para criar um ambiente hipnótico",
+      "teoria_do_clique": "O uso de imagens cruas e com imperfeições humanas, aliado a uma estética visual impactante, gera curiosidade e convidação à interação, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que mistura elementos humanos reais com toques de neon e um layout quebrado, utilizando fontes gigantes para destacar a mensagem principal",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um personagem principal em foco, utilizando luzes neon para realçar sua presença, com um fundo onírico que mistura elementos reais e surrealistas, e insira uma tipografia gigante com uma mensagem provocativa ou reflexiva",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-10T03:05:02.949Z",
-      "licao": [
-        "Adoção do estilo Hyper-Human para fotos mais autênticas",
-        "Incorporação de contraste agressivo com Neon-Noir",
-        "Uso de Design Deconstrutivista para quebrar regras de layout",
-        "Implementação de Tipografia Gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-08-10T05:14:08.923Z",
       "licao": [
@@ -106,6 +97,14 @@
         "Adaptação às tendências de 2026 para melhorar a performance da página",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para capturar a atenção do usuário"
+      ]
+    },
+    {
+      "data": "2026-08-10T17:41:55.479Z",
+      "licao": [
+        "Adaptação das tendências visuais de 2026 para melhorar o engajamento",
+        "Foco em estilos de imagem que rejeitam o 'AI Slop' e buscam uma estética mais humana",
+        "Incorporação de elementos de design deconstrutivista e tipografia gigante"
       ]
     }
   ]
