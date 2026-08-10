@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-10T10:55:42.356Z",
+  "ultima_atualizacao": "2026-08-10T11:41:07.178Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos de imagem que rejeitam o 'AI Slop' e valorizam a essência humana",
-      "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
-      "Aplicação de design deconstrutivista para interromper o scroll",
-      "Implementação de tipografia gigante para facilitar a leitura rápida no mobile"
+      "Adaptação para tendências de 2026",
+      "Foco em Hyper-Human e Neon-Noir para melhorar engajamento",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a criar uma sensação de proximidade e intimidade, com o sujeito principal ocupando a maior parte da tela e elementos secundários minimalistas",
-      "paleta_cores": "Preto profundo com neon em tons pastéis para criar um contraste agressivo e atraente",
-      "teoria_do_clique": "O uso de imagens reais e cruas, combinado com contrastes agressivos e uma composição que quebra as regras tradicionais, gera curiosidade e estimula o engajamento, pois o cérebro humano está programado para responder a estímulos visuais novos e diferentes"
+      "foco_composicao": "Enquadre a foto de forma a destacar a humanidade crua e imperfeita, com contraste agressivo entre preto e neon",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica",
+      "teoria_do_clique": "A combinação de humanidade crua com estética neon chama a atenção e gera curiosidade, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente noturno, com iluminação neon suave e uma atmosfera onírica, utilizando uma paleta de cores que inclua tons de preto, neon pastel e branco, com o sujeito principal em foco e elementos de fundo minimizados, aplicando um estilo Hyper-Human e Neon-Noir",
+    "prompt_padrao_atualizado": "Crie uma imagem que misture elementos humanos reais com toques de neon, em um ambiente sombrio e misterioso, com texto dominante em fonte grande",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-09T20:18:24.610Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar engajamento",
-        "Foco em estilos mais humanos e menos perfeitos",
-        "Incorporação de contrastes agressivos e estéticas oníricas",
-        "Uso de tipografia gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-08-09T21:20:13.911Z",
       "licao": [
@@ -105,6 +94,14 @@
         "Uso de contrastes agressivos e estéticas oníricas para chamar a atenção",
         "Aplicação de design deconstrutivista para interromper o scroll",
         "Implementação de tipografia gigante para facilitar a leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-08-10T11:41:07.178Z",
+      "licao": [
+        "Adaptação para tendências de 2026",
+        "Foco em Hyper-Human e Neon-Noir para melhorar engajamento",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
   ]
