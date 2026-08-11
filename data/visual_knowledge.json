@@ -1,34 +1,26 @@
 {
-  "ultima_atualizacao": "2026-08-11T05:45:47.259Z",
+  "ultima_atualizacao": "2026-08-11T06:44:22.625Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão de tendências de 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom' para melhorar o engajamento",
-      "Adaptação do layout para 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll",
-      "Otimização da paleta de cores para contrastes agressivos e estéticas oníricas"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com ênfase em fotos reais e cruas, destacando imperfeições humanas",
-      "foco_composicao": "Enquadramento off-center, com sujeitos em movimento ou em ângulos inusitados para criar dinamismo",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com tons pastéis e neon",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas atrai a atenção do usuário, enquanto a ênfase em imperfeições humanas cria uma conexão emocional"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em imperfeições humanas",
+      "paleta_cores": "Preto, neon verde, rosa e azul, com tons pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O contraste agressivo e as imperfeições humanas criam uma sensação de autenticidade e chamam a atenção do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em movimento, com um fundo neon escuro e iluminação agressiva, destacando as imperfeições humanas e utilizando uma paleta de cores contrastantes",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento humano imperfeito no centro, utilizando uma paleta de cores que inclua preto, neon verde, rosa e azul",
     "config_layout": {
-      "font_size_mult": 1.2,
+      "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-10T18:40:12.685Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Inclusão de estilo de imagem mais cru e humano",
-        "Uso de contraste agressivo e tipografia gigante"
-      ]
-    },
     {
       "data": "2026-08-10T19:46:15.282Z",
       "licao": [
@@ -99,6 +91,14 @@
         "Inclusão de tendências de 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom' para melhorar o engajamento",
         "Adaptação do layout para 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll",
         "Otimização da paleta de cores para contrastes agressivos e estéticas oníricas"
+      ]
+    },
+    {
+      "data": "2026-08-11T06:44:22.625Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
