@@ -1,35 +1,26 @@
 {
-  "ultima_atualizacao": "2026-08-11T04:16:27.506Z",
+  "ultima_atualizacao": "2026-08-11T05:45:47.259Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Incorporação de contraste agressivo e estéticas oníricas",
-      "Uso de tipografia gigante para facilitar a leitura rápida"
+      "Inclusão de tendências de 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom' para melhorar o engajamento",
+      "Adaptação do layout para 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll",
+      "Otimização da paleta de cores para contrastes agressivos e estéticas oníricas"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento e imperfeição, com foco em detalhes humanos",
-      "paleta_cores": "Preto profundo com neon vibrante e pontos de luz para criar contraste agressivo",
-      "teoria_do_clique": "O uso de imagens reais, cruas e com imperfeições humanas, combinado com contraste agressivo, atrai a atenção do usuário e estimula o engajamento devido à sua autenticidade e capacidade de parar o scroll"
+      "estilo_imagem": "Hyper-Human, com ênfase em fotos reais e cruas, destacando imperfeições humanas",
+      "foco_composicao": "Enquadramento off-center, com sujeitos em movimento ou em ângulos inusitados para criar dinamismo",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com tons pastéis e neon",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas atrai a atenção do usuário, enquanto a ênfase em imperfeições humanas cria uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma cena urbana noturna com pessoa(s) em movimento, utilizando luzes neon para realçar a textura e a imperfeição, com uma paleta de cores que inclua preto profundo, neon vibrante e pontos de luz intensa",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em movimento, com um fundo neon escuro e iluminação agressiva, destacando as imperfeições humanas e utilizando uma paleta de cores contrastantes",
     "config_layout": {
-      "font_size_mult": 1.5,
+      "font_size_mult": 1.2,
       "gradient_intensity": 0.9,
       "stroke_width": 6
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-10T17:41:55.479Z",
-      "licao": [
-        "Adaptação das tendências visuais de 2026 para melhorar o engajamento",
-        "Foco em estilos de imagem que rejeitam o 'AI Slop' e buscam uma estética mais humana",
-        "Incorporação de elementos de design deconstrutivista e tipografia gigante"
-      ]
-    },
     {
       "data": "2026-08-10T18:40:12.685Z",
       "licao": [
@@ -100,6 +91,14 @@
         "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Incorporação de contraste agressivo e estéticas oníricas",
         "Uso de tipografia gigante para facilitar a leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-08-11T05:45:47.259Z",
+      "licao": [
+        "Inclusão de tendências de 'Hyper-Human' e 'Neon-Noir & Hyper-Bloom' para melhorar o engajamento",
+        "Adaptação do layout para 'Design Deconstrutivista' e 'Tipografia Gigante' para parar o scroll",
+        "Otimização da paleta de cores para contrastes agressivos e estéticas oníricas"
       ]
     }
   ]
