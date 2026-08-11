@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-08-11T10:40:10.337Z",
+  "ultima_atualizacao": "2026-08-11T11:35:22.236Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adoção do estilo Hyper-Human e Neon-Noir para melhorar o engajamento",
-      "Incorporação de Design Deconstrutivista para parar o scroll",
-      "Uso de Tipografia Gigante para leitura rápida"
+      "Adoção do estilo Hyper-Human para fotos mais autênticas",
+      "Incorporação de contraste agressivo com Neon-Noir",
+      "Utilização de Design Deconstrutivista para quebrar regras de layout",
+      "Implementação de Tipografia Gigante para leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
-      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras tradicionais de layout, utilizando espaços negativos e ângulos inusitados",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma atmosfera onírica",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera curiosidade e pausa no scroll, enquanto a representação de imperfeições humanas promove empatia e identificação"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos imperfeitos",
+      "paleta_cores": "Preto profundo, neon verde ou rosa, com toques de cores pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "O contraste agressivo e a autenticidade das imagens criam um choque visual que paralisa o scroll e estimula a curiosidade do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine Neon-Noir com Hyper-Bloom, com uma pessoa real em um ambiente urbano noturno, utilizando uma tipografia gigante e cores neon para destacar uma mensagem poderosa",
+    "prompt_padrao_atualizado": "Crie uma imagem de uma pessoa em um ambiente noturno urbano, com luzes neon refletidas em superfícies escuras, utilizando uma paleta de cores que inclua preto, neon verde e rosa, com textos gigantes destacando uma mensagem humana e autêntica",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-10T22:24:47.169Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estilos que rejeitam o 'AI Slop'",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-08-10T23:23:55.392Z",
       "licao": [
@@ -98,6 +91,15 @@
         "Adoção do estilo Hyper-Human e Neon-Noir para melhorar o engajamento",
         "Incorporação de Design Deconstrutivista para parar o scroll",
         "Uso de Tipografia Gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-08-11T11:35:22.236Z",
+      "licao": [
+        "Adoção do estilo Hyper-Human para fotos mais autênticas",
+        "Incorporação de contraste agressivo com Neon-Noir",
+        "Utilização de Design Deconstrutivista para quebrar regras de layout",
+        "Implementação de Tipografia Gigante para leitura rápida"
       ]
     }
   ]
