@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-11T09:48:54.331Z",
+  "ultima_atualizacao": "2026-08-11T10:40:10.337Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em Hyper-Human e estéticas visuais impactantes",
-      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      "Adoção do estilo Hyper-Human e Neon-Noir para melhorar o engajamento",
+      "Incorporação de Design Deconstrutivista para parar o scroll",
+      "Uso de Tipografia Gigante para leitura rápida"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, com elementos humanos imperfeitos no centro",
-      "paleta_cores": "Preto profundo e neon vibrante, com tons pastéis suaves para equilibrar",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção, enquanto a presença humana imperfeita gera empatia e curiosidade"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras tradicionais de layout, utilizando espaços negativos e ângulos inusitados",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar uma atmosfera onírica",
+      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas gera curiosidade e pausa no scroll, enquanto a representação de imperfeições humanas promove empatia e identificação"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa no centro, rodeada por luzes neon vibrantes e sombras profundas, com um texto gigante sobreposto que diga 'Desvendando a Noite'",
+    "prompt_padrao_atualizado": "Crie uma imagem que combine Neon-Noir com Hyper-Bloom, com uma pessoa real em um ambiente urbano noturno, utilizando uma tipografia gigante e cores neon para destacar uma mensagem poderosa",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-10T21:30:18.960Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human e Neon-Noir",
-        "Inclusão de Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhorar o engajamento e alcance"
-      ]
-    },
     {
       "data": "2026-08-10T22:24:47.169Z",
       "licao": [
@@ -98,6 +90,14 @@
         "Adaptação às tendências de 2026",
         "Foco em Hyper-Human e estéticas visuais impactantes",
         "Inclusão de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-08-11T10:40:10.337Z",
+      "licao": [
+        "Adoção do estilo Hyper-Human e Neon-Noir para melhorar o engajamento",
+        "Incorporação de Design Deconstrutivista para parar o scroll",
+        "Uso de Tipografia Gigante para leitura rápida"
       ]
     }
   ]
