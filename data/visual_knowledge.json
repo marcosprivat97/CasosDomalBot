@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-12T17:48:52.884Z",
+  "ultima_atualizacao": "2026-08-12T18:44:53.454Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura móvel",
-      "Foco em estética crua e imperfeita para rejeitar o 'AI Slop'"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando contrastes agressivos e estéticas oníricas",
-      "foco_composicao": "Enquadre sujeitos ou objetos de forma desalinhada, quebrando regras tradicionais de layout para captar atenção",
-      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um contraste visual impactante",
-      "teoria_do_clique": "O uso de contrastes agressivos e estéticas oníricas, combinado com a quebra de regras de layout, paralisa o scroll e estimula a curiosidade, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadramento off-center com sujeitos em movimento ou em ângulos não convencionais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para equilíbrio",
+      "teoria_do_clique": "O uso de imagens reais e imperfeitas, junto com a estética onírica e contrastes agressivos, visa parar o scroll e estimular a curiosidade do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com toques de Hyper-Bloom, com um sujeito ou objeto central desalinhado, utilizando uma paleta de preto profundo e neon vibrante, e adicione textos gigantes em fontes ousadas para destacar a mensagem",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com um sujeito em movimento, utilizando uma paleta de cores neon e preto, com toques de cores pastéis. O enquadramento deve ser off-center e incluir textos dominantes em Tipografia Gigante.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-12T05:22:17.477Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-08-12T07:04:59.704Z",
       "licao": [
@@ -98,6 +91,14 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura móvel",
         "Foco em estética crua e imperfeita para rejeitar o 'AI Slop'"
+      ]
+    },
+    {
+      "data": "2026-08-12T18:44:53.454Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
