@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-12T08:58:57.642Z",
+  "ultima_atualizacao": "2026-08-12T10:02:06.708Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+      "Foco em estéticas cruas e com imperfeições humanas para rejeitar o 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a foto de forma a destacar a imperfeição humana, com contraste agressivo entre preto e neon",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica geram curiosidade e paralisam o scroll, enquanto a imperfeição humana cria empatia e conexão"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando contraste agressivo e estética onírica",
+      "foco_composicao": "Enquadre a cena de forma a quebrar as regras tradicionais de layout, utilizando diagonais e ângulos inusitados para parar o scroll",
+      "paleta_cores": "Preto profundo com neon vibrante e sutis toques de cor pastel para criar um ambiente hipnótico",
+      "teoria_do_clique": "A combinação de elementos visuais disruptivos e a estética de sonho acordado gerará curiosidade e engajamento, pois desafia a percepção do usuário e o convida a explorar a imagem"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem com uma pessoa em primeiro plano, com iluminação dramática e sombras profundas, destacando detalhes humanos imperfeitos, como rugas ou cicatrizes, sobre um fundo neon ou com tons pastéis suaves",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com elementos neon iluminando um ambiente sombrio, inclua texturas reais e imperfeições, e destaque um texto gigante com uma mensagem críptica",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-11T19:53:03.586Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em estéticas que rejeitam o 'AI Slop'",
-        "Incorporação de elementos de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-08-11T20:32:28.207Z",
       "licao": [
@@ -100,6 +92,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-08-12T10:02:06.708Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
+        "Foco em estéticas cruas e com imperfeições humanas para rejeitar o 'AI Slop'"
       ]
     }
   ]
