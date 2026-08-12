@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-12T21:33:27.097Z",
+  "ultima_atualizacao": "2026-08-12T22:28:32.724Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação das tendências visuais atuais para melhorar o engajamento",
-      "Inclusão de elementos que promovam a interação do usuário",
-      "Otimização para dispositivos móveis"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante para parar o scroll",
+      "Foco em estética onírica e contraste agressivo para atrair a atenção do usuário"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com elementos principais desfocados ou em movimento para dar sensação de dinamismo",
-      "paleta_cores": "Preto profundo, neon verde ou rosa, com toques de branco ou prata para realçar detalhes",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a quebra de regras de layout estimula a curiosidade e o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas reais",
+      "foco_composicao": "Enquadre a imagem de forma descentrada, com sujeitos ou objetos principais fora do centro, criando um senso de movimento e dinamismo",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com tons pastéis suaves para criar uma atmosfera onírica",
+      "teoria_do_clique": "O uso de imagens cruas e reais, aliado a contrates agressivos e uma estética onírica, gera curiosidade eatrai a atenção do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento central em neon verde, sobre um fundo preto com detalhes em branco, aplicando o estilo Hyper-Bloom para realçar a textura e a profundidade",
+    "prompt_padrao_atualizado": "Crie uma imagem de um sujeito humano em um ambiente noturno, com iluminação neon intensa e sombras profundas, destacando as texturas e imperfeições da pele e do ambiente",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-12T11:37:30.858Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhor engajamento em redes sociais"
-      ]
-    },
     {
       "data": "2026-08-12T12:40:47.345Z",
       "licao": [
@@ -99,6 +92,14 @@
         "Adaptação das tendências visuais atuais para melhorar o engajamento",
         "Inclusão de elementos que promovam a interação do usuário",
         "Otimização para dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-08-12T22:28:32.724Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir para melhorar o engajamento",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante para parar o scroll",
+        "Foco em estética onírica e contraste agressivo para atrair a atenção do usuário"
       ]
     }
   ]
