@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-12T20:31:01.459Z",
+  "ultima_atualizacao": "2026-08-12T21:33:27.097Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir para melhor engajamento",
-      "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Adaptação das tendências visuais atuais para melhorar o engajamento",
+      "Inclusão de elementos que promovam a interação do usuário",
+      "Otimização para dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas reais",
-      "foco_composicao": "Enquadre a foto com um sujeito principal em primeiro plano, utilizando regras de terços e contraste agressivo",
-      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis em contraste com áreas escuras, para criar um ambiente onírico",
-      "teoria_do_clique": "O uso de estéticas cruas e humanas, aliado a contrastes visuais agressivos, gera curiosidade e pausa no scroll, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com elementos principais desfocados ou em movimento para dar sensação de dinamismo",
+      "paleta_cores": "Preto profundo, neon verde ou rosa, com toques de branco ou prata para realçar detalhes",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a quebra de regras de layout estimula a curiosidade e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um sujeito principal em primeiro plano, utilizando luz neon para realçar texturas e imperfeições, com um fundo preto profundo e elementos de Design Deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um elemento central em neon verde, sobre um fundo preto com detalhes em branco, aplicando o estilo Hyper-Bloom para realçar a textura e a profundidade",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-12T10:02:06.708Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-        "Foco em estéticas cruas e com imperfeições humanas para rejeitar o 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-08-12T11:37:30.858Z",
       "licao": [
@@ -99,6 +91,14 @@
         "Adaptação às tendências globais de 2026",
         "Foco em estética Hyper-Human e Neon-Noir para melhor engajamento",
         "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-08-12T21:33:27.097Z",
+      "licao": [
+        "Adaptação das tendências visuais atuais para melhorar o engajamento",
+        "Inclusão de elementos que promovam a interação do usuário",
+        "Otimização para dispositivos móveis"
       ]
     }
   ]
