@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-12T15:47:56.648Z",
+  "ultima_atualizacao": "2026-08-12T16:44:25.834Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      "Adaptação às tendências de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir",
+      "Implementação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e autenticidade",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com foco em elementos humanos imperfeitos",
-      "paleta_cores": "Predominância de tons escuros com acenos de neon, para criar um ambiente onírico e atraente",
-      "teoria_do_clique": "O contraste agressivo e a autenticidade das imagens criam curiosidade e estimulam o engajamento, pois rompem com a monotonia das imagens perfeitas e artificialmente editadas"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, com foco em texturas e imperfeições humanas",
+      "paleta_cores": "Preto profundo e neon vibrante, com toques de cores pastéis para criar um contraste onírico",
+      "teoria_do_clique": "O uso de contraste agressivo e estética onírica captura a atenção do usuário, enquanto a representação de imperfeições humanas gera empatia e conexão"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Neon-Noir com um elemento humano imperfeito no centro, utilizando uma paleta de cores escuras com acenos de neon, e aplicando uma tipografia gigante com texto relevante e impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, com uma figura humana em primeiro plano e um fundo sombrio com detalhes neon. A figura deve ter texturas e imperfeições visíveis, e o contraste entre luz e sombra deve ser agressivo.",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-12T00:57:46.394Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human e Neon-Noir",
-        "Incorporação do Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhor engajamento em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-08-12T03:21:01.390Z",
       "licao": [
@@ -98,6 +91,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-08-12T16:44:25.834Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir",
+        "Implementação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
