@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-08-12T10:02:06.708Z",
+  "ultima_atualizacao": "2026-08-12T11:37:30.858Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-      "Foco em estéticas cruas e com imperfeições humanas para rejeitar o 'AI Slop'"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhor engajamento em redes sociais"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, priorizando contraste agressivo e estética onírica",
-      "foco_composicao": "Enquadre a cena de forma a quebrar as regras tradicionais de layout, utilizando diagonais e ângulos inusitados para parar o scroll",
-      "paleta_cores": "Preto profundo com neon vibrante e sutis toques de cor pastel para criar um ambiente hipnótico",
-      "teoria_do_clique": "A combinação de elementos visuais disruptivos e a estética de sonho acordado gerará curiosidade e engajamento, pois desafia a percepção do usuário e o convida a explorar a imagem"
+      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, incorporando imperfeições humanas para um look mais autêntico",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre preto e neon, utilizando a regra dos terços para direcionar o olhar do usuário",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar uma estética onírica e atraente",
+      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto as imperfeições humanas criam uma conexão emocional, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com elementos neon iluminando um ambiente sombrio, inclua texturas reais e imperfeições, e destaque um texto gigante com uma mensagem críptica",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, iluminada por neon, sobre um fundo preto com elementos de Hyper-Bloom, utilizando uma tipografia gigante para destacar uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,16 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-11T20:32:28.207Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em Hyper-Human para maior engajamento",
-        "Incorporação de Neon-Noir e Hyper-Bloom para contraste",
-        "Uso de Design Deconstrutivista para parar o scroll",
-        "Implementação de Tipografia Gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-08-11T21:34:09.188Z",
       "licao": [
@@ -100,6 +89,13 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura no mobile",
         "Foco em estéticas cruas e com imperfeições humanas para rejeitar o 'AI Slop'"
+      ]
+    },
+    {
+      "data": "2026-08-12T11:37:30.858Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhor engajamento em redes sociais"
       ]
     }
   ]
