@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-12T19:54:56.340Z",
+  "ultima_atualizacao": "2026-08-12T20:31:01.459Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de Tipografia Gigante para melhor leitura no mobile",
-      "Foco em engajamento com base em estéticas oníricas e contrates agressivos"
+      "Adaptação às tendências globais de 2026",
+      "Foco em estética Hyper-Human e Neon-Noir para melhor engajamento",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, buscando um equilíbrio entre contraste e sonho",
-      "foco_composicao": "Enquadre a imagem de forma a quebrar regras de layout tradicionais, utilizando diagonais e espaços negativos para parar o scroll",
-      "paleta_cores": "Preto profundo como base, com explosões de neon em cores quentes (rosa, laranja, amarelo) para criar um contraste agressivo",
-      "teoria_do_clique": "A combinação de elementos humanos reais com toques de surrealismo e contraste neon atrai a atenção e gera curiosidade, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas reais",
+      "foco_composicao": "Enquadre a foto com um sujeito principal em primeiro plano, utilizando regras de terços e contraste agressivo",
+      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis em contraste com áreas escuras, para criar um ambiente onírico",
+      "teoria_do_clique": "O uso de estéticas cruas e humanas, aliado a contrastes visuais agressivos, gera curiosidade e pausa no scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana realista em primeiro plano, sobre um fundo preto com explosões de luz neon. Inclua textos gigantes em fontes desestruturadas para adicionar contexto à imagem.",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com um sujeito principal em primeiro plano, utilizando luz neon para realçar texturas e imperfeições, com um fundo preto profundo e elementos de Design Deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-12T08:58:57.642Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human e Neon-Noir",
-        "Incorporação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-08-12T10:02:06.708Z",
       "licao": [
@@ -99,6 +91,14 @@
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de Tipografia Gigante para melhor leitura no mobile",
         "Foco em engajamento com base em estéticas oníricas e contrates agressivos"
+      ]
+    },
+    {
+      "data": "2026-08-12T20:31:01.459Z",
+      "licao": [
+        "Adaptação às tendências globais de 2026",
+        "Foco em estética Hyper-Human e Neon-Noir para melhor engajamento",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante para parar o scroll"
       ]
     }
   ]
