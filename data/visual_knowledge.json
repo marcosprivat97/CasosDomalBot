@@ -1,21 +1,20 @@
 {
-  "ultima_atualizacao": "2026-08-13T16:43:01.476Z",
+  "ultima_atualizacao": "2026-08-13T17:47:36.871Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais mais cruos e humanos",
-      "Uso de contrastes agressivos e estéticas oníricas",
-      "Aplicação de design deconstrutivista para parar o scroll",
-      "Implementação de tipografia gigante para leitura rápida"
+      "Adoção de estética Hyper-Human para fotos mais cruas e imperfeitas",
+      "Incorporação de contraste Neon-Noir para chamar a atenção",
+      "Uso de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
+      "Implementação de Tipografia Gigante para leitura rápida no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
-      "foco_composicao": "Enquadre a cena de forma descentrada, com foco em detalhes humanos e imperfeições",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis suaves",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a presença de elementos humanos gera empatia e curiosidade"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a foto de forma assimétrica, com elementos principais fora do centro, e explore a profundidade de campo para criar um efeito tridimensional",
+      "paleta_cores": "Preto profundo com neon vermelho, azul ou verde para criar contraste agressivo",
+      "teoria_do_clique": "O uso de imagens cruas e imperfeitas, combinado com contraste agressivo, gera curiosidade e incita o usuário a parar o scroll e explorar a imagem, enquanto a tipografia gigante facilita a leitura e o entendimento do conteúdo"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma figura humana em primeiro plano, iluminada por neon, com um fundo escuro e detalhes sujos e realistas",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, utilizando uma paleta de cores preto e neon, com elementos principais fora do centro e uma profundidade de campo acentuada. Adicione texto gigante com fonte sans-serif e cor neon para destacar a mensagem principal",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-13T03:25:54.242Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em Hyper-Human e estética cruas",
-        "Implementação de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-08-13T05:26:08.192Z",
       "licao": [
@@ -102,6 +93,15 @@
         "Uso de contrastes agressivos e estéticas oníricas",
         "Aplicação de design deconstrutivista para parar o scroll",
         "Implementação de tipografia gigante para leitura rápida"
+      ]
+    },
+    {
+      "data": "2026-08-13T17:47:36.871Z",
+      "licao": [
+        "Adoção de estética Hyper-Human para fotos mais cruas e imperfeitas",
+        "Incorporação de contraste Neon-Noir para chamar a atenção",
+        "Uso de Design Deconstrutivista para quebrar regras de layout e parar o scroll",
+        "Implementação de Tipografia Gigante para leitura rápida no mobile"
       ]
     }
   ]
