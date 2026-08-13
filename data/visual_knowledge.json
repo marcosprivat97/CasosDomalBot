@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-13T11:37:37.578Z",
+  "ultima_atualizacao": "2026-08-13T12:41:47.080Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhorar o engajamento e alcance da página"
+      "Adaptação às tendências de 2026",
+      "Foco em Hyper-Human e estéticas visuais disruptivas",
+      "Inclusão de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Fotos reais com toque de Neon-Noir, destacando contrates agressivos e imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a quebrar regras de layout tradicionais, utilizando espaços negativos e composições assimétricas",
-      "paleta_cores": "Preto e neon, com toques de cores pastéis para criar uma estética onírica e atraente",
-      "teoria_do_clique": "O uso de imagens cruas e reais, aliado a contrates agressivos e composições ousadas, gera curiosidade e paralisa o scroll, aumentando o engajamento"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Human",
+      "foco_composicao": "Enquadre a imagem com elementos imperfeitos e humanos no centro, quebrando regras de layout tradicionais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para criar um ambiente onírico",
+      "teoria_do_clique": "A combinação de elementos humanos reais com estéticas disruptivas gera curiosidade e paralisa o scroll, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que combine elementos humanos reais com toques de neon e contrates agressivos, utilizando uma paleta de cores preto e neon, com composição assimétrica e espaços negativos",
+    "prompt_padrao_atualizado": "Crie uma cena noturna neon com pessoas reais, imperfeições incluídas, e elementos de design deconstrutivista, com texto gigante destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-12T21:33:27.097Z",
-      "licao": [
-        "Adaptação das tendências visuais atuais para melhorar o engajamento",
-        "Inclusão de elementos que promovam a interação do usuário",
-        "Otimização para dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-08-12T22:28:32.724Z",
       "licao": [
@@ -98,6 +91,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhorar o engajamento e alcance da página"
+      ]
+    },
+    {
+      "data": "2026-08-13T12:41:47.080Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e estéticas visuais disruptivas",
+        "Inclusão de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
