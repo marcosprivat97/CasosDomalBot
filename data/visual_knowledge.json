@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-13T00:59:32.195Z",
+  "ultima_atualizacao": "2026-08-13T03:25:54.242Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Ajustes para incorporar tendências de 2026",
-      "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
-      "Incorporação de contrastes agressivos e estéticas oníricas",
-      "Uso de tipografia gigante para melhor legibilidade em dispositivos móveis"
+      "Adaptação às tendências de 2026",
+      "Foco em Hyper-Human e estética cruas",
+      "Implementação de Design Deconstrutivista e Tipografia Gigante"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a destacar a imperfeição humana e a autenticidade, quebrando regras de layout tradicionais",
-      "paleta_cores": "Preto profundo com neon vibrante, ou tons pastéis oníricos para criar contrastes agressivos e estéticas sonhadoras",
-      "teoria_do_clique": "O engajamento será gerado pela combinação de autenticidade, contraste visual impactante e a quebra de expectativas em relação ao layout, capturando a atenção do usuário de forma eficaz"
+      "foco_composicao": "Enquadre sujeitos em ambientes reais, com iluminação natural e sombras intensas, quebrando regras de layout tradicionais",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, ou tons pastéis em Hyper-Bloom",
+      "teoria_do_clique": "O Engajamento é gerado pela autenticidade e humanidade das imagens, combinada com estéticas visuais impactantes que param o scroll"
     },
-    "prompt_padrao_atualizado": "Crie uma cena fotográfica com um tema humano autêntico, incorporando elementos de Neon-Noir ou Hyper-Bloom, com uma composição que quebra as regras de layout tradicionais e inclui tipografia gigante para destacar a mensagem",
+    "prompt_padrao_atualizado": "Crie uma cena urbana noturna com pessoa real, iluminada por neon, em um ambiente sombrio e contrastado, com texto gigante sobreposto",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,13 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-12T15:47:56.648Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
-      ]
-    },
     {
       "data": "2026-08-12T16:44:25.834Z",
       "licao": [
@@ -99,6 +91,14 @@
         "Foco em estilos que rejeitam o 'AI Slop' e destacam a autenticidade",
         "Incorporação de contrastes agressivos e estéticas oníricas",
         "Uso de tipografia gigante para melhor legibilidade em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-08-13T03:25:54.242Z",
+      "licao": [
+        "Adaptação às tendências de 2026",
+        "Foco em Hyper-Human e estética cruas",
+        "Implementação de Design Deconstrutivista e Tipografia Gigante"
       ]
     }
   ]
