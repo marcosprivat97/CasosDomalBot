@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-13T05:26:08.192Z",
+  "ultima_atualizacao": "2026-08-13T07:08:51.599Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Incorporação do estilo Hyper-Human e Neon-Noir para atrair a atenção do usuário",
-      "Uso de Design Deconstrutivista para quebrar as regras de layout e parar o scroll",
-      "Implementação de Tipografia Gigante para facilitar a leitura rápida no mobile"
+      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Incorporação de elementos visuais que 'param o scroll'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Human, destacando imperfeições e texturas reais",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre preto e neon, com elementos que quebram a simetria",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um ambiente onírico",
-      "teoria_do_clique": "O contraste agressivo e a quebra de regras de layout criam curiosidade e atraem a atenção do usuário, enquanto a estética onírica evoca emoções e memórias"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadrar a cena de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes humanos reais",
+      "paleta_cores": "Preto profundo com neon vibrante para criar contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens cruas e autênticas, combinado com contraste agressivo, gera curiosidade e paralisa o scroll, aumentando a probabilidade de cliques"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um toque de Hyper-Human, destacando imperfeições e texturas reais, com elementos que quebram a simetria e criam contraste agressivo entre preto e neon",
+    "prompt_padrao_atualizado": "Crie uma cena neon-noir com um foco em detalhes humanos reais, incorporando textos gigantes em fontes desconstrutivistas para maximizar o engajamento",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-12T17:48:52.884Z",
-      "licao": [
-        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-        "Inclusão de Tipografia Gigante para melhor leitura móvel",
-        "Foco em estética crua e imperfeita para rejeitar o 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-08-12T18:44:53.454Z",
       "licao": [
@@ -101,6 +92,14 @@
         "Incorporação do estilo Hyper-Human e Neon-Noir para atrair a atenção do usuário",
         "Uso de Design Deconstrutivista para quebrar as regras de layout e parar o scroll",
         "Implementação de Tipografia Gigante para facilitar a leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-08-13T07:08:51.599Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Incorporação de elementos visuais que 'param o scroll'"
       ]
     }
   ]
