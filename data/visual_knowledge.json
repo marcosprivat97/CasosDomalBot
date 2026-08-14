@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-08-14T10:46:41.187Z",
+  "ultima_atualizacao": "2026-08-14T11:35:29.720Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências atuais de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Foco em melhorar o engajamento com base na performance atual da página"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento e alcance da página"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Realismo Sujo com toques de Neon-Noir",
-      "foco_composicao": "Enquadre sujeitos ou objetos de forma desalinhada, quebrando a simetria tradicional para criar um layout deconstrutivista",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, ou estéticas oníricas com cores pastéis intensas",
-      "teoria_do_clique": "O uso de imagens reais, cruas e com imperfeições humanas, aliado a contrastes visuais fortes, paralisará o scroll e aumentará a curiosidade do usuário"
+      "estilo_imagem": "Hyper-Human com elementos de Neon-Noir, enfatizando a autenticidade e a crueza",
+      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo, com elementos humanos imperfeitos no centro",
+      "paleta_cores": "Preto profundo com neon vibrante, ou estética onírica com cores pastéis intensas",
+      "teoria_do_clique": "O contraste agressivo e a autenticidade humanizada capturam a atenção, enquanto a tipografia gigante facilita a leitura rápida e aumenta o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena urbana noturna com personagens humanos reais, incorporando elementos de neon e uma paleta de cores que misture o sombrio com o vibrante, com textos gigantes destacando uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem de um momento humano autêntico, com contraste agressivo entre preto e neon, e textos gigantes destacando a emoção do momento",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,16 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-13T21:33:14.696Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar a performance da página",
-        "Incorporação do estilo Hyper-Human para fotos mais autênticas",
-        "Uso de contraste agressivo e estéticas oníricas para chamar a atenção",
-        "Aplicação do Design Deconstrutivista para quebrar regras de layout e parar o scroll",
-        "Inclusão de Tipografia Gigante para facilitar a leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-08-13T22:29:11.517Z",
       "licao": [
@@ -102,6 +92,13 @@
       "licao": [
         "Adaptação às tendências atuais de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Foco em melhorar o engajamento com base na performance atual da página"
+      ]
+    },
+    {
+      "data": "2026-08-14T11:35:29.720Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento e alcance da página"
       ]
     }
   ]
