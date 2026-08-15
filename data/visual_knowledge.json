@@ -1,18 +1,18 @@
 {
-  "ultima_atualizacao": "2026-08-15T07:20:44.794Z",
+  "ultima_atualizacao": "2026-08-15T08:13:53.566Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhor performance em redes sociais com baixo engajamento"
+      "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom, buscando contrastes agressivos e estéticas oníricas",
-      "foco_composicao": "Quebrar regras de layout, utilizando elementos fora do centro e explorando espaços negativos para parar o scroll",
-      "paleta_cores": "Preto profundo com neon vibrante, promovendo contraste visual impactante",
-      "teoria_do_clique": "O uso de contrastes agressivos e layouts deconstrutivistas atrai a atenção, enquanto a tipografia gigante facilita a leitura rápida e aumenta a probabilidade de engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
+      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras tradicionais de layout, utilizando elementos que criem contraste e surpresa",
+      "paleta_cores": "Preto profundo com neon vibrante, promovendo contraste agressivo e estética onírica",
+      "teoria_do_clique": "O uso de imagens cruas e reais, combinado com elementos de surpresa e contraste, paralisará o scroll e estimulará a curiosidade do usuário"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos Hyper-Bloom, utilizando uma paleta de preto profundo e neon vibrante, com uma composição que quebre as regras de layout tradicionais e inclua textos gigantes para leitura rápida",
+    "prompt_padrao_atualizado": "Crie uma imagem em Hyper-Human com toques de Neon-Noir, quebrando as regras de layout tradicionais e destacando elementos com Tipografia Gigante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-14T21:14:09.701Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de elementos de design deconstrutivista para parar o scroll",
-        "Uso de tipografia gigante para leitura rápida no mobile",
-        "Foco em estética Hyper-Human para rejeitar o 'AI Slop'"
-      ]
-    },
     {
       "data": "2026-08-14T22:10:48.446Z",
       "licao": [
@@ -103,6 +94,13 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhor performance em redes sociais com baixo engajamento"
+      ]
+    },
+    {
+      "data": "2026-08-15T08:13:53.566Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis"
       ]
     }
   ]
