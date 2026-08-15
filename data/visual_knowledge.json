@@ -1,18 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-14T23:10:51.960Z",
+  "ultima_atualizacao": "2026-08-15T00:34:23.244Z",
   "licao_atual": {
-    "versao_logica": "1.4",
+    "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
-      "Inclusão de elementos de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
+      "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
+      "Foco em performance de engajamento com base em rejeição ao 'AI Slop'"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos de Hyper-Bloom, misturando contraste agressivo com estética onírica",
-      "foco_composicao": "Enquadre a imagem de forma a quebrar as regras de layout tradicionais, utilizando diagonais e elementos fora do centro para parar o scroll",
-      "paleta_cores": "Preto profundo com neon vibrante e alguns toques de cores pastéis para criar um contraste visual atraente",
-      "teoria_do_clique": "A combinação de elementos humanos, com imperfeições, e a estética de contraste agressivo, junto com a tipografia gigante, visa criar uma experiência visual impactante que chama a atenção e estimula o engajamento"
+      "estilo_imagem": "Hyper-Human com toques de Neon-Noir para contraste agressivo",
+      "foco_composicao": "Enquadre sujeitos em ambientes reais, com foco em expressões humanas e imperfeições",
+      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis para criar contraste",
+      "teoria_do_clique": "O contraste agressivo e a autenticidade das imagens reais capturam a atenção do usuário, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com personagens reais, iluminados por neons, com elementos de Hyper-Bloom e uma tipografia gigante que domine a composição, utilizando uma paleta de cores que combine preto profundo, neon vibrante e toques de pastéis",
+    "prompt_padrao_atualizado": "Crie uma imagem de um momento cotidiano, com pessoas reais em ambientes urbanos, incorporando neon e contraste agressivo, utilizando tipografia gigante para destacar uma frase inspiradora",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,16 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-14T14:07:14.752Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais mais cruos e humanos",
-        "Uso de contraste agressivo e estéticas oníricas",
-        "Quebra de regras de layout para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida"
-      ]
-    },
     {
       "data": "2026-08-14T15:40:07.119Z",
       "licao": [
@@ -103,6 +94,14 @@
       "licao": [
         "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
         "Inclusão de elementos de Tipografia Gigante para melhor legibilidade em dispositivos móveis"
+      ]
+    },
+    {
+      "data": "2026-08-15T00:34:23.244Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human, Neon-Noir & Hyper-Bloom e Design Deconstrutivista",
+        "Inclusão de Tipografia Gigante para melhor leitura em dispositivos móveis",
+        "Foco em performance de engajamento com base em rejeição ao 'AI Slop'"
       ]
     }
   ]
