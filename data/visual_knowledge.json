@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-08-15T04:18:41.070Z",
+  "ultima_atualizacao": "2026-08-15T05:14:40.075Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
       "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de elementos visuais para parar o scroll",
-      "Foco em estética humana e autêntica"
+      "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+      "Incorporação de contrates agressivos e estéticas oníricas",
+      "Uso de tipografia gigante para melhor legibilidade"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, utilizando elementos naturais e imperfeições",
-      "paleta_cores": "Preto profundo com neon pulsante e cores pastéis suaves para criar um contraste visual atraente",
-      "teoria_do_clique": "A combinação de elementos humanos reais com um toque de futurismo neon e layout deconstrutivista gera curiosidade e faz o usuário parar para ver"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas, destacando imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de maneira a destacar o tema principal, utilizando regras de composição não tradicionais para chamar a atenção",
+      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrates agressivos entre preto e neon, ou estéticas oníricas vibrantes",
+      "teoria_do_clique": "O uso de imagens autênticas e estilos visuais ousados pode parar o scroll e estimular o engajamento, pois contrasta com o conteúdo homogeneizado e artificial"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com pessoas reais em primeiro plano, iluminadas por neon agressivo, sobre um fundo escuro e com elementos de design deconstrutivista",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com uma paleta de cores Neon-Noir, e um tema principal enquadrado de maneira a quebrar as regras tradicionais de composição, utilizando tipografia gigante para destacar a mensagem",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-14T18:38:39.294Z",
-      "licao": [
-        "Adaptação às tendências de 2026",
-        "Foco em estética Hyper-Human para melhorar engajamento",
-        "Incorporação de elementos de Design Deconstrutivista e Tipografia Gigante"
-      ]
-    },
     {
       "data": "2026-08-14T19:40:33.561Z",
       "licao": [
@@ -103,6 +96,15 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de elementos visuais para parar o scroll",
         "Foco em estética humana e autêntica"
+      ]
+    },
+    {
+      "data": "2026-08-15T05:14:40.075Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos que rejeitam o 'AI Slop' e valorizam a autenticidade",
+        "Incorporação de contrates agressivos e estéticas oníricas",
+        "Uso de tipografia gigante para melhor legibilidade"
       ]
     }
   ]
