@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-15T03:28:56.707Z",
+  "ultima_atualizacao": "2026-08-15T04:18:41.070Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação para tendências de 2026",
-      "Foco em Hyper-Human e estética crua",
-      "Incorporação de Neon-Noir e Hyper-Bloom",
-      "Uso de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de elementos visuais para parar o scroll",
+      "Foco em estética humana e autêntica"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre sujeitos de forma não convencional, destacando imperfeições e texturas",
-      "paleta_cores": "Preto profundo com neon vibrante e tons pastéis para Hyper-Bloom",
-      "teoria_do_clique": "A combinação de elementos humanos reais com estética onírica e contrastes agressivos atrai a atenção e estimula o engajamento"
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e sombra, utilizando elementos naturais e imperfeições",
+      "paleta_cores": "Preto profundo com neon pulsante e cores pastéis suaves para criar um contraste visual atraente",
+      "teoria_do_clique": "A combinação de elementos humanos reais com um toque de futurismo neon e layout deconstrutivista gera curiosidade e faz o usuário parar para ver"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com um sujeito humano real, iluminado por neon, com texturas e imperfeições visíveis, sobre um fundo preto profundo com elementos de Hyper-Bloom",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com pessoas reais em primeiro plano, iluminadas por neon agressivo, sobre um fundo escuro e com elementos de design deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-14T17:42:41.164Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a imperfeição humana",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
-      ]
-    },
     {
       "data": "2026-08-14T18:38:39.294Z",
       "licao": [
@@ -104,6 +95,14 @@
         "Foco em Hyper-Human e estética crua",
         "Incorporação de Neon-Noir e Hyper-Bloom",
         "Uso de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-08-15T04:18:41.070Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de elementos visuais para parar o scroll",
+        "Foco em estética humana e autêntica"
       ]
     }
   ]
