@@ -1,19 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-15T22:08:49.577Z",
+  "ultima_atualizacao": "2026-08-15T23:10:12.592Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir",
-      "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
+      "Incorporação de elementos de design que promovam a interação do usuário"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom",
-      "foco_composicao": "Enquadre a imagem de forma a criar contraste agressivo entre luz e sombra, com foco em detalhes que revelam a humanidade do sujeito",
-      "paleta_cores": "Preto profundo, neon vibrante e tons pastéis suaves para criar um contraste visual chocante",
-      "teoria_do_clique": "O contraste agressivo e a estética onírica capturam a atenção do usuário, enquanto a representação humana imperfeita gera empatia e engajamento"
+      "estilo_imagem": "Hyper-Human, com fotos reais e cruas que destacam imperfeições humanas",
+      "foco_composicao": "Enquadramento próximo e pessoal, capturando momentos autênticos e emocionais",
+      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contrastes agressivos e cores vibrantes para chamar a atenção",
+      "teoria_do_clique": "O uso de imagens autênticas e composições inovadoras gera engajamento por criar uma conexão emocional com o usuário e promover a curiosidade"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com um sujeito humano real, incorporando elementos de Hyper-Bloom e Design Deconstrutivista, com uma tipografia gigante que domine a composição",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com um primeiro plano de uma pessoa em um ambiente urbano noturno, utilizando uma paleta de cores Neon-Noir e incorporando elementos de Design Deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-15T13:21:36.865Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Incorporação de elementos visuais para parar o scroll",
-        "Uso de estética mais crua e humana para conectar com o público"
-      ]
-    },
     {
       "data": "2026-08-15T14:11:09.345Z",
       "licao": [
@@ -98,6 +90,14 @@
         "Adaptação às tendências de 2026",
         "Foco em estética Hyper-Human e Neon-Noir",
         "Incorporação de Design Deconstrutivista e Tipografia Gigante"
+      ]
+    },
+    {
+      "data": "2026-08-15T23:10:12.592Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
+        "Incorporação de elementos de design que promovam a interação do usuário"
       ]
     }
   ]
