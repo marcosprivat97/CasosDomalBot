@@ -1,20 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-16T20:08:51.669Z",
+  "ultima_atualizacao": "2026-08-16T21:09:17.569Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Foco em estética Hyper-Human e Neon-Noir para atrair atenção",
-      "Incorporação de Design Deconstrutivista para parar o scroll",
-      "Uso de Tipografia Gigante para facilitar a leitura no mobile"
+      "Adaptação às tendências de Hyper-Human e Neon-Noir",
+      "Incorporação de Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para engajamento em dispositivos móveis"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom para criar uma estética onírica e atraente",
-      "foco_composicao": "Enquadramento desestruturado, quebrando regras de layout tradicionais para chamar a atenção",
-      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para suavizar a estética",
-      "teoria_do_clique": "O uso de cores neon e a quebra de regras de layout criam curiosidade e encorajam o usuário a parar o scroll e interagir com a publicação"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Human",
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre preto e neon, com elementos humanos reais e imperfeitos no centro",
+      "paleta_cores": "Preto profundo, neon verde, rosa e azul, com tons pastéis para criar um contraste suave",
+      "teoria_do_clique": "O contraste agressivo e a presença de elementos humanos reais capturam a atenção do usuário, enquanto a tipografia gigante facilita a leitura rápida e o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos Hyper-Bloom, incorporando textos gigantes e composição desestruturada para capturar a atenção do usuário",
+    "prompt_padrao_atualizado": "Crie uma cena noturna urbana com pessoas reais e imperfeições, iluminada por neon verde e rosa, com uma tipografia gigante no centro, utilizando um estilo Neon-Noir e elementos de Design Deconstrutivista",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -22,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-16T11:10:01.178Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
-        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a estética humana",
-        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
-        "Implementação de design deconstrutivista e tipografia gigante para melhor leitura no mobile"
-      ]
-    },
     {
       "data": "2026-08-16T12:15:33.385Z",
       "licao": [
@@ -107,6 +97,14 @@
         "Foco em estética Hyper-Human e Neon-Noir para atrair atenção",
         "Incorporação de Design Deconstrutivista para parar o scroll",
         "Uso de Tipografia Gigante para facilitar a leitura no mobile"
+      ]
+    },
+    {
+      "data": "2026-08-16T21:09:17.569Z",
+      "licao": [
+        "Adaptação às tendências de Hyper-Human e Neon-Noir",
+        "Incorporação de Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para engajamento em dispositivos móveis"
       ]
     }
   ]
