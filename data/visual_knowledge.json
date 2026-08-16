@@ -1,18 +1,20 @@
 {
-  "ultima_atualizacao": "2026-08-16T10:11:42.381Z",
+  "ultima_atualizacao": "2026-08-16T11:10:01.178Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Inclusão de tendências Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-      "Otimização para melhorar o engajamento médio e alcance total"
+      "Adaptação às tendências de 2026 para melhorar o desempenho da página",
+      "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a estética humana",
+      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
+      "Implementação de design deconstrutivista e tipografia gigante para melhor leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e escuridão, com foco em elementos humanos imperfeitos",
-      "paleta_cores": "Preto profundo e neon vibrante, com possíveis toques de cores pastéis para criar um contraste onírico",
-      "teoria_do_clique": "A combinação de humanismo cru com contrastes agressivos e estética onírica atrai a atenção e gera curiosidade, aumentando o engajamento"
+      "estilo_imagem": "Hyper-Human, com foco em fotos reais, cruas e com imperfeições humanas",
+      "foco_composicao": "Enquadre a foto de maneira a criar um contraste agressivo entre preto e neon, ou use uma estética onírica com Hyper-Bloom",
+      "paleta_cores": "Preto profundo, neon vibrante e cores pastéis suaves para criar um contraste visual impactante",
+      "teoria_do_clique": "O uso de imagens cruas e humanas, combinado com contrastes agressivos e estéticas oníricas, gera engajamento porque atrai a atenção do usuário e cria uma conexão emocional"
     },
-    "prompt_padrao_atualizado": "Crie uma cena noturna com uma pessoa real, iluminada por neon, em um ambiente sombrio e imperfeito, com textos gigantes destacando uma mensagem impactante",
+    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human, com um contraste agressivo entre preto e neon, e uma tipografia gigante que domine a composição",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -20,15 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-16T00:35:47.446Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Inclusão de estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Uso de contraste agressivo e estéticas oníricas para parar o scroll",
-        "Implementação de tipografia gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-08-16T02:14:03.405Z",
       "licao": [
@@ -100,6 +93,15 @@
       "licao": [
         "Inclusão de tendências Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
         "Otimização para melhorar o engajamento médio e alcance total"
+      ]
+    },
+    {
+      "data": "2026-08-16T11:10:01.178Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o desempenho da página",
+        "Incorporação de estilos visuais que rejeitam o 'AI Slop' e destacam a estética humana",
+        "Uso de contrastes agressivos e estéticas oníricas para parar o scroll",
+        "Implementação de design deconstrutivista e tipografia gigante para melhor leitura no mobile"
       ]
     }
   ]
