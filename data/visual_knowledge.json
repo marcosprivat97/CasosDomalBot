@@ -1,19 +1,18 @@
 {
-  "ultima_atualizacao": "2026-08-16T09:16:09.595Z",
+  "ultima_atualizacao": "2026-08-16T10:11:42.381Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar o engajamento",
-      "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
-      "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      "Inclusão de tendências Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+      "Otimização para melhorar o engajamento médio e alcance total"
     ],
     "novas_diretrizes": {
       "estilo_imagem": "Hyper-Human com toques de Neon-Noir",
-      "foco_composicao": "Enquadre a imagem de forma a criar uma sensação de movimento ou ação, utilizando o terço inferior da tela para direcionar o olhar do espectador",
-      "paleta_cores": "Preto profundo com neon verde ou azul, contrastando com tons pastéis para criar uma atmosfera onírica",
-      "teoria_do_clique": "O uso de imagens cruas e autênticas, combinado com contrastes agressivos, gera curiosidade e atrai a atenção do usuário, aumentando as chances de engajamento"
+      "foco_composicao": "Enquadre a cena de forma a criar contraste agressivo entre luz e escuridão, com foco em elementos humanos imperfeitos",
+      "paleta_cores": "Preto profundo e neon vibrante, com possíveis toques de cores pastéis para criar um contraste onírico",
+      "teoria_do_clique": "A combinação de humanismo cru com contrastes agressivos e estética onírica atrai a atenção e gera curiosidade, aumentando o engajamento"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em estilo Hyper-Human com toques de Neon-Noir, utilizando uma paleta de cores que inclua preto profundo, neon verde e tons pastéis, com um foco em composição que direcione o olhar do espectador para o terço inferior da tela",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com uma pessoa real, iluminada por neon, em um ambiente sombrio e imperfeito, com textos gigantes destacando uma mensagem impactante",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,14 +20,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-15T23:10:12.592Z",
-      "licao": [
-        "Adaptação às tendências de 2026 para melhorar o engajamento",
-        "Foco em estilos visuais que rejeitam o 'AI Slop' e destacam a autenticidade",
-        "Incorporação de elementos de design que promovam a interação do usuário"
-      ]
-    },
     {
       "data": "2026-08-16T00:35:47.446Z",
       "licao": [
@@ -102,6 +93,13 @@
         "Adaptação às tendências de 2026 para melhorar o engajamento",
         "Inclusão de estilos visuais que rejeitam o 'AI Slop' e promovem a autenticidade",
         "Uso de contrastes agressivos e estéticas oníricas para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-08-16T10:11:42.381Z",
+      "licao": [
+        "Inclusão de tendências Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
+        "Otimização para melhorar o engajamento médio e alcance total"
       ]
     }
   ]
