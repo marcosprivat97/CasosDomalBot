@@ -1,19 +1,20 @@
 {
-  "ultima_atualizacao": "2026-08-16T19:12:19.345Z",
+  "ultima_atualizacao": "2026-08-16T20:08:51.669Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências globais de 2026",
-      "Foco em estética Hyper-Human e Neon-Noir para aumento do engajamento",
-      "Introdução do Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Foco em estética Hyper-Human e Neon-Noir para atrair atenção",
+      "Incorporação de Design Deconstrutivista para parar o scroll",
+      "Uso de Tipografia Gigante para facilitar a leitura no mobile"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Neon-Noir com elementos Hyper-Human, destacando imperfeições e texturas naturais",
-      "foco_composicao": "Enquadre a foto com foco em elementos centrais, mas com elementos desfocados ou sobrepostos para criar contraste e interesse",
-      "paleta_cores": "Predominância de cores escuras e neons, com contrastes agressivos para chamar a atenção",
-      "teoria_do_clique": "O uso de estética Neon-Noir e elementos Hyper-Human gera curiosidade e engajamento, pois oferece uma visão única e humana em um mundo cada vez mais dominado por imagens perfeitas e artificialmente produzidas"
+      "estilo_imagem": "Neon-Noir com toques de Hyper-Bloom para criar uma estética onírica e atraente",
+      "foco_composicao": "Enquadramento desestruturado, quebrando regras de layout tradicionais para chamar a atenção",
+      "paleta_cores": "Contrastes agressivos entre preto e neon, com toques de cores pastéis para suavizar a estética",
+      "teoria_do_clique": "O uso de cores neon e a quebra de regras de layout criam curiosidade e encorajam o usuário a parar o scroll e interagir com a publicação"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com uma pessoa real, destacando imperfeições e texturas naturais, com um fundo escuro e neons iluminando partes do corpo ou objeto central",
+    "prompt_padrao_atualizado": "Crie uma imagem em Neon-Noir com elementos Hyper-Bloom, incorporando textos gigantes e composição desestruturada para capturar a atenção do usuário",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -21,13 +22,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-16T10:11:42.381Z",
-      "licao": [
-        "Inclusão de tendências Hyper-Human, Neon-Noir & Hyper-Bloom, Design Deconstrutivista e Tipografia Gigante",
-        "Otimização para melhorar o engajamento médio e alcance total"
-      ]
-    },
     {
       "data": "2026-08-16T11:10:01.178Z",
       "licao": [
@@ -104,6 +98,15 @@
         "Adaptação às tendências globais de 2026",
         "Foco em estética Hyper-Human e Neon-Noir para aumento do engajamento",
         "Introdução do Design Deconstrutivista e Tipografia Gigante para parar o scroll"
+      ]
+    },
+    {
+      "data": "2026-08-16T20:08:51.669Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Foco em estética Hyper-Human e Neon-Noir para atrair atenção",
+        "Incorporação de Design Deconstrutivista para parar o scroll",
+        "Uso de Tipografia Gigante para facilitar a leitura no mobile"
       ]
     }
   ]
