@@ -1,21 +1,19 @@
 {
-  "ultima_atualizacao": "2026-08-17T02:12:18.516Z",
+  "ultima_atualizacao": "2026-08-17T03:39:04.763Z",
   "licao_atual": {
     "versao_logica": "1.1",
     "mudancas_aplicadas": [
-      "Adaptação às tendências de 2026 para melhorar a performance da página",
-      "Incorporação do estilo Hyper-Human para atrair mais engajamento",
-      "Uso de contraste agressivo e estética onírica para parar o scroll",
-      "Implementação de design deconstrutivista para quebrar regras de layout",
-      "Uso de tipografia gigante para facilitar a leitura rápida no mobile"
+      "Adaptação às tendências de 2026 para melhorar o engajamento",
+      "Inclusão de elementos visuais que seguem o estilo Hyper-Human",
+      "Uso de contraste agressivo para chamar a atenção do usuário"
     ],
     "novas_diretrizes": {
-      "estilo_imagem": "Hyper-Human, com foco em fotos reais e cruas, destacando imperfeições humanas",
-      "foco_composicao": "Enquadre a foto de forma a destacar a autenticidade e a humanidade do assunto, com atenção a detalhes que contam histórias",
-      "paleta_cores": "Neon-Noir ou Hyper-Bloom, com contraste agressivo entre preto e neon, ou estética onírica para criar um clima único",
-      "teoria_do_clique": "O uso de imagens autênticas e com contraste agressivo gera engajamento porque cria uma conexão emocional imediata com o público, além de parar o scroll devido à sua natureza impactante e memorável"
+      "estilo_imagem": "Neon-Noir com elementos Hyper-Bloom para criar um contraste visual impactante",
+      "foco_composicao": "Enquadre a cena de forma a criar uma sensação de movimento ou ação, com foco em detalhes humanos reais e imperfeições",
+      "paleta_cores": "Preto profundo e neon, com toques de cores pastéis para dar um toque onírico",
+      "teoria_do_clique": "O uso de contraste agressivo e a inclusão de elementos humanos reais geram curiosidade e convidam o usuário a interagir com a postagem"
     },
-    "prompt_padrao_atualizado": "Crie uma imagem que capture a essência do Hyper-Human, com um sujeito real e autêntico, utilizando um contraste agressivo entre preto e neon, e uma composição que quebre as regras de layout tradicionais",
+    "prompt_padrao_atualizado": "Crie uma cena noturna com personagens reais em movimento, utilizando luzes neon para realçar a ação e criar um ambiente onírico, com textos gigantes destacando a emoção do momento",
     "config_layout": {
       "font_size_mult": 1.5,
       "gradient_intensity": 0.9,
@@ -23,15 +21,6 @@
     }
   },
   "historico_licoes": [
-    {
-      "data": "2026-08-16T16:10:51.508Z",
-      "licao": [
-        "Adaptação às tendências globais de 2026",
-        "Foco em Hyper-Human e Neon-Noir para melhorar o engajamento",
-        "Introdução do Design Deconstrutivista para parar o scroll",
-        "Uso de Tipografia Gigante para leitura rápida no mobile"
-      ]
-    },
     {
       "data": "2026-08-16T17:10:17.708Z",
       "licao": [
@@ -107,6 +96,14 @@
         "Uso de contraste agressivo e estética onírica para parar o scroll",
         "Implementação de design deconstrutivista para quebrar regras de layout",
         "Uso de tipografia gigante para facilitar a leitura rápida no mobile"
+      ]
+    },
+    {
+      "data": "2026-08-17T03:39:04.763Z",
+      "licao": [
+        "Adaptação às tendências de 2026 para melhorar o engajamento",
+        "Inclusão de elementos visuais que seguem o estilo Hyper-Human",
+        "Uso de contraste agressivo para chamar a atenção do usuário"
       ]
     }
   ]
